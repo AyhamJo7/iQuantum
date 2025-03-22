@@ -25,9 +25,11 @@ from scripts.update_awesome_lists import (
     AWESOME_REPOS
 )
 
+# Ensure logs directory exists
+os.makedirs('logs', exist_ok=True)
+
 # Configure logging
 logging.basicConfig(
-    filename='logs/main.log',
     level=logging.INFO,
     format='%(asctime)s %(levelname)s: %(message)s',
     handlers=[

@@ -8,6 +8,9 @@ from pathlib import Path
 import time
 from datetime import datetime
 
+# Ensure logs directory exists
+os.makedirs('logs', exist_ok=True)
+
 # Configure logging
 logging.basicConfig(
     filename='logs/update_awesome_lists.log',

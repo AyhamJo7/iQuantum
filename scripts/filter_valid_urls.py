@@ -6,6 +6,9 @@ import argparse
 from urllib.parse import urlparse
 from pathlib import Path
 
+# Ensure logs directory exists
+os.makedirs('logs', exist_ok=True)
+
 # Configure logging
 logging.basicConfig(
     filename='logs/url_filtering.log',

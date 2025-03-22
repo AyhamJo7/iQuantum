@@ -9,6 +9,9 @@ from urllib.parse import urlparse
 import markdown   # type: ignore
 from bs4 import BeautifulSoup  # type: ignore # Requires: pip install beautifulsoup4
 
+# Ensure logs directory exists
+os.makedirs('logs', exist_ok=True)
+
 # Configure logging to record debug info to a log file.
 logging.basicConfig(
     filename='logs/extraction.log',
