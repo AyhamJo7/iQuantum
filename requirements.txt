@@ -1,0 +1,2 @@
+markdown>=3.4.1
+beautifulsoup4>=4.11.1
