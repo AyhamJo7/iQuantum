@@ -2,8 +2,6 @@
 
 A beautiful, searchable web interface that showcases curated resources from multiple GitHub awesome lists in one place. The data is automatically updated daily using GitHub Actions.
 
-![Ultimate Collection Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - **Beautiful UI**: Dark-themed interface with star animation and aurora effects
@@ -55,8 +53,8 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ultimate-collection.git
-cd ultimate-collection
+git clone https://github.com/AyhamJo7/iQuantum.git
+cd iQuantum
 
 # If you want to update the data
 python scripts/main.py
