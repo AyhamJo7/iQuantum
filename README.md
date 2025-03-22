@@ -2,8 +2,6 @@
 
 A beautiful, searchable web interface that showcases curated resources from multiple GitHub awesome lists in one place. The data is automatically updated daily using GitHub Actions.
 
-![Ultimate Collection Screenshot](screenshot.png)
-
 ## ✨ Features
 
 - **Beautiful UI**: Dark-themed interface with star animation and aurora effects
