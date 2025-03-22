@@ -55,8 +55,8 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ultimate-collection.git
-cd ultimate-collection
+git clone https://github.com/AyhamJo7/iQuantum.git
+cd iQuantum
 
 # If you want to update the data
 python scripts/main.py
