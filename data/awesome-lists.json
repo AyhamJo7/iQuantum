@@ -9834,6 +9834,12 @@
         "name": "Go Compilers",
         "resources": [
           {
+            "name": "bunster",
+            "url": "https://github.com/yassinebenaid/bunster",
+            "description": "Compile shell scripts to Go.",
+            "tags": []
+          },
+          {
             "name": "c4go",
             "url": "https://github.com/Konstantin8105/c4go",
             "description": "Transpile C code to Go code.",
@@ -57656,6 +57662,12 @@
             "tags": []
           },
           {
+            "name": "Tuneful",
+            "url": "https://www.tuneful.dev",
+            "description": "Control your Spotify and Apple Music from the notch, menu bar or mini player. Efortlessly and natively.",
+            "tags": []
+          },
+          {
             "name": "VLC",
             "url": "http://www.videolan.org/index.html",
             "description": "Free, open-source, cross-platform multimedia player and framework that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols.",
@@ -59165,6 +59177,12 @@
             "name": "Focalboard",
             "url": "https://www.focalboard.com/",
             "description": "Open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "tags": []
+          },
+          {
+            "name": "Focus Firewall",
+            "url": "https://focusfirewall.com",
+            "description": "A minimalist focus app to block social media and other distractions during work.",
             "tags": []
           },
           {
