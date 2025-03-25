@@ -75043,8 +75043,8 @@
         "name": "Finance",
         "resources": [
           {
-            "name": "e257-fi/tackler-ng",
-            "url": "https://github.com/e257-fi/tackler-ng",
+            "name": "tackler",
+            "url": "https://github.com/tackler-ng/tackler",
             "description": "[ tackler ] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting",
             "tags": []
           },
