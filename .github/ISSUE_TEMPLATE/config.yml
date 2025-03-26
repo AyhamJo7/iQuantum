@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: iQuantum Documentation
+    url: https://github.com/AyhamJo7/iQuantum/wiki
+    about: Check out the documentation before opening an issue
+  - name: iQuantum Community Discussions
+    url: https://github.com/AyhamJo7/iQuantum/discussions
+    about: Please ask and answer questions here
+  - name: iQuantum Security Bug Bounty
+    url: https://github.com/AyhamJo7/iQuantum/security/policy
+    about: Please report security vulnerabilities here
