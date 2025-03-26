@@ -35387,6 +35387,12 @@
             "tags": []
           },
           {
+            "name": "SLJIT",
+            "url": "https://github.com/zherczeg/sljit",
+            "description": "Platform independent low-level JIT compiler. [BSD] website",
+            "tags": []
+          },
+          {
             "name": "palacaze/sigslot",
             "url": "https://github.com/palacaze/sigslot",
             "description": "A simple, header only, C++14 signal-slots implementation [MIT]",
@@ -62939,12 +62945,6 @@
             "tags": []
           },
           {
-            "name": "Krayin",
-            "url": "https://krayincrm.com/",
-            "description": "Free and Opensource Laravel CRM Application. ( Demo , Source Code ) MIT PHP",
-            "tags": []
-          },
-          {
             "name": "LazyLibrarian",
             "url": "https://gitlab.com/LazyLibrarian/LazyLibrarian",
             "description": "\u26a0 - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. GPL-3.0 Python",
@@ -64824,6 +64824,47 @@
         ]
       },
       {
+        "name": "Customer Relationship Management (CRM)",
+        "resources": [
+          {
+            "name": "Corteza",
+            "url": "https://cortezaproject.org",
+            "description": "CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ( Demo , Source Code ) Apache-2.0 Go",
+            "tags": []
+          },
+          {
+            "name": "EspoCRM",
+            "url": "https://www.espocrm.com/",
+            "description": "CRM with a frontend designed as a single page application, and a REST API. ( Demo , Source Code ) AGPL-3.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Krayin",
+            "url": "https://krayincrm.com/",
+            "description": "CRM solution for SMEs and Enterprises for complete customer lifecycle management. ( Demo , Source Code ) MIT PHP",
+            "tags": []
+          },
+          {
+            "name": "Monica",
+            "url": "https://monicahq.com/",
+            "description": "Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "tags": []
+          },
+          {
+            "name": "SuiteCRM",
+            "url": "https://suitecrm.com",
+            "description": "The award-winning, enterprise-class open source CRM. ( Source Code ) AGPL-3.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Twenty",
+            "url": "https://twenty.com",
+            "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Database Management",
         "resources": [
           {
@@ -66125,12 +66166,6 @@
             "tags": []
           },
           {
-            "name": "Corteza",
-            "url": "https://cortezaproject.org",
-            "description": "CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ( Demo , Source Code ) Apache-2.0 Go",
-            "tags": []
-          },
-          {
             "name": "Cozy Cloud",
             "url": "https://cozy.io/",
             "description": "Personal cloud where you can manage and sync your contact, files and calendars, and manage your budget with an app store full of community contributions. ( Source Code ) GPL-3.0 Nodejs",
@@ -66161,12 +66196,6 @@
             "tags": []
           },
           {
-            "name": "EspoCRM",
-            "url": "https://www.espocrm.com/",
-            "description": "CRM with a frontend designed as a single page application, and a REST API. ( Demo , Source Code ) AGPL-3.0 PHP",
-            "tags": []
-          },
-          {
             "name": "Group Office",
             "url": "https://www.group-office.com",
             "description": "Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ( Source Code ) AGPL-3.0 PHP",
@@ -66185,12 +66214,6 @@
             "tags": []
           },
           {
-            "name": "SuiteCRM",
-            "url": "https://suitecrm.com",
-            "description": "The award-winning, enterprise-class open source CRM. ( Source Code ) AGPL-3.0 PHP",
-            "tags": []
-          },
-          {
             "name": "Tine",
             "url": "https://www.tine-groupware.de/",
             "description": "Software for digital collaboration in companies and organizations. From powerful groupware functionalities to clever add-ons, tine combines everything to make daily team collaboration easier. ( Source Code ) AGPL-3.0 Docker",
@@ -66200,12 +66223,6 @@
             "name": "Tracim",
             "url": "https://github.com/tracim/tracim",
             "description": "Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. AGPL-3.0/LGPL-3.0/MIT Python",
-            "tags": []
-          },
-          {
-            "name": "Twenty",
-            "url": "https://twenty.com",
-            "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -67317,12 +67334,6 @@
             "name": "Mere Medical",
             "url": "https://meremedical.co/",
             "description": "\u26a0 - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
-            "tags": []
-          },
-          {
-            "name": "Monica",
-            "url": "https://monicahq.com/",
-            "description": "Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ( Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -68624,7 +68635,7 @@
           {
             "name": "Dolibarr",
             "url": "https://www.dolibarr.org/",
-            "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ( Demo , Source Code ) GPL-3.0 PHP/deb",
+            "description": "Modern CRM software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). ( Demo , Source Code ) GPL-3.0 PHP/deb",
             "tags": []
           },
           {
