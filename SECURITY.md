@@ -2,8 +2,6 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.x   | :white_check_mark: |
@@ -14,7 +12,7 @@ Use this section to tell people about which versions of your project are current
 We take the security of iQuantum seriously. If you believe you've found a security vulnerability, please follow these steps:
 
 1. **Do not disclose the vulnerability publicly**
-2. **Email the details to [INSERT SECURITY EMAIL]**
+2. **Email the details to [saredai777@gmail.com]**
    - Provide a detailed description of the vulnerability
    - Include steps to reproduce the issue
    - Attach any proof-of-concept code if applicable
