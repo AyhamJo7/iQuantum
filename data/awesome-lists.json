@@ -19292,21 +19292,9 @@
         "name": "Go Tools",
         "resources": [
           {
-            "name": "colorgo",
-            "url": "https://github.com/songgao/colorgo",
-            "description": "Wrapper around go command for colorized go build output.",
-            "tags": []
-          },
-          {
             "name": "decouple",
             "url": "https://github.com/bobg/decouple",
             "description": "Find \u201coverspecified\u201d function parameters that could be generalized with interface types.",
-            "tags": []
-          },
-          {
-            "name": "depth",
-            "url": "https://github.com/KyleBanks/depth",
-            "description": "Visualize dependency trees of any package by analyzing imports.",
             "tags": []
           },
           {
@@ -19331,6 +19319,12 @@
             "name": "go-swagger",
             "url": "https://github.com/go-swagger/go-swagger",
             "description": "Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.",
+            "tags": []
+          },
+          {
+            "name": "go-template-playground",
+            "url": "https://bartventer.github.io/go-template-playground/",
+            "description": "An interactive environment to create and test Go templates.",
             "tags": []
           },
           {
