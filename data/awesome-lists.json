@@ -11356,6 +11356,12 @@
             "tags": []
           },
           {
+            "name": "sentry-go",
+            "url": "https://github.com/getsentry/sentry-go",
+            "description": "Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.",
+            "tags": []
+          },
+          {
             "name": "slf4g",
             "url": "https://github.com/echocat/slf4g",
             "description": "Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.",
