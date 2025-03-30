@@ -59324,6 +59324,12 @@
             "tags": []
           },
           {
+            "name": "Magic Switch",
+            "url": "https://magic-switch.com/",
+            "description": "Switch your Magic Keyboard, Magic Mouse and Magic Trackpad between multiple Macs with different Apple IDs.",
+            "tags": []
+          },
+          {
             "name": "nnScreenshots",
             "url": "https://www.nearnorthsoftware.com/software/screenshots.php",
             "description": "A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.",
@@ -63564,12 +63570,6 @@
             "tags": []
           },
           {
-            "name": "Soketi",
-            "url": "https://soketi.app/",
-            "description": "Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ( Source Code ) MIT Nodejs/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "Spectrum 2",
             "url": "https://spectrum.im/",
             "description": "Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ( Source Code ) GPL-3.0 C++",
@@ -63591,12 +63591,6 @@
             "name": "Tailchat",
             "url": "https://tailchat.msgbyte.com/",
             "description": "Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ( Demo , Source Code ) Apache-2.0 Docker/K8S/Nodejs",
-            "tags": []
-          },
-          {
-            "name": "TextBelt",
-            "url": "https://github.com/typpo/textbelt",
-            "description": "\u26a0 - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. MIT Javascript",
             "tags": []
           },
           {
@@ -68439,12 +68433,6 @@
             "tags": []
           },
           {
-            "name": "Open Event Server",
-            "url": "https://github.com/fossasia/open-event-server",
-            "description": "Enables organizers to manage events from concerts to conferences and meet-ups. GPL-3.0 Python/Docker",
-            "tags": []
-          },
-          {
             "name": "OpnForm",
             "url": "https://opnform.com",
             "description": "Beautiful open-source form builder. ( Demo , Source Code ) AGPL-3.0 PHP/Nodejs/Docker",
@@ -68511,7 +68499,7 @@
           },
           {
             "name": "txtdot",
-            "url": "https://txtdot.github.io/documentation/",
+            "url": "https://tempoworks.github.io/documentation",
             "description": "A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           }
@@ -74278,6 +74266,12 @@
             "name": "UpVPN",
             "url": "https://github.com/upvpn/upvpn-app",
             "description": "WireGuard VPN client for macOS, Linux, and Windows built on Tauri.",
+            "tags": []
+          },
+          {
+            "name": "vproxy",
+            "url": "https://github.com/0x676e67/vproxy",
+            "description": "A high-performance HTTP/HTTPS/SOCKS5 proxy server",
             "tags": []
           },
           {
