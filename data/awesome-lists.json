@@ -31839,6 +31839,12 @@
             "tags": []
           },
           {
+            "name": "NAppGUI",
+            "url": "https://github.com/frang75/nappgui_src",
+            "description": "SDK for building cross-platform desktop apps in ANSI-C. [MIT] website",
+            "tags": []
+          },
+          {
             "name": "nuklear",
             "url": "https://github.com/Immediate-Mode-UI/Nuklear",
             "description": "A single-header ANSI C gui library. [PublicDomain]",
@@ -67722,7 +67728,7 @@
           {
             "name": "WYGIWYH",
             "url": "https://github.com/eitchtee/WYGIWYH",
-            "description": "Simple and powerful finance tracker. AGPL-3.0 Docker/Django",
+            "description": "Simple and powerful finance tracker. ( Demo ) AGPL-3.0 Docker/Django",
             "tags": []
           },
           {
@@ -69872,7 +69878,7 @@
             "tags": []
           },
           {
-            "name": "Nginx",
+            "name": "NGINX",
             "url": "https://nginx.org/en/",
             "description": "HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ( Source Code ) BSD-2-Clause C/deb/Docker",
             "tags": []
@@ -75614,6 +75620,12 @@
             "name": "0xdea/haruspex",
             "url": "https://github.com/0xdea/haruspex",
             "description": "[ haruspex ] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler",
+            "tags": []
+          },
+          {
+            "name": "0xdea/oneiromancer",
+            "url": "https://github.com/0xdea/oneiromancer",
+            "description": "[ oneiromancer ] - Reverse engineering assistant that uses a locally running LLM to aid with source code analysis",
             "tags": []
           },
           {
