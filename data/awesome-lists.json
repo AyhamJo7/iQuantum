@@ -9513,8 +9513,8 @@
         "name": "Game Development",
         "resources": [
           {
-            "name": "Arche",
-            "url": "https://github.com/mlange-42/arche",
+            "name": "Ark",
+            "url": "https://github.com/mlange-42/ark",
             "description": "Archetype-based Entity Component System (ECS) for Go.",
             "tags": []
           },
@@ -17092,6 +17092,12 @@
             "name": "git-time-metric",
             "url": "https://github.com/git-time-metric/gtm",
             "description": "Simple, seamless, lightweight time tracking for Git.",
+            "tags": []
+          },
+          {
+            "name": "git-tools",
+            "url": "https://github.com/kazhuravlev/git-tools",
+            "description": "Tool to help manage git tags.",
             "tags": []
           },
           {
@@ -60015,12 +60021,6 @@
             "tags": []
           },
           {
-            "name": "Noti",
-            "url": "https://noti.center/",
-            "description": "Receive Android notifications on your Mac (with Pushbullet).",
-            "tags": []
-          },
-          {
             "name": "OmniDiskSweeper",
             "url": "https://www.omnigroup.com/more",
             "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.",
@@ -62710,12 +62710,6 @@
             "name": "Offen",
             "url": "https://www.offen.dev/",
             "description": "Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ( Demo , Source Code ) Apache-2.0 Go/Docker",
-            "tags": []
-          },
-          {
-            "name": "Open Web Analytics",
-            "url": "http://www.openwebanalytics.com/",
-            "description": "Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -74162,7 +74156,7 @@
           },
           {
             "name": "hickory-dns",
-            "url": "https://crates.io/crates/trust-dns",
+            "url": "https://crates.io/crates/hickory-dns",
             "description": "A DNS-server",
             "tags": []
           },
@@ -75522,6 +75516,12 @@
       {
         "name": "Productivity",
         "resources": [
+          {
+            "name": "0xdea/jiggy",
+            "url": "https://github.com/0xdea/jiggy",
+            "description": "[ jiggy ] - Minimalistic cross-platform mouse jiggler written in Rust",
+            "tags": []
+          },
           {
             "name": "aichat",
             "url": "https://github.com/sigoden/aichat",
