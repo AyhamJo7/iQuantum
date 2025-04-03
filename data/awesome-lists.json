@@ -31281,6 +31281,12 @@
             "tags": []
           },
           {
+            "name": "CrashCatch",
+            "url": "https://github.com/keithpotz/CrashCatch",
+            "description": "Single-header crash reporting for C++ that logs stack traces and creates .dmp and .txt crash dumps. [MIT] website",
+            "tags": []
+          },
+          {
             "name": "CTest",
             "url": "https://cmake.org/cmake/help/v2.8.8/ctest.html",
             "description": "The CMake test driver program. [BSD]",
@@ -79497,6 +79503,12 @@
             "tags": []
           },
           {
+            "name": "thegenius/taitan-orm",
+            "url": "https://github.com/thegenius/taitan-orm",
+            "description": "The State of Art ORM for Rust, Async & Compile Time Generation.",
+            "tags": []
+          },
+          {
             "name": "sfackler/r2d2",
             "url": "https://github.com/sfackler/r2d2",
             "description": "generic connection pool",
@@ -81533,6 +81545,12 @@
             "tags": []
           },
           {
+            "name": "0x676e67/rquest",
+            "url": "https://github.com/0x676e67/rquest",
+            "description": "An ergonomic Rust HTTP Client with TLS fingerprint.",
+            "tags": []
+          },
+          {
             "name": "alexcrichton/curl-rust",
             "url": "https://github.com/alexcrichton/curl-rust",
             "description": "libcurl bindings",
@@ -81578,12 +81596,6 @@
             "name": "plabayo/rama",
             "url": "https://github.com/plabayo/rama",
             "description": "A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation",
-            "tags": []
-          },
-          {
-            "name": "rquest",
-            "url": "https://github.com/0x676e67/rquest",
-            "description": "[ rquest ] - a fast Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint impersonation.",
             "tags": []
           },
           {
