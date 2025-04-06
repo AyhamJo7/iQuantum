@@ -67056,12 +67056,6 @@
             "tags": []
           },
           {
-            "name": "Streama",
-            "url": "https://github.com/streamaserver/streama",
-            "description": "Self hosted streaming media server. MIT Java",
-            "tags": []
-          },
-          {
             "name": "SyncTube",
             "url": "https://github.com/RblSb/SyncTube",
             "description": "Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. MIT Nodejs/Haxe",
@@ -69093,12 +69087,6 @@
             "name": "Eclipse Che",
             "url": "https://www.eclipse.org/che/",
             "description": "Open source workspace server and cloud IDE. ( Source Code ) EPL-1.0 Docker/Java",
-            "tags": []
-          },
-          {
-            "name": "Hakatime",
-            "url": "https://github.com/mujx/hakatime",
-            "description": "WakaTime server implementation with analytics dashboard. Unlicense Haskell",
             "tags": []
           },
           {
