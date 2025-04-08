@@ -64756,12 +64756,6 @@
             "tags": []
           },
           {
-            "name": "Rapido",
-            "url": "https://framagit.org/InfoLibre/rapido",
-            "description": "Create your website with Rapido. Edit, publish and share collaborative content. AGPL-3.0 Go",
-            "tags": []
-          },
-          {
             "name": "REDAXO",
             "url": "https://www.redaxo.org",
             "description": "Simple, flexible and useful content management system (documentation only available in German). ( Source Code ) MIT PHP/Docker",
@@ -65757,12 +65751,6 @@
             "tags": []
           },
           {
-            "name": "lufi",
-            "url": "https://framagit.org/fiat-tux/hat-softwares/lufi",
-            "description": "Let's Upload that FIle, client-side encrypted. ( Source Code ) AGPL-3.0 Perl",
-            "tags": []
-          },
-          {
             "name": "OnionShare",
             "url": "https://github.com/onionshare/onionshare",
             "description": "Securely and anonymously share a file of any size. GPL-2.0 Python/deb",
@@ -66509,12 +66497,6 @@
             "tags": []
           },
           {
-            "name": "Dalton Plan",
-            "url": "https://daltonplan.com",
-            "description": "Dalton Plan is a modern adoption of a free teaching method developed by Helen Parkhurst in the 20th century. ( Source Code ) AGPL-3.0 PHP",
-            "tags": []
-          },
-          {
             "name": "Digiscreen",
             "url": "https://ladigitale.dev/digiscreen/",
             "description": "Interactive whiteboard/wallpaper for the classroom, in person or remotely (documentation in French). ( Demo , Source Code ) AGPL-3.0 Nodejs/PHP",
@@ -67256,12 +67238,6 @@
             "name": "Fasten Health",
             "url": "https://github.com/fastenhealth/fasten-onprem/",
             "description": "\u26a0 - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
-            "tags": []
-          },
-          {
-            "name": "Flipt",
-            "url": "https://flipt.io",
-            "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ( Demo , Source Code ) GPL-3.0 Docker/K8S/Go",
             "tags": []
           },
           {
@@ -68118,8 +68094,8 @@
         "resources": [
           {
             "name": "Dashy",
-            "url": "https://github.com/lissy93/dashy",
-            "description": "Feature-rich homepage for your homelab, with easy YAML configuration. ( Demo ) MIT Nodejs/Docker",
+            "url": "https://dashy.to/",
+            "description": "Feature-rich homepage for your homelab, with easy YAML configuration. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -69052,6 +69028,12 @@
             "name": "Flagsmith",
             "url": "https://flagsmith.com",
             "description": "Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ( Source Code ) BSD-3-Clause Docker/K8S",
+            "tags": []
+          },
+          {
+            "name": "Flipt",
+            "url": "https://flipt.io",
+            "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ( Demo , Source Code ) GPL-3.0 Docker/K8S/Go",
             "tags": []
           },
           {
