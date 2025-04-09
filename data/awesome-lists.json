@@ -74434,6 +74434,12 @@
         "name": "Blockchain",
         "resources": [
           {
+            "name": "Anchor",
+            "url": "https://github.com/solana-foundation/anchor",
+            "description": "Anchor is the leading development framework for building secure Solana programs (smart contracts).",
+            "tags": []
+          },
+          {
             "name": "artemis",
             "url": "https://github.com/paradigmxyz/artemis",
             "description": "A simple, modular, and fast framework for writing MEV bots.",
@@ -81245,8 +81251,8 @@
             "tags": []
           },
           {
-            "name": "inboxsphere/persistent-scheduler",
-            "url": "https://github.com/inboxsphere/persistent-scheduler",
+            "name": "persistent-scheduler",
+            "url": "https://github.com/rustmailer/persistent-scheduler",
             "description": "[ persistent-scheduler ] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.",
             "tags": []
           }
