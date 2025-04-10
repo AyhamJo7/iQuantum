@@ -75582,6 +75582,12 @@
             "tags": []
           },
           {
+            "name": "kruserr/hygg",
+            "url": "https://github.com/kruserr/hygg",
+            "description": "[ hygg ] - A minimalistic cli document reader, supports PDF, ePub and more.",
+            "tags": []
+          },
+          {
             "name": "LLDAP",
             "url": "https://github.com/lldap/lldap",
             "description": "Simplified LDAP interface for authentication.",
