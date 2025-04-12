@@ -45440,12 +45440,6 @@
             "tags": []
           },
           {
-            "name": "Knp RAD Components",
-            "url": "https://rad.knplabs.com/",
-            "description": "A set of Rapid Application Development (RAD) components for Symfony.",
-            "tags": []
-          },
-          {
             "name": "LaravelS",
             "url": "https://github.com/hhxsv5/laravel-s",
             "description": "An out-of-the-box adapter between Laravel/Lumen and Swoole.",
@@ -45482,7 +45476,7 @@
           },
           {
             "name": "Drupal",
-            "url": "https://www.drupal.org",
+            "url": "https://new.drupal.org/home",
             "description": "An enterprise level CMS.",
             "tags": []
           },
@@ -45582,9 +45576,9 @@
             "tags": []
           },
           {
-            "name": "Symfony Components",
-            "url": "https://symfony.com/components",
-            "description": "The components that make Symfony.",
+            "name": "Symfony Packages",
+            "url": "https://symfony.com/packages",
+            "description": "Decoupled libraries for PHP applications.",
             "tags": []
           },
           {
@@ -45840,7 +45834,7 @@
           },
           {
             "name": "Embed",
-            "url": "https://github.com/oscarotero/Embed",
+            "url": "https://github.com/php-embed/Embed",
             "description": "An information extractor from any web service or page.",
             "tags": []
           },
@@ -45969,7 +45963,7 @@
           },
           {
             "name": "SwiftMailer",
-            "url": "https://swiftmailer.symfony.com",
+            "url": "https://swiftmailer.symfony.com/docs/introduction.html",
             "description": "A mailer solution.",
             "tags": []
           },
@@ -46080,7 +46074,7 @@
           },
           {
             "name": "Pimple",
-            "url": "https://pimple.symfony.com/",
+            "url": "https://github.com/silexphp/Pimple",
             "description": "A tiny dependency injection container.",
             "tags": []
           },
@@ -46317,14 +46311,8 @@
           },
           {
             "name": "SemaphoreCI",
-            "url": "https://semaphoreci.com",
+            "url": "https://semaphore.io/",
             "description": "A continuous integration platform for open-source and private projects.",
-            "tags": []
-          },
-          {
-            "name": "Shippable",
-            "url": "https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/",
-            "description": "A Docker based continuous integration platform for open source and private projects.",
             "tags": []
           },
           {
@@ -46600,7 +46588,7 @@
         "resources": [
           {
             "name": "CaptainHook",
-            "url": "https://github.com/captainhookphp/captainhook",
+            "url": "https://github.com/captainhook-git/captainhook",
             "description": "An easy-to-use and flexible Git hook library.",
             "tags": []
           },
@@ -46736,7 +46724,7 @@
           },
           {
             "name": "Finite",
-            "url": "https://yohan.giarel.li/Finite/",
+            "url": "https://github.com/yohang/Finite",
             "description": "A simple PHP finite state machine.",
             "tags": []
           },
@@ -47058,7 +47046,7 @@
         "resources": [
           {
             "name": "CalendR",
-            "url": "https://yohan.giarel.li/CalendR/",
+            "url": "https://github.com/yohang/CalendR",
             "description": "A calendar management library.",
             "tags": []
           },
@@ -47775,6 +47763,12 @@
             "tags": []
           },
           {
+            "name": "Url highlight",
+            "url": "https://github.com/vstelmakh/url-highlight",
+            "description": "A library for parsing URLs from text and converting them into clickable links.",
+            "tags": []
+          },
+          {
             "name": "URLify",
             "url": "https://github.com/jbroadway/urlify",
             "description": "A PHP port of Django's URLify.js.",
@@ -48251,7 +48245,7 @@
           },
           {
             "name": "LLPhant",
-            "url": "https://github.com/theodo-group/LLPhant",
+            "url": "https://github.com/LLPhant/LLPhant",
             "description": "A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.",
             "tags": []
           },
@@ -48444,7 +48438,7 @@
         "resources": [
           {
             "name": "Ansible",
-            "url": "https://www.ansible.com/",
+            "url": "https://www.redhat.com/en/ansible-collaborative",
             "description": "A radically simple orchestration framework.",
             "tags": []
           },
@@ -48474,7 +48468,7 @@
           },
           {
             "name": "Expose",
-            "url": "https://github.com/beyondcode/expose",
+            "url": "https://github.com/exposedev/expose",
             "description": "An open-source PHP tunneling service.",
             "tags": []
           },
@@ -48492,7 +48486,7 @@
           },
           {
             "name": "Laravel Herd",
-            "url": "https://herd.laravel.com/",
+            "url": "https://herd.laravel.com/windows",
             "description": "A one click PHP development environment for macOS and Windows.",
             "tags": []
           },
@@ -48597,7 +48591,7 @@
           },
           {
             "name": "Adminer",
-            "url": "https://www.adminer.org/",
+            "url": "https://www.adminer.org/en/",
             "description": "Database management in a single PHP file.",
             "tags": []
           },
@@ -48850,7 +48844,7 @@
           },
           {
             "name": "PHP[TEK]",
-            "url": "https://tek.phparch.com/",
+            "url": "https://phptek.io/",
             "description": "The longest-running web developer conference in the United States that has a focus on the PHP programming language.",
             "tags": []
           },
@@ -48935,12 +48929,6 @@
             "name": "The PHP Roundtable",
             "url": "https://phproundtable.com/",
             "description": "The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.",
-            "tags": []
-          },
-          {
-            "name": "Voices of the ElePHPant",
-            "url": "https://voicesoftheelephpant.com/",
-            "description": "Interviews with the people who make the PHP community special.",
             "tags": []
           }
         ]
