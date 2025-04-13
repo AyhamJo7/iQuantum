@@ -63444,12 +63444,6 @@
             "tags": []
           },
           {
-            "name": "conduwuit",
-            "url": "https://conduwuit.puppyirl.gay",
-            "description": "Well-maintained, featureful Matrix chat homeserver (fork of Conduit). ( Source Code ) Apache-2.0 Rust",
-            "tags": []
-          },
-          {
             "name": "Databag",
             "url": "https://github.com/balzack/databag",
             "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ( Demo ) Apache-2.0 Docker",
