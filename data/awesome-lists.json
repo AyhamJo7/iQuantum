@@ -62619,7 +62619,7 @@
           {
             "name": "Aptabase",
             "url": "https://aptabase.com/",
-            "description": "Open source, privacy first and simple analytics for mobile and desktop apps. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Privacy first and simple analytics for mobile and desktop apps. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -62786,7 +62786,7 @@
           {
             "name": "ArchiveBox",
             "url": "https://archivebox.io/",
-            "description": "Self-hosted wayback machine that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ( Source Code ) MIT Python/Docker",
+            "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ( Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -62798,7 +62798,7 @@
           {
             "name": "bitmagnet",
             "url": "https://bitmagnet.io",
-            "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ( Source Code ) MIT Go/Docker",
+            "description": "BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ( Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -62863,7 +62863,7 @@
           {
             "name": "Apache Airflow",
             "url": "https://airflow.apache.org/",
-            "description": "Airflow is a platform to programmatically author, schedule, and monitor workflows. ( Source Code ) Apache-2.0 Python/Docker",
+            "description": "Platform to programmatically author, schedule, and monitor workflows. ( Source Code ) Apache-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -62885,21 +62885,9 @@
             "tags": []
           },
           {
-            "name": "ChannelTube",
-            "url": "https://github.com/TheWicklowWolf/ChannelTube",
-            "description": "\u26a0 - Download video or audio from YouTube channels on a schedule via yt-dlp. AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "ChiefOnboarding",
             "url": "https://chiefonboarding.com",
             "description": "Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Dagu",
-            "url": "https://dagu.readthedocs.io/",
-            "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -62930,12 +62918,6 @@
             "name": "HandBrake Web",
             "url": "https://github.com/TheNickOfTime/handbrake-web",
             "description": "Platform to use one or more instances of HandBrake video transcoder on a headless device via a web interface. AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Headphones",
-            "url": "https://github.com/rembo10/headphones",
-            "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
             "tags": []
           },
           {
@@ -62981,45 +62963,9 @@
             "tags": []
           },
           {
-            "name": "Lidarr",
-            "url": "https://lidarr.audio/",
-            "description": "Lidarr is a music collection manager for Usenet and BitTorrent users. ( Source Code ) GPL-3.0 C#/Docker",
-            "tags": []
-          },
-          {
-            "name": "LidaTube",
-            "url": "https://github.com/TheWicklowWolf/LidaTube",
-            "description": "\u26a0 - Finding and fetch missing Lidarr albums via yt-dlp. GPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Lidify",
-            "url": "https://github.com/TheWicklowWolf/Lidify",
-            "description": "\u26a0 - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. MIT Docker",
-            "tags": []
-          },
-          {
             "name": "Matchering",
             "url": "https://github.com/sergree/matchering",
             "description": "A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). GPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Medusa",
-            "url": "https://github.com/pymedusa/Medusa",
-            "description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Clients ) GPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "MetaTube",
-            "url": "https://github.com/JVT038/MetaTube",
-            "description": "\u26a0 - A Web GUI to automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. GPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "MeTube",
-            "url": "https://github.com/alexta69/metube",
-            "description": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. AGPL-3.0 Python/Nodejs/Docker",
             "tags": []
           },
           {
@@ -63029,27 +62975,9 @@
             "tags": []
           },
           {
-            "name": "nefarious",
-            "url": "https://github.com/lardbit/nefarious",
-            "description": "Web application that automates downloading Movies and TV Shows. GPL-3.0 Python",
-            "tags": []
-          },
-          {
             "name": "OliveTin",
             "url": "https://github.com/OliveTin/OliveTin",
             "description": "OliveTin is a web interface for running Linux shell commands. AGPL-3.0 Go",
-            "tags": []
-          },
-          {
-            "name": "Pinchflat",
-            "url": "https://github.com/kieraneglin/pinchflat",
-            "description": "\u26a0 - An app for downloading YouTube content built using yt-dlp. AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "PlexRipper",
-            "url": "https://www.plexripper.rocks/",
-            "description": "\u26a0 - A cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -63059,51 +62987,9 @@
             "tags": []
           },
           {
-            "name": "Radarr",
-            "url": "https://radarr.video/",
-            "description": "Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, \u00e0 la Couchpotato. ( Source Code ) GPL-3.0 C#/Docker",
-            "tags": []
-          },
-          {
-            "name": "SickChill",
-            "url": "https://sickchill.github.io/",
-            "description": "SickChill is an automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Source Code ) GPL-3.0 Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "Sonarr",
-            "url": "https://sonarr.tv/",
-            "description": "Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ( Source Code ) GPL-3.0 C#/Docker",
-            "tags": []
-          },
-          {
             "name": "StackStorm",
             "url": "https://stackstorm.com",
             "description": "StackStorm (aka IFTTT for Ops ) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ( Source Code ) Apache-2.0 Python",
-            "tags": []
-          },
-          {
-            "name": "tubesync",
-            "url": "https://github.com/meeb/tubesync",
-            "description": "\u26a0 - Syncs YouTube channels and playlists to a locally hosted media server. AGPL-3.0 Docker/Python",
-            "tags": []
-          },
-          {
-            "name": "ydl_api_ng",
-            "url": "https://github.com/Totonyus/ydl_api_ng",
-            "description": "Simple youtube-dl REST API to launch downloads on a distant server. GPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "YoutubeDL-Server",
-            "url": "https://github.com/nbr23/youtube-dl-server",
-            "description": "Web and REST interface for downloading videos onto a server. MIT Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "yt-dlp Web UI",
-            "url": "https://github.com/marcopeocchi/yt-dlp-web-ui",
-            "description": "Web GUI for yt-dlp. MPL-2.0 Docker/Go/Nodejs",
             "tags": []
           },
           {
@@ -63203,7 +63089,7 @@
           {
             "name": "Alf.io",
             "url": "https://alf.io/",
-            "description": "The open source ticket reservation system. ( Demo , Source Code ) GPL-3.0 Java",
+            "description": "Ticket reservation system. ( Demo , Source Code ) GPL-3.0 Java",
             "tags": []
           },
           {
@@ -63256,7 +63142,7 @@
           {
             "name": "Buku",
             "url": "https://github.com/jarun/Buku",
-            "description": "A powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb",
+            "description": "Powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb",
             "tags": []
           },
           {
@@ -63649,7 +63535,7 @@
           {
             "name": "AnonAddy",
             "url": "https://anonaddy.com",
-            "description": "Open source email forwarding service for creating aliases. ( Source Code ) MIT PHP/Docker",
+            "description": "Email forwarding service for creating aliases. ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -64128,19 +64014,19 @@
           {
             "name": "Answer",
             "url": "https://answer.dev/",
-            "description": "An open-source knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. ( Source Code ) Apache-2.0 Docker/Go",
+            "description": "Knowledge-based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more. ( Source Code ) Apache-2.0 Docker/Go",
             "tags": []
           },
           {
             "name": "Artalk",
             "url": "https://artalk.js.org/",
-            "description": "A self-hosted comment system built in Golang, providing a lightweight and highly customizable solution for adding comments to your website. ( Source Code ) MIT Go/Docker",
+            "description": "Comment system built in Golang, providing a lightweight and highly customizable solution for adding comments to your website. ( Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
             "name": "AsmBB",
             "url": "https://board.asm32.info",
-            "description": "A fast, SQLite-powered forum engine written in ASM. ( Source Code ) EUPL-1.2 Assembly",
+            "description": "Fast, SQLite-powered forum engine written in ASM. ( Source Code ) EUPL-1.2 Assembly",
             "tags": []
           },
           {
@@ -64559,12 +64445,6 @@
         "name": "Conference Management",
         "resources": [
           {
-            "name": "frab",
-            "url": "https://frab.github.io/frab/",
-            "description": "Web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule. ( Source Code ) MIT Ruby/Docker",
-            "tags": []
-          },
-          {
             "name": "indico",
             "url": "https://getindico.io/",
             "description": "A feature-rich event management system, made @ CERN, the place where the Web was born. ( Demo , Source Code ) MIT Python",
@@ -64620,13 +64500,13 @@
           {
             "name": "BigTree CMS",
             "url": "https://www.bigtreecms.org/",
-            "description": "Straightforward, well documented, and capable written with PHP and MySQL. ( Source Code ) LGPL-2.1 PHP",
+            "description": "Straightforward, well documented, and capable CMS. ( Source Code ) LGPL-2.1 PHP",
             "tags": []
           },
           {
             "name": "Bludit",
             "url": "https://www.bludit.com/",
-            "description": "\u26a0 - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ( Demo , Source Code ) MIT PHP",
+            "description": "\u26a0 - Build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -64983,13 +64863,13 @@
           {
             "name": "AdGuard Home",
             "url": "https://adguard.com/en/adguard-home/overview.html",
-            "description": "Free and open source, userfriendly ads & trackers blocking DNS server. ( Source Code ) GPL-3.0 Docker",
+            "description": "User-friendly ads & trackers blocking DNS server. ( Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
             "name": "blocky",
-            "url": "https://github.com/0xERR0R/blocky",
-            "description": "Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. Apache-2.0 Go/Docker",
+            "url": "https://0xerr0r.github.io/blocky/latest/",
+            "description": "Fast and lightweight DNS proxy as ad-blocker for local network with many features (alternative to Pi-hole). ( Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -65113,13 +64993,13 @@
           {
             "name": "Atsumeru",
             "url": "https://atsumeru.xyz",
-            "description": "Free and open source self-hosted manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ( Source Code , Clients ) MIT Java/Docker",
+            "description": "Manga/comic/light novel media server with clients for Windows, Linux, macOS and Android. ( Source Code , Clients ) MIT Java/Docker",
             "tags": []
           },
           {
             "name": "BookLogr",
             "url": "https://github.com/Mozzo1000/booklogr",
-            "description": "Web app designed to help you manage your personal book library with ease. ( Demo ) Apache-2.0 Docker",
+            "description": "Manage your personal book library with ease. ( Demo ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -65236,7 +65116,7 @@
           {
             "name": "Aimeos",
             "url": "https://aimeos.org/",
-            "description": "Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ( Demo , Source Code ) LGPL-3.0/MIT PHP",
+            "description": "E-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ( Demo , Source Code ) LGPL-3.0/MIT PHP",
             "tags": []
           },
           {
@@ -65373,7 +65253,7 @@
           {
             "name": "Bubo Reader",
             "url": "https://github.com/georgemandis/bubo-rss",
-            "description": "Open source, \"irrationally minimal\" RSS feed reader. ( Demo ) MIT Nodejs",
+            "description": "Irrationally minimal RSS feed reader. ( Demo ) MIT Nodejs",
             "tags": []
           },
           {
@@ -65522,7 +65402,7 @@
           {
             "name": "bewCloud",
             "url": "https://bewcloud.com",
-            "description": "A simpler alternative to Nextcloud and ownCloud's RSS Reader, File Sharing + Sync, Notes, and Photos. ( Source Code , Clients ) AGPL-3.0 Docker",
+            "description": "File sharing + sync, notes, and photos (alternative to Nextcloud and ownCloud's RSS reader). ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -65937,7 +65817,7 @@
           {
             "name": "0 A.D.",
             "url": "https://play0ad.com/",
-            "description": "A free, open-source game of ancient warfare. ( Source Code ) MIT/GPL-2.0/Zlib C++/C/deb",
+            "description": "Cross-platform real-time strategy game of ancient warfare. ( Source Code ) MIT/GPL-2.0/Zlib C++/C/deb",
             "tags": []
           },
           {
@@ -66263,7 +66143,7 @@
           {
             "name": "admidio",
             "url": "https://www.admidio.org/",
-            "description": "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it\u2019s possible to reflect the structure and permissions of your organization. ( Demo , Source Code ) GPL-2.0 PHP/Docker",
+            "description": "User management system for websites of organizations and groups. The system has a flexible role model so that it\u2019s possible to reflect the structure and permissions of your organization. ( Demo , Source Code ) GPL-2.0 PHP/Docker",
             "tags": []
           },
           {
@@ -66617,7 +66497,7 @@
           {
             "name": "AirTrail",
             "url": "https://airtrail.johan.ohly.dk",
-            "description": "A personal flight tracking system. ( Source Code ) GPL-3.0 Docker/Nodejs",
+            "description": "Personal flight tracking system. ( Source Code ) GPL-3.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -66701,6 +66581,161 @@
         ]
       },
       {
+        "name": "Media Management",
+        "resources": [
+          {
+            "name": "ChannelTube",
+            "url": "https://github.com/TheWicklowWolf/ChannelTube",
+            "description": "\u26a0 - Download video or audio from YouTube channels on a schedule via yt-dlp. AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Dagu",
+            "url": "https://dagu.readthedocs.io/",
+            "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Headphones",
+            "url": "https://github.com/rembo10/headphones",
+            "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "Jellyseerr",
+            "url": "https://github.com/Fallenbagel/jellyseerr",
+            "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "Lidarr",
+            "url": "https://lidarr.audio/",
+            "description": "Lidarr is a music collection manager for Usenet and BitTorrent users. ( Source Code ) GPL-3.0 C#/Docker",
+            "tags": []
+          },
+          {
+            "name": "LidaTube",
+            "url": "https://github.com/TheWicklowWolf/LidaTube",
+            "description": "\u26a0 - Finding and fetch missing Lidarr albums via yt-dlp. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Lidify",
+            "url": "https://github.com/TheWicklowWolf/Lidify",
+            "description": "\u26a0 - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "Medusa",
+            "url": "https://github.com/pymedusa/Medusa",
+            "description": "Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Clients ) GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "MetaTube",
+            "url": "https://github.com/JVT038/MetaTube",
+            "description": "\u26a0 - Automatically download music from YouTube add metadata from Spotify, Deezer or Musicbrainz. GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "MeTube",
+            "url": "https://github.com/alexta69/metube",
+            "description": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. AGPL-3.0 Python/Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "nefarious",
+            "url": "https://github.com/lardbit/nefarious",
+            "description": "Automate downloading Movies and TV Shows. GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "Ombi",
+            "url": "https://ombi.io/",
+            "description": "A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ( Demo , Source Code ) GPL-2.0 C#/deb",
+            "tags": []
+          },
+          {
+            "name": "Overseerr",
+            "url": "https://overseerr.dev/",
+            "description": "\u26a0 - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "Pinchflat",
+            "url": "https://github.com/kieraneglin/pinchflat",
+            "description": "\u26a0 - Download YouTube content built using yt-dlp. AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "PlexRipper",
+            "url": "https://www.plexripper.rocks/",
+            "description": "\u26a0 - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "PodFetch",
+            "url": "https://samtv12345.github.io/PodFetch",
+            "description": "Sleek and efficient podcast downloader. ( Source Code ) Apache-2.0 Docker/Rust",
+            "tags": []
+          },
+          {
+            "name": "Radarr",
+            "url": "https://radarr.video/",
+            "description": "Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, \u00e0 la Couchpotato. ( Source Code ) GPL-3.0 C#/Docker",
+            "tags": []
+          },
+          {
+            "name": "Reiverr",
+            "url": "https://github.com/aleksilassila/reiverr",
+            "description": "\u26a0 - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "SickChill",
+            "url": "https://sickchill.github.io/",
+            "description": "Automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Source Code ) GPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "Sonarr",
+            "url": "https://sonarr.tv/",
+            "description": "Automatic TV Shows downloader and manager for Usenet and BitTorrent. It can grab, sort and rename new episodes and automatically upgrade the quality of files already downloaded when a better quality format becomes available. ( Source Code ) GPL-3.0 C#/Docker",
+            "tags": []
+          },
+          {
+            "name": "tubesync",
+            "url": "https://github.com/meeb/tubesync",
+            "description": "\u26a0 - Syncs YouTube channels and playlists to a locally hosted media server. AGPL-3.0 Docker/Python",
+            "tags": []
+          },
+          {
+            "name": "Watcharr",
+            "url": "https://github.com/sbondCo/Watcharr",
+            "description": "Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ( Demo ) MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "ydl_api_ng",
+            "url": "https://github.com/Totonyus/ydl_api_ng",
+            "description": "Simple youtube-dl REST API to launch downloads on a distant server. GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "YoutubeDL-Server",
+            "url": "https://github.com/nbr23/youtube-dl-server",
+            "description": "Web and REST interface to Youtube-DL for downloading videos onto a server. MIT Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "yt-dlp Web UI",
+            "url": "https://github.com/marcopeocchi/yt-dlp-web-ui",
+            "description": "Web GUI for yt-dlp. MPL-2.0 Docker/Go/Nodejs",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Media Streaming - Audio Streaming",
         "resources": [
           {
@@ -66712,7 +66747,7 @@
           {
             "name": "Audiobookshelf",
             "url": "https://www.audiobookshelf.org/",
-            "description": "Fully open-source self-hosted audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ( Source Code , Clients ) GPL-3.0 Docker/deb/Nodejs",
+            "description": "Audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ( Source Code , Clients ) GPL-3.0 Docker/deb/Nodejs",
             "tags": []
           },
           {
@@ -66724,7 +66759,7 @@
           {
             "name": "AzuraCast",
             "url": "https://www.azuracast.com/",
-            "description": "A modern and accessible self-hosted web radio management suite. ( Source Code ) Apache-2.0 Docker",
+            "description": "Modern and accessible web radio management suite. ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -66736,7 +66771,7 @@
           {
             "name": "Black Candy",
             "url": "https://github.com/blackcandy-org/black_candy",
-            "description": "Music streaming server built with Rails and Stimulus. MIT Docker/Ruby",
+            "description": "Music streaming server. MIT Docker/Ruby",
             "tags": []
           },
           {
@@ -66827,12 +66862,6 @@
             "name": "Pinepods",
             "url": "https://www.pinepods.online/",
             "description": "A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ( Demo , Source Code ) GPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "PodFetch",
-            "url": "https://samtv12345.github.io/PodFetch",
-            "description": "A sleek and efficient podcast downloader. ( Source Code ) Apache-2.0 Docker/Rust",
             "tags": []
           },
           {
@@ -66940,12 +66969,6 @@
             "name": "ReadyMedia",
             "url": "https://sourceforge.net/projects/minidlna/",
             "description": "Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ( Source Code ) GPL-2.0 C",
-            "tags": []
-          },
-          {
-            "name": "Reiverr",
-            "url": "https://github.com/aleksilassila/reiverr",
-            "description": "\u26a0 - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -67063,19 +67086,19 @@
           {
             "name": "2FAuth",
             "url": "https://github.com/Bubka/2FAuth",
-            "description": "A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ( Demo ) AGPL-3.0 PHP/Docker",
+            "description": "Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ( Demo ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
             "name": "AlertHub",
             "url": "https://github.com/Ardakilic/alerthub",
-            "description": "\u26a0 - AlertHub is a simple tool to get alerted from GitHub releases. MIT Nodejs/Docker",
+            "description": "\u26a0 - Get alerts from GitHub releases. MIT Nodejs/Docker",
             "tags": []
           },
           {
             "name": "Anchr",
             "url": "https://anchr.io",
-            "description": "Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ( Source Code ) GPL-3.0 Nodejs",
+            "description": "Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ( Source Code ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -67093,7 +67116,7 @@
           {
             "name": "beelzebub",
             "url": "https://beelzebub-honeypot.com/",
-            "description": "\u26a0 - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ( Demo , Source Code ) MIT Docker/K8S/Go",
+            "description": "\u26a0 - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ( Source Code ) MIT Docker/K8S/Go",
             "tags": []
           },
           {
@@ -67283,12 +67306,6 @@
             "tags": []
           },
           {
-            "name": "Jellyseerr",
-            "url": "https://github.com/Fallenbagel/jellyseerr",
-            "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker/Nodejs",
-            "tags": []
-          },
-          {
             "name": "Jelu",
             "url": "https://bayang.github.io/jelu-web",
             "description": "Self hosted read and to-read list book tracker. ( Source Code ) MIT Java/Docker",
@@ -67355,12 +67372,6 @@
             "tags": []
           },
           {
-            "name": "Ombi",
-            "url": "https://ombi.io/",
-            "description": "A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ( Demo , Source Code ) GPL-2.0 C#/deb",
-            "tags": []
-          },
-          {
             "name": "Open-Meteo",
             "url": "https://open-meteo.com/",
             "description": "Open-source weather API with open-data forecasts, historical and climate data from all major national weather services. ( Demo , Source Code ) AGPL-3.0 Docker",
@@ -67370,12 +67381,6 @@
             "name": "OpenZiti",
             "url": "https://openziti.github.io/",
             "description": "Fully-featured, self-hostable, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ( Source Code ) Apache-2.0 Go",
-            "tags": []
-          },
-          {
-            "name": "Overseerr",
-            "url": "https://overseerr.dev/",
-            "description": "\u26a0 - Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -67469,12 +67474,6 @@
             "tags": []
           },
           {
-            "name": "Watcharr",
-            "url": "https://github.com/sbondCo/Watcharr",
-            "description": "A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ( Demo ) MIT Docker",
-            "tags": []
-          },
-          {
             "name": "Wavelog",
             "url": "https://www.wavelog.org",
             "description": "Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. ( Demo , Source Code ) MIT PHP/Docker",
@@ -67512,25 +67511,25 @@
           {
             "name": "Actual",
             "url": "https://actualbudget.github.io/docs/",
-            "description": "Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ( Source Code ) MIT Nodejs/Docker",
+            "description": "Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ( Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
             "name": "Bigcapital",
             "url": "https://bigcapital.app/",
-            "description": "A self-hosted financial accounting and inventory management software for small to medium businesses. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Financial accounting and inventory management software for small to medium businesses. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
             "name": "Bitcart",
             "url": "https://bitcart.ai",
-            "description": "A self-hosted cryptocurrencies payment processor and development platform. ( Demo , Source Code ) MIT Docker/Python/Nodejs",
+            "description": "Cryptocurrencies payment processor and development platform. ( Demo , Source Code ) MIT Docker/Python/Nodejs",
             "tags": []
           },
           {
             "name": "BTCPay Server",
             "url": "https://btcpayserver.org/",
-            "description": "A self-hosted Bitcoin and other cryptocurrencies payment processor. ( Demo , Source Code ) MIT C#",
+            "description": "Bitcoin and other cryptocurrencies payment processor. ( Demo , Source Code ) MIT C#",
             "tags": []
           },
           {
@@ -67917,7 +67916,7 @@
           {
             "name": "Bitwarden",
             "url": "https://bitwarden.com/",
-            "description": "\u26a0 - Password manager with webapp, browser extension, and mobile app. ( Source Code ) AGPL-3.0 Docker/C#",
+            "description": "\u26a0 - Password manager with a webapp, browser extension, and mobile app. ( Source Code ) AGPL-3.0 Docker/C#",
             "tags": []
           },
           {
@@ -68363,12 +68362,12 @@
           {
             "name": "Bitpoll",
             "url": "https://github.com/fsinfuhh/Bitpoll",
-            "description": "A web application for scheduling meetings and general polling. ( Demo ) GPL-3.0 Docker/Python",
+            "description": "Conduct polls about dates, times or general questions. ( Demo ) GPL-3.0 Docker/Python",
             "tags": []
           },
           {
             "name": "Bracket",
-            "url": "https://evroon.github.io/bracket",
+            "url": "https://docs.bracketapp.nl/",
             "description": "Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. ( Demo , Source Code ) AGPL-3.0 Docker/Nodejs",
             "tags": []
           },
@@ -68541,7 +68540,7 @@
           {
             "name": "Bar Assistant",
             "url": "https://barassistant.app/",
-            "description": "Bar assistant is a self hosted application for managing your home bar. It allows you to add your ingredients, search for cocktails and create custom cocktail recipes. ( Demo , Source Code ) MIT PHP/Docker",
+            "description": "Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. ( Demo , Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -69145,7 +69144,7 @@
           {
             "name": "Accent",
             "url": "https://www.accent.reviews/",
-            "description": "Open-source, self-hosted, developer-oriented translation tool. ( Source Code ) BSD-3-Clause Elixir/Docker",
+            "description": "Developer-oriented translation tool. ( Source Code ) BSD-3-Clause Elixir/Docker",
             "tags": []
           },
           {
@@ -69174,7 +69173,7 @@
           {
             "name": "Appsmith",
             "url": "https://www.appsmith.com/",
-            "description": "Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ( Source Code ) Apache-2.0 Java/Docker/K8S",
+            "description": "Build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ( Source Code ) Apache-2.0 Java/Docker/K8S",
             "tags": []
           },
           {
@@ -69466,7 +69465,7 @@
           {
             "name": "Bencher",
             "url": "https://bencher.dev/",
-            "description": "Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. ( Source Code ) MIT/Apache-2.0 Rust",
+            "description": "Suite of continuous benchmarking tools designed to catch performance regressions in CI. ( Source Code ) MIT/Apache-2.0 Rust",
             "tags": []
           },
           {
@@ -69530,7 +69529,7 @@
           {
             "name": "AppFlowy",
             "url": "https://appflowy.io/",
-            "description": "With AppFlowy, you can build detailed lists of to-do\u2019s for different projects while tracking the status of each one. Open Source Notion Alternative. ( Source Code ) AGPL-3.0 Rust/Dart/Docker",
+            "description": "Build detailed lists of to-do\u2019s for different projects while tracking the status of each one. Open Source Notion Alternative. ( Source Code ) AGPL-3.0 Rust/Dart/Docker",
             "tags": []
           },
           {
@@ -69690,7 +69689,7 @@
           {
             "name": "ActivityWatch",
             "url": "https://activitywatch.net",
-            "description": "An app that automatically tracks how you spend time on your devices. ( Source Code ) MPL-2.0 Python",
+            "description": "Automatically track how you spend time on your devices. ( Source Code ) MPL-2.0 Python",
             "tags": []
           },
           {
@@ -69737,7 +69736,7 @@
           {
             "name": "bit",
             "url": "https://github.com/sjdonado/bit",
-            "description": "Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite. MIT Docker/Crystal",
+            "description": "Fast, lightweight, resource-efficient, compiled URL shortener. MIT Docker/Crystal",
             "tags": []
           },
           {
@@ -69950,7 +69949,7 @@
           {
             "name": "BookStack",
             "url": "https://www.bookstackapp.com/",
-            "description": "BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ( Demo , Source Code ) MIT PHP/Docker",
+            "description": "Organize and store information. Stores documentation in a book like fashion. ( Demo , Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
