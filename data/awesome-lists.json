@@ -54383,6 +54383,12 @@
             "tags": []
           },
           {
+            "name": "MacVim",
+            "url": "https://github.com/macvim-dev/macvim",
+            "description": "the text editor Vim - for macOS.",
+            "tags": []
+          },
+          {
             "name": "micro",
             "url": "https://micro-editor.github.io",
             "description": "Modern and intuitive terminal-based text editor.",
