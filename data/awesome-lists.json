@@ -7107,6 +7107,12 @@
             "tags": []
           },
           {
+            "name": "DiceDB",
+            "url": "https://github.com/DiceDB/dice",
+            "description": "An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.",
+            "tags": []
+          },
+          {
             "name": "diskv",
             "url": "https://github.com/peterbourgon/diskv",
             "description": "Home-grown disk-backed key-value store.",
@@ -55081,6 +55087,12 @@
             "url": "https://collate.one/get-started",
             "description": "Free tool to collect, summarize and query PDFs with AI. All offline and free.",
             "tags": []
+          },
+          {
+            "name": "PDFsail",
+            "url": "https://pdfsail.com/",
+            "description": "PDFsail offers free online PDF tools for editing, converting, merging, compressing, and OCR. No download required. Try this AI-powered all-in-one PDF solution now!.",
+            "tags": []
           }
         ]
       },
@@ -56539,6 +56551,12 @@
             "name": "Nugget",
             "url": "https://github.com/cartesiancs/nugget-app",
             "description": "Video editing software designed for motion effects and versatility.",
+            "tags": []
+          },
+          {
+            "name": "Lunacy",
+            "url": "https://icons8.com/lunacy",
+            "description": "A vector graphic design tool for UI/UX with offline support, built-in assets, and real-time collaboration.",
             "tags": []
           }
         ]
@@ -58392,6 +58410,12 @@
             "name": "Windscribe",
             "url": "https://windscribe.com",
             "description": "Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time.",
+            "tags": []
+          },
+          {
+            "name": "Tailscale",
+            "url": "https://tailscale.com/",
+            "description": "Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.",
             "tags": []
           }
         ]
@@ -63750,12 +63774,6 @@
             "name": "Sendmail",
             "url": "https://www.proofpoint.com/us/products/email-protection/open-source-email-solution",
             "description": "Message transfer agent (MTA). Sendmail C/deb",
-            "tags": []
-          },
-          {
-            "name": "Slimta",
-            "url": "https://slimta.github.io/",
-            "description": "Mail Transfer Library built on Python. ( Source Code ) MIT Python",
             "tags": []
           }
         ]
@@ -69472,12 +69490,6 @@
             "name": "Bencher",
             "url": "https://bencher.dev/",
             "description": "Suite of continuous benchmarking tools designed to catch performance regressions in CI. ( Source Code ) MIT/Apache-2.0 Rust",
-            "tags": []
-          },
-          {
-            "name": "Sorry Cypress",
-            "url": "https://sorry-cypress.dev",
-            "description": "Alternative open-source dashboard for the Cypress browser automation framework, featuring unlimited parallelization, recording and debugging of tests. ( Source Code ) MIT Docker/K8S",
             "tags": []
           },
           {
