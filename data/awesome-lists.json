@@ -600,7 +600,7 @@
           {
             "name": "HueHive",
             "url": "https://github.com/croma-app/croma",
-            "description": "(label: good first issue) A open source react native app iOS and android for color palette management",
+            "description": "(label: good first issue) An open source react native app iOS and android for color palette management",
             "tags": []
           },
           {
@@ -780,7 +780,7 @@
           {
             "name": "reactjs.org",
             "url": "https://github.com/reactjs/reactjs.org",
-            "description": "(label: good first issue) The documenation website for reactjs",
+            "description": "(label: good first issue) The documentation website for reactjs",
             "tags": []
           },
           {
@@ -1641,7 +1641,7 @@
           {
             "name": "Manifest",
             "url": "https://github.com/mnfst/manifest",
-            "description": "(label: good first issue) Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.",
+            "description": "(label: good first issue) Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.",
             "tags": []
           },
           {
@@ -5101,12 +5101,6 @@
             "tags": []
           },
           {
-            "name": "ephemeral-roles",
-            "url": "https://github.com/ewohltman/ephemeral-roles",
-            "description": "A Discord bot for managing ephemeral roles based upon voice channel member presence.",
-            "tags": []
-          },
-          {
             "name": "go-joe",
             "url": "https://joe-bot.net",
             "description": "A general-purpose bot library inspired by Hubot but written in Go.",
@@ -5125,45 +5119,9 @@
             "tags": []
           },
           {
-            "name": "go-tgbot",
-            "url": "https://github.com/olebedev/go-tgbot",
-            "description": "Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.",
-            "tags": []
-          },
-          {
             "name": "go-twitch-irc",
             "url": "https://github.com/gempir/go-twitch-irc",
             "description": "Library to write bots for twitch.tv chat",
-            "tags": []
-          },
-          {
-            "name": "Golang CryptoTrading Bot",
-            "url": "https://github.com/saniales/golang-crypto-trading-bot",
-            "description": "A golang implementation of a console-based trading bot for cryptocurrency exchanges.",
-            "tags": []
-          },
-          {
-            "name": "govkbot",
-            "url": "https://github.com/nikepan/govkbot",
-            "description": "Simple Go VK bot library.",
-            "tags": []
-          },
-          {
-            "name": "hanu",
-            "url": "https://github.com/sbstjn/hanu",
-            "description": "Framework for writing Slack bots.",
-            "tags": []
-          },
-          {
-            "name": "larry",
-            "url": "https://github.com/ezeoleaf/larry",
-            "description": "Larry \ud83d\udc26 is a really simple Twitter bot generator that tweets random repositories from Github built in Go.",
-            "tags": []
-          },
-          {
-            "name": "margelet",
-            "url": "https://github.com/zhulik/margelet",
-            "description": "Framework for building Telegram bots.",
             "tags": []
           },
           {
@@ -5185,18 +5143,6 @@
             "tags": []
           },
           {
-            "name": "slackscot",
-            "url": "https://github.com/alexandre-normand/slackscot",
-            "description": "Another framework for building Slack bots.",
-            "tags": []
-          },
-          {
-            "name": "tbot",
-            "url": "https://github.com/yanzay/tbot",
-            "description": "Telegram bot server with API similar to net/http.",
-            "tags": []
-          },
-          {
             "name": "telebot",
             "url": "https://github.com/tucnak/telebot",
             "description": "Telegram bot framework is written in Go.",
@@ -5210,20 +5156,8 @@
           },
           {
             "name": "telegram-bot-api",
-            "url": "https://github.com/Syfaro/telegram-bot-api",
+            "url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
             "description": "Simple and clean Telegram bot client.",
-            "tags": []
-          },
-          {
-            "name": "teleterm",
-            "url": "https://github.com/alfiankan/teleterm",
-            "description": "Telegram Bot Exec Terminal Command.",
-            "tags": []
-          },
-          {
-            "name": "Tenyks",
-            "url": "https://github.com/kyleterry/tenyks",
-            "description": "Service oriented IRC bot using Redis and JSON for messaging.",
             "tags": []
           },
           {
@@ -57557,6 +57491,12 @@
             "name": "LyricsX",
             "url": "https://github.com/ddddxxx/LyricsX",
             "description": "Lyrics for iTunes, Spotify and Vox.",
+            "tags": []
+          },
+          {
+            "name": "MacMusicPlayer",
+            "url": "https://github.com/samzong/macmusicplayer",
+            "description": "A clean, lightweight music player for macOS users.",
             "tags": []
           },
           {
