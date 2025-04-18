@@ -832,12 +832,6 @@
             "tags": []
           },
           {
-            "name": "Tessel 2 CLI",
-            "url": "https://github.com/tessel/t2-cli",
-            "description": "(label: contribution-starter) Command line interface to Tessel 2.",
-            "tags": []
-          },
-          {
             "name": "Time to Leave",
             "url": "https://github.com/thamara/time-to-leave",
             "description": "(label: good first issue) Working hours time tracker app based on Electron and Javascript.",
@@ -66020,6 +66014,29 @@
             "name": "webtrees",
             "url": "https://www.webtrees.net",
             "description": "Webtrees is the web's leading online collaborative genealogy application. ( Demo , Source Code ) GPL-3.0 PHP",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Generative Artificial Intelligence (GenAI)",
+        "resources": [
+          {
+            "name": "Ollama",
+            "url": "https://ollama.com/",
+            "description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models. ( Source Code ) MIT Docker/Python",
+            "tags": []
+          },
+          {
+            "name": "Open-WebUI",
+            "url": "https://openwebui.com",
+            "description": "User-friendly AI Interface, supports Ollama, OpenAI API. ( Source Code ) BSD-3-Clause Docker/Python",
+            "tags": []
+          },
+          {
+            "name": "Perplexica",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "description": "AI-powered search engine (alternative to Perplexity AI). MIT Docker",
             "tags": []
           }
         ]
