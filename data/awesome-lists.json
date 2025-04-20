@@ -8972,6 +8972,12 @@
             "tags": []
           },
           {
+            "name": "metaerr",
+            "url": "https://github.com/quantumcycle/metaerr",
+            "description": "A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.",
+            "tags": []
+          },
+          {
             "name": "multierr",
             "url": "https://github.com/uber-go/multierr",
             "description": "Package for representing a list of errors as a single error.",
@@ -62768,7 +62774,7 @@
           {
             "name": "CKAN",
             "url": "https://ckan.org",
-            "description": "CKAN is a tool for making open data websites. ( Source Code ) AGPL-3.0 Python",
+            "description": "Make open data websites. ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
@@ -62844,8 +62850,8 @@
           },
           {
             "name": "changedetection.io",
-            "url": "https://github.com/dgtlmoon/changedetection.io",
-            "description": "Self-hosted tool for staying up-to-date with web-site content changes. Apache-2.0 Python/Docker",
+            "url": "https://changedetection.io/",
+            "description": "Stay up-to-date with web-site content changes. ( Source Code ) Apache-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -62976,7 +62982,7 @@
           {
             "name": "Castopod",
             "url": "https://castopod.org",
-            "description": "A podcast management hosting platform that includes the latest podcast 2.0 standards, an automated Fediverse feed, analytics, an embeddable player, and more. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "Podcast management hosting platform that includes the latest podcast 2.0 standards, an automated Fediverse feed, analytics, an embeddable player, and more. ( Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -63059,7 +63065,7 @@
           {
             "name": "Cal.com",
             "url": "https://cal.com/",
-            "description": "The open-source online appointment scheduling system. ( Demo , Source Code ) AGPL-3.0 Nodejs",
+            "description": "Online appointment scheduling system. ( Demo , Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -63276,15 +63282,9 @@
             "tags": []
           },
           {
-            "name": "Chatwoot",
-            "url": "https://www.chatwoot.com",
-            "description": "Self-hosted customer communication platform (alternative to Intercom & Zendesk). ( Source Code ) MIT Ruby/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "Chitchatter",
             "url": "https://chitchatter.im/",
-            "description": "A peer-to-peer chat app that is serverless, decentralized, and ephemeral. ( Source Code ) GPL-2.0 Nodejs",
+            "description": "Peer-to-peer chat app that is serverless, decentralized, and ephemeral. ( Source Code ) GPL-2.0 Nodejs",
             "tags": []
           },
           {
@@ -63996,7 +63996,7 @@
           {
             "name": "Chirpy",
             "url": "https://chirpy.dev",
-            "description": "Chirpy is an open-source, privacy-friendly and customizable Disqus (comment system) alternate. ( Demo , Source Code ) AGPL-3.0 Docker/Nodejs",
+            "description": "Privacy-friendly and customizable Disqus (comment system) alternate. ( Demo , Source Code ) AGPL-3.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -64323,7 +64323,7 @@
           {
             "name": "Converse.js",
             "url": "https://conversejs.org/",
-            "description": "Free and open-source XMPP chat client in your browser. ( Source Code ) MPL-2.0 Javascript",
+            "description": "XMPP chat client in your browser. ( Source Code ) MPL-2.0 Javascript",
             "tags": []
           },
           {
@@ -64470,13 +64470,13 @@
           {
             "name": "CMS Made Simple",
             "url": "https://www.cmsmadesimple.org/",
-            "description": "Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ( Source Code ) GPL-2.0 PHP",
+            "description": "Faster and easier management of website contents, scalable for small businesses to large corporations. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
             "name": "Cockpit",
             "url": "https://getcockpit.com",
-            "description": "Simple Content Platform to manage any structured content. ( Source Code ) MIT PHP",
+            "description": "Simple content platform to manage any structured content. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -64488,13 +64488,13 @@
           {
             "name": "Contao",
             "url": "https://contao.org/",
-            "description": "Contao is a powerful open source CMS that allows you to create professional websites and scalable web applications. ( Source Code ) LGPL-3.0 PHP",
+            "description": "Powerful CMS that allows you to create professional websites and scalable web applications. ( Demo , Source Code ) LGPL-3.0 PHP",
             "tags": []
           },
           {
             "name": "CouchCMS",
             "url": "https://www.couchcms.com/",
-            "description": "Simple Open-Source CMS for designers. ( Source Code ) CPAL-1.0 PHP",
+            "description": "CMS for designers. ( Source Code ) CPAL-1.0 PHP",
             "tags": []
           },
           {
@@ -64678,7 +64678,7 @@
         "resources": [
           {
             "name": "Corteza",
-            "url": "https://cortezaproject.org",
+            "url": "https://docs.cortezaproject.org",
             "description": "CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ( Demo , Source Code ) Apache-2.0 Go",
             "tags": []
           },
@@ -64750,13 +64750,13 @@
           {
             "name": "Chartbrew",
             "url": "https://chartbrew.com",
-            "description": "Web application that can connect directly to databases and APIs and use the data to create beautiful charts. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "description": "Connect directly to databases and APIs and use the data to create beautiful charts. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
             "name": "CloudBeaver",
             "url": "https://dbeaver.com/",
-            "description": "Self-hosted management of databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ( Source Code ) Apache-2.0 Docker",
+            "description": "Manage databases, supports PostgreSQL, MySQL, SQLite and more. A web/hosted version of DBeaver. ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -64963,7 +64963,7 @@
           {
             "name": "Calibre Web",
             "url": "https://github.com/janeczku/calibre-web",
-            "description": "Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. GPL-3.0 Python",
+            "description": "Browse, read and download eBooks using an existing Calibre database. GPL-3.0 Python",
             "tags": []
           },
           {
@@ -65086,7 +65086,7 @@
           {
             "name": "CoreShop",
             "url": "https://www.coreshop.org",
-            "description": "CoreShop is an e-commerce plugin for Pimcore. ( Source Code ) GPL-3.0 PHP",
+            "description": "E-commerce plugin for Pimcore. ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -65488,12 +65488,6 @@
             "tags": []
           },
           {
-            "name": "Dat Project",
-            "url": "https://dat-ecosystem.org/",
-            "description": "Powerful decentralized file sharing applications built from a large ecosystem of modules. ( Source Code ) MIT Nodejs",
-            "tags": []
-          },
-          {
             "name": "Deluge",
             "url": "https://deluge-torrent.org/",
             "description": "Lightweight, cross-platform BitTorrent client. ( Source Code ) GPL-3.0 Python/deb",
@@ -65646,6 +65640,12 @@
             "name": "Shifter",
             "url": "https://github.com/TobySuch/Shifter",
             "description": "A simple, self-hosted file-sharing web app, powered by Django. MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "Slink",
+            "url": "https://docs.slinkapp.io/",
+            "description": "Image sharing platform designed to give users complete control over their media sharing experience. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -65894,7 +65894,7 @@
           {
             "name": "Crafty Controller",
             "url": "https://craftycontrol.com/",
-            "description": "Crafty Controller is a free and open-source Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ( Source Code ) GPL-3.0 Docker/Python",
+            "description": "Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -66336,13 +66336,13 @@
           {
             "name": "Canvas LMS",
             "url": "https://www.instructure.com/canvas/",
-            "description": "Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ( Demo , Source Code ) AGPL-3.0 Ruby",
+            "description": "Learning management system (LMS) that is revolutionizing the way we educate. ( Demo , Source Code ) AGPL-3.0 Ruby",
             "tags": []
           },
           {
             "name": "Chamilo LMS",
             "url": "https://chamilo.org/",
-            "description": "Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ( Source Code ) GPL-3.0 PHP",
+            "description": "Create a virtual campus for the provision of online or semi-online training. ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -66437,7 +66437,7 @@
           {
             "name": "CNCjs",
             "url": "https://cnc.js.org/",
-            "description": "A web-based interface for CNC milling controller running Grbl, Smoothieware, or TinyG. ( Source Code ) MIT Nodejs",
+            "description": "Web interface for CNC milling controllers running Grbl, Smoothieware, or TinyG. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -66984,7 +66984,7 @@
           {
             "name": "CyTube",
             "url": "https://github.com/calzoneman/sync",
-            "description": "CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ( Demo ) MIT Nodejs",
+            "description": "Synchronize media, chat, and more for an arbitrary number of channels. ( Demo ) MIT Nodejs",
             "tags": []
           },
           {
@@ -67109,7 +67109,7 @@
           {
             "name": "Cloudlog",
             "url": "https://magicbug.co.uk/cloudlog/",
-            "description": "Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ( Source Code ) MIT PHP/Docker",
+            "description": "Log your amateur radio contacts anywhere. ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -67344,6 +67344,12 @@
             "name": "MyIP",
             "url": "https://ipcheck.ing",
             "description": "\u26a0 - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "MySpeed",
+            "url": "https://myspeed.dev/",
+            "description": "Speed test analysis software that shows your internet speed for up to 30 days. ( Source Code ) MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -67850,7 +67856,7 @@
           {
             "name": "CryptPad",
             "url": "https://cryptpad.org",
-            "description": "CryptPad is a collaboration suite that is end-to-end-encrypted and open-source. It is built to enable collaboration, synchronizing changes to documents in real time. ( Source Code ) AGPL-3.0 Nodejs/Docker",
+            "description": "Collaboration suite built to enable collaboration, synchronizing changes to documents in real time. ( Source Code ) AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -68163,12 +68169,6 @@
             "tags": []
           },
           {
-            "name": "Organizr",
-            "url": "https://github.com/causefx/Organizr",
-            "description": "Organizr aims to be your one stop shop for your Servers Frontend. GPL-3.0 PHP/Docker",
-            "tags": []
-          },
-          {
             "name": "portkey",
             "url": "https://portkey.page",
             "description": "A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
@@ -68212,7 +68212,7 @@
           {
             "name": "Coppermine",
             "url": "https://coppermine-gallery.com/",
-            "description": "Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ( Demo , Source Code ) GPL-3.0 PHP",
+            "description": "Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -68792,8 +68792,8 @@
           },
           {
             "name": "CasaOS",
-            "url": "https://www.casaos.io/",
-            "description": "A simple, easy-to-use, elegant open-source Home Cloud system. ( Source Code ) Apache-2.0 Go/Docker",
+            "url": "https://casaos.zimaspace.com/",
+            "description": "Simple, easy-to-use, elegant Home Cloud system. ( Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -69213,7 +69213,7 @@
           {
             "name": "Cgit",
             "url": "https://git.zx2c4.com/cgit/about/",
-            "description": "A fast lightweight web interface for git repositories. ( Source Code ) GPL-2.0 C",
+            "description": "Fast lightweight web interface for git repositories. ( Source Code ) GPL-2.0 C",
             "tags": []
           },
           {
@@ -69908,6 +69908,12 @@
             "name": "Varnish",
             "url": "https://varnish-cache.org/",
             "description": "Web application accelerator/caching HTTP reverse proxy. ( Source Code ) BSD-3-Clause Go/deb/Docker",
+            "tags": []
+          },
+          {
+            "name": "Zoraxy",
+            "url": "https://zoraxy.aroz.org/",
+            "description": "General purpose HTTP reverse proxy and forwarding tool. ( Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           }
         ]
