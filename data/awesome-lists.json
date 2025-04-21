@@ -606,7 +606,7 @@
           {
             "name": "iD",
             "url": "https://github.com/openstreetmap/iD",
-            "description": "(label: good first issue) The easy-to-use OpenStreetMap editor in JavaScript.",
+            "description": "(label: new contributor opportunity) The easy-to-use OpenStreetMap editor in JavaScript.",
             "tags": []
           },
           {
@@ -1642,12 +1642,6 @@
             "name": "Metabase",
             "url": "https://github.com/metabase/metabase",
             "description": "(label: good first issue) Open source business intelligence and analytics platform",
-            "tags": []
-          },
-          {
-            "name": "Node Efficientnet",
-            "url": "https://github.com/ntedgi/node-efficientnet",
-            "description": "(label: good first issue) EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).",
             "tags": []
           },
           {
@@ -5623,6 +5617,12 @@
             "name": "go-getoptions",
             "url": "https://github.com/DavidGamba/go-getoptions",
             "description": "Go option parser inspired by the flexibility of Perl\u2019s GetOpt::Long.",
+            "tags": []
+          },
+          {
+            "name": "go-readline-ny",
+            "url": "https://github.com/nyaosorg/go-readline-ny",
+            "description": "A customizable line-editing library with Emacs keybindings, Unicode support, completion, and syntax highlighting. Used in NYAGOS shell.",
             "tags": []
           },
           {
