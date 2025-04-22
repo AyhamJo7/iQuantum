@@ -23888,6 +23888,12 @@
             "tags": []
           },
           {
+            "name": "ReerCodable",
+            "url": "https://github.com/reers/ReerCodable",
+            "description": "Codable extensions using Swift macro.",
+            "tags": []
+          },
+          {
             "name": "Sextant",
             "url": "https://github.com/KittyMac/Sextant",
             "description": ":penguin: - High performance JSONPath queries",
@@ -28709,6 +28715,12 @@
             "name": "ReadabilityKit",
             "url": "https://github.com/exyte/ReadabilityKit",
             "description": "Preview extractor for news, articles and full-texts.",
+            "tags": []
+          },
+          {
+            "name": "ReerKit",
+            "url": "https://github.com/reers/ReerKit",
+            "description": "Powerful Swift foundation library of extensions and providing utility functions to supercharge your iOS/macOS/Linux development workflow.",
             "tags": []
           },
           {
@@ -62863,7 +62875,7 @@
           {
             "name": "Discount Bandit",
             "url": "https://discount-bandit.cybrarist.com/",
-            "description": "\u26a0 - Track pricing, stock status of products across multiple stores such as Amazon, Ebay, Walmart, etc. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
+            "description": "\u26a0 - Track pricing, stock status of products across multiple stores such as Amazon, Ebay, Walmart, etc. ( Source Code ) GPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -62875,7 +62887,7 @@
           {
             "name": "feedmixer",
             "url": "https://github.com/cristoper/feedmixer",
-            "description": "FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON). ( Demo ) WTFPL Python",
+            "description": "Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed (returns Atom, RSS, or JSON). ( Demo ) WTFPL Python",
             "tags": []
           },
           {
@@ -63071,7 +63083,7 @@
           {
             "name": "Easy!Appointments",
             "url": "https://easyappointments.org/",
-            "description": "A highly customizable web application that allows your customers to book appointments with you via the web. ( Demo , Source Code ) GPL-3.0 PHP",
+            "description": "Allows your customers to book appointments with you via the web. ( Demo , Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -63130,7 +63142,7 @@
           {
             "name": "Firefox Account Server",
             "url": "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html",
-            "description": "This allows you to host your own Firefox accounts server. ( Source Code ) MPL-2.0 Nodejs/Java",
+            "description": "Host your own Firefox accounts server. ( Source Code ) MPL-2.0 Nodejs/Java",
             "tags": []
           },
           {
@@ -63895,7 +63907,7 @@
           {
             "name": "Flexisip",
             "url": "https://www.linphone.org/en/flexisip-sip-server/",
-            "description": "A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ( Source Code ) AGPL-3.0 C/Docker",
+            "description": "Complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ( Source Code ) AGPL-3.0 C/Docker",
             "tags": []
           },
           {
@@ -63913,7 +63925,7 @@
           {
             "name": "FusionPBX",
             "url": "https://www.fusionpbx.com/",
-            "description": "Open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ( Source Code ) MPL-1.1 PHP",
+            "description": "Web interface for multi-platform voice switch called FreeSWITCH. ( Source Code ) MPL-1.1 PHP",
             "tags": []
           },
           {
@@ -64364,13 +64376,13 @@
           {
             "name": "FoodCoopShop",
             "url": "https://www.foodcoopshop.com/",
-            "description": "User-friendly open source software for food-coops. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "User-friendly software for food-coops. ( Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
             "name": "Foodsoft",
             "url": "https://foodcoops.net/",
-            "description": "Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ( Source Code ) AGPL-3.0 Docker/Ruby",
+            "description": "Manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ( Source Code ) AGPL-3.0 Docker/Ruby",
             "tags": []
           },
           {
@@ -64768,7 +64780,7 @@
           {
             "name": "Datasette",
             "url": "https://datasette.io/",
-            "description": "An open source multi-tool for exploring and publishing data, easy import and export and database management. ( Demo , Source Code ) Apache-2.0 Python/Docker",
+            "description": "Explore and publish data with easy import and export and database management. ( Demo , Source Code ) Apache-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -64780,7 +64792,7 @@
           {
             "name": "Evidence",
             "url": "https://evidence.dev",
-            "description": "Evidence is a code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
+            "description": "Code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -64880,7 +64892,7 @@
           {
             "name": "EveryDocs",
             "url": "https://github.com/jonashellmann/everydocs-core",
-            "description": "A simple Document Management System for private use with basic functionality to organize your documents digitally. GPL-3.0 Docker/Ruby",
+            "description": "Simple Document Management System for private use with basic functionality to organize your documents digitally. GPL-3.0 Docker/Ruby",
             "tags": []
           },
           {
@@ -65092,7 +65104,7 @@
           {
             "name": "Drupal Commerce",
             "url": "https://drupalcommerce.org",
-            "description": "Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ( Source Code ) GPL-2.0 PHP",
+            "description": "Popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -65223,7 +65235,7 @@
           {
             "name": "FeedCord",
             "url": "https://github.com/Qolors/FeedCord",
-            "description": "\u26a0 - A simple, lightweight & customizable RSS News Feed for your Discord Server. MIT Docker",
+            "description": "\u26a0 - Simple, lightweight & customizable RSS News Feed for your Discord Server. MIT Docker",
             "tags": []
           },
           {
@@ -65241,13 +65253,13 @@
           {
             "name": "FreshRSS",
             "url": "https://freshrss.org/",
-            "description": "Self-hostable RSS feed aggregator. ( Demo , Source Code , Clients ) AGPL-3.0 PHP/Docker",
+            "description": "Self-hostable RSS feed aggregator. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
             "name": "Fusion",
             "url": "https://github.com/0x2E/fusion",
-            "description": "A lightweight RSS aggregator and reader. MIT Go/Docker",
+            "description": "Lightweight RSS aggregator and reader. MIT Go/Docker",
             "tags": []
           },
           {
@@ -65543,13 +65555,13 @@
           {
             "name": "Enclosed",
             "url": "https://enclosed.cc/",
-            "description": "A minimalistic web application designed for sending private and secure notes. ( Demo , Source Code ) Apache-2.0 Docker/Nodejs",
+            "description": "Minimalistic web application designed for sending private and secure notes. ( Demo , Source Code ) Apache-2.0 Docker/Nodejs",
             "tags": []
           },
           {
             "name": "Files Sharing",
             "url": "https://github.com/axeloz/filesharing",
-            "description": "Open Source and self-hosted files sharing application based on unique and temporary links. GPL-3.0 PHP/Docker",
+            "description": "File sharing application based on unique and temporary links. GPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -65716,7 +65728,7 @@
           {
             "name": "Filestash",
             "url": "https://www.filestash.app/",
-            "description": "A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive. ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -66159,19 +66171,19 @@
           {
             "name": "EMQX",
             "url": "https://www.emqx.io/",
-            "description": "An ultra-scalable open-source MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ( Demo , Source Code ) Apache-2.0 Docker/Erlang",
+            "description": "Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ( Demo , Source Code ) Apache-2.0 Docker/Erlang",
             "tags": []
           },
           {
             "name": "FHEM",
             "url": "https://fhem.de/fhem.html",
-            "description": "FHEM is used to automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ( Source Code ) GPL-3.0 Perl",
+            "description": "Automate common tasks in the household like switching lamps and heating. It can also be used to log events like temperature or power consumption. You can control it via web or smartphone frontends, telnet or TCP/IP directly. ( Source Code ) GPL-3.0 Perl",
             "tags": []
           },
           {
             "name": "FlowForge",
             "url": "https://flowforge.com/",
-            "description": "FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ( Source Code ) Apache-2.0 Nodejs/Docker/K8S",
+            "description": "Deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ( Source Code ) Apache-2.0 Nodejs/Docker/K8S",
             "tags": []
           },
           {
@@ -67211,7 +67223,7 @@
           {
             "name": "DOMJudge",
             "url": "https://www.domjudge.org/",
-            "description": "A system for running a programming contest, like the ICPC regional and world championship programming contests. ( Demo , Source Code ) GPL-2.0/BSD-3-Clause/MIT PHP",
+            "description": "System for running a programming contest, like the ICPC regional and world championship programming contests. ( Demo , Source Code ) GPL-2.0/BSD-3-Clause/MIT PHP",
             "tags": []
           },
           {
@@ -67235,7 +67247,7 @@
           {
             "name": "Fasten Health",
             "url": "https://github.com/fastenhealth/fasten-onprem/",
-            "description": "\u26a0 - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
+            "description": "\u26a0 - Personal/family electronic medical record aggregator, designed to integrate with hundreds of thousands of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -67546,7 +67558,7 @@
           {
             "name": "Fava",
             "url": "https://beancount.github.io/fava/",
-            "description": "Fava is the web frontend of Beancount, a text based double-entry accounting system. ( Demo , Source Code ) MIT Python",
+            "description": "Web frontend of Beancount, a text based double-entry accounting system. ( Demo , Source Code ) MIT Python",
             "tags": []
           },
           {
@@ -67558,7 +67570,7 @@
           {
             "name": "FOSSBilling",
             "url": "https://fossbilling.org/",
-            "description": "Free and open source hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ( Demo , Source Code ) Apache-2.0 PHP/Docker",
+            "description": "Hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. ( Demo , Source Code ) Apache-2.0 PHP/Docker",
             "tags": []
           },
           {
@@ -67743,7 +67755,7 @@
           {
             "name": "flatnotes",
             "url": "https://github.com/dullage/flatnotes",
-            "description": "A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ( Demo ) MIT Docker",
+            "description": "Database-less note-taking web app that utilises a flat folder of markdown files for storage. ( Demo ) MIT Docker",
             "tags": []
           },
           {
@@ -67868,7 +67880,7 @@
           {
             "name": "Etherpad",
             "url": "https://etherpad.org/",
-            "description": "Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
+            "description": "Highly customizable online editor providing collaborative editing in real-time. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -67968,7 +67980,7 @@
           {
             "name": "FlashPaper",
             "url": "https://github.com/AndrewPaglusch/FlashPaper",
-            "description": "A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ( Demo ) MIT Docker/PHP",
+            "description": "One-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ( Demo ) MIT Docker/PHP",
             "tags": []
           },
           {
@@ -68093,7 +68105,7 @@
           {
             "name": "Fenrus",
             "url": "https://github.com/revenz/fenrus",
-            "description": "A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has \"Smart Apps\" which display live data for those apps. GPL-3.0 .NET/Docker",
+            "description": "Personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has \"Smart Apps\" which display live data for those apps. GPL-3.0 .NET/Docker",
             "tags": []
           },
           {
@@ -68592,7 +68604,7 @@
           {
             "name": "Firezone",
             "url": "https://www.firezone.dev/",
-            "description": "Self-hosted secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ( Source Code ) Apache-2.0 Elixir/Docker",
+            "description": "Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. ( Source Code ) Apache-2.0 Elixir/Docker",
             "tags": []
           },
           {
@@ -68650,8 +68662,8 @@
           },
           {
             "name": "ERPNext",
-            "url": "https://erpnext.com",
-            "description": "Free open source ERP system. ( Source Code ) GPL-3.0 Python/Docker",
+            "url": "https://frappe.io/erpnext",
+            "description": "ERP system to help you run your business. ( Source Code ) GPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -68704,7 +68716,7 @@
           {
             "name": "Fess",
             "url": "https://fess.codelibs.org/",
-            "description": "Fess is a very powerful and easily deployable Enterprise Search Server. ( Demo , Source Code ) Apache-2.0 Java/Docker",
+            "description": "Powerful and easily deployable Enterprise Search Server. ( Demo , Source Code ) Apache-2.0 Java/Docker",
             "tags": []
           },
           {
@@ -69604,8 +69616,8 @@
           },
           {
             "name": "FreeScout",
-            "url": "https://github.com/freescout-helpdesk/freescout",
-            "description": "Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. AGPL-3.0 PHP/Docker",
+            "url": "https://freescout.net/",
+            "description": "Email-based customer support application, help desk and shared mailbox (alternative to Zendesk and Help Scout). ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
