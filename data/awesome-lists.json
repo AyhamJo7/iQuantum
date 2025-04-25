@@ -14429,6 +14429,12 @@
             "tags": []
           },
           {
+            "name": "Devopness",
+            "url": "https://github.com/devopness/devopness",
+            "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
+            "tags": []
+          },
+          {
             "name": "django cookiecutter",
             "url": "https://github.com/pydanny/cookiecutter-django",
             "description": "(label: hacktoberfest) An implementation of Python for backend web development.",
@@ -14727,12 +14733,6 @@
             "tags": []
           },
           {
-            "name": "Iron",
-            "url": "https://github.com/iron/iron",
-            "description": "(label: easy) An extensible, concurrent web framework for Rust",
-            "tags": []
-          },
-          {
             "name": "nushell",
             "url": "https://github.com/nushell/nushell",
             "description": "(label: good first issue) A modern shell for the GitHub era written in Rust.",
@@ -14869,7 +14869,7 @@
           {
             "name": "Devopness",
             "url": "https://github.com/devopness/devopness",
-            "description": "(label: good first issue) Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.",
+            "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
             "tags": []
           },
           {
@@ -42971,12 +42971,6 @@
             "name": "TeXstudio",
             "url": "http://www.texstudio.org",
             "description": "Integrated writing environment for creating LaTeX documents.",
-            "tags": []
-          },
-          {
-            "name": "Timelane",
-            "url": "http://timelane.tools",
-            "description": "Visually profile your asynchronous code.",
             "tags": []
           },
           {
