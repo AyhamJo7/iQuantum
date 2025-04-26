@@ -8603,7 +8603,7 @@
           {
             "name": "awesome-stacks",
             "url": "https://github.com/ethibox/awesome-stacks",
-            "description": "Deploy 80+ open-source web apps with one Docker command",
+            "description": "Deploy 150+ open-source web apps with one Docker command",
             "tags": []
           },
           {
@@ -50564,6 +50564,12 @@
             "tags": []
           },
           {
+            "name": "database-gateway",
+            "url": "https://github.com/kazhuravlev/database-gateway",
+            "description": "Running SQL in production with ACLs, logs, and shared links.",
+            "tags": []
+          },
+          {
             "name": "dbbench",
             "url": "https://github.com/sj14/dbbench",
             "description": "Database benchmarking tool with support for several databases and scripts.",
@@ -60488,6 +60494,12 @@
             "tags": []
           },
           {
+            "name": "healthcheck",
+            "url": "https://github.com/kazhuravlev/healthcheck",
+            "description": "A simple yet powerful readiness test for Kubernetes.",
+            "tags": []
+          },
+          {
             "name": "hostctl",
             "url": "https://github.com/guumaster/hostctl",
             "description": "A CLI tool to manage /etc/hosts with easy commands.",
@@ -60695,6 +60707,12 @@
             "name": "onecache",
             "url": "https://github.com/adelowo/onecache",
             "description": "Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).",
+            "tags": []
+          },
+          {
+            "name": "optional",
+            "url": "https://github.com/kazhuravlev/optional",
+            "description": "Optional struct fields and vars.",
             "tags": []
           },
           {
