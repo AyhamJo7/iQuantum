@@ -18980,12 +18980,6 @@
             "url": "https://github.com/Flomp/wanderer",
             "description": "Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ( Demo ) AGPL-3.0 Docker/Go/Nodejs",
             "tags": []
-          },
-          {
-            "name": "\u03bclogger",
-            "url": "https://github.com/bfabiszewski/ulogger-server",
-            "description": "Collect geolocation from users in real-time and display their GPS tracks on a website. ( Demo ) GPL-3.0 PHP",
-            "tags": []
           }
         ]
       },
