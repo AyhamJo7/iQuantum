@@ -65626,7 +65626,7 @@
           },
           {
             "name": "tendermint-rs",
-            "url": "https://github.com/informalsystems/tendermint-rs",
+            "url": "https://github.com/cometbft/tendermint-rs",
             "description": "Tendermint blockchain data structures and clients",
             "tags": []
           },
@@ -67320,6 +67320,12 @@
             "name": "1History",
             "url": "https://github.com/1History/1History",
             "description": "Command line interface to backup Firefox/Chrome/Safari history to one SQLite file",
+            "tags": []
+          },
+          {
+            "name": "bloznelis/kbt",
+            "url": "https://github.com/bloznelis/kbt",
+            "description": "[ kbt ] - A simple TUI tool for keyboard testing.",
             "tags": []
           },
           {
@@ -70125,6 +70131,12 @@
       {
         "name": "Data streaming",
         "resources": [
+          {
+            "name": "arkflow-rs/arkflow",
+            "url": "https://github.com/arkflow-rs/arkflow",
+            "description": "High-performance Rust stream processing engine",
+            "tags": []
+          },
           {
             "name": "ArroyoSystems/arroyo",
             "url": "https://github.com/ArroyoSystems/arroyo",
