@@ -54323,12 +54323,6 @@
             "tags": []
           },
           {
-            "name": "gomol",
-            "url": "https://github.com/aphistic/gomol",
-            "description": "Multiple-output, structured logging for Go with extensible logging outputs.",
-            "tags": []
-          },
-          {
             "name": "gone/log",
             "url": "https://github.com/One-com/gone/tree/master/log",
             "description": "Fast, extendable, full-featured, std-lib source compatible log library.",
