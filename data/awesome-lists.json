@@ -47048,6 +47048,12 @@
             "tags": []
           },
           {
+            "name": "Dockit",
+            "url": "https://dockit-docs.pages.dev",
+            "description": "An application that can dock any window to the edge of the screen.",
+            "tags": []
+          },
+          {
             "name": "Dissolv",
             "url": "https://www.7sols.com/dissolv/",
             "description": "Hide and close inactive apps.",
