@@ -5690,7 +5690,7 @@
           {
             "name": "Drogon",
             "url": "https://github.com/an-tao/drogon",
-            "description": "A C++14/17 based, high-performance HTTP application framework. [MIT]",
+            "description": "A C++17/20 based, high-performance HTTP application framework. [MIT]",
             "tags": []
           },
           {
@@ -68186,6 +68186,12 @@
             "tags": []
           },
           {
+            "name": "godzie44/BugStalker",
+            "url": "https://github.com/godzie44/BugStalker",
+            "description": "Modern debugger for Linux x86-64. Written in Rust for Rust programs.",
+            "tags": []
+          },
+          {
             "name": "kxxt/tracexec",
             "url": "https://github.com/kxxt/tracexec",
             "description": "[ tracexec ] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.",
@@ -69016,7 +69022,7 @@
           {
             "name": "smartcorelib/smartcore",
             "url": "https://github.com/smartcorelib/smartcore",
-            "description": "Machine Learning Library",
+            "description": "Machine Learning Library [ ]",
             "tags": []
           },
           {
