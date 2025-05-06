@@ -15065,13 +15065,13 @@
           {
             "name": "Matomo",
             "url": "https://matomo.org/",
-            "description": "Google Analytics alternative that protects your data and your customers' privacy. ( Source Code ) GPL-3.0 PHP",
+            "description": "Web analytics that protects your data and your customers' privacy (alternative to Google Analytics). ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
             "name": "Metabase",
             "url": "https://metabase.com/",
-            "description": "Easy, open-source way for everyone in your company to ask questions and learn from data. ( Source Code ) AGPL-3.0 Java/Docker",
+            "description": "Easy way for everyone in your company to ask questions and learn from data. ( Source Code ) AGPL-3.0 Java/Docker",
             "tags": []
           },
           {
@@ -15083,7 +15083,7 @@
           {
             "name": "Mixpost",
             "url": "https://mixpost.app/",
-            "description": "Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ( Source Code ) MIT PHP/Docker",
+            "description": "Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -15351,7 +15351,7 @@
           {
             "name": "Matchering",
             "url": "https://github.com/sergree/matchering",
-            "description": "A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). GPL-3.0 Docker",
+            "description": "Automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -15446,7 +15446,7 @@
           {
             "name": "Mataroa",
             "url": "https://mataroa.blog/",
-            "description": "Mataroa is a naked blogging platform for minimalists. ( Source Code ) MIT Python",
+            "description": "Naked blogging platform for minimalists. ( Source Code ) MIT Python",
             "tags": []
           },
           {
@@ -15652,8 +15652,8 @@
           },
           {
             "name": "Manage My Damn Life",
-            "url": "https://github.com/intri-in/manage-my-damn-life-nextjs",
-            "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. GPL-3.0 Nodejs/Docker",
+            "url": "https://intri.in/manage-my-damn-life/",
+            "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ( Source Code ) GPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -15968,8 +15968,8 @@
           },
           {
             "name": "Maddy Mail Server",
-            "url": "https://github.com/foxcpp/maddy",
-            "description": "All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. GPL-3.0 Go",
+            "url": "https://maddy.email/",
+            "description": "All-in-one mail server that implements SMTP (both MTA and MX) and IMAP. Replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC with single daemon. ( Source Code ) GPL-3.0 Go",
             "tags": []
           },
           {
@@ -15981,19 +15981,19 @@
           {
             "name": "Mailcow",
             "url": "https://mailcow.email/",
-            "description": "Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ( Source Code ) GPL-2.0 Docker/PHP",
+            "description": "Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ( Source Code ) GPL-3.0 Docker/PHP",
             "tags": []
           },
           {
             "name": "Mailu",
             "url": "https://mailu.io/",
-            "description": "Mailu is a simple yet full-featured mail server as a set of Docker images. ( Source Code ) MIT Docker/Python",
+            "description": "Simple yet full-featured mail server as a set of Docker images. ( Source Code ) MIT Docker/Python",
             "tags": []
           },
           {
             "name": "Modoboa",
             "url": "https://modoboa.org/en/",
-            "description": "Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ( Source Code ) ISC Python",
+            "description": "Mail hosting and management platform including a modern and simplified web user interface. ( Source Code ) ISC Python",
             "tags": []
           },
           {
@@ -16105,7 +16105,7 @@
           {
             "name": "MailCatcher",
             "url": "https://mailcatcher.me/",
-            "description": "Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ( Source Code ) MIT Ruby",
+            "description": "Deploy a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ( Source Code ) MIT Ruby",
             "tags": []
           },
           {
@@ -16157,14 +16157,14 @@
           },
           {
             "name": "Mailman",
-            "url": "https://www.gnu.org/software/mailman/",
-            "description": "The Gnu mailing list server. GPL-3.0 Python",
+            "url": "https://www.list.org/",
+            "description": "Manage electronic mail discussion and e-newsletter lists. ( Source Code ) GPL-3.0 Python",
             "tags": []
           },
           {
             "name": "Mautic",
             "url": "https://www.mautic.org/",
-            "description": "Mautic is marketing automation software (email, social and more). ( Source Code ) GPL-3.0 PHP",
+            "description": "Marketing automation software (email, social and more). ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -16520,7 +16520,7 @@
           {
             "name": "Misago",
             "url": "https://misago-project.org/",
-            "description": "Misago is fully featured modern forum application that is fast, scalable and responsive. ( Source Code ) GPL-2.0 Docker",
+            "description": "Fully featured modern forum application that is fast, scalable and responsive. ( Source Code ) GPL-2.0 Docker",
             "tags": []
           },
           {
@@ -16675,7 +16675,7 @@
           {
             "name": "MiroTalk C2C",
             "url": "https://c2c.mirotalk.com",
-            "description": "Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ( Source Code ) MIT Nodejs/Docker",
+            "description": "Real-time cam-2-cam video calls & screen sharing, end-to-end encrypted, to embed in any website with a simple iframe. ( Source Code ) AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -16833,7 +16833,7 @@
           {
             "name": "motion.tools (Antragsgr\u00fcn)",
             "url": "https://motion.tools/",
-            "description": "A web tool for managing motions and amendments for (political) conventions. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "Manage motions and amendments for (political) conventions. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -16958,7 +16958,7 @@
           {
             "name": "MODX",
             "url": "https://modx.com/",
-            "description": "MODX is an advanced content management and publishing platform. The current version is called 'Revolution'. ( Source Code ) GPL-2.0 PHP",
+            "description": "Advanced content management and publishing platform. The current version is called 'Revolution'. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -17226,13 +17226,7 @@
           {
             "name": "Mathesar",
             "url": "https://mathesar.org/",
-            "description": "An intuitive UI for managing data collaboratively, for users of all technical skill levels. Built on Postgres \u2013 connect an existing DB or set up a new one. ( Source Code ) GPL-3.0 Docker/Python",
-            "tags": []
-          },
-          {
-            "name": "MindsDB",
-            "url": "https://mindsdb.com/",
-            "description": "MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. ( Source Code ) GPL-3.0 Docker/Python",
+            "description": "Intuitive UI to manage data collaboratively, for users of all technical skill levels. Built on Postgres \u2013 connect an existing DB or set up a new one. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -17332,7 +17326,7 @@
           {
             "name": "Mayan EDMS",
             "url": "https://www.mayan-edms.com",
-            "description": "Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ( Source Code ) Apache-2.0 Python",
+            "description": "Electronic document management system for your documents with preview generation, OCR, and automatic categorization among other features. ( Source Code ) GPL-2.0 Docker/K8S",
             "tags": []
           },
           {
@@ -17543,20 +17537,20 @@
           },
           {
             "name": "Magento Open Source",
-            "url": "https://github.com/magento/magento2",
-            "description": "Leading provider of open omnichannel innovation. OSL-3.0 PHP",
+            "url": "https://business.adobe.com/products/magento/magento-commerce.html",
+            "description": "Leading provider of open omnichannel innovation. ( Source Code ) OSL-3.0 PHP",
             "tags": []
           },
           {
             "name": "MedusaJs",
             "url": "https://medusajs.com/",
-            "description": "Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences. ( Demo , Source Code ) MIT Nodejs",
+            "description": "Headless commerce engine that enables developers to create amazing digital commerce experiences. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           },
           {
             "name": "Microweber",
             "url": "https://microweber.com/",
-            "description": "Drag and Drop CMS and online shop. ( Source Code ) Apache-2.0 PHP",
+            "description": "Drag and Drop CMS and online shop. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -17705,7 +17699,7 @@
           {
             "name": "Miniflux",
             "url": "https://miniflux.app/",
-            "description": "Miniflux is a minimalist and open source news reader, written in Go and PostgreSQL. ( Source Code ) Apache-2.0 Go/deb/Docker",
+            "description": "Minimalist news reader. ( Source Code ) Apache-2.0 Go/deb/Docker",
             "tags": []
           },
           {
@@ -17883,7 +17877,7 @@
           {
             "name": "Minio",
             "url": "https://min.io/",
-            "description": "Minio is an open source object storage server compatible with Amazon S3 APIs. ( Source Code ) AGPL-3.0 Go/Docker/K8S",
+            "description": "Object storage server compatible with Amazon S3 APIs. ( Source Code ) AGPL-3.0 Go/Docker/K8S",
             "tags": []
           },
           {
@@ -18245,7 +18239,7 @@
           {
             "name": "MTA:SA",
             "url": "https://multitheftauto.com/",
-            "description": "\u26a0 - Multi Theft Auto (MTA) is a software project that adds network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. ( Source Code ) GPL-3.0 C++",
+            "description": "\u26a0 - Add network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. ( Source Code ) GPL-3.0 C++",
             "tags": []
           },
           {
@@ -18759,7 +18753,7 @@
           {
             "name": "memEx",
             "url": "https://gitea.bubbletea.dev/shibao/memEx",
-            "description": "A structured personal knowledge base, inspired by zettlekasten and org-mode. AGPL-3.0 Docker",
+            "description": "Structured personal knowledge base, inspired by zettlekasten and org-mode. AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -18830,7 +18824,7 @@
           {
             "name": "Moodle",
             "url": "https://moodle.org/",
-            "description": "Moodle is a learning and courses platform with one of the largest open source communities worldwide. ( Demo , Source Code ) GPL-3.0 PHP",
+            "description": "Learning and courses platform with one of the largest open source communities worldwide. ( Demo , Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -18895,7 +18889,7 @@
           {
             "name": "Mainsail",
             "url": "https://docs.mainsail.xyz/",
-            "description": "A modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ( Source Code ) GPL-3.0 Docker/Python",
+            "description": "Modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -19240,7 +19234,7 @@
           {
             "name": "Maloja",
             "url": "https://github.com/krateng/maloja",
-            "description": "Self-hosted music scrobble database (alternative to Last.fm). ( Demo ) GPL-3.0 Python/Docker",
+            "description": "Music scrobble database (alternative to Last.fm). ( Demo ) GPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -19264,7 +19258,7 @@
           {
             "name": "mStream",
             "url": "https://mstream.io/",
-            "description": "Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ( Source Code ) GPL-2.0 Nodejs",
+            "description": "Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ( Source Code ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -19442,7 +19436,7 @@
           {
             "name": "MediaCMS",
             "url": "https://mediacms.io",
-            "description": "MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ( Source Code ) AGPL-3.0 Python/Docker",
+            "description": "Modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ( Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -19777,7 +19771,7 @@
           {
             "name": "Mere Medical",
             "url": "https://meremedical.co/",
-            "description": "\u26a0 - With Mere Medical, you can finally manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
+            "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -20082,13 +20076,13 @@
           {
             "name": "Mybucks.online",
             "url": "https://mybucks.online",
-            "description": "A secure, browser-based, password-only self-custodial cryptocurrency wallet. ( Demo , Source Code ) MIT Nodejs",
+            "description": "Secure, browser-based, password-only self-custodial cryptocurrency wallet. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           },
           {
             "name": "MyFin Budget",
             "url": "https://myfinbudget.com",
-            "description": "Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ( Demo , Source Code , Clients ) AGPL-3.0 Nodejs/Docker",
+            "description": "Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ( Demo , Source Code , Clients ) GPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -20225,7 +20219,7 @@
           {
             "name": "Memos",
             "url": "https://usememos.com/",
-            "description": "An open source, self-hosted knowledge base that works with a SQLite db file. ( Source Code ) MIT Docker/Go",
+            "description": "Knowledge base that works with a SQLite db file. ( Demo , Source Code ) MIT Docker/Go",
             "tags": []
           },
           {
@@ -20712,13 +20706,13 @@
           {
             "name": "Mediagoblin",
             "url": "https://mediagoblin.org",
-            "description": "Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). ( Source Code ) AGPL-3.0 Python",
+            "description": "Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
             "name": "Mejiro",
             "url": "https://github.com/dmpop/mejiro",
-            "description": "An easy-to-use PHP web application for instant photo publishing. GPL-3.0 PHP",
+            "description": "Easy-to-use instant photo publishing. GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -20885,13 +20879,13 @@
           {
             "name": "Meetable",
             "url": "https://events.indieweb.org",
-            "description": "A minimal events aggregator. ( Source Code ) MIT PHP",
+            "description": "Minimal events aggregator. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
             "name": "Mobilizon",
             "url": "https://mobilizon.org",
-            "description": "A federated tool that helps you find, create and organise events and groups. ( Source Code ) GPL-3.0 Elixir/Docker",
+            "description": "Federated tool that helps you find, create and organise events and groups. ( Source Code ) AGPL-3.0 Elixir/Docker",
             "tags": []
           },
           {
@@ -21056,7 +21050,7 @@
           {
             "name": "MeshCentral",
             "url": "https://meshcentral.com/",
-            "description": "A full computer management website. With MeshCentral, you can run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ( Source Code ) Apache-2.0 Nodejs",
+            "description": "Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ( Source Code ) Apache-2.0 Nodejs",
             "tags": []
           },
           {
@@ -21305,7 +21299,7 @@
           {
             "name": "Mistborn",
             "url": "https://gitlab.com/cyber5k/mistborn",
-            "description": "Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services. MIT Shell/Docker",
+            "description": "Virtual private cloud platform and WebUI that manages self hosted services. MIT Shell/Docker",
             "tags": []
           },
           {
@@ -21630,7 +21624,7 @@
           {
             "name": "Manifest",
             "url": "https://manifest.build",
-            "description": "A complete backend that fits into 1 YAML file. ( Demo , Source Code ) MIT Nodejs",
+            "description": "Complete backend that fits into 1 YAML file. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -21761,7 +21755,7 @@
           {
             "name": "minimal-git-server",
             "url": "https://github.com/mcarbonne/minimal-git-server",
-            "description": "A lightweight and minimal self-hosted git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. MIT Docker",
+            "description": "Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. MIT Docker",
             "tags": []
           },
           {
@@ -22087,7 +22081,7 @@
           {
             "name": "MantisBT",
             "url": "https://www.mantisbt.org/",
-            "description": "Self hosted bug tracker, fits best for software development. ( Demo , Source Code ) GPL-2.0 PHP",
+            "description": "Bug tracker, fits best for software development. ( Demo , Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -22442,7 +22436,7 @@
           {
             "name": "Mediawiki",
             "url": "https://www.mediawiki.org/wiki/MediaWiki",
-            "description": "MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month. ( Demo , Source Code ) GPL-2.0 PHP",
+            "description": "Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. ( Demo , Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -46403,6 +46397,12 @@
             "tags": []
           },
           {
+            "name": "DNS Optimizer",
+            "url": "https://www.appecosys.com/apps/dns-optimizer/",
+            "description": "A DNS changer and performance\u2011benchmarking tool for Apple devices (macOS & iOS).",
+            "tags": []
+          },
+          {
             "name": "DevToysMac",
             "url": "https://github.com/ObuchiYuki/DevToysMac",
             "description": "Offline toolbox that helps developers in daily tasks.",
@@ -69887,6 +69887,12 @@
             "name": "orium/archery",
             "url": "https://github.com/orium/archery",
             "description": "[ archery ] - Library to abstract from Rc / Arc pointer types.",
+            "tags": []
+          },
+          {
+            "name": "orx-parallel",
+            "url": "https://crates.io/crates/orx-parallel",
+            "description": "High performance, configurable and expressive parallel computation library.",
             "tags": []
           },
           {
