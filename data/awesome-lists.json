@@ -6075,15 +6075,15 @@
             "tags": []
           },
           {
-            "name": "xdg",
-            "url": "https://github.com/OpenPeeDeeP/xdg",
-            "description": "Cross platform package that follows the XDG Standard .",
-            "tags": []
-          },
-          {
             "name": "yamagiconf",
             "url": "https://github.com/romshark/yamagiconf",
             "description": "The \"safe subset\" of YAML for Go configs.",
+            "tags": []
+          },
+          {
+            "name": "zerocfg",
+            "url": "https://github.com/chaindead/zerocfg",
+            "description": "Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.",
             "tags": []
           }
         ]
@@ -49480,6 +49480,12 @@
             "tags": []
           },
           {
+            "name": "ave-sergeev/tictonix",
+            "url": "https://github.com/Ave-Sergeev/Tictonix",
+            "description": "[ tictonix ] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.",
+            "tags": []
+          },
+          {
             "name": "blackportal-ai/delta",
             "url": "https://github.com/blackportal-ai/delta",
             "description": "\u0394 An Open-Source Machine Learning Framework in Rust.",
@@ -79168,6 +79174,12 @@
             "name": "deploy",
             "url": "https://github.com/ttiny/deploy",
             "description": ":skull: - Git and Docker deployment tool. A middle ground between simple Docker composition tools and full blown cluster orchestration by @ttiny",
+            "tags": []
+          },
+          {
+            "name": "docker-to-iac",
+            "url": "https://github.com/deploystackio/docker-to-iac",
+            "description": "Translate docker run and commit into Infrastructure as Code templates for AWS, Render.com and DigitalOcean by @DeployStack",
             "tags": []
           },
           {
