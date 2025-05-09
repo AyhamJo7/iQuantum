@@ -6193,12 +6193,6 @@
         "name": "CSS Preprocessors",
         "resources": [
           {
-            "name": "gcss",
-            "url": "https://github.com/yosssi/gcss",
-            "description": "Pure Go CSS Preprocessor.",
-            "tags": []
-          },
-          {
             "name": "go-libsass",
             "url": "https://github.com/wellington/go-libsass",
             "description": "Go wrapper to the 100% Sass compatible libsass project.",
