@@ -49327,6 +49327,12 @@
             "tags": []
           },
           {
+            "name": "bcheidemann/fixtures-rs",
+            "url": "https://github.com/bcheidemann/fixtures-rs/tree/main/fixtures",
+            "description": "[ fixtures ] - A proc macro for generating tests from fixtures using glob patterns",
+            "tags": []
+          },
+          {
             "name": "fake-rs",
             "url": "https://github.com/cksac/fake-rs",
             "description": "A library for generating fake data",
@@ -51689,8 +51695,8 @@
             "tags": []
           },
           {
-            "name": "brendanzab/gl-rs",
-            "url": "https://github.com/brendanzab/gl-rs",
+            "name": "gl-rs",
+            "url": "https://github.com/rust-windowing/gl-rs",
             "description": "An OpenGL function pointer loader",
             "tags": []
           },
@@ -53370,8 +53376,8 @@
           },
           {
             "name": "pyrossh/rust-embed",
-            "url": "https://github.com/pyrossh/rust-embed",
-            "description": "A macro to embed static assets into the rust binary",
+            "url": "https://git.sr.ht/~pyrossh/rust-embed",
+            "description": "[ rust-embed ] - A macro to embed static assets into the rust binary",
             "tags": []
           },
           {
@@ -56093,6 +56099,12 @@
             "tags": []
           },
           {
+            "name": "Daily Stars Explorer",
+            "url": "https://emanuelef.github.io/daily-stars-explorer",
+            "description": "\u26a0 - Track GitHub repo trends with daily star insights to see growth and community interest over time. ( Demo , Source Code ) MIT Go/Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Druid",
             "url": "http://druid.io/",
             "description": "Distributed, column-oriented, real-time analytics data store. ( Source Code ) Apache-2.0 Java/Docker",
@@ -58464,6 +58476,12 @@
             "name": "Calibre",
             "url": "https://calibre-ebook.com/",
             "description": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ( Demo , Source Code ) GPL-3.0 Python/deb",
+            "tags": []
+          },
+          {
+            "name": "Kapowarr",
+            "url": "https://casvt.github.io/Kapowarr/",
+            "description": "Build and manage a comic book library. Download, rename, move and convert issues of the volume to your liking. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -60874,6 +60892,12 @@
             "name": "Open-Meteo",
             "url": "https://open-meteo.com/",
             "description": "Weather API with open-data forecasts, historical and climate data from all major national weather services. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "OpenEMR",
+            "url": "https://www.open-emr.org/",
+            "description": "Electronic health records and medical practice management solution. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
             "tags": []
           },
           {
