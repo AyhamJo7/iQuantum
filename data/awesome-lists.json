@@ -47844,6 +47844,12 @@
             "tags": []
           },
           {
+            "name": "scooter",
+            "url": "https://github.com/thomasschafer/scooter",
+            "description": "Interactive find and replace in the terminal.",
+            "tags": []
+          },
+          {
             "name": "sd",
             "url": "https://crates.io/crates/sd",
             "description": "Intuitive find & replace CLI",
@@ -62062,7 +62068,7 @@
           },
           {
             "name": "Fork Recipes",
-            "url": "https://mikebgrep.github.io/forkapi/clients/",
+            "url": "https://mikebgrep.github.io/forkapi/latest/clients/",
             "description": "Manage your food recipes with simplicity. ( Source Code ) BSD-3-Clause Docker",
             "tags": []
           },
