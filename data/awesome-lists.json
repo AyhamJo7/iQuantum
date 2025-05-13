@@ -29377,6 +29377,12 @@
             "tags": []
           },
           {
+            "name": "OpenMage",
+            "url": "https://github.com/OpenMage/magento-lts",
+            "description": "Fork of EoL Magento 1 e-commerce platform.",
+            "tags": []
+          },
+          {
             "name": "Pico CMS",
             "url": "https://picocms.org/",
             "description": "A stupidly simple, blazing fast, flat file CMS.",
@@ -33256,7 +33262,7 @@
           {
             "name": "Distributed Messaging, Queuing, and Event Streaming",
             "url": "https://arxiv.org/pdf/1704.00411.pdf",
-            "description": "Cape: Event Stream Processing Framework at Dropbox Brooklin: Distributed Service for Near Real-Time Data Streaming at LinkedIn Samza: Stream Processing System for Latency Insighs at LinkedIn Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo EventHorizon: Tool for Watching Events Streaming at Etsy Qmessage: Distributed, Asynchronous Task Queue at Quora Cherami: Message Queue System for Transporting Async Tasks at Uber Dynein: Distributed Delayed Job Queueing System at Airbnb Timestone: Queueing System for Non-Parallelizable Workloads at Netflix Messaging Service at Riot Games Debugging Production with Event Logging at Zillow Cross-platform In-app Messaging Orchestration Service at Netflix Video Gatekeeper at Netflix Scaling Push Messaging for Millions of Devices at Netflix Delaying Asynchronous Message Processing with RabbitMQ at Indeed Benchmarking Streaming Computation Engines at Yahoo Improving Stream Data Quality With Protobuf Schema Validation at Deliveroo Scaling Email Infrastructure at Medium Real-time Messaging at Slack Event Stream Database at Nike Event Tracking System at Udemy Event-Driven Messaging Domain-Driven Design at Alibaba Domain-Driven Design at Weebly Domain-Driven Design at Moonpig Scaling Event Sourcing for Netflix Downloads Scaling Event-Sourcing at Jet.com Event Sourcing (2 parts) at eBay Event Sourcing at FREE NOW Scalable content feed using Event Sourcing and CQRS patterns at Brainly Pub-Sub Messaging Pulsar: Pub-Sub Messaging at Scale at Yahoo Wormhole: Pub-Sub System at Facebook MemQ: Cloud Native Pub-Sub System at Pinterest Pub-Sub in Microservices at Netflix Kafka - Message Broker Kafka at LinkedIn Kafka at Pinterest Kafka at Trello Kafka at Salesforce Kafka at The New York Times Kafka at Yelp Kafka at Criteo Kafka on Kubernetes at Shopify Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (2 parts) Migrating Kafka's Zookeeper with No Downtime at Yelp Reprocessing and Dead Letter Queues with Kafka at Uber Chaperone: Audit Kafka End-to-End at Uber Finding Kafka throughput limit in infrastructure at Dropbox Cost Orchestration at Walmart InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second at Hulu Scaling Kafka to Support Data Growth at PayPal Stream Data Deduplication Exactly-once Semantics with Kafka Real-time Deduping at Tapjoy Deduplication at Segment Deduplication at Mail.Ru Petabyte Scale Data Deduplication at Mixpanel",
+            "description": "Cape: Event Stream Processing Framework at Dropbox Brooklin: Distributed Service for Near Real-Time Data Streaming at LinkedIn Samza: Stream Processing System for Latency Insighs at LinkedIn Bullet: Forward-Looking Query Engine for Streaming Data at Yahoo EventHorizon: Tool for Watching Events Streaming at Etsy Qmessage: Distributed, Asynchronous Task Queue at Quora Cherami: Message Queue System for Transporting Async Tasks at Uber Dynein: Distributed Delayed Job Queueing System at Airbnb Timestone: Queueing System for Non-Parallelizable Workloads at Netflix Messaging Service at Riot Games Messaging System Model at Dropbox Debugging Production with Event Logging at Zillow Cross-platform In-app Messaging Orchestration Service at Netflix Video Gatekeeper at Netflix Scaling Push Messaging for Millions of Devices at Netflix Delaying Asynchronous Message Processing with RabbitMQ at Indeed Benchmarking Streaming Computation Engines at Yahoo Improving Stream Data Quality With Protobuf Schema Validation at Deliveroo Scaling Email Infrastructure at Medium Real-time Messaging at Slack Event Stream Database at Nike Event Tracking System at Udemy Event-Driven Messaging Domain-Driven Design at Alibaba Domain-Driven Design at Weebly Domain-Driven Design at Moonpig Scaling Event Sourcing for Netflix Downloads Scaling Event-Sourcing at Jet.com Event Sourcing (2 parts) at eBay Event Sourcing at FREE NOW Scalable content feed using Event Sourcing and CQRS patterns at Brainly Pub-Sub Messaging Pulsar: Pub-Sub Messaging at Scale at Yahoo Wormhole: Pub-Sub System at Facebook MemQ: Cloud Native Pub-Sub System at Pinterest Pub-Sub in Microservices at Netflix Kafka - Message Broker Kafka at LinkedIn Kafka at Pinterest Kafka at Trello Kafka at Salesforce Kafka at The New York Times Kafka at Yelp Kafka at Criteo Kafka on Kubernetes at Shopify Kafka on PaaSTA: Running Kafka on Kubernetes at Yelp (2 parts) Migrating Kafka's Zookeeper with No Downtime at Yelp Reprocessing and Dead Letter Queues with Kafka at Uber Chaperone: Audit Kafka End-to-End at Uber Finding Kafka throughput limit in infrastructure at Dropbox Cost Orchestration at Walmart InfluxDB and Kafka to Scale to Over 1 Million Metrics a Second at Hulu Scaling Kafka to Support Data Growth at PayPal Stream Data Deduplication Exactly-once Semantics with Kafka Real-time Deduping at Tapjoy Deduplication at Segment Deduplication at Mail.Ru Petabyte Scale Data Deduplication at Mixpanel",
             "tags": []
           },
           {
@@ -52090,6 +52096,17 @@
         ]
       },
       {
+        "name": "Licensing",
+        "resources": [
+          {
+            "name": "WyvernIXTL/license-fetcher",
+            "url": "https://github.com/WyvernIXTL/license-fetcher",
+            "description": "[ license-fetcher ] - Fetch licenses of dependencies at build time and embed them into your program.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Logging",
         "resources": [
           {
@@ -63441,6 +63458,12 @@
             "tags": []
           },
           {
+            "name": "SafeLine",
+            "url": "https://waf.chaitin.com/",
+            "description": "Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ( Demo , Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Static Web Server",
             "url": "https://static-web-server.net/",
             "description": "Cross-platform, high-performance, and asynchronous web server for static file serving. ( Source Code ) Apache-2.0/MIT Rust/Docker",
@@ -66280,6 +66303,12 @@
             "name": "sparsepp",
             "url": "https://github.com/greg7mdp/sparsepp",
             "description": "A fast, memory efficient hash map for C++. [BSD 3-clause]",
+            "tags": []
+          },
+          {
+            "name": "sqlitemap",
+            "url": "https://github.com/bw-hro/sqlitemap",
+            "description": "Persistent map backed by SQLite. [MIT]",
             "tags": []
           },
           {
