@@ -6453,6 +6453,12 @@
             "url": "https://reqable.com",
             "description": "Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client.",
             "tags": []
+          },
+          {
+            "name": "Yaak",
+            "url": "https://yaak.app",
+            "description": "A modern API client supporting multiple protocols, offline usage, and Git integration.",
+            "tags": []
           }
         ]
       },
@@ -14776,6 +14782,41 @@
         ]
       },
       {
+        "name": "Health and Fitness",
+        "resources": [
+          {
+            "name": "Endurain",
+            "url": "https://docs.endurain.com/",
+            "description": "Fitness tracking service designed to give users full control over their data and hosting environment. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Fasten Health",
+            "url": "https://github.com/fastenhealth/fasten-onprem/",
+            "description": "\u26a0 - Personal/family electronic medical record aggregator, designed to integrate with hundreds of thousands of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Mere Medical",
+            "url": "https://meremedical.co/",
+            "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "OpenEMR",
+            "url": "https://www.open-emr.org/",
+            "description": "Electronic health records and medical practice management solution. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
+            "tags": []
+          },
+          {
+            "name": "wger",
+            "url": "https://wger.de/",
+            "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Human Resources Management (HRM)",
         "resources": [
           {
@@ -15884,12 +15925,6 @@
             "tags": []
           },
           {
-            "name": "Endurain",
-            "url": "https://docs.endurain.com/",
-            "description": "Fitness tracking service designed to give users full control over their data and hosting environment. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "ESMira",
             "url": "https://esmira.kl.ac.at",
             "description": "Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ( Demo , Source Code ) AGPL-3.0 PHP",
@@ -15899,12 +15934,6 @@
             "name": "F-Droid",
             "url": "https://f-droid.org",
             "description": "Server tools for maintaining an F-Droid repository system. ( Source Code ) AGPL-3.0 Python/Docker/deb",
-            "tags": []
-          },
-          {
-            "name": "Fasten Health",
-            "url": "https://github.com/fastenhealth/fasten-onprem/",
-            "description": "\u26a0 - Personal/family electronic medical record aggregator, designed to integrate with hundreds of thousands of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -15992,12 +16021,6 @@
             "tags": []
           },
           {
-            "name": "Mere Medical",
-            "url": "https://meremedical.co/",
-            "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
-            "tags": []
-          },
-          {
             "name": "mosparo",
             "url": "https://mosparo.io/",
             "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ( Source Code ) MIT PHP",
@@ -16025,12 +16048,6 @@
             "name": "Open-Meteo",
             "url": "https://open-meteo.com/",
             "description": "Weather API with open-data forecasts, historical and climate data from all major national weather services. ( Demo , Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "OpenEMR",
-            "url": "https://www.open-emr.org/",
-            "description": "Electronic health records and medical practice management solution. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -16145,12 +16162,6 @@
             "name": "WeTTY",
             "url": "https://butlerx.github.io/wetty/#/",
             "description": "Terminal in browser over http/https. ( Source Code ) MIT Docker/Nodejs",
-            "tags": []
-          },
-          {
-            "name": "wger",
-            "url": "https://wger.de/",
-            "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
