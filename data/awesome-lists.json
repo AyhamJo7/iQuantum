@@ -48633,7 +48633,7 @@
           {
             "name": "iniparser",
             "url": "https://github.com/ndevilla/iniparser",
-            "description": "INI file parser. [MIT]*",
+            "description": "INI file parser. [MIT]",
             "tags": []
           },
           {
@@ -48997,6 +48997,12 @@
             "name": "lazycsv",
             "url": "https://github.com/ashtum/lazycsv",
             "description": "A fast, lightweight and single-header csv parser for modern C++. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "rapidcsv",
+            "url": "https://github.com/d99kris/rapidcsv",
+            "description": "An easy-to-use, header-only C++ CSV parser library. [BSD-3-Clause]",
             "tags": []
           },
           {
@@ -49934,7 +49940,7 @@
           },
           {
             "name": "nana",
-            "url": "http://nanapro.org/en-us/",
+            "url": "https://github.com/cnjinhao/nana",
             "description": "Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]",
             "tags": []
           },
@@ -51174,8 +51180,8 @@
           },
           {
             "name": "cml",
-            "url": "http://cmldev.net/",
-            "description": "free C++ math library for games and graphics. [Boost]",
+            "url": "https://github.com/demianmnave/CML",
+            "description": "The configurable math library. [Boost]",
             "tags": []
           },
           {
@@ -55996,7 +56002,7 @@
           {
             "name": "ArviZ",
             "url": "https://github.com/arviz-devs/arviz",
-            "description": "(label: Beginner) Exploratory Anaylsis of Bayesian Models.",
+            "description": "(label: Beginner) Exploratory Analysis of Bayesian Models.",
             "tags": []
           },
           {
@@ -56128,7 +56134,7 @@
           {
             "name": "mypy",
             "url": "https://github.com/python/mypy",
-            "description": "(label: good first issue) An optional static typing for python.",
+            "description": "(label: good first issue) Optional static typing for Python.",
             "tags": []
           },
           {
@@ -56524,7 +56530,7 @@
           {
             "name": "Manifest",
             "url": "https://github.com/mnfst/manifest",
-            "description": "(label: good first issue) Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.",
+            "description": "(label: good first issue) Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.",
             "tags": []
           },
           {
