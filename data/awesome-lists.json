@@ -14181,7 +14181,7 @@
         "resources": [
           {
             "name": "Chibisafe",
-            "url": "https://chibisafe.moe",
+            "url": "https://chibisafe.app",
             "description": "File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ( Source Code ) MIT Docker/Nodejs",
             "tags": []
           },
