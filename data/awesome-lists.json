@@ -14173,6 +14173,12 @@
             "url": "https://transmissionbt.com/",
             "description": "Fast, easy, free Bittorrent client. ( Source Code ) GPL-3.0 C++/deb",
             "tags": []
+          },
+          {
+            "name": "Webtor",
+            "url": "https://github.com/webtor-io/self-hosted",
+            "description": "Web-based torrent client with instant audio/video streaming. ( Demo ) MIT Docker",
+            "tags": []
           }
         ]
       },
@@ -16499,9 +16505,9 @@
             "tags": []
           },
           {
-            "name": "Trilium Notes",
-            "url": "https://github.com/zadam/trilium",
-            "description": "Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. AGPL-3.0 Nodejs/Docker/K8S",
+            "name": "TriliumNext Notes",
+            "url": "https://github.com/TriliumNext/Notes",
+            "description": "Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). AGPL-3.0 Nodejs/Docker/K8S",
             "tags": []
           },
           {
@@ -16822,12 +16828,6 @@
             "name": "Hubleys",
             "url": "https://github.com/knrdl/hubleys-dashboard",
             "description": "Personal dashboards to organize links for multiple users via a central yaml config. MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "Jump",
-            "url": "https://github.com/daledavies/jump",
-            "description": "Yet another startpage for your server designed to be simple, stylish, fast and secure. MIT Docker/PHP",
             "tags": []
           },
           {
@@ -17978,6 +17978,12 @@
             "name": "Leantime",
             "url": "https://leantime.io",
             "description": "Lean project management system for small teams and startups helping to manage projects from ideation through delivery. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "tags": []
+          },
+          {
+            "name": "Mergeable",
+            "url": "https://pvcnt.github.io/mergeable/",
+            "description": "\u26a0 - A better inbox for GitHub pull requests. ( Demo , Source Code ) MIT Nodejs/Docker/K8S",
             "tags": []
           },
           {
