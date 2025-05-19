@@ -57644,6 +57644,12 @@
             "tags": []
           },
           {
+            "name": "Label Backup",
+            "url": "https://github.com/resulgg/label-backup",
+            "description": "A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.",
+            "tags": []
+          },
+          {
             "name": "Docker Volume Backup",
             "url": "https://github.com/offen/docker-volume-backup",
             "description": "Backup Docker volumes locally or to any S3 compatible storage. By @offen",
