@@ -13429,12 +13429,6 @@
             "tags": []
           },
           {
-            "name": "Directus",
-            "url": "https://directus.io/",
-            "description": "An Instant App & API for your SQL Database. Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. ( Source Code ) GPL-3.0 Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Evidence",
             "url": "https://evidence.dev",
             "description": "Code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
@@ -18446,12 +18440,6 @@
             "name": "liteshort",
             "url": "https://ls.ikl.sh/",
             "description": "User-friendly, actually lightweight, and configurable URL shortener. ( Source Code ) MIT Python/deb",
-            "tags": []
-          },
-          {
-            "name": "Lstu",
-            "url": "https://github.com/ldidry/lstu",
-            "description": "Lightweight URL shortener. WTFPL Perl/Docker",
             "tags": []
           },
           {
