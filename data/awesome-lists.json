@@ -16505,12 +16505,6 @@
             "tags": []
           },
           {
-            "name": "turndown",
-            "url": "https://mixmark-io.github.io/turndown/",
-            "description": "HTML to Markdown converter written in Javascript. ( Source Code ) MIT Javascript",
-            "tags": []
-          },
-          {
             "name": "Turtl",
             "url": "https://turtl.it/",
             "description": "Totally private personal database and note taking app. ( Source Code ) GPL-3.0 CommonLisp",
@@ -17912,12 +17906,6 @@
             "name": "Gerrit",
             "url": "https://www.gerritcodereview.com/",
             "description": "Code review and project management tool for Git-based projects. ( Source Code ) Apache-2.0 Java/Docker",
-            "tags": []
-          },
-          {
-            "name": "Gitblit",
-            "url": "https://www.gitblit.com/",
-            "description": "Pure Java stack for managing, viewing, and serving Git repositories. ( Source Code ) Apache-2.0 Java",
             "tags": []
           },
           {
