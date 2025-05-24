@@ -67614,6 +67614,12 @@
             "url": "https://github.com/haobogu/rmk",
             "description": "A feature-rich keyboard firmware.",
             "tags": []
+          },
+          {
+            "name": "uefi-rs",
+            "url": "https://github.com/rust-osdev/uefi-rs",
+            "description": "Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.",
+            "tags": []
           }
         ]
       },
