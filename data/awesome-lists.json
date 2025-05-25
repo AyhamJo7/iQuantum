@@ -13499,12 +13499,6 @@
         "name": "Document Management",
         "resources": [
           {
-            "name": "DocKing",
-            "url": "https://docking.shipsaas.tech",
-            "description": "Document management service/microservice that handles templates and renders them in PDF format, all in one place. ( Demo , Source Code ) MIT PHP/Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Docspell",
             "url": "https://docspell.org",
             "description": "Auto-tagging document organizer and archive. ( Source Code ) GPL-3.0 Scala/Java/Docker",
