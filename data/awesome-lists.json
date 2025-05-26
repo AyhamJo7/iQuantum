@@ -11392,6 +11392,12 @@
             "url": "https://umami.is/",
             "description": "Simple, fast, privacy-focused alternative to Google Analytics. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
+          },
+          {
+            "name": "Vince",
+            "url": "https://www.vinceanalytics.com/",
+            "description": "Web analytics and dashboard (alternative to Google Analytics). ( Demo , Source Code ) AGPL-3.0 Go/Docker/K8S/deb",
+            "tags": []
           }
         ]
       },
@@ -11443,7 +11449,7 @@
           {
             "name": "Omeka S",
             "url": "https://omeka.org/s/",
-            "description": "next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ( Source Code ) GPL-3.0 Nodejs",
+            "description": "Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ( Source Code ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -15603,6 +15609,12 @@
             "tags": []
           },
           {
+            "name": "cmyflix",
+            "url": "https://github.com/farfalleflickan/cmyflix",
+            "description": "Minimalist Plex/Jellyfin alternative to stream video. AGPL-3.0 C/deb",
+            "tags": []
+          },
+          {
             "name": "Gerbera",
             "url": "https://gerbera.io/",
             "description": "UPnP Media Server, which allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. ( Source Code ) GPL-2.0 Docker/deb/C++",
@@ -16989,6 +17001,12 @@
             "name": "Thumbor",
             "url": "http://thumbor.org/",
             "description": "A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ( Source Code ) MIT Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "WeddingShare",
+            "url": "https://docs.wedding-share.org/",
+            "description": "Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ( Demo , Source Code ) GPL-3.0 C#/Docker",
             "tags": []
           },
           {
