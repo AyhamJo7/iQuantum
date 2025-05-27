@@ -12544,12 +12544,6 @@
             "tags": []
           },
           {
-            "name": "Eqivo",
-            "url": "https://eqivo.org/",
-            "description": "Eqivo implements an API layer on top of FreeSWITCH facilitating integration between web applications and voice/video-enabled endpoints such as traditional phone lines (PSTN), VoIP phones, webRTC clients etc. ( Source Code ) MIT Docker/PHP",
-            "tags": []
-          },
-          {
             "name": "Flexisip",
             "url": "https://www.linphone.org/en/flexisip-sip-server/",
             "description": "Complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ( Source Code ) AGPL-3.0 C/Docker",
@@ -18334,12 +18328,6 @@
             "name": "Roundup Issue Tracker",
             "url": "https://www.roundup-tracker.org/",
             "description": "A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ( Source Code ) MIT/ZPL-2.0 Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "Trudesk",
-            "url": "https://trudesk.io/",
-            "description": "Trudesk is an open-source help desk/ticketing solution. ( Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -32250,6 +32238,12 @@
             "tags": []
           },
           {
+            "name": "goapp",
+            "url": "https://github.com/naughtygopher/goapp",
+            "description": "An opinionated guideline to structure & develop a Go web application/service.",
+            "tags": []
+          },
+          {
             "name": "gobase",
             "url": "https://github.com/wajox/gobase",
             "description": "A simple skeleton for golang application with basic setup for real golang application.",
@@ -33384,6 +33378,12 @@
             "name": "NFF-Go",
             "url": "https://github.com/intel-go/nff-go",
             "description": "Framework for rapid development of performant network functions for cloud and bare-metal (former YANFF).",
+            "tags": []
+          },
+          {
+            "name": "nodepass",
+            "url": "https://github.com/yosebyte/nodepass",
+            "description": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.",
             "tags": []
           },
           {
@@ -35000,6 +35000,12 @@
             "tags": []
           },
           {
+            "name": "nibbler",
+            "url": "https://github.com/naughtygopher/nibbler",
+            "description": "A lightweight package for micro batch processing.",
+            "tags": []
+          },
+          {
             "name": "stream",
             "url": "https://github.com/youthlin/stream",
             "description": "Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...",
@@ -36065,6 +36071,12 @@
             "name": "go-recipe",
             "url": "https://github.com/kkyr/go-recipe",
             "description": "A package for scraping recipes from websites.",
+            "tags": []
+          },
+          {
+            "name": "go-sitemap-parser",
+            "url": "https://github.com/aafeher/go-sitemap-parser",
+            "description": "Go language library for parsing Sitemaps.",
             "tags": []
           },
           {
@@ -41659,12 +41671,6 @@
             "name": "go-patterns",
             "url": "https://github.com/tmrts/go-patterns",
             "description": "Curated list of Go design patterns, recipes and idioms.",
-            "tags": []
-          },
-          {
-            "name": "goapp",
-            "url": "https://github.com/naughtygopher/goapp",
-            "description": "An opinionated guideline to structure & develop a Go web application/service.",
             "tags": []
           },
           {
@@ -56619,6 +56625,12 @@
             "name": "Storybook JS",
             "url": "https://github.com/storybookjs/storybook",
             "description": "(label: good first issue) Storybook is a frontend workshop for building UI components and pages in isolation.",
+            "tags": []
+          },
+          {
+            "name": "supabase",
+            "url": "https://github.com/supabase/supabase",
+            "description": "(label: good first issue) The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
             "tags": []
           },
           {
