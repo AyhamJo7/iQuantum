@@ -12338,12 +12338,6 @@
             "tags": []
           },
           {
-            "name": "MailCatcher",
-            "url": "https://mailcatcher.me/",
-            "description": "Deploy a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ( Source Code ) MIT Ruby",
-            "tags": []
-          },
-          {
             "name": "OpenSMTPD",
             "url": "https://opensmtpd.org/",
             "description": "Secure SMTP server implementation from the OpenBSD project. ( Source Code ) ISC C/deb",
