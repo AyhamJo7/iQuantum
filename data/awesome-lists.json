@@ -66960,6 +66960,12 @@
             "tags": []
           },
           {
+            "name": "Saga Reader",
+            "url": "https://github.com/sopaco/saga-reader",
+            "description": "A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.",
+            "tags": []
+          },
+          {
             "name": "Servo",
             "url": "https://github.com/servo/servo",
             "description": "A prototype web browser engine",
