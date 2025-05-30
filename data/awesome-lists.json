@@ -16266,12 +16266,6 @@
             "tags": []
           },
           {
-            "name": "Invoice Ninja",
-            "url": "https://www.invoiceninja.org/",
-            "description": "Powerful tool to invoice clients online. ( Demo , Source Code ) AAL PHP/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "InvoicePlane",
             "url": "https://www.invoiceplane.com/",
             "description": "Manage quotes, invoices, payments and customers for your small business. ( Source Code ) MIT PHP",
@@ -17924,12 +17918,6 @@
             "name": "GitLab",
             "url": "https://about.gitlab.com",
             "description": "Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ( Demo , Source Code ) MIT Ruby/deb/Docker/K8S",
-            "tags": []
-          },
-          {
-            "name": "Gitolite",
-            "url": "https://gitolite.com/gitolite/index.html",
-            "description": "Setup git hosting on a central server, with fine-grained access control and many more powerful features. ( Source Code ) GPL-2.0 Perl",
             "tags": []
           },
           {
@@ -28743,6 +28731,12 @@
             "name": "expr",
             "url": "https://github.com/antonmedv/expr",
             "description": "Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.",
+            "tags": []
+          },
+          {
+            "name": "FrankenPHP",
+            "url": "https://github.com/dunglas/frankenphp",
+            "description": "PHP embedded in Go, with a net/http handler.",
             "tags": []
           },
           {
