@@ -25052,7 +25052,7 @@
           {
             "name": "JMeter DSL.java",
             "url": "https://abstracta.github.io/jmeter-java-dsl/",
-            "description": "Load tests with JMeter as simple as a Junit test.",
+            "description": "Load tests with JMeter as simple as a JUnit test.",
             "tags": []
           },
           {
@@ -32601,12 +32601,6 @@
             "name": "Eclipse Che",
             "url": "https://www.eclipse.org/che/",
             "description": "Open source workspace server and cloud IDE. ( Source Code ) EPL-1.0 Docker/Java",
-            "tags": []
-          },
-          {
-            "name": "HttPlaceholder",
-            "url": "https://github.com/dukeofharen/httplaceholder",
-            "description": "Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. MIT C#",
             "tags": []
           },
           {
