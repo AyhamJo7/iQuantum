@@ -30523,12 +30523,6 @@
             "tags": []
           },
           {
-            "name": "ReadyMedia",
-            "url": "https://sourceforge.net/projects/minidlna/",
-            "description": "Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ( Source Code ) GPL-2.0 C",
-            "tags": []
-          },
-          {
             "name": "Rygel",
             "url": "https://gnome.pages.gitlab.gnome.org/rygel/",
             "description": "Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ( Source Code ) GPL-3.0 C",
@@ -32704,12 +32698,6 @@
             "tags": []
           },
           {
-            "name": "Motor Admin",
-            "url": "https://www.getmotoradmin.com/",
-            "description": "No-code admin panel and business intelligence software - search, create, update, and delete data entries, create custom actions, and build reports. ( Source Code ) AGPL-3.0 Ruby/Docker",
-            "tags": []
-          },
-          {
             "name": "PocketBase",
             "url": "https://pocketbase.io/",
             "description": "Backend for your next SaaS and Mobile app in one file. ( Source Code ) MIT Go/Docker",
@@ -32812,7 +32800,7 @@
           },
           {
             "name": "Mergeable",
-            "url": "https://pvcnt.github.io/mergeable/",
+            "url": "https://www.usemergeable.dev",
             "description": "\u26a0 - A better inbox for GitHub pull requests. ( Demo , Source Code ) MIT Nodejs/Docker/K8S",
             "tags": []
           },
@@ -45031,8 +45019,8 @@
         "name": "Data visualization",
         "resources": [
           {
-            "name": "blitzarx1/egui_graphs",
-            "url": "https://github.com/blitzarx1/egui_graphs",
+            "name": "blitzar-tech/egui_graphs",
+            "url": "https://github.com/blitzar-tech/egui_graphs",
             "description": "[ egui_graphs ] - Interactive graph visualization widget powered by egui and petgraph.",
             "tags": []
           },
@@ -45146,7 +45134,7 @@
           {
             "name": "lmdb",
             "url": "https://crates.io/keywords/lmdb",
-            "description": "LMDB [  ] vhbit/lmdb-rs [ lmdb-rs ] - LMDB bindings",
+            "description": "LMDB [  ] meilisearch/heed [ heed ] - Another LMDB binding vhbit/lmdb-rs [ lmdb-rs ] - LMDB bindings",
             "tags": []
           },
           {
