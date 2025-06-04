@@ -15350,12 +15350,6 @@
             "tags": []
           },
           {
-            "name": "Jiffy",
-            "url": "https://sindresorhus.com/jiffy",
-            "description": "Discover and share the best GIFs on GIPHY.",
-            "tags": []
-          },
-          {
             "name": "Later",
             "url": "https://getlater.app/",
             "description": "Save all your Mac apps for later with one click.",
@@ -15425,6 +15419,12 @@
             "name": "PowerMeister",
             "url": "https://naden.co",
             "description": "Conserve energy and improve Battery-Life on your MacBook.",
+            "tags": []
+          },
+          {
+            "name": "Quickgif",
+            "url": "https://quickgif.app/",
+            "description": "Quickly Find and Share GIFs.",
             "tags": []
           },
           {
