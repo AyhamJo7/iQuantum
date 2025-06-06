@@ -13739,6 +13739,41 @@
         ]
       },
       {
+        "name": "AI Client",
+        "resources": [
+          {
+            "name": "ChatGPT",
+            "url": "https://openai.com/chatgpt/download/",
+            "description": "A conversational AI system that listens, learns, and challenges",
+            "tags": []
+          },
+          {
+            "name": "Cherry Studio",
+            "url": "https://www.cherry-ai.com/",
+            "description": "A desktop client that supports multiple large language model (LLM) providers.",
+            "tags": []
+          },
+          {
+            "name": "Chatbox",
+            "url": "https://chatboxai.app",
+            "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...).",
+            "tags": []
+          },
+          {
+            "name": "Jan",
+            "url": "https://jan.ai/",
+            "description": "An open-source alternative to ChatGPT that runs entirely offline on your computer.",
+            "tags": []
+          },
+          {
+            "name": "Witsy",
+            "url": "https://jan.ai/",
+            "description": "desktop AI assistant / universal MCP client.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Collaboration and Team Tools",
         "resources": [
           {
@@ -13868,12 +13903,6 @@
             "tags": []
           },
           {
-            "name": "Skype",
-            "url": "https://www.skype.com/",
-            "description": "Cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.",
-            "tags": []
-          },
-          {
             "name": "Slack",
             "url": "https://slack.com/downloads/mac",
             "description": "Awesome tool for team collaboration and communication.",
@@ -13883,6 +13912,12 @@
             "name": "Stack",
             "url": "https://getstack.app/",
             "description": "Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.",
+            "tags": []
+          },
+          {
+            "name": "Teams",
+            "url": "https://teams.live.com/",
+            "description": "Free online meetings and video calls",
             "tags": []
           },
           {
@@ -28295,6 +28330,12 @@
             "tags": []
           },
           {
+            "name": "Kottster",
+            "url": "https://kottster.app/",
+            "description": "Low-code admin panel that connects to your database and automatically generates pages to view and manage your data. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Limbas",
             "url": "https://www.limbas.com/en/",
             "description": "Database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ( Source Code ) GPL-2.0 PHP",
@@ -29576,7 +29617,7 @@
           {
             "name": "Cozy Cloud",
             "url": "https://cozy.io/",
-            "description": "Personal cloud where you can manage and sync your contact, files and calendars, and manage your budget with an app store full of community contributions. ( Source Code ) GPL-3.0 Nodejs",
+            "description": "Personal cloud where you can manage and sync your files, notes, contacts, passwords, and documents. ( Source Code , Clients ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
