@@ -26253,12 +26253,6 @@
             "tags": []
           },
           {
-            "name": "RudderStack",
-            "url": "https://rudderstack.com/",
-            "description": "Collect, unify, transform, and store your customer data, and route it to a wide range of common, popular marketing, sales, and product tools (alternative to Segment). ( Source Code ) AGPL-3.0 Docker/K8S/Go/Nodejs",
-            "tags": []
-          },
-          {
             "name": "Shynet",
             "url": "https://github.com/milesmcc/shynet",
             "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Apache-2.0 Python/Docker",
@@ -26724,7 +26718,7 @@
           {
             "name": "Readeck",
             "url": "https://readeck.org/en/",
-            "description": "Readeck is a simple web application that lets you save the precious readable content of web pages you like and want to keep forever. See it as a bookmark manager and a read later tool. ( Source Code , Clients ) AGPL-3.0 Go/Docker",
+            "description": "Save the precious readable content of web pages you like and want to keep forever. See it as a bookmark manager and a read later tool. ( Source Code , Clients ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -26962,7 +26956,7 @@
           {
             "name": "Rocket.Chat",
             "url": "https://rocket.chat/",
-            "description": "Teamchat solution similar to Gitter.im or Slack. ( Source Code ) MIT Nodejs/Docker/K8S",
+            "description": "Communications platform that puts data protection first (alternative to Gitter.im or Slack). ( Source Code ) MIT Nodejs/Docker/K8S",
             "tags": []
           },
           {
@@ -27400,7 +27394,7 @@
           {
             "name": "Robust IRC",
             "url": "https://robustirc.net/",
-            "description": "RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ( Source Code ) BSD-3-Clause Go",
+            "description": "IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ( Source Code ) BSD-3-Clause Go",
             "tags": []
           },
           {
@@ -27477,7 +27471,7 @@
           {
             "name": "Routr",
             "url": "https://routr.io",
-            "description": "A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ( Source Code ) MIT Docker/K8S",
+            "description": "Lightweight SIP proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ( Source Code ) MIT Docker/K8S",
             "tags": []
           },
           {
@@ -27704,13 +27698,13 @@
           {
             "name": "remark42",
             "url": "https://remark42.com/",
-            "description": "A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ( Demo , Source Code ) MIT Docker/Go",
+            "description": "Lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ( Demo , Source Code ) MIT Docker/Go",
             "tags": []
           },
           {
             "name": "Retrospring",
             "url": "https://github.com/retrospring/retrospring",
-            "description": "A free, open-source social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ( Demo ) AGPL-3.0 Ruby/Nodejs",
+            "description": "Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ( Demo ) AGPL-3.0 Ruby/Nodejs",
             "tags": []
           },
           {
@@ -28124,7 +28118,7 @@
           {
             "name": "REDAXO",
             "url": "https://www.redaxo.org",
-            "description": "Simple, flexible and useful content management system (documentation only available in German). ( Source Code ) MIT PHP/Docker",
+            "description": "Simple, flexible and useful content management system (documentation in German). ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -28847,13 +28841,13 @@
           {
             "name": "reader",
             "url": "https://github.com/lemon24/reader",
-            "description": "A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. BSD-3-Clause Python",
+            "description": "Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. BSD-3-Clause Python",
             "tags": []
           },
           {
             "name": "Readflow",
             "url": "https://readflow.app",
-            "description": "Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ( Source Code ) MIT Go/Docker",
+            "description": "Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications. ( Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -28865,19 +28859,19 @@
           {
             "name": "RSS Monster",
             "url": "https://github.com/pietheinstrengholt/rssmonster",
-            "description": "An easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). MIT PHP",
+            "description": "Easy to use web-based RSS aggregator and reader compatible with the Fever API (alternative to Google Reader). MIT PHP",
             "tags": []
           },
           {
             "name": "RSS2EMail",
             "url": "https://github.com/rss2email/rss2email",
-            "description": "Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. GPL-2.0 Python/deb",
+            "description": "Fetches RSS/Atom-feeds and pushes new content to any email-receiver, supports OPML. GPL-2.0 Python/deb",
             "tags": []
           },
           {
             "name": "RSSHub",
             "url": "https://docs.rsshub.app",
-            "description": "An easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "description": "Easy to use, and extensible RSS feed aggregator capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -29304,7 +29298,7 @@
           {
             "name": "ResourceSpace",
             "url": "https://www.resourcespace.com",
-            "description": "ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets. ( Demo , Source Code ) BSD-4-Clause PHP",
+            "description": "Simple, fast, and free way to organise your digital assets. ( Demo , Source Code ) BSD-4-Clause PHP",
             "tags": []
           },
           {
@@ -29399,7 +29393,7 @@
           {
             "name": "Red Eclipse 2",
             "url": "https://redeclipse.net",
-            "description": "A FOSS Arena First-Person Shooter Similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
+            "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
             "tags": []
           },
           {
@@ -30019,13 +30013,13 @@
           {
             "name": "RELATE",
             "url": "https://documen.tician.de/relate/",
-            "description": "RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ( Source Code ) MIT Python",
+            "description": "Courseware package that includes features such as: flexible rules, statistics, multi-course support, class calendar. ( Source Code ) MIT Python",
             "tags": []
           },
           {
             "name": "RosarioSIS",
             "url": "https://www.rosariosis.org/",
-            "description": "RosarioSIS, free Student Information System for school management. ( Demo , Source Code ) GPL-2.0 PHP",
+            "description": "Student Information System for school management. Features students demographics, grades, scheduling, attendance, student billing, discipline & food service modules. ( Demo , Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -30274,7 +30268,7 @@
           {
             "name": "Radarr",
             "url": "https://radarr.video/",
-            "description": "Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, \u00e0 la Couchpotato. ( Source Code ) GPL-3.0 C#/Docker",
+            "description": "Automatically download movies via Usenet and BitTorrent (fork of Sonarr). ( Source Code ) GPL-3.0 C#/Docker",
             "tags": []
           },
           {
@@ -30566,7 +30560,7 @@
           {
             "name": "Rygel",
             "url": "https://gnome.pages.gitlab.gnome.org/rygel/",
-            "description": "Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ( Source Code ) GPL-3.0 C",
+            "description": "UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ( Source Code ) LGPL-2.1 C",
             "tags": []
           },
           {
@@ -30631,13 +30625,13 @@
           {
             "name": "Rapidbay",
             "url": "https://github.com/hauxir/rapidbay/",
-            "description": "Self-hosted torrent videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. MIT Python/Docker",
+            "description": "Videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. MIT Python/Docker",
             "tags": []
           },
           {
             "name": "Restreamer",
             "url": "https://datarhei.github.io/restreamer/",
-            "description": "Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider. ( Source Code ) Apache-2.0 Nodejs/Docker",
+            "description": "Access H.264 real-time video streaming on your website without a streaming provider. ( Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -30972,7 +30966,7 @@
           {
             "name": "Reactive Resume",
             "url": "https://rxresu.me/",
-            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ( Demo , Source Code ) MIT Docker/Nodejs",
+            "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ( Demo , Source Code ) MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -30984,7 +30978,7 @@
           {
             "name": "Revive Adserver",
             "url": "https://www.revive-adserver.com/",
-            "description": "World's most popular free, open source ad serving system. Formerly known as OpenX Adserver and phpAdsNew. ( Source Code ) GPL-2.0 PHP",
+            "description": "Ad serving system. Formerly known as OpenX Adserver and phpAdsNew. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -31241,7 +31235,7 @@
           {
             "name": "REI3",
             "url": "https://rei3.de/home_en/",
-            "description": "Open source, expandable Business Management Software. Manage tasks, time, assets and much more. ( Demo , Source Code ) MIT Go",
+            "description": "Manage tasks, time, assets and much more within your business. ( Demo , Source Code ) MIT Go",
             "tags": []
           },
           {
@@ -31597,7 +31591,7 @@
           {
             "name": "rustypaste",
             "url": "https://github.com/orhun/rustypaste",
-            "description": "A minimal file upload/pastebin service. MIT Rust",
+            "description": "Minimal file upload/pastebin service. MIT Rust",
             "tags": []
           },
           {
@@ -31734,7 +31728,7 @@
           {
             "name": "ryot",
             "url": "https://github.com/ignisda/ryot",
-            "description": "Platform for tracking various facets of your life - media, fitness, etc. ( Demo ) GPL-3.0 Docker",
+            "description": "Track various facets of your life - media, fitness, etc. ( Demo ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -32120,7 +32114,7 @@
           {
             "name": "Recipya",
             "url": "https://recipes.musicavis.ca",
-            "description": "A clean, simple and powerful recipe manager your whole family will enjoy. ( Demo , Source Code ) GPL-3.0 Docker/Go",
+            "description": "Clean, simple and powerful recipe manager your whole family will enjoy. ( Demo , Source Code ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -32173,7 +32167,7 @@
           {
             "name": "Remotely",
             "url": "https://github.com/immense/Remotely",
-            "description": "A remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. GPL-3.0 C#/Docker",
+            "description": "Remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. GPL-3.0 C#/Docker",
             "tags": []
           },
           {
@@ -32902,7 +32896,7 @@
           {
             "name": "Redmine",
             "url": "https://www.redmine.org/",
-            "description": "Redmine is a flexible project management web application. ( Source Code ) GPL-2.0 Ruby",
+            "description": "Flexible project management web application. ( Source Code ) GPL-2.0 Ruby",
             "tags": []
           },
           {
@@ -32914,13 +32908,13 @@
           {
             "name": "rgit",
             "url": "https://github.com/w4/rgit",
-            "description": "An ultra-fast & lightweight cgit clone. WTFPL Rust/Docker",
+            "description": "Ultra-fast & lightweight cgit clone. WTFPL Rust/Docker",
             "tags": []
           },
           {
             "name": "RhodeCode",
             "url": "https://rhodecode.com/",
-            "description": "RhodeCode is an open source platform for software development teams. It unifies and simplifies repository management for Git, Subversion, and Mercurial. ( Source Code ) AGPL-3.0 Python",
+            "description": "Unify and simplify repository management for Git, Subversion, and Mercurial. ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
@@ -33192,13 +33186,13 @@
           {
             "name": "Request Tracker",
             "url": "https://www.bestpractical.com/rt/",
-            "description": "An enterprise-grade issue tracking system. ( Source Code ) GPL-2.0 Perl",
+            "description": "Enterprise-grade issue tracking system. ( Source Code ) GPL-2.0 Perl",
             "tags": []
           },
           {
             "name": "Roundup Issue Tracker",
             "url": "https://www.roundup-tracker.org/",
-            "description": "A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ( Source Code ) MIT/ZPL-2.0 Python/Docker",
+            "description": "Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ( Source Code ) MIT/ZPL-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -33304,7 +33298,7 @@
           {
             "name": "rs-short",
             "url": "https://git.42l.fr/42l/rs-short",
-            "description": "A lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ( Demo ) MPL-2.0 Rust",
+            "description": "Lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ( Demo ) MPL-2.0 Rust",
             "tags": []
           },
           {
@@ -33559,7 +33553,7 @@
           {
             "name": "Raneto",
             "url": "https://raneto.com/",
-            "description": "Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase. ( Source Code ) MIT Nodejs",
+            "description": "Knowledgebase platform that uses static Markdown files. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -41063,8 +41057,8 @@
             "tags": []
           },
           {
-            "name": "shssoichiro/oxipng",
-            "url": "https://github.com/shssoichiro/oxipng",
+            "name": "oxipng",
+            "url": "https://github.com/oxipng/oxipng",
             "description": "[ oxipng ] - Multithreaded PNG optimizer written in Rust.",
             "tags": []
           }
@@ -47340,8 +47334,8 @@
             "tags": []
           },
           {
-            "name": "0x676e67/rquest",
-            "url": "https://github.com/0x676e67/rquest",
+            "name": "0x676e67/wreq",
+            "url": "https://github.com/0x676e67/wreq",
             "description": "An ergonomic Rust HTTP Client with TLS fingerprint.",
             "tags": []
           },
