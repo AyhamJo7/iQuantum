@@ -5579,7 +5579,7 @@
         "resources": [
           {
             "name": "Actual",
-            "url": "https://actualbudget.github.io/docs/",
+            "url": "https://actualbudget.org",
             "description": "Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ( Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
@@ -19307,6 +19307,12 @@
             "name": "fleabitdev/gamelisp",
             "url": "https://github.com/fleabitdev/glsp",
             "description": "A Lisp-like scripting language for game development",
+            "tags": []
+          },
+          {
+            "name": "giraffekey/xylo",
+            "url": "https://github.com/giraffekey/xylo",
+            "description": "[ xylo-lang ] - A functional programming language for procedural art.",
             "tags": []
           },
           {
@@ -43685,7 +43691,7 @@
           },
           {
             "name": "cheek",
-            "url": "https://github.com/datarootsio/cheek",
+            "url": "https://github.com/bart6114/cheek",
             "description": "A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.",
             "tags": []
           },
