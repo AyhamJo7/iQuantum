@@ -1568,6 +1568,12 @@
             "tags": []
           },
           {
+            "name": "b1gMail",
+            "url": "https://www.b1gmail.eu",
+            "description": "Complete email solution that runs on any webspace with PHP and MariaDB. It supports POP3 catchall mailboxes and can also integrate with Postfix or b1gMailServer if you're running your own server. ( Source Code , Clients ) GPL-2.0 PHP",
+            "tags": []
+          },
+          {
             "name": "DebOps",
             "url": "https://docs.debops.org/",
             "description": "Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ( Source Code ) GPL-3.0 Ansible/Python",
@@ -4087,9 +4093,21 @@
         "name": "Generative Artificial Intelligence (GenAI)",
         "resources": [
           {
+            "name": "AnythingLLM",
+            "url": "https://anythingllm.com/",
+            "description": "All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ( Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "IOPaint",
             "url": "https://www.iopaint.com/",
             "description": "\u26a0 - Image inpainting tool powered by SOTA AI Model. ( Source Code ) Apache-2.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "Khoj",
+            "url": "https://khoj.dev/",
+            "description": "Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -4410,6 +4428,12 @@
       {
         "name": "Knowledge Management Tools",
         "resources": [
+          {
+            "name": "AFFiNE Community Edition",
+            "url": "https://affine.pro/",
+            "description": "Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). ( Demo , Source Code ) MIT/AGPL-3.0 Docker",
+            "tags": []
+          },
           {
             "name": "Atomic Server",
             "url": "https://github.com/atomicdata-dev/atomic-server",
@@ -6030,6 +6054,12 @@
             "tags": []
           },
           {
+            "name": "Chiyogami",
+            "url": "https://github.com/rhee876527/chiyogami",
+            "description": "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. BSD-3-Clause Docker",
+            "tags": []
+          },
+          {
             "name": "dpaste",
             "url": "https://dpaste.org/",
             "description": "Simple pastebin with multiple text and code option, with short url result easy to remember. ( Source Code ) MIT Docker/Django",
@@ -6523,6 +6553,12 @@
       {
         "name": "Proxy",
         "resources": [
+          {
+            "name": "g3proxy",
+            "url": "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/",
+            "description": "Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. ( Source Code ) Apache-2.0 Rust/deb",
+            "tags": []
+          },
           {
             "name": "imgproxy",
             "url": "https://imgproxy.net/",
@@ -58971,7 +59007,7 @@
           },
           {
             "name": "material-ui",
-            "url": "https://github.com/mui-org/material-ui",
+            "url": "https://github.com/mui/material-ui",
             "description": "(label: good first issue) React components for faster and easier web development. Build your own design system, or start with Material Design.",
             "tags": []
           },
@@ -59019,7 +59055,7 @@
           },
           {
             "name": "Next.js",
-            "url": "https://github.com/zeit/next.js",
+            "url": "https://github.com/vercel/next.js",
             "description": "(label: good first issue) A minimalistic framework for universal server-rendered React applications",
             "tags": []
           },
@@ -59103,7 +59139,7 @@
           },
           {
             "name": "reactjs.org",
-            "url": "https://github.com/reactjs/reactjs.org",
+            "url": "https://github.com/reactjs/react.dev",
             "description": "(label: good first issue) The documentation website for reactjs",
             "tags": []
           },
@@ -59187,7 +59223,7 @@
           },
           {
             "name": "Vue Router",
-            "url": "https://github.com/vuejs/vue-router",
+            "url": "https://github.com/vuejs/router",
             "description": "(label: good first issue) The official router for Vue.js.",
             "tags": []
           },
@@ -59320,6 +59356,12 @@
             "name": "Appwrite",
             "url": "https://github.com/appwrite/appwrite",
             "description": "(label: good first issue) An End-to-end backend server for frontend and mobile developers. \ud83d\ude80",
+            "tags": []
+          },
+          {
+            "name": "CodeIgniter",
+            "url": "https://github.com/codeigniter4/CodeIgniter4",
+            "description": "(label: good first issue) A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.",
             "tags": []
           },
           {
