@@ -36796,7 +36796,7 @@
           {
             "name": "Distributed Repositories, Dependencies, and Configurations Management",
             "url": "https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/",
-            "description": "DGit: Distributed Git at Github Stemma: Distributed Git Server at Palantir Configuration Management for Distributed Systems at Flickr Git Repository at Microsoft Solve Git Problem with Large Repositories at Microsoft Single Repository at Google Scaling Infrastructure and (Git) Workflow at Adyen Dotfiles Distribution at Booking.com Secret Detector: Preventing Secrets in Source Code at Yelp Managing Software Dependency at Scale at LinkedIn Merging Code in High-velocity Repositories at LinkedIn Dynamic Configuration at Twitter Dynamic Configuration at Mixpanel Dynamic Configuration at GoDaddy",
+            "description": "DGit: Distributed Git at Github Stemma: Distributed Git Server at Palantir Configuration Management for Distributed Systems at Flickr Git Repository at Microsoft Solve Git Problem with Large Repositories at Microsoft Single Repository at Google Scaling Infrastructure and (Git) Workflow at Adyen Dotfiles Distribution at Booking.com Secret Detector: Preventing Secrets in Source Code at Yelp Managing Software Dependency at Scale at LinkedIn Merging Code in High-velocity Repositories at LinkedIn Dynamic Configuration at Twitter Dynamic Configuration at Mixpanel Dynamic Configuration at GoDaddy Fleet Management (3 parts) at Spotify",
             "tags": []
           },
           {
