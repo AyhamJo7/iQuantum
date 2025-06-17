@@ -7662,12 +7662,6 @@
             "tags": []
           },
           {
-            "name": "Tegon",
-            "url": "https://tegon.ai",
-            "description": "\u26a0 - Dev-first issue tracking tool (alternative to Jira, Linear). ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "Tracks",
             "url": "https://www.getontracks.org/",
             "description": "Web-based application to help you implement David Allen\u2019s Getting Things Done\u2122 methodology. ( Source Code ) GPL-2.0 Ruby",
@@ -39775,6 +39769,12 @@
             "url": "https://github.com/hyfather/pipeline",
             "description": "An implementation of pipelines with fan-in and fan-out.",
             "tags": []
+          },
+          {
+            "name": "pipelines",
+            "url": "https://github.com/nxdir-s/pipelines",
+            "description": "Generic pipeline functions for concurrent processing.",
+            "tags": []
           }
         ]
       },
@@ -47151,6 +47151,12 @@
             "tags": []
           },
           {
+            "name": "reflectpro",
+            "url": "https://github.com/gontainer/reflectpro",
+            "description": "Callers, copiers, getters and setters for go.",
+            "tags": []
+          },
+          {
             "name": "reflectutils",
             "url": "https://github.com/muir/reflectutils",
             "description": "Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.",
@@ -48942,6 +48948,12 @@
             "tags": []
           },
           {
+            "name": "godump (goforj)",
+            "url": "https://github.com/goforj/godump",
+            "description": "Pretty-print Go structs with Laravel/Symfony-style dumps, full type info, colorized CLI output, cycle detection, and private field access.",
+            "tags": []
+          },
+          {
             "name": "gofeed",
             "url": "https://github.com/mmcdole/gofeed",
             "description": "Parse RSS and Atom feeds in Go.",
@@ -49970,6 +49982,12 @@
             "name": "Death",
             "url": "https://github.com/vrecan/death",
             "description": "Managing go application shutdown with signals.",
+            "tags": []
+          },
+          {
+            "name": "debounce",
+            "url": "https://github.com/floatdrop/debounce",
+            "description": "A zero-allocation debouncer written in Go.",
             "tags": []
           },
           {
@@ -63207,6 +63225,12 @@
             "tags": []
           },
           {
+            "name": "PhotonLibOS",
+            "url": "https://github.com/alibaba/PhotonLibOS",
+            "description": "A comprehensive C++ framework featuring efficient user-space threading (coroutine with work-stealing), I/O, networking, RPC, HTTP, etc., and used extensively in Alibaba. It is compatible with C++ 14/17/20/23, Linux, MacOS, x86-64, ARM64, gcc and clang. [Apache2] website",
+            "tags": []
+          },
+          {
             "name": "Qt",
             "url": "https://github.com/qt",
             "description": ":zap: - A cross-platform application and UI framework. [GPL/LGPL/Proprietary] website",
@@ -63276,6 +63300,12 @@
             "name": "Windows Template Library",
             "url": "http://sourceforge.net/projects/wtl/",
             "description": "A C++ library for developing Windows applications and UI components. [Public]",
+            "tags": []
+          },
+          {
+            "name": "xtd",
+            "url": "https://github.com/gammasoft71/xtd",
+            "description": "Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]",
             "tags": []
           },
           {
@@ -65497,6 +65527,12 @@
             "tags": []
           },
           {
+            "name": "Hazel Game Engine",
+            "url": "https://github.com/TheCherno/Hazel",
+            "description": "Hazel is primarily an early-stage interactive application and rendering engine for Windows. [Apache-2.0 license]",
+            "tags": []
+          },
+          {
             "name": "JNGL",
             "url": "https://github.com/jhasse/jngl/",
             "description": "2D library for Linux, Windows, macOS, Android, iOS, Xbox, the Nintendo Switch and the Web. [zlib] website",
@@ -65786,12 +65822,6 @@
             "name": "wxWidgets",
             "url": "http://wxwidgets.org/",
             "description": "A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]",
-            "tags": []
-          },
-          {
-            "name": "xtd",
-            "url": "https://github.com/gammasoft71/xtd",
-            "description": "Modern C++17/20 framework to create console (CLI), forms (GUI like WinForms) and tunit (unit tests like Microsoft Unit Testing Framework) applications on Windows, macOS, Linux, iOS and android. [MIT]",
             "tags": []
           },
           {
