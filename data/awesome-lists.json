@@ -40718,6 +40718,12 @@
             "tags": []
           },
           {
+            "name": "go-rqlite",
+            "url": "https://github.com/rqlite/gorqlite",
+            "description": "A Go client for rqlite, providing easy-to-use abstractions for working with the rqlite API.",
+            "tags": []
+          },
+          {
             "name": "go-sql-driver/mysql",
             "url": "https://github.com/go-sql-driver/mysql",
             "description": "MySQL driver for Go.",
