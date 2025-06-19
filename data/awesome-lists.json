@@ -659,7 +659,7 @@
           },
           {
             "name": "Druid",
-            "url": "http://druid.io/",
+            "url": "https://druid.apache.org",
             "description": "Distributed, column-oriented, real-time analytics data store. ( Source Code ) Apache-2.0 Java/Docker",
             "tags": []
           },
@@ -815,7 +815,7 @@
           {
             "name": "ArchiveBox",
             "url": "https://archivebox.io/",
-            "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ( Source Code ) MIT Python/Docker",
+            "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ( Demo , Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -940,7 +940,7 @@
           {
             "name": "Github Ntfy",
             "url": "https://github.com/BreizhHardware/ntfy_alerts",
-            "description": "\u26a0 - Push notifications to NTFY when a new release is available on Docker Hub or Github. ( Clients ) GPL-3.0 Docker",
+            "description": "\u26a0 - Push notifications to NTFY, Gotify, Discord or Slack when a new release is available on Docker Hub or Github. ( Clients ) GPL-3.0 Rust/Docker",
             "tags": []
           },
           {
@@ -2958,6 +2958,12 @@
             "name": "OpenSign",
             "url": "https://www.opensignlabs.com",
             "description": "\u26a0 - Document signing software (alternative to DocuSign). ( Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "Paperless-AI",
+            "url": "https://github.com/clusterzx/paperless-ai/",
+            "description": "Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents. MIT Docker",
             "tags": []
           },
           {
@@ -6235,7 +6241,7 @@
           {
             "name": "Homer",
             "url": "https://github.com/bastienwirtz/homer",
-            "description": "Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. Apache-2.0 Docker/K8S/Nodejs",
+            "description": "Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. ( Demo ) Apache-2.0 Docker/K8S/Nodejs",
             "tags": []
           },
           {
@@ -12718,6 +12724,12 @@
             "tags": []
           },
           {
+            "name": "Kaspa",
+            "url": "https://github.com/kaspanet/rusty-kaspa",
+            "description": "The fastest, open-source, decentralized & fully scalable Layer-1 in the world.",
+            "tags": []
+          },
+          {
             "name": "Lighthouse",
             "url": "https://github.com/sigp/lighthouse",
             "description": "Ethereum Consensus Layer (CL) Client",
@@ -14542,6 +14554,12 @@
             "tags": []
           },
           {
+            "name": "Eoin-McMahon/Blindfold",
+            "url": "https://github.com/Eoin-McMahon/Blindfold",
+            "description": "[ Blindfold ] - A simple CLI tool for generating .gitignore files quickly and easily.",
+            "tags": []
+          },
+          {
             "name": "Epic Asset Manager",
             "url": "https://github.com/AchetaGames/Epic-Asset-Manager",
             "description": "An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.",
@@ -15329,7 +15347,7 @@
           },
           {
             "name": "tracemachina/nativelink",
-            "url": "https://github.com/tracemachina/nativelink",
+            "url": "https://github.com/TraceMachina/nativelink",
             "description": "NativeLink is a Backend Remote Execution platform written in rust for client build systems such as Buck2 , Bazel , Pants , etc..",
             "tags": []
           }
@@ -18343,12 +18361,6 @@
             "name": "glutin",
             "url": "https://crates.io/crates/glutin",
             "description": "Alternative to GLFW",
-            "tags": []
-          },
-          {
-            "name": "Kiss3d",
-            "url": "http://kiss3d.org",
-            "description": "draw simple geometric figures and play with them with one-liners",
             "tags": []
           },
           {
