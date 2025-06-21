@@ -956,12 +956,6 @@
             "tags": []
           },
           {
-            "name": "HRConvert2",
-            "url": "https://github.com/zelon88/HRConvert2",
-            "description": "Drag-and-drop file conversion server with session based authentication, automatic temporary file maintenance, and logging capability. GPL-3.0 PHP",
-            "tags": []
-          },
-          {
             "name": "Huginn",
             "url": "https://github.com/huginn/huginn",
             "description": "Build agents that monitor and act on your behalf. MIT Ruby",
@@ -3572,8 +3566,8 @@
           },
           {
             "name": "Send",
-            "url": "https://github.com/timvisee/send",
-            "description": "Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ( Clients ) MPL-2.0 Nodejs/Docker",
+            "url": "https://gitlab.com/timvisee/send",
+            "description": "Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ( Demo , Clients ) MPL-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -6310,12 +6304,6 @@
             "tags": []
           },
           {
-            "name": "Coppermine",
-            "url": "https://coppermine-gallery.com/",
-            "description": "Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums. ( Source Code ) GPL-3.0 PHP",
-            "tags": []
-          },
-          {
             "name": "Damselfly",
             "url": "https://damselfly.info",
             "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. ( Source Code ) GPL-3.0 Docker/C#/.NET",
@@ -6954,12 +6942,6 @@
             "name": "LibreServer",
             "url": "https://libreserver.org/",
             "description": "Home server configuration based on Debian. ( Source Code ) AGPL-3.0 Shell",
-            "tags": []
-          },
-          {
-            "name": "Mars Server",
-            "url": "https://github.com/borjapazr/mars-server",
-            "description": "Managed home server with Docker, Docker Compose, Make and Bash. MIT Docker",
             "tags": []
           },
           {
@@ -27038,6 +27020,12 @@
             "tags": []
           },
           {
+            "name": "Saga Reader",
+            "url": "https://github.com/sopaco/saga-reader",
+            "description": "Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.",
+            "tags": []
+          },
+          {
             "name": "Unread",
             "url": "https://www.goldenhillsoftware.com/unread/",
             "description": "RSS reader with beautiful typography that supports Feedbin, Feedly and so on.",
@@ -27518,6 +27506,12 @@
             "name": "PPRows",
             "url": "https://github.com/jkpang/PPRows",
             "description": "Application to calculate how many lines of code you write.",
+            "tags": []
+          },
+          {
+            "name": "ProcessSpy",
+            "url": "https://process-spy.app/",
+            "description": "A clean and powerful process monitor.",
             "tags": []
           },
           {
@@ -31488,8 +31482,8 @@
           },
           {
             "name": "Mac Mouse Fix",
-            "url": "https://macmousefix.com/en/",
-            "description": "A light-weight tool that fixes External USB Mouse Scrolling issues with native Apple Silicon support.",
+            "url": "https://www.mousefix.org/",
+            "description": "A simple way to make your mouse better. ]",
             "tags": []
           },
           {
@@ -42056,6 +42050,12 @@
             "name": "copy",
             "url": "https://github.com/otiai10/copy",
             "description": "Copy directory recursively.",
+            "tags": []
+          },
+          {
+            "name": "fastwalk",
+            "url": "https://github.com/charlievieth/fastwalk",
+            "description": "Fast parallel directory traversal library (used by fzf ).",
             "tags": []
           },
           {
