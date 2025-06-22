@@ -17038,6 +17038,12 @@
             "tags": []
           },
           {
+            "name": "Ryan-D-Gast/differential-equations",
+            "url": "https://github.com/Ryan-D-Gast/differential-equations",
+            "description": "A high-performance library for numerically solving differential equations",
+            "tags": []
+          },
+          {
             "name": "statrs-dev/statrs",
             "url": "https://github.com/statrs-dev/statrs",
             "description": "Robust statistical computation library",
