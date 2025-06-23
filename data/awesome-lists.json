@@ -12222,6 +12222,12 @@
             "tags": []
           },
           {
+            "name": "clash-verge-rev/clash-verge-rev",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "description": "A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.",
+            "tags": []
+          },
+          {
             "name": "cloudflare/boringtun",
             "url": "https://github.com/cloudflare/boringtun",
             "description": "A Userspace WireGuard VPN Implementation",
