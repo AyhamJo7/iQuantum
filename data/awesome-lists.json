@@ -12258,6 +12258,12 @@
             "tags": []
           },
           {
+            "name": "Edit",
+            "url": "https://github.com/microsoft/edit",
+            "description": "A simple editor for simple needs.",
+            "tags": []
+          },
+          {
             "name": "fcsonline/drill",
             "url": "https://github.com/fcsonline/drill",
             "description": "A HTTP load testing application inspired by Ansible syntax",
@@ -14129,6 +14135,12 @@
             "name": "m4b/bingrep",
             "url": "https://github.com/m4b/bingrep",
             "description": "Greps through binaries from various OSs and architectures, and colors them.",
+            "tags": []
+          },
+          {
+            "name": "matheus-git/systemd-manager-tui",
+            "url": "https://github.com/matheus-git/systemd-manager-tui",
+            "description": "[ systemd-manager-tui ] - A program for managing systemd services through a TUI (Terminal User Interfaces).",
             "tags": []
           },
           {
@@ -17393,8 +17405,8 @@
             "tags": []
           },
           {
-            "name": "swimos/swim-rust",
-            "url": "https://github.com/swimos/swim-rust",
+            "name": "swim-rust",
+            "url": "https://github.com/graphform/swim-rust",
             "description": "[ swim-rust ] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.",
             "tags": []
           }
@@ -20169,6 +20181,12 @@
             "tags": []
           },
           {
+            "name": "ratchet",
+            "url": "https://github.com/graphform/ratchet",
+            "description": "[ ratchet_rs ] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.",
+            "tags": []
+          },
+          {
             "name": "rust-websocket",
             "url": "https://github.com/websockets-rs/rust-websocket",
             "description": "A framework for dealing with WebSocket connections (both clients and servers)",
@@ -20178,12 +20196,6 @@
             "name": "snapview/tungstenite-rs",
             "url": "https://github.com/snapview/tungstenite-rs",
             "description": "Lightweight stream-based WebSocket implementation.",
-            "tags": []
-          },
-          {
-            "name": "swimos/ratchet",
-            "url": "https://github.com/swimos/ratchet",
-            "description": "[ ratchet_rs ] - Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate.",
             "tags": []
           },
           {
