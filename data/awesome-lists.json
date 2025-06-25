@@ -26968,7 +26968,7 @@
           },
           {
             "name": "Readest",
-            "url": "https://github.com/chrox/readest",
+            "url": "https://github.com/readest/readest",
             "description": "Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface.",
             "tags": []
           },
@@ -30682,6 +30682,12 @@
             "tags": []
           },
           {
+            "name": "uPaste",
+            "url": "https://okaapps.com/product/1503649026",
+            "description": "Smart clipboard history & snippets manager, record and organize your copy/paste history automatically. Then you can use your pasteboard content anytime, any where with elegant beautiful UI.",
+            "tags": []
+          },
+          {
             "name": "Yippy",
             "url": "https://github.com/mattDavo/Yippy",
             "description": "Clipboard manager with user-friendly UI.",
@@ -31004,6 +31010,12 @@
             "tags": []
           },
           {
+            "name": "Oka Unarchiver",
+            "url": "https://okaapps.com/product/1441507725",
+            "description": "Support RAR format, batch decompression of archives, password-protected archives, click one button to extract & archive..",
+            "tags": []
+          },
+          {
             "name": "PDF Archiver",
             "url": "https://github.com/JulianKahnert/PDF-Archiver",
             "description": "Nice tool for tagging and archiving tasks.",
@@ -31192,6 +31204,12 @@
             "name": "Upscayl",
             "url": "https://github.com/upscayl/upscayl",
             "description": "Free and open-source AI image upscaling tool.",
+            "tags": []
+          },
+          {
+            "name": "Vidwall",
+            "url": "https://apps.apple.com/app/Vidwall/6747587746",
+            "description": "Supports setting 4K videos (MP4, MOV formats) as dynamic wallpapers.",
             "tags": []
           },
           {
