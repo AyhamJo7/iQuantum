@@ -16497,6 +16497,12 @@
         "name": "Bioinformatics",
         "resources": [
           {
+            "name": "polars-bio",
+            "url": "https://github.com/biodatageeks/polars-bio",
+            "description": "Blazing-Fast Bioinformatic Operations on Python DataFrames",
+            "tags": []
+          },
+          {
             "name": "Rust-Bio",
             "url": "https://github.com/rust-bio",
             "description": "bioinformatics libraries.",
@@ -27312,6 +27318,12 @@
             "tags": []
           },
           {
+            "name": "Windsurf",
+            "url": "https://windsurf.com/",
+            "description": "The first agentic IDE where developers and AI flow together for a magical coding experience.",
+            "tags": []
+          },
+          {
             "name": "Xcode",
             "url": "https://developer.apple.com/xcode/",
             "description": "Essential IDE for iOS/macOS development.",
@@ -32357,9 +32369,9 @@
             "tags": []
           },
           {
-            "name": "Ryujinx",
-            "url": "https://ryujinx.org/",
-            "description": "~~  - The Open-source Nintendo Switch Emulator ~~",
+            "name": "Ryubing",
+            "url": "https://github.com/Ryubing",
+            "description": "A fork of the discontinued Switch emulator, Ryujinx.",
             "tags": []
           },
           {
