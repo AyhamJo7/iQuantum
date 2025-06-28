@@ -59246,12 +59246,6 @@
             "tags": []
           },
           {
-            "name": "Semantic-UI-React",
-            "url": "https://github.com/Semantic-Org/Semantic-UI-React",
-            "description": "(label: good first issue) The official React integration for Semantic UI.",
-            "tags": []
-          },
-          {
             "name": "serverless",
             "url": "https://github.com/serverless/serverless",
             "description": "(label: good first issue) The Serverless Framework",
@@ -59922,6 +59916,12 @@
             "name": "Ockam",
             "url": "https://github.com/ockam-network/ockam",
             "description": "(label: good first issue) End-to-end encryption and mutual authentication for distributed applications.",
+            "tags": []
+          },
+          {
+            "name": "Pyrefly",
+            "url": "https://github.com/facebook/pyrefly",
+            "description": "(label: good first issue) A fast Python typechecker and IDE written in Rust.",
             "tags": []
           },
           {
