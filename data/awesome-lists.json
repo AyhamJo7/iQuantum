@@ -5920,7 +5920,7 @@
           },
           {
             "name": "TriliumNext Notes",
-            "url": "https://github.com/TriliumNext/Notes",
+            "url": "https://github.com/TriliumNext/Trilium",
             "description": "Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). AGPL-3.0 Nodejs/Docker/K8S",
             "tags": []
           },
