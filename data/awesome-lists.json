@@ -12921,12 +12921,6 @@
             "tags": []
           },
           {
-            "name": "Limbo",
-            "url": "https://github.com/tursodatabase/limbo",
-            "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
-            "tags": []
-          },
-          {
             "name": "Lucid",
             "url": "https://github.com/lucid-kv/lucid",
             "description": "High performance and distributed KV store accessible through a HTTP API.",
@@ -13050,6 +13044,12 @@
             "name": "TrailBase",
             "url": "https://github.com/trailbaseio/trailbase",
             "description": "A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard",
+            "tags": []
+          },
+          {
+            "name": "Turso",
+            "url": "https://github.com/tursodatabase/turso",
+            "description": "Turso Database is an in-process SQL database, compatible with SQLite.",
             "tags": []
           },
           {
@@ -17257,6 +17257,12 @@
             "tags": []
           },
           {
+            "name": "kn0sys/ecc-rs",
+            "url": "https://github.com/kn0sys/ecc-rs",
+            "description": "Intuitive library for elliptic curve cryptography tutorials",
+            "tags": []
+          },
+          {
             "name": "kornelski/rust-security-framework",
             "url": "https://github.com/kornelski/rust-security-framework",
             "description": "Bindings for Security Framework (OSX native)",
@@ -20302,12 +20308,6 @@
             "name": "awesome-rust-mentors",
             "url": "https://rustbeginners.github.io/awesome-rust-mentors/",
             "description": "A list of helpful mentors willing to take mentees and educate them about Rust and programming.",
-            "tags": []
-          },
-          {
-            "name": "Build a language VM",
-            "url": "https://blog.subnetzero.io/post/building-language-vm-part-00/",
-            "description": "a series of posts to detailing how to build a language VM.",
             "tags": []
           },
           {
@@ -38057,6 +38057,12 @@
             "url": "https://github.com/brianvoe/sjwt",
             "description": "Simple jwt generator and parser.",
             "tags": []
+          },
+          {
+            "name": "x509proxy",
+            "url": "https://github.com/vkuznet/x509proxy",
+            "description": "Library to handle X509 proxy certificates.",
+            "tags": []
           }
         ]
       },
@@ -38687,6 +38693,12 @@
             "name": "gocmd",
             "url": "https://github.com/devfacet/gocmd",
             "description": "Go library for building command line applications.",
+            "tags": []
+          },
+          {
+            "name": "goopt",
+            "url": "https://github.com/napalu/goopt",
+            "description": "A declarative, struct-tag based CLI framework for Go, with a broad feature set such as hierarchical commands/flags, i18n, shell completion, and validation.",
             "tags": []
           },
           {
@@ -39652,6 +39664,12 @@
             "name": "deque",
             "url": "https://github.com/gammazero/deque",
             "description": "Fast ring-buffer deque (double-ended queue).",
+            "tags": []
+          },
+          {
+            "name": "dqueue",
+            "url": "https://github.com/vodolaz095/dqueue",
+            "description": "Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.",
             "tags": []
           },
           {
@@ -41521,6 +41539,12 @@
             "name": "NATS",
             "url": "https://github.com/nats-io/nats-server",
             "description": "NATS is a simple, secure, and\n  performant communications system for digital systems, services, and devices.",
+            "tags": []
+          },
+          {
+            "name": "opentelemetry-go-auto-instrumentation",
+            "url": "https://github.com/alibaba/opentelemetry-go-auto-instrumentation",
+            "description": "OpenTelemetry Compile-Time Instrumentation for Golang.",
             "tags": []
           },
           {
@@ -52452,6 +52476,12 @@
             "tags": []
           },
           {
+            "name": "gotutor",
+            "url": "https://github.com/ahmedakef/gotutor",
+            "description": "Online Go Debugger & Visualizer.",
+            "tags": []
+          },
+          {
             "name": "igo",
             "url": "https://github.com/rocketlaunchr/igo",
             "description": "An igo to go transpiler (new language features for Go language!)",
@@ -52586,6 +52616,12 @@
             "name": "DepCharge",
             "url": "https://github.com/centerorbit/depcharge",
             "description": "Helps orchestrating the execution of commands across the many dependencies in larger projects.",
+            "tags": []
+          },
+          {
+            "name": "dish",
+            "url": "https://github.com/thevxn/dish",
+            "description": "A lightweight, remotely configurable monitoring service.",
             "tags": []
           },
           {
@@ -58733,12 +58769,6 @@
             "tags": []
           },
           {
-            "name": "Killgrave",
-            "url": "https://github.com/friendsofgo/killgrave",
-            "description": "(label: good first issue) Simple way to generate mock servers in Go.",
-            "tags": []
-          },
-          {
             "name": "Kubernetes",
             "url": "https://github.com/kubernetes/kubernetes",
             "description": "(label: good first issue) Production-Grade Container Scheduling and Management System",
@@ -59282,6 +59312,12 @@
             "tags": []
           },
           {
+            "name": "The Odin Project Curriculum",
+            "url": "https://github.com/TheOdinProject/curriculum",
+            "description": "(label: See Description) An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.",
+            "tags": []
+          },
+          {
             "name": "Time to Leave",
             "url": "https://github.com/thamara/time-to-leave",
             "description": "(label: good first issue) Working hours time tracker app based on Electron and Javascript.",
@@ -59409,6 +59445,12 @@
       {
         "name": "Markdown",
         "resources": [
+          {
+            "name": "The Odin Project Curriculum",
+            "url": "https://github.com/TheOdinProject/curriculum",
+            "description": "(label: See Description) An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.",
+            "tags": []
+          },
           {
             "name": "tldr-pages",
             "url": "https://github.com/tldr-pages/tldr",
@@ -63828,12 +63870,6 @@
             "name": "MPQC",
             "url": "https://github.com/ValeevGroup/mpqc",
             "description": "The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schr\u00f6dinger equation. [GPL] website",
-            "tags": []
-          },
-          {
-            "name": "ORCA",
-            "url": "https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)",
-            "description": "An ab initio quantum chemistry program package that contains modern electronic structure methods. [Academic] website",
             "tags": []
           },
           {
