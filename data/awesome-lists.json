@@ -3672,12 +3672,6 @@
             "tags": []
           },
           {
-            "name": "Pingvin Share",
-            "url": "https://github.com/stonith404/pingvin-share",
-            "description": "File sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing. ( Demo ) BSD-2-Clause Docker/Nodejs",
-            "tags": []
-          },
-          {
             "name": "Plik",
             "url": "https://github.com/root-gg/plik",
             "description": "Scalable and friendly temporary file upload system. ( Demo ) MIT Go/Docker",
@@ -15014,6 +15008,12 @@
             "name": "Flox",
             "url": "https://github.com/flox/flox",
             "description": "Flox is a virtual environment and package manager all in one.",
+            "tags": []
+          },
+          {
+            "name": "Forge",
+            "url": "https://github.com/antinomyhq/forge",
+            "description": "A terminal-based AI pair programmer for code generation and editing.",
             "tags": []
           },
           {
