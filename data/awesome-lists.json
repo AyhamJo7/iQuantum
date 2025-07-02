@@ -13253,6 +13253,12 @@
         "name": "Finance",
         "resources": [
           {
+            "name": "klirr",
+            "url": "https://github.com/Sajjon/klirr",
+            "description": "[ klirr ] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.",
+            "tags": []
+          },
+          {
             "name": "tackler",
             "url": "https://github.com/tackler-ng/tackler",
             "description": "[ tackler ] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting",
@@ -27014,8 +27020,8 @@
             "tags": []
           },
           {
-            "name": "Follow",
-            "url": "https://github.com/RSSNext/Follow",
+            "name": "Folo",
+            "url": "https://github.com/RSSNext/Folo",
             "description": "\ud83e\udde1 Next generation information browser.",
             "tags": []
           },
