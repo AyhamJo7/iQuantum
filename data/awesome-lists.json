@@ -13736,7 +13736,7 @@
           {
             "name": "kruserr/hygg",
             "url": "https://github.com/kruserr/hygg",
-            "description": "[ hygg ] - A minimalistic cli document reader, supports PDF, ePub and more.",
+            "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
             "tags": []
           },
           {
@@ -66139,6 +66139,12 @@
             "name": "Yocto/GL",
             "url": "https://github.com/xelatihy/yocto-gl",
             "description": "Tiny C++ Libraries for Data-Driven Physically-based Graphics. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "olive.c",
+            "url": "https://github.com/tsoding/olive.c",
+            "description": "Simple 2D Graphics Library. [MIT]",
             "tags": []
           }
         ]
