@@ -4821,6 +4821,12 @@
             "tags": []
           },
           {
+            "name": "Spooty",
+            "url": "https://github.com/Raiper34/spooty",
+            "description": "\u26a0 - Download tracks/playlists/albums from Spotify. It can also subscribe to a playlist or author page and download new songs upon release. MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "tubesync",
             "url": "https://github.com/meeb/tubesync",
             "description": "\u26a0 - Syncs YouTube channels and playlists to a locally hosted media server. AGPL-3.0 Docker/Python",
@@ -13617,6 +13623,12 @@
             "tags": []
           },
           {
+            "name": "asterinas/asterinas",
+            "url": "https://github.com/asterinas/asterinas",
+            "description": "A secure, fast, and general-purpose OS kernel that provides Linux-compatible ABI.",
+            "tags": []
+          },
+          {
             "name": "DragonOS-Community/DragonOS",
             "url": "https://github.com/DragonOS-Community/DragonOS",
             "description": "An operating system with a self-developed kernel from scratch and Linux compatibility.",
@@ -15886,6 +15898,12 @@
             "name": "MIRAI",
             "url": "https://github.com/endorlabs/mirai",
             "description": "an abstract interpreter operating on Rust's mid-level intermediate representation (MIR)",
+            "tags": []
+          },
+          {
+            "name": "RAPx",
+            "url": "https://github.com/Artisan-Lab/RAPx",
+            "description": "A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler.",
             "tags": []
           },
           {
@@ -65438,6 +65456,12 @@
             "name": "utest.h",
             "url": "https://github.com/sheredom/utest.h",
             "description": "Single header unit testing framework for C and C++. [Unlicense]",
+            "tags": []
+          },
+          {
+            "name": "utl::profiler",
+            "url": "https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md",
+            "description": "Singe-header profiler for C++17. [MIT]",
             "tags": []
           },
           {
