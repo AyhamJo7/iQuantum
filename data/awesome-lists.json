@@ -2737,8 +2737,8 @@
           },
           {
             "name": "Django-CRM",
-            "url": "https://github.com/DjangoCRM/django-crm",
-            "description": "Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development. AGPL-3.0 Python",
+            "url": "https://DjangoCRM.github.io/info/",
+            "description": "Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development. ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
@@ -3047,12 +3047,6 @@
             "name": "Komga",
             "url": "https://komga.org",
             "description": "Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ( Source Code ) MIT Java/Docker",
-            "tags": []
-          },
-          {
-            "name": "Librum",
-            "url": "https://librumreader.com",
-            "description": "Modern e-book reader and library manager that supports most major book formats, runs on all devices and offers great tools to boost productivity. ( Source Code ) GPL-3.0 C++",
             "tags": []
           },
           {
@@ -3761,9 +3755,9 @@
             "tags": []
           },
           {
-            "name": "DirectoryLister",
+            "name": "Directory Lister",
             "url": "https://www.directorylister.com/",
-            "description": "Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ( Source Code ) MIT PHP",
+            "description": "Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -28416,6 +28410,12 @@
             "name": "kitty",
             "url": "https://github.com/kovidgoyal/kitty",
             "description": "A cross-platform, fast, feature full, GPU based terminal emulator.",
+            "tags": []
+          },
+          {
+            "name": "KubeSwitch",
+            "url": "https://www.kubeswitch.com/",
+            "description": "The fastest way to switch between Kubernetes contexts and namespaces on macOS.",
             "tags": []
           },
           {
