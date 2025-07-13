@@ -5195,12 +5195,6 @@
             "tags": []
           },
           {
-            "name": "Dnote",
-            "url": "https://www.getdnote.com",
-            "description": "A simple command line notebook with multi-device sync and web interface. ( Source Code ) AGPL-3.0 Go",
-            "tags": []
-          },
-          {
             "name": "Docs",
             "url": "https://docs.numerique.gouv.fr/",
             "description": "Collaborative note taking, wiki and documentation platform that scales. ( Source Code ) MIT K8S",
@@ -32333,6 +32327,12 @@
             "name": "Crates",
             "url": "https://crates.io",
             "description": "The official public registry for Rust/Cargo.",
+            "tags": []
+          },
+          {
+            "name": "RepoFlow",
+            "url": "https://www.repoflow.io",
+            "description": "A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.",
             "tags": []
           },
           {
@@ -67949,7 +67949,7 @@
           {
             "name": "APNs2",
             "url": "https://github.com/sideshow/apns2",
-            "description": "HTTP/2 Apple Push Notification provider for Go \u2014 Send push notifications to iOS, tvOS, Safari and OSX apps.",
+            "description": "HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps.",
             "tags": []
           },
           {
@@ -73694,6 +73694,12 @@
             "tags": []
           },
           {
+            "name": "lang",
+            "url": "https://github.com/maxbolgarin/lang",
+            "description": "Generic one-liners to work with variables, slices and maps without boilerplate code.",
+            "tags": []
+          },
+          {
             "name": "lets-go",
             "url": "https://github.com/aplescia-chwy/lets-go",
             "description": "Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.",
@@ -78082,7 +78088,7 @@
           {
             "name": "How to Use Godog for Behavior-driven Development in Go",
             "url": "https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go",
-            "description": "Get started with Godog \u2014 a Behavior-driven development framework for building and testing Go applications.",
+            "description": "Get started with Godog - a Behavior-driven development framework for building and testing Go applications.",
             "tags": []
           },
           {
