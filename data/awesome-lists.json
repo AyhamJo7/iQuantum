@@ -3222,6 +3222,12 @@
             "tags": []
           },
           {
+            "name": "Hypersomnia",
+            "url": "https://github.com/TeamHypersomnia/Hypersomnia",
+            "description": "Competitive top-down shooter blending Counter-Strike with Hotline Miami. Runs on Linux, Windows, MacOS and the Web. ( Demo ) AGPL-3.0 C++/Docker",
+            "tags": []
+          },
+          {
             "name": "Lila",
             "url": "https://lichess.org/",
             "description": "Ad-less chess server powering lichess.org, with official iOS and Android client apps. ( Source Code ) AGPL-3.0 Scala",
@@ -18923,6 +18929,12 @@
         "name": "Logging",
         "resources": [
           {
+            "name": "Abseil Logging",
+            "url": "https://abseil.io/docs/cpp/guides/logging",
+            "description": "The Abseil Logging library provides facilities for writing log messages to stderr, files, or other sinks. [Apache-2.0]",
+            "tags": []
+          },
+          {
             "name": "Blackhole",
             "url": "https://github.com/3Hren/blackhole",
             "description": "Attribute-based logging framework, which is designed to be fast, modular and highly customizable. [MIT]",
@@ -18992,6 +19004,12 @@
             "name": "lwlog",
             "url": "https://github.com/ChristianPanov/lwlog",
             "description": "Very fast synchronous and asynchronous C++17 logging library. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "ng-log",
+            "url": "https://github.com/ng-log/ng-log",
+            "description": "C++14 library for application-level logging. [BSD-3-Clause]",
             "tags": []
           },
           {
@@ -25462,6 +25480,12 @@
             "tags": []
           },
           {
+            "name": "topheman/snake-pipe-rust",
+            "url": "https://github.com/topheman/snake-pipe-rust",
+            "description": "A snake game in the terminal based on stdin/stdout (+tcp and unix domain sockets)",
+            "tags": []
+          },
+          {
             "name": "ttyperacer/terminal-typeracer",
             "url": "https://gitlab.com/ttyperacer/terminal-typeracer",
             "description": "Single player typing test game written for the terminal",
@@ -26534,6 +26558,12 @@
             "name": "Lisprez/so_stupid_search",
             "url": "https://github.com/Lisprez/so_stupid_search",
             "description": "A simple and fast string search tool for human beings",
+            "tags": []
+          },
+          {
+            "name": "loki_text",
+            "url": "https://github.com/roquess/loki_text",
+            "description": "[ loki_text ] - String manipulation library with pattern searching, text transformation, and multiple string search algorithms (KMP, Boyer-Moore, Aho-Corasick, etc.)",
             "tags": []
           },
           {
@@ -28157,6 +28187,12 @@
         "name": "Transpiling",
         "resources": [
           {
+            "name": "aleph-lang/aleph_ollama",
+            "url": "https://github.com/aleph-lang/aleph_ollama",
+            "description": "[ aleph_ollama ] - AI-powered source code translation tool using local Ollama API.",
+            "tags": []
+          },
+          {
             "name": "BayesWitnesses/m2cgen",
             "url": "https://github.com/BayesWitnesses/m2cgen",
             "description": "A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.",
@@ -29036,6 +29072,12 @@
             "name": "rust-lang/flate2-rs",
             "url": "https://github.com/rust-lang/flate2-rs",
             "description": "miniz bindings",
+            "tags": []
+          },
+          {
+            "name": "paxit",
+            "url": "https://github.com/roquess/paxit",
+            "description": "[ paxit ] - Flexible library for compressing and decompressing files using various algorithms (zip, tar, gzip, xz, zst, etc.) with modular design for easy extension",
             "tags": []
           },
           {
