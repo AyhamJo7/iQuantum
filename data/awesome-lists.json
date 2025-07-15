@@ -506,6 +506,12 @@
             "tags": []
           },
           {
+            "name": "LibreBooking",
+            "url": "https://librebooking.readthedocs.io/",
+            "description": "Resource scheduling solution offering a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
+            "tags": []
+          },
+          {
             "name": "QloApps",
             "url": "https://qloapps.com/",
             "description": "Customizable and intuitive web-based hotel reservation system and a booking engine. ( Demo , Source Code ) OSL-3.0 PHP/Nodejs",
@@ -2345,6 +2351,12 @@
             "tags": []
           },
           {
+            "name": "Papra",
+            "url": "https://papra.app",
+            "description": "Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "PdfDing",
             "url": "https://github.com/mrmn2/PdfDing",
             "description": "PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. AGPL-3.0 Docker",
@@ -2354,6 +2366,12 @@
             "name": "SeedDMS",
             "url": "https://www.seeddms.org",
             "description": "Document Management System with workflows, access rights, fulltext search, and more. ( Demo , Source Code ) GPL-2.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Signature PDF",
+            "url": "https://github.com/24eme/signaturepdf",
+            "description": "Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ( Demo ) AGPL-3.0 PHP/deb/Docker",
             "tags": []
           },
           {
@@ -3604,6 +3622,12 @@
             "name": "wger",
             "url": "https://wger.de/",
             "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "Wingfit",
+            "url": "https://wingfit.fr",
+            "description": "Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ( Demo , Source Code ) CC-BY-SA-4.0 Python/Docker",
             "tags": []
           }
         ]
@@ -4861,6 +4885,12 @@
             "tags": []
           },
           {
+            "name": "Operational.co",
+            "url": "https://operational.co",
+            "description": "Receive alerts in a live timeline from your product. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "penpot",
             "url": "https://penpot.app/",
             "description": "Web-based design and prototyping platform meant for cross-domain teams. ( Source Code ) MPL-2.0 Docker",
@@ -5626,6 +5656,12 @@
             "name": "Mafl",
             "url": "https://mafl.hywax.space/",
             "description": "Minimalistic flexible homepage. ( Source Code ) MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "Personal Management System",
+            "url": "https://volmarg.github.io/",
+            "description": "Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules. ( Demo , Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -6918,6 +6954,12 @@
             "name": "kener",
             "url": "https://kener.ing/",
             "description": "Status page with incident management, easy to use and customize. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "Kuvasz Uptime",
+            "url": "https://kuvasz-uptime.dev",
+            "description": "Performant, stable uptime & SSL monitoring service that just works. ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -68124,6 +68166,12 @@
             "name": "go-vitotrol",
             "url": "https://github.com/maxatome/go-vitotrol",
             "description": "Client library to Viessmann Vitotrol web service.",
+            "tags": []
+          },
+          {
+            "name": "GoEventBus",
+            "url": "https://github.com/Raezil/GoEventBus",
+            "description": "A blazing\u2011fast, in\u2011memory, lock\u2011free event bus library",
             "tags": []
           },
           {
