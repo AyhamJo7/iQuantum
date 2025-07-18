@@ -81907,6 +81907,12 @@
             "url": "https://github.com/sdispater/poetry",
             "description": "Python dependency management and packaging made easy.",
             "tags": []
+          },
+          {
+            "name": "uv",
+            "url": "https://github.com/astral-sh/uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "tags": []
           }
         ]
       },
