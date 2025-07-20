@@ -6660,6 +6660,12 @@
             "tags": []
           },
           {
+            "name": "Halo",
+            "url": "https://www.halo.run",
+            "description": "A powerful and easy-to-use website building tool (documentation in Chinese). ( Demo , Source Code , Clients ) GPL-3.0 Java/Docker",
+            "tags": []
+          },
+          {
             "name": "Manifest",
             "url": "https://manifest.build",
             "description": "Complete backend that fits into 1 YAML file. ( Demo , Source Code ) MIT Nodejs",
@@ -31520,8 +31526,8 @@
             "tags": []
           },
           {
-            "name": "clarkmcc/cel-rust",
-            "url": "https://github.com/clarkmcc/cel-rust",
+            "name": "cel-rust",
+            "url": "https://github.com/cel-rust/cel-rust",
             "description": "[ cel-interpreter ] - Common expression language parser and interpreter",
             "tags": []
           },
