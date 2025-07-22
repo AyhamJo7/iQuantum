@@ -292,6 +292,12 @@
             "tags": []
           },
           {
+            "name": "Dagu",
+            "url": "https://docs.dagu.cloud/",
+            "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Discount Bandit",
             "url": "https://discount-bandit.cybrarist.com/",
             "description": "\u26a0 - Track pricing, stock status of products across multiple stores such as Amazon, Ebay, Walmart, etc. ( Source Code ) GPL-3.0 PHP/Docker",
@@ -4103,12 +4109,6 @@
             "tags": []
           },
           {
-            "name": "Dagu",
-            "url": "https://dagu.readthedocs.io/",
-            "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
-            "tags": []
-          },
-          {
             "name": "Headphones",
             "url": "https://github.com/rembo10/headphones",
             "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
@@ -5282,12 +5282,6 @@
             "name": "Note Mark",
             "url": "https://notemark.docs.enchantedcode.co.uk/",
             "description": "Minimal web-based Markdown notes app. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Oddmuse",
-            "url": "https://oddmuse.org/",
-            "description": "Simple wiki engine written in Perl. No database required. ( Source Code ) GPL-3.0 Perl",
             "tags": []
           },
           {
@@ -7201,7 +7195,7 @@
           {
             "name": "Chhoto URL",
             "url": "https://github.com/SinTan1729/chhoto-url",
-            "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). MIT Rust/Docker",
+            "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ( Demo , Clients ) MIT Rust/Docker",
             "tags": []
           },
           {
@@ -7469,6 +7463,12 @@
             "name": "Mycorrhiza Wiki",
             "url": "https://mycorrhiza.wiki/",
             "description": "Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ( Source Code ) AGPL-3.0 Go",
+            "tags": []
+          },
+          {
+            "name": "Oddmuse",
+            "url": "https://oddmuse.org/",
+            "description": "Simple wiki engine written in Perl. No database required. ( Source Code ) GPL-3.0 Perl",
             "tags": []
           },
           {
@@ -25014,6 +25014,12 @@
             "name": "Garage",
             "url": "https://github.com/deuxfleurs-org/garage",
             "description": "[ garage ] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale.",
+            "tags": []
+          },
+          {
+            "name": "GlueSQL",
+            "url": "https://github.com/gluesql/gluesql",
+            "description": "Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package.",
             "tags": []
           },
           {
