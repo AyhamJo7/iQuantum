@@ -666,12 +666,6 @@
             "tags": []
           },
           {
-            "name": "Etebase (EteSync)",
-            "url": "https://www.etebase.com/",
-            "description": "End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ( Source Code ) AGPL-3.0 Python/Django",
-            "tags": []
-          },
-          {
             "name": "Manage My Damn Life",
             "url": "https://intri.in/manage-my-damn-life/",
             "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ( Source Code ) GPL-3.0 Nodejs/Docker",
@@ -2336,12 +2330,6 @@
             "name": "OpenSign",
             "url": "https://www.opensignlabs.com",
             "description": "\u26a0 - Document signing software (alternative to DocuSign). ( Source Code ) AGPL-3.0 Nodejs/Docker",
-            "tags": []
-          },
-          {
-            "name": "Paperless-AI",
-            "url": "https://github.com/clusterzx/paperless-ai/",
-            "description": "Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents. MIT Docker",
             "tags": []
           },
           {
@@ -28386,6 +28374,12 @@
             "name": "perpetual-ml/perpetual",
             "url": "https://github.com/perpetual-ml/perpetual",
             "description": "[ perpetual ] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.",
+            "tags": []
+          },
+          {
+            "name": "ramsyana/RustTensor",
+            "url": "https://github.com/ramsyana/RustTensor",
+            "description": "A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.",
             "tags": []
           },
           {
