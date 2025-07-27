@@ -23262,7 +23262,7 @@
           },
           {
             "name": "Simplicity by Distributing Complexity",
-            "url": "https://jobs.zalando.com/tech/blog/simplicity-by-distributing-complexity/",
+            "url": "https://engineering.zalando.com/posts/2018/01/simplicity-by-distributing-complexity.html",
             "description": "",
             "tags": []
           },
@@ -23370,7 +23370,7 @@
           {
             "name": "Distributed Caching",
             "url": "https://www.wix.engineering/post/scaling-to-100m-to-cache-or-not-to-cache",
-            "description": "EVCache: Distributed In-memory Caching at Netflix EVCache Cache Warmer Infrastructure at Netflix Memsniff: Robust Memcache Traffic Analyzer at Box Caching with Consistent Hashing and Cache Smearing at Etsy Analysis of Photo Caching at Facebook Cache Efficiency Exercise at Facebook tCache: Scalable Data-aware Java Caching at Trivago Pycache: In-process Caching at Quora Reduce Memcached Memory Usage by 50% at Trivago Caching Internal Service Calls at Yelp Estimating the Cache Efficiency using Big Data at Allegro Distributed Cache at Zalando Application Data Caching from RAM to SSD at NetFlix Tradeoffs of Replicated Cache at Skyscanner Location Caching with Quadtrees at Yext Video Metadata Caching at Vimeo Scaling Redis at Twitter Scaling Job Queue with Redis at Slack Moving persistent data out of Redis at Github Storing Hundreds of Millions of Simple Key-Value Pairs in Redis at Instagram Redis at Trivago Optimizing Redis Storage at Deliveroo Memory Optimization in Redis at Wattpad Redis Fleet at Heroku Solving Remote Build Cache Misses (2 parts) at SoundCloud Ratings & Reviews (2 parts) at Flipkart Prefetch Caching of Items at eBay Cross-Region Caching Library at Wix Improving Distributed Caching Performance and Efficiency at Pinterest Standardize and Improve Microservices Caching at DoorDash HTTP Caching and CDN Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga Google AMP at Cond\u00e9 Nast A/B Tests on Hosting Infrastructure (CDNs) at Deliveroo HAProxy with Kubernetes for User-facing Traffic at SoundCloud Bandaid: Service Proxy at Dropbox Service Workers at Slack CDN Services at Spotify",
+            "description": "EVCache: Distributed In-memory Caching at Netflix EVCache Cache Warmer Infrastructure at Netflix Memsniff: Robust Memcache Traffic Analyzer at Box Caching with Consistent Hashing and Cache Smearing at Etsy Analysis of Photo Caching at Facebook Cache Efficiency Exercise at Facebook tCache: Scalable Data-aware Java Caching at Trivago Pycache: In-process Caching at Quora Reduce Memcached Memory Usage by 50% at Trivago Caching Internal Service Calls at Yelp Estimating the Cache Efficiency using Big Data at Allegro Distributed Cache at Zalando Distributed Cache for S3 at ClickHouse Application Data Caching from RAM to SSD at NetFlix Tradeoffs of Replicated Cache at Skyscanner Location Caching with Quadtrees at Yext Video Metadata Caching at Vimeo Scaling Redis at Twitter Scaling Job Queue with Redis at Slack Moving persistent data out of Redis at Github Storing Hundreds of Millions of Simple Key-Value Pairs in Redis at Instagram Redis at Trivago Optimizing Redis Storage at Deliveroo Memory Optimization in Redis at Wattpad Redis Fleet at Heroku Solving Remote Build Cache Misses (2 parts) at SoundCloud Ratings & Reviews (2 parts) at Flipkart Prefetch Caching of Items at eBay Cross-Region Caching Library at Wix Improving Distributed Caching Performance and Efficiency at Pinterest Standardize and Improve Microservices Caching at DoorDash HTTP Caching and CDN Zynga Geo Proxy: Reducing Mobile Game Latency at Zynga Google AMP at Cond\u00e9 Nast A/B Tests on Hosting Infrastructure (CDNs) at Deliveroo HAProxy with Kubernetes for User-facing Traffic at SoundCloud Bandaid: Service Proxy at Dropbox Service Workers at Slack CDN Services at Spotify",
             "tags": []
           },
           {
@@ -23950,7 +23950,7 @@
           },
           {
             "name": "Scaling Agile at Zalando",
-            "url": "https://jobs.zalando.com/tech/blog/scaling-agile-zalando/?gh_src=4n3gxh1",
+            "url": "https://engineering.zalando.com/posts/2018/05/scaling-agile-zalando.html",
             "description": "",
             "tags": []
           },
@@ -24040,7 +24040,7 @@
           },
           {
             "name": "Four Pillars of Leading People (Empathy, Inspiration, Trust, Honesty) at Zalando",
-            "url": "https://jobs.zalando.com/tech/blog/four-pillars-leadership/",
+            "url": "https://engineering.zalando.com/posts/2018/10/four-pillars-leadership.html",
             "description": "",
             "tags": []
           },
@@ -24058,7 +24058,7 @@
           },
           {
             "name": "Rotating Engineers at Zalando",
-            "url": "https://jobs.zalando.com/tech/blog/rotating-engineers-at-zalando/",
+            "url": "https://engineering.zalando.com/posts/2019/03/rotating-engineers-at-zalando.html",
             "description": "",
             "tags": []
           },
