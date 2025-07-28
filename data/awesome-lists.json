@@ -2890,6 +2890,12 @@
             "tags": []
           },
           {
+            "name": "Harbor",
+            "url": "https://goharbor.io/",
+            "description": "Cloud native image registry that stores, signs, and scans content. ( Source Code ) Apache-2.0 Docker/K8S",
+            "tags": []
+          },
+          {
             "name": "Minio",
             "url": "https://min.io/",
             "description": "Object storage server compatible with Amazon S3 APIs. ( Source Code ) AGPL-3.0 Go/Docker/K8S",
@@ -5115,12 +5121,6 @@
             "name": "Lago",
             "url": "https://www.getlago.com/",
             "description": "Metering and usage-based billing. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Maybe",
-            "url": "https://maybe.co/",
-            "description": "An OS for your personal finances built by a small team alongside an incredible community. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -36892,6 +36892,12 @@
             "tags": []
           },
           {
+            "name": "simple-openai",
+            "url": "https://github.com/sashirestela/simple-openai",
+            "description": "Library to use the OpenAI API (and compatible ones) in the simplest possible way.",
+            "tags": []
+          },
+          {
             "name": "Spring AI",
             "url": "https://spring.io/projects/spring-ai",
             "description": "Application framework for AI engineering for Spring.",
@@ -37270,6 +37276,12 @@
             "name": "Bootify",
             "url": "https://bootify.io",
             "description": "Browser-based Spring Boot app generation with JPA model and REST API.",
+            "tags": []
+          },
+          {
+            "name": "EasyEntityToDTO",
+            "url": "https://github.com/Marcel091004/EasyEntityToDTO",
+            "description": "Annotation processor for automatic DTO and Mapper generation with zero boilerplate.",
             "tags": []
           },
           {
@@ -39447,6 +39459,12 @@
             "tags": []
           },
           {
+            "name": "JEmoji",
+            "url": "https://github.com/felldo/JEmoji",
+            "description": "An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.",
+            "tags": []
+          },
+          {
             "name": "Jimfs",
             "url": "https://github.com/google/jimfs",
             "description": "In-memory file system.",
@@ -39833,6 +39851,12 @@
             "tags": []
           },
           {
+            "name": "Hypherator",
+            "url": "https://github.com/ejossev/hypherator-java",
+            "description": "Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in.",
+            "tags": []
+          },
+          {
             "name": "LingPipe",
             "url": "http://alias-i.com/lingpipe/",
             "description": "Toolkit for tasks ranging from POS tagging to sentiment analysis.",
@@ -40037,6 +40061,17 @@
             "name": "OpenShift",
             "url": "https://www.openshift.com",
             "description": "Provides additionally an on-premise solution.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Pathfinding",
+        "resources": [
+          {
+            "name": "Pathetic",
+            "url": "https://github.com/bsommerfeld/pathetic",
+            "description": "A highly configurable 3D A* pathfinding library that uses specific optimizations for high performance.",
             "tags": []
           }
         ]
@@ -41209,6 +41244,12 @@
             "tags": []
           },
           {
+            "name": "JMock",
+            "url": "https://github.com/xcancloud/JMock",
+            "description": "JMock is a high-performance data generation and simulation component library implemented in Java.",
+            "tags": []
+          },
+          {
             "name": "Apache JMeter",
             "url": "http://jmeter.apache.org",
             "description": "Functional testing and performance measurements.",
@@ -41359,6 +41400,12 @@
             "tags": []
           },
           {
+            "name": "Stebz",
+            "url": "https://github.com/stebz/stebz",
+            "description": "Multi-approach framework for test steps managing.",
+            "tags": []
+          },
+          {
             "name": "Testcontainers",
             "url": "https://github.com/testcontainers/testcontainers-java",
             "description": "Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
@@ -41481,6 +41528,12 @@
             "name": "JADE",
             "url": "https://jade.tilab.com",
             "description": "Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)",
+            "tags": []
+          },
+          {
+            "name": "Javadoc Publisher",
+            "url": "https://github.com/MathieuSoysal/Javadoc-publisher.yml",
+            "description": "Generate Javadoc from your maven/gradle project and deploy it automatically on GitHub Page.",
             "tags": []
           },
           {
