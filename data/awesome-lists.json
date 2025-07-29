@@ -1167,7 +1167,7 @@
           {
             "name": "Listmonk",
             "url": "https://listmonk.app/",
-            "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ( Source Code ) AGPL-3.0 Go/Docker",
+            "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -5434,7 +5434,7 @@
           {
             "name": "Chiyogami",
             "url": "https://github.com/rhee876527/chiyogami",
-            "description": "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. BSD-3-Clause Docker",
+            "description": "Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ( Demo ) BSD-3-Clause Docker",
             "tags": []
           },
           {
@@ -5762,7 +5762,7 @@
           {
             "name": "Photoview",
             "url": "https://photoview.github.io/",
-            "description": "Simple and user-friendly photo gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ( Source Code ) GPL-3.0 Go/Docker",
+            "description": "Simple and user-friendly photo gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ( Demo , Source Code ) GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -18879,6 +18879,12 @@
             "name": "LIBUCL",
             "url": "https://github.com/vstakhov/libucl",
             "description": ":zap: - Universal configuration library parser. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "meojson",
+            "url": "https://github.com/MistEO/meojson",
+            "description": "Next-gen C++ JSON/JSON5 Serialization Engine | Zero Dependency | Header-Only | Unleash JSON Potential. [MIT]",
             "tags": []
           },
           {
@@ -52428,6 +52434,12 @@
         "name": "Writing",
         "resources": [
           {
+            "name": "Monotype",
+            "url": "https://monotype.app",
+            "description": "A fun and minimalist writing app that feels like a real typewriter.",
+            "tags": []
+          },
+          {
             "name": "novelWriter",
             "url": "https://github.com/vkbo/novelWriter",
             "description": "Open-source plain text editor for writing novels with minimal markdown-like syntax.",
@@ -55763,6 +55775,12 @@
             "name": "Mullvad Browser",
             "url": "https://mullvad.net/en/download/browser/",
             "description": "Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN.",
+            "tags": []
+          },
+          {
+            "name": "Web",
+            "url": "https://github.com/nuance-dev/Web",
+            "description": "Minimal AI browser for macOS, built with SwiftUI.",
             "tags": []
           },
           {
