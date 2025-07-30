@@ -52963,6 +52963,12 @@
             "tags": []
           },
           {
+            "name": "FlyEnv",
+            "url": "https://www.flyenv.com",
+            "description": "An all-in-one tool integrating languages, databases, and services to quickly set up your local full-stack development environment.",
+            "tags": []
+          },
+          {
             "name": "Finicky",
             "url": "https://johnste.github.io/finicky/",
             "description": "Set rules to decide which browser opens each link.",
@@ -54541,12 +54547,6 @@
             "tags": []
           },
           {
-            "name": "FlowVision",
-            "url": "https://github.com/netdcy/FlowVision",
-            "description": "RWaterfall-style Image Viewer for macOS.",
-            "tags": []
-          },
-          {
             "name": "HEIC Converter",
             "url": "https://sindresorhus.com/heic-converter",
             "description": "Convert HEIC images to JPEG or PNG.",
@@ -55096,6 +55096,12 @@
             "name": "Aegisub",
             "url": "https://github.com/Aegisub/Aegisub",
             "description": "Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.",
+            "tags": []
+          },
+          {
+            "name": "VoiceInk",
+            "url": "https://tryvoiceink.com/",
+            "description": "Real-time speech-to-text app.",
             "tags": []
           },
           {
@@ -57534,7 +57540,13 @@
           {
             "name": "FinderFix",
             "url": "https://synappser.github.io/apps/finderfix/",
-            "description": "Finally, a lasting solution for Finder windows size and position.",
+            "description": "Finally, a lasting solution for Finder windows size and position. .",
+            "tags": []
+          },
+          {
+            "name": "FlowVision",
+            "url": "https://github.com/netdcy/FlowVision",
+            "description": "RWaterfall-style Image Viewer for macOS.",
             "tags": []
           },
           {
