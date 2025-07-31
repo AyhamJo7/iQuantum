@@ -46071,6 +46071,12 @@
             "tags": []
           },
           {
+            "name": "FluidAudio",
+            "url": "https://github.com/FluidInference/FluidAudio",
+            "description": "SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.",
+            "tags": []
+          },
+          {
             "name": "ModernAVPlayer",
             "url": "https://github.com/noreasonprojects/ModernAVPlayer",
             "description": "Persistence AVPlayer to resume playback after bad network connection even in background mode.",
