@@ -970,12 +970,6 @@
             "tags": []
           },
           {
-            "name": "homebox",
-            "url": "https://github.com/progmaticltd/homebox",
-            "description": "Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. GPL-3.0 Shell",
-            "tags": []
-          },
-          {
             "name": "Inboxen",
             "url": "https://inboxen.org",
             "description": "Lets you have an infinite number of unique inboxes. ( Source Code ) GPL-3.0 Python",
@@ -4300,12 +4294,6 @@
             "tags": []
           },
           {
-            "name": "HoloPlay",
-            "url": "https://app.holoplay.io",
-            "description": "\u26a0 - Listen to Youtube audio sources using Invidious API. ( Source Code ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "koel",
             "url": "https://koel.dev/",
             "description": "Personal music streaming server that works. ( Demo , Source Code ) MIT PHP",
@@ -6740,12 +6728,6 @@
             "name": "Kallithea",
             "url": "https://kallithea-scm.org/",
             "description": "Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ( Source Code ) GPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "Klaus",
-            "url": "https://github.com/jonashaag/klaus",
-            "description": "Simple, easy-to-set-up Git web viewer that Just Works. ISC Python/Docker",
             "tags": []
           },
           {
@@ -18495,6 +18477,12 @@
             "tags": []
           },
           {
+            "name": "PlutoFilter",
+            "url": "https://github.com/sammycage/plutofilter",
+            "description": "A single-header, zero-allocation image filter library in C. [MIT]",
+            "tags": []
+          },
+          {
             "name": "QOI",
             "url": "https://github.com/phoboslab/qoi",
             "description": "The \u201cQuite OK Image Format\u201d for fast, lossless image compression. [MIT]",
@@ -19356,6 +19344,12 @@
             "name": "Klein",
             "url": "https://github.com/jeremyong/klein",
             "description": "A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. [MIT] website",
+            "tags": []
+          },
+          {
+            "name": "libfixmath",
+            "url": "https://github.com/PetteriAimonen/libfixmath",
+            "description": "Cross Platform Fixed Point Maths Library. [MIT]",
             "tags": []
           },
           {
@@ -61206,7 +61200,7 @@
         ]
       },
       {
-        "name": "Authentication and OAuth",
+        "name": "Authentication and Authorization",
         "resources": [
           {
             "name": "authboss",
@@ -61410,6 +61404,12 @@
             "name": "sjwt",
             "url": "https://github.com/brianvoe/sjwt",
             "description": "Simple jwt generator and parser.",
+            "tags": []
+          },
+          {
+            "name": "spicedb",
+            "url": "https://github.com/authzed/spicedb",
+            "description": "A Zanzibar-inspired database that enables fine-grained authorization.",
             "tags": []
           },
           {
