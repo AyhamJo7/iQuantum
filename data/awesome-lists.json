@@ -2392,6 +2392,12 @@
             "tags": []
           },
           {
+            "name": "BookLore",
+            "url": "https://github.com/adityachandelgit/BookLore",
+            "description": "Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Calibre Web",
             "url": "https://github.com/janeczku/calibre-web",
             "description": "Browse, read and download eBooks using an existing Calibre database. GPL-3.0 Python",
@@ -3646,12 +3652,6 @@
             "url": "https://minthcm.org/",
             "description": "Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ( Source Code ) AGPL-3.0 PHP",
             "tags": []
-          },
-          {
-            "name": "OrangeHRM",
-            "url": "https://www.orangehrm.com/",
-            "description": "Comprehensive HRM system that captures all the essential functionalities required for any enterprise. ( Demo , Source Code ) GPL-2.0 PHP",
-            "tags": []
           }
         ]
       },
@@ -3947,12 +3947,6 @@
             "name": "Schoco",
             "url": "https://github.com/PhiTux/schoco",
             "description": "Online IDE for learning Java programming at school, including automatic JUnit tests. Designed to give coding homework/assignments. MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "scholarsome",
-            "url": "https://www.scholarsome.com/",
-            "description": "Web-based and open source interactive flashcard learning software studying for the masses. ( Demo , Source Code ) GPL-3.0 Docker",
             "tags": []
           }
         ]
@@ -5528,12 +5522,6 @@
             "tags": []
           },
           {
-            "name": "YABin",
-            "url": "https://github.com/Yureien/YABin",
-            "description": "A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ( Demo ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "ybFeed",
             "url": "https://github.com/ybizeul/ybFeed",
             "description": "Personal micro feed where you can post snippets of text or images. MIT Go/Nodejs/Docker",
@@ -5566,6 +5554,12 @@
             "name": "Glance",
             "url": "https://github.com/glanceapp/glance",
             "description": "Highly customizable dashboard that puts all your feeds in one place. AGPL-3.0 Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "gobookmarks",
+            "url": "https://github.com/arran4/gobookmarks",
+            "description": "Landing page to display bookmarks stored in GitHub, GitLab or local Git. AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
