@@ -54684,6 +54684,12 @@
         "name": "AI Client",
         "resources": [
           {
+            "name": "AppleAi",
+            "url": "https://www.theappleai.tech/",
+            "description": "Access multiple AI assistants from your menu bar with one shortcut.",
+            "tags": []
+          },
+          {
             "name": "ChatGPT",
             "url": "https://openai.com/chatgpt/download/",
             "description": "A conversational AI system that listens, learns, and challenges",
