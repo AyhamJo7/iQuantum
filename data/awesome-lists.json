@@ -3008,6 +3008,12 @@
             "tags": []
           },
           {
+            "name": "Flare",
+            "url": "https://github.com/FlintSH/Flare",
+            "description": "A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more. MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "Gokapi",
             "url": "https://github.com/Forceu/gokapi",
             "description": "Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. GPL-3.0 Go/Docker",
@@ -6722,6 +6728,12 @@
             "name": "Kallithea",
             "url": "https://kallithea-scm.org/",
             "description": "Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ( Source Code ) GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "Kaneo",
+            "url": "https://kaneo.app/",
+            "description": "Project management platform focused on simplicity and efficiency. ( Demo , Source Code ) MIT K8S/Docker",
             "tags": []
           },
           {
