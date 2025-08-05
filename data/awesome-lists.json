@@ -53059,6 +53059,12 @@
             "tags": []
           },
           {
+            "name": "Medio",
+            "url": "https://github.com/nuance-dev/medio",
+            "description": "A native, lightweight text diff tool with a clean UI and real-time highlighting.",
+            "tags": []
+          },
+          {
             "name": "MJML",
             "url": "https://mjmlio.github.io/mjml-app/",
             "description": "Create responsive emails with a semantic syntax and rich components.",
@@ -53253,6 +53259,12 @@
             "name": "RegExRX",
             "url": "http://www.mactechnologies.com/index.php?page=downloads#regexrx",
             "description": "Development tool for regular expressions.",
+            "tags": []
+          },
+          {
+            "name": "RegexMate",
+            "url": "https://apps.apple.com/app/6479819388",
+            "description": "A regular expression testing tool with a built-in quick reference guide.",
             "tags": []
           }
         ]
@@ -63177,12 +63189,6 @@
             "name": "skiplist",
             "url": "https://github.com/gansidui/skiplist",
             "description": "Skiplist implementation in Go.",
-            "tags": []
-          },
-          {
-            "name": "treap",
-            "url": "https://github.com/perdata/treap",
-            "description": "Persistent, fast ordered map using tree heaps.",
             "tags": []
           },
           {
