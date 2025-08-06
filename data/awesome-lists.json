@@ -63322,6 +63322,12 @@
             "tags": []
           },
           {
+            "name": "go-gcache",
+            "url": "https://github.com/szyhf/go-gcache",
+            "description": "The generic version of GCache , cache support for expirable Cache, LFU, LRU and ARC.",
+            "tags": []
+          },
+          {
             "name": "go-mcache",
             "url": "https://github.com/OrlovEvgeny/go-mcache",
             "description": "Fast in-memory key:value store/cache library. Pointer caches.",
