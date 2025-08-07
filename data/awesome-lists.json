@@ -4951,6 +4951,12 @@
             "tags": []
           },
           {
+            "name": "Usertour",
+            "url": "https://www.usertour.io/",
+            "description": "User onboarding platform allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Wakupator",
             "url": "https://github.com/Gibus21250/Wakupator",
             "description": "Wake On LAN Machine Manager based on network traffic. MIT C",
