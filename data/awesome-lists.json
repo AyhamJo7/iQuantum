@@ -77330,6 +77330,12 @@
             "tags": []
           },
           {
+            "name": "The Little Go Book",
+            "url": "https://github.com/karlseguin/the-little-go-book",
+            "description": "",
+            "tags": []
+          },
+          {
             "name": "Web Application with Go the Anti-Textbook",
             "url": "https://github.com/thewhitetulip/web-dev-golang-anti-textbook/",
             "description": "",
