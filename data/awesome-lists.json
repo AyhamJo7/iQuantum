@@ -78268,6 +78268,12 @@
             "tags": []
           },
           {
+            "name": "Trayce",
+            "url": "https://trayce.dev",
+            "description": "Lightweight tool to monitor Docker container traffic with a built-in .bru HTTP client.",
+            "tags": []
+          },
+          {
             "name": "Yaak",
             "url": "https://yaak.app",
             "description": "A modern API client supporting multiple protocols, offline usage, and Git integration.",
