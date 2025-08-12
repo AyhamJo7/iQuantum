@@ -36872,7 +36872,7 @@
           },
           {
             "name": "Fleet",
-            "url": "https://github.com/dimensionhq/fleet",
+            "url": "https://github.com/suptejas/fleet",
             "description": "[ fleet-rs ] - The blazing fast build tool for Rust.",
             "tags": []
           },
@@ -37239,14 +37239,14 @@
             "tags": []
           },
           {
-            "name": "rustwasm/wasm-bindgen",
-            "url": "https://github.com/rustwasm/wasm-bindgen",
+            "name": "wasm-bindgen",
+            "url": "https://github.com/wasm-bindgen/wasm-bindgen",
             "description": "A project for facilitating high-level interactions between wasm modules and JS.",
             "tags": []
           },
           {
-            "name": "rustwasm/wasm-pack",
-            "url": "https://github.com/rustwasm/wasm-pack",
+            "name": "wasm-pack",
+            "url": "https://github.com/drager/wasm-pack",
             "description": ":package: :sparkles: pack up the wasm and publish it to npm!",
             "tags": []
           }
@@ -47397,7 +47397,7 @@
           {
             "name": "Mixpost",
             "url": "https://mixpost.app/",
-            "description": "Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ( Source Code ) MIT PHP/Docker",
+            "description": "Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite and Buffer). ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -47421,7 +47421,7 @@
           {
             "name": "PostHog",
             "url": "https://posthog.com",
-            "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ( Source Code ) MIT Python",
+            "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely). ( Source Code ) MIT Python",
             "tags": []
           },
           {
@@ -47671,7 +47671,7 @@
           {
             "name": "Matchering",
             "url": "https://github.com/sergree/matchering",
-            "description": "Automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). GPL-3.0 Docker",
+            "description": "Automated music mastering (alternative to LANDR, eMastered and MajorDecibel). GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -48146,7 +48146,7 @@
           {
             "name": "Rocket.Chat",
             "url": "https://rocket.chat/",
-            "description": "Communications platform that puts data protection first (alternative to Gitter.im or Slack). ( Source Code ) MIT Nodejs/Docker/K8S",
+            "description": "Communications platform that puts data protection first (alternative to Gitter.im and Slack). ( Source Code ) MIT Nodejs/Docker/K8S",
             "tags": []
           },
           {
@@ -48218,7 +48218,7 @@
           {
             "name": "Typebot",
             "url": "https://typebot.io",
-            "description": "Conversational app builder (alternative to Typeform or Landbot). ( Source Code ) AGPL-3.0 Docker",
+            "description": "Conversational app builder (alternative to Typeform and Landbot). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -48460,7 +48460,7 @@
           {
             "name": "Keila",
             "url": "https://www.keila.io",
-            "description": "Reliable and easy-to-use newsletter tool (alternative to Mailchimp or Sendinblue). ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Reliable and easy-to-use newsletter tool (alternative to Mailchimp and Sendinblue). ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -49534,7 +49534,7 @@
           {
             "name": "NocoDB",
             "url": "https://www.nocodb.com/",
-            "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable or Smartsheet). ( Source Code ) AGPL-3.0 Nodejs/Docker",
+            "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable and Smartsheet). ( Source Code ) AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -50767,7 +50767,7 @@
           {
             "name": "GeneWeb",
             "url": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
-            "description": "Genealogy software that can be used offline or as a Web service. ( Demo , Source Code ) GPL-2.0 OCaml",
+            "description": "Genealogy software that can be used offline or as a Web service. ( Source Code ) GPL-2.0 OCaml",
             "tags": []
           },
           {
@@ -53031,7 +53031,7 @@
           {
             "name": "Mediagoblin",
             "url": "https://mediagoblin.org",
-            "description": "Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). ( Source Code ) AGPL-3.0 Python",
+            "description": "Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud). ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
@@ -53399,7 +53399,7 @@
           {
             "name": "ShellHub",
             "url": "https://www.shellhub.io",
-            "description": "ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. ( Source Code ) Apache-2.0 Docker",
+            "description": "Modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface (alternative to sshd). ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -53446,7 +53446,7 @@
           {
             "name": "LedgerSMB",
             "url": "https://ledgersmb.org/",
-            "description": "Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ( Demo , Source Code ) GPL-2.0 Docker/Perl",
+            "description": "Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ( Source Code ) GPL-2.0 Docker/Perl",
             "tags": []
           },
           {
@@ -53967,7 +53967,7 @@
           {
             "name": "ToolJet",
             "url": "https://tooljet.io/",
-            "description": "Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool & Mendix). ( Source Code ) GPL-3.0 Nodejs/Docker/K8S",
+            "description": "Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool and Mendix). ( Source Code ) GPL-3.0 Nodejs/Docker/K8S",
             "tags": []
           },
           {
@@ -54287,7 +54287,7 @@
           {
             "name": "Focalboard",
             "url": "https://www.focalboard.com/",
-            "description": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion, and Asana). ( Source Code , Clients ) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go/Docker",
+            "description": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion and Asana). ( Source Code , Clients ) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go/Docker",
             "tags": []
           },
           {
