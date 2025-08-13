@@ -52034,6 +52034,12 @@
             "tags": []
           },
           {
+            "name": "Domain Locker",
+            "url": "https://domain-locker.com",
+            "description": "Domain name portfolio management and tracker. ( Demo , Source Code ) MIT Deno/Docker",
+            "tags": []
+          },
+          {
             "name": "DOMJudge",
             "url": "https://www.domjudge.org/",
             "description": "System for running a programming contest, like the ICPC regional and world championship programming contests. ( Demo , Source Code ) GPL-2.0/BSD-3-Clause/MIT PHP",
@@ -53406,6 +53412,12 @@
             "name": "Sshwifty",
             "url": "https://github.com/nirui/sshwifty",
             "description": "Sshwifty is a SSH and Telnet connector made for the Web. ( Demo ) AGPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Termix",
+            "url": "https://docs.termix.site/",
+            "description": "Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities. ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
