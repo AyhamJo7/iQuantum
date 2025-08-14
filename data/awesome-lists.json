@@ -63349,12 +63349,6 @@
             "tags": []
           },
           {
-            "name": "google/wire",
-            "url": "https://github.com/google/wire",
-            "description": "Automated Initialization in Go.",
-            "tags": []
-          },
-          {
             "name": "HnH/di",
             "url": "https://github.com/HnH/di",
             "description": "DI container library that is focused on clean API and flexibility.",
