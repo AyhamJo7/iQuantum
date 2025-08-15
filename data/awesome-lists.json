@@ -22782,6 +22782,12 @@
             "url": "https://github.com/vincentlaucsb/csv-parser",
             "description": "A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]",
             "tags": []
+          },
+          {
+            "name": "zsv",
+            "url": "https://github.com/liquidaty/zsv",
+            "description": "The world's fastest (simd) CSV parser, with an extensible CLI. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -50791,12 +50797,6 @@
             "name": "AnythingLLM",
             "url": "https://anythingllm.com/",
             "description": "All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ( Source Code ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
-            "name": "IOPaint",
-            "url": "https://www.iopaint.com/",
-            "description": "\u26a0 - Image inpainting tool powered by SOTA AI Model. ( Source Code ) Apache-2.0 Python/Docker",
             "tags": []
           },
           {
