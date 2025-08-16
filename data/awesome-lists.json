@@ -66003,12 +66003,6 @@
             "tags": []
           },
           {
-            "name": "Clace",
-            "url": "https://github.com/claceio/clace",
-            "description": "Clace makes internal tool deployment and management easy by implementing an app server for containerized webapps.",
-            "tags": []
-          },
-          {
             "name": "consul",
             "url": "https://www.consul.io/",
             "description": "Consul is a tool for service discovery, monitoring and configuration.",
@@ -66126,6 +66120,12 @@
             "name": "nsq",
             "url": "https://nsq.io/",
             "description": "A realtime distributed messaging platform.",
+            "tags": []
+          },
+          {
+            "name": "OpenRun",
+            "url": "https://github.com/openrundev/openrun",
+            "description": "Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.",
             "tags": []
           },
           {
@@ -77325,7 +77325,7 @@
           {
             "name": "Standard Notes",
             "url": "https://standardnotes.com/",
-            "description": "An end-to-end encrypted notes app for digitalists and professionals.",
+            "description": "An end-to-end encrypted notes app for digitalists and professionals. ![Awesome List][awesome_list Icon]",
             "tags": []
           },
           {
@@ -79891,6 +79891,12 @@
             "name": "WhatsApp Desktop",
             "url": "https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12",
             "description": "Available in the Mac App Store, Whatsapp for Desktop.",
+            "tags": []
+          },
+          {
+            "name": "Mezon",
+            "url": "https://mezon.ai/",
+            "description": "A new way to communicate with your team. It's free, faster, better organized, better for WFH.",
             "tags": []
           }
         ]
