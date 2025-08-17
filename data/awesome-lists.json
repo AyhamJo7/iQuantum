@@ -49057,12 +49057,6 @@
             "tags": []
           },
           {
-            "name": "JSXC",
-            "url": "https://jsxc.org",
-            "description": "Real-time XMPP web chat application with video calls, file transfer and encrypted communication. There are also versions for Nextcloud/Owncloud and SOGo. ( Source Code ) MIT Javascript",
-            "tags": []
-          },
-          {
             "name": "Libervia",
             "url": "https://repos.goffi.org/libervia-web",
             "description": "Web frontend from Salut \u00e0 Toi. AGPL-3.0 Python",
