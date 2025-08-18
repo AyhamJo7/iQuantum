@@ -38961,6 +38961,12 @@
             "tags": []
           },
           {
+            "name": "GoPlasmatic/datalogic-rs",
+            "url": "https://github.com/GoPlasmatic/datalogic-rs",
+            "description": "[ datalogic-rs ] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.",
+            "tags": []
+          },
+          {
             "name": "kernelmachine/utah",
             "url": "https://github.com/kernelmachine/utah",
             "description": "Dataframe structure and operations",
@@ -80662,7 +80668,7 @@
           {
             "name": "InputSourcePro",
             "url": "https://inputsource.pro/",
-            "description": "A tool for multi-language users. Automatically switch input language for different applications.",
+            "description": "A tool for multilingual users that automatically switches the input source across applications and websites.",
             "tags": []
           }
         ]
@@ -82167,6 +82173,12 @@
             "name": "Rize",
             "url": "https://rize.io/",
             "description": "A.I. powered time tracker that automatically improves your focus and helps you build better work habits.",
+            "tags": []
+          },
+          {
+            "name": "Runtime",
+            "url": "https://github.com/runtime-org/runtime",
+            "description": "AI taskmate and take control of the web & your office tools",
             "tags": []
           },
           {
