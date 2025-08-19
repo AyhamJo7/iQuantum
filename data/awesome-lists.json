@@ -15790,7 +15790,7 @@
           {
             "name": "Alda",
             "url": "https://github.com/alda-lang/alda",
-            "description": "(label: low-hanging-fruit) A music programming language for musicians. \ud83c\udfb6",
+            "description": "(label: low-hanging fruit) A music programming language for musicians. \ud83c\udfb6",
             "tags": []
           },
           {
@@ -16172,12 +16172,6 @@
             "name": "Jest",
             "url": "https://github.com/facebook/jest",
             "description": "(label: good first issue) A complete and easy to set up JavaScript testing solution.",
-            "tags": []
-          },
-          {
-            "name": "json-editor",
-            "url": "https://github.com/json-editor/json-editor",
-            "description": "(label: good first issue) JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).",
             "tags": []
           },
           {
@@ -16718,6 +16712,12 @@
             "tags": []
           },
           {
+            "name": "DocsGPT",
+            "url": "https://github.com/arc53/DocsGPT",
+            "description": "(label: good first issue) Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.",
+            "tags": []
+          },
+          {
             "name": "Embedchain",
             "url": "https://github.com/embedchain/embedchain/",
             "description": "(label: good first issue) Embedchain is a framework to easily create LLM powered bots over any dataset.",
@@ -17153,6 +17153,12 @@
             "name": "Devopness",
             "url": "https://github.com/devopness/devopness",
             "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
+            "tags": []
+          },
+          {
+            "name": "DocsGPT",
+            "url": "https://github.com/arc53/DocsGPT",
+            "description": "(label: good first issue) Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.",
             "tags": []
           },
           {
@@ -58048,6 +58054,12 @@
             "name": "imcache",
             "url": "https://github.com/erni27/imcache",
             "description": "A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.",
+            "tags": []
+          },
+          {
+            "name": "jetcache-go",
+            "url": "https://github.com/mgtv-tech/jetcache-go",
+            "description": "Unified Go cache library supporting multi-level caching.",
             "tags": []
           },
           {
