@@ -77337,7 +77337,7 @@
           {
             "name": "Standard Notes",
             "url": "https://standardnotes.com/",
-            "description": "An end-to-end encrypted notes app for digitalists and professionals. ![Awesome List][awesome_list Icon]",
+            "description": "An end-to-end encrypted notes app for digitalists and professionals.",
             "tags": []
           },
           {
@@ -81370,6 +81370,12 @@
             "tags": []
           },
           {
+            "name": "MenuScores",
+            "url": "https://menuscores.vercel.app/",
+            "description": "A menu bar app that delivers real-time sports news and scores.",
+            "tags": []
+          },
+          {
             "name": "MonitorControl",
             "url": "https://github.com/MonitorControl/MonitorControl/",
             "description": "Control your display's brightness & volume on your Mac as if it was a native Apple Display.",
@@ -81632,21 +81638,9 @@
             "tags": []
           },
           {
-            "name": "Clean-Me",
-            "url": "https://kevin-de-koninck.github.io/Clean-Me/",
-            "description": "A macOS system analyser and cleaner [ ]",
-            "tags": []
-          },
-          {
             "name": "CleanMyMac",
             "url": "https://macpaw.com/cleanmymac",
             "description": "Delete megatons of junk, malware, and make your Mac faster & more organized",
-            "tags": []
-          },
-          {
-            "name": "DNS Heaven",
-            "url": "https://github.com/greenboxal/dns-heaven",
-            "description": "Unifies macOS DNS so applications using glibc can resolve DNS with the native stack. Mainly for use with VPNs.",
             "tags": []
           },
           {
@@ -81918,6 +81912,12 @@
             "tags": []
           },
           {
+            "name": "Better Launchpad",
+            "url": "https://github.com/rewhex/better-launchpad",
+            "description": "A smarter, free, and highly customizable application launcher for macOS with fast search.",
+            "tags": []
+          },
+          {
             "name": "BetterMouse",
             "url": "https://better-mouse.com",
             "description": "Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.",
@@ -82088,7 +82088,7 @@
           {
             "name": "Mac Mouse Fix",
             "url": "https://www.mousefix.org/",
-            "description": "A simple way to make your mouse better. ]",
+            "description": "A simple way to make your mouse better.",
             "tags": []
           },
           {
@@ -82179,6 +82179,12 @@
             "name": "RescueTime",
             "url": "https://www.rescuetime.com/",
             "description": "Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.",
+            "tags": []
+          },
+          {
+            "name": "SuperCorners",
+            "url": "https://supercorners.vercel.app/",
+            "description": "Make your screen corners more powerful \u2014 turn Hot Corners into efficient workflow triggers.",
             "tags": []
           },
           {
@@ -82393,7 +82399,7 @@
           {
             "name": "Rectangle-app",
             "url": "https://github.com/rxhanson/Rectangle",
-            "description": "Rectangle is a window management app based on Spectacle, written in Swift: Move and resize windows on macOS with keyboard shortcuts and snap areas.",
+            "description": "Rectangle is a window management app based on Spectacle, written in Swift.",
             "tags": []
           },
           {
