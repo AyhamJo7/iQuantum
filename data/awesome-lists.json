@@ -66361,7 +66361,7 @@
           },
           {
             "name": "arch-go",
-            "url": "https://github.com/fdaines/arch-go",
+            "url": "https://github.com/arch-go/arch-go",
             "description": "Architecture testing tool for Go projects.",
             "tags": []
           },
