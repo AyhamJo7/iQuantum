@@ -21770,6 +21770,12 @@
             "tags": []
           },
           {
+            "name": "Argy",
+            "url": "https://github.com/mshenoda/argy",
+            "description": "Command-Line Argument Parsing Library for Modern C++ \u2014 Simple, Intuitive, and Header-only with Zero Dependencies [MIT]",
+            "tags": []
+          },
+          {
             "name": "barkeep",
             "url": "https://github.com/oir/barkeep",
             "description": "Small C++ header to display async animations, counters, and progress bars. [Apache-2.0] website",
@@ -50184,6 +50190,12 @@
             "tags": []
           },
           {
+            "name": "Sync-in",
+            "url": "https://sync-in.com",
+            "description": "File storage, syncing, sharing, and collaboration with real-time editing, permission management, and desktop/CLI clients. ( Demo , Source Code , Clients ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Syncthing",
             "url": "https://syncthing.net/",
             "description": "Syncthing is an open source peer-to-peer file synchronisation tool. ( Source Code ) MPL-2.0 Go/Docker/deb",
@@ -50673,6 +50685,12 @@
             "name": "Crafty Controller",
             "url": "https://craftycontrol.com/",
             "description": "Minecraft launcher and manager that allows users to start and administer Minecraft servers from a user-friendly interface. ( Source Code ) GPL-3.0 Docker/Python",
+            "tags": []
+          },
+          {
+            "name": "Drop",
+            "url": "https://droposs.org",
+            "description": "\u26a0 - Game distribution platform, designed for distributing and sharing DRM-free games efficiently (alternative to Steam, GameVault). ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -54484,6 +54502,12 @@
             "name": "Traggo",
             "url": "https://traggo.net/",
             "description": "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ( Source Code ) GPL-3.0 Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "Ziit",
+            "url": "https://ziit.app",
+            "description": "The Swiss army knife of code time tracking (alternative to WakaTime). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           }
         ]
