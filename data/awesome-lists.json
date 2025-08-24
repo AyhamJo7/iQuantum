@@ -35301,8 +35301,8 @@
             "tags": []
           },
           {
-            "name": "kruserr/hygg",
-            "url": "https://github.com/kruserr/hygg",
+            "name": "kruseio/hygg",
+            "url": "https://github.com/kruseio/hygg",
             "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
             "tags": []
           },
@@ -35522,6 +35522,12 @@
             "name": "ajeetdsouza/zoxide",
             "url": "https://github.com/ajeetdsouza/zoxide/",
             "description": "A fast alternative to cd that learns your habits",
+            "tags": []
+          },
+          {
+            "name": "anylinuxfs",
+            "url": "https://github.com/nohajc/anylinuxfs",
+            "description": "CLI tool for mounting any linux-supported filesystem on a Mac - using NFS with a microVM",
             "tags": []
           },
           {
@@ -36208,6 +36214,12 @@
             "name": "raftario/licensor",
             "url": "https://github.com/raftario/licensor",
             "description": "write licenses to stdout",
+            "tags": []
+          },
+          {
+            "name": "restsend/rustpbx",
+            "url": "https://github.com/restsend/rustpbx",
+            "description": "Software-Defined SIP Proxy including register, presence, b2bua. alternative to Freeswitch/FreePBX.",
             "tags": []
           },
           {
@@ -40675,6 +40687,12 @@
             "name": "smallnest/rpcx-rs",
             "url": "https://github.com/smallnest/rpcx-rs",
             "description": "A RPC library for developing microservices in easy and simple way.",
+            "tags": []
+          },
+          {
+            "name": "restsend/rsipstack",
+            "url": "https://github.com/restsend/rsipstack",
+            "description": "A RFC 3261 compliant SIP stack",
             "tags": []
           },
           {
