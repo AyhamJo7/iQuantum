@@ -78397,6 +78397,12 @@
             "url": "https://www.apidog.com/",
             "description": "All-in-One workspace for API Design, Documentation, Debug, Mock, Test.",
             "tags": []
+          },
+          {
+            "name": "ReqRes",
+            "url": "https://reqresapp.com/",
+            "description": "Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.",
+            "tags": []
           }
         ]
       },
