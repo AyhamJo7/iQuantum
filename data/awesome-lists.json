@@ -2137,6 +2137,12 @@
             "tags": []
           },
           {
+            "name": "RepoFlow",
+            "url": "https://www.repoflow.io",
+            "description": "A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart search, built-in Docker image scanning, and a great free option for both self-hosted and cloud use.",
+            "tags": []
+          },
+          {
             "name": "Rescoyl",
             "url": "https://github.com/noteed/rescoyl",
             "description": "Private Docker registry (free and open source) by @noteed",
@@ -35873,6 +35879,12 @@
             "tags": []
           },
           {
+            "name": "topheman/webassembly-component-model-experiments",
+            "url": "https://github.com/topheman/webassembly-component-model-experiments",
+            "description": "WebAssembly Component Model based REPL with sandboxed multi-language plugin system",
+            "tags": []
+          },
+          {
             "name": "trippy",
             "url": "https://github.com/fujiapple852/trippy",
             "description": "A network diagnostic tool",
@@ -55152,6 +55164,12 @@
       {
         "name": "External Links",
         "resources": [
+          {
+            "name": "awweso.me",
+            "url": "https://awweso.me/",
+            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  | awesome-web.theravenhub",
+            "tags": []
+          },
           {
             "name": "Awesome Sysadmin",
             "url": "https://github.com/awesome-foss/awesome-sysadmin",
