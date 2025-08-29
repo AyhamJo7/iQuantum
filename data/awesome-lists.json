@@ -34609,6 +34609,12 @@
             "tags": []
           },
           {
+            "name": "mongodb/kingfisher",
+            "url": "https://github.com/mongodb/kingfisher",
+            "description": "A blazingly fast tool for secret detection and live validation across files, Git repos, S3, Jira, and Confluence",
+            "tags": []
+          },
+          {
             "name": "observer_ward",
             "url": "https://github.com/emo-crab/observer_ward",
             "description": "Web application and service fingerprint identification tool",
@@ -36981,6 +36987,12 @@
             "name": "64bit/async-openai",
             "url": "https://github.com/64bit/async-openai",
             "description": "[ async-openai ] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.",
+            "tags": []
+          },
+          {
+            "name": "openai/harmony",
+            "url": "https://github.com/openai/harmony",
+            "description": "[ openai-harmony ] - Renderer for the harmony response format to be used with gpt-oss.",
             "tags": []
           },
           {
@@ -82342,7 +82354,7 @@
           {
             "name": "Relational Databases",
             "url": "https://www.mysql.com/products/cluster/scalability.html",
-            "description": "MySQL at Uber MySQL at Pinterest PostgreSQL at Twitch Scaling MySQL-based Financial Reporting System at Airbnb Scaling MySQL at Wix Building and Deploying MySQL Raft at Meta MaxScale (MySQL) Database Proxy at Airbnb Switching from Postgres to MySQL at Uber Handling Growth with Postgres at Instagram Scaling the Analytics Database (Postgres) at TransferWise Updating a 50 Terabyte PostgreSQL Database at Adyen Scaling Database Access for 100s of Billions of Queries per Day at PayPal Minimizing Read-Write MySQL Downtime at Yelp Migrating MySQL from 5.6 to 8.0 at Facebook Migration from HBase to MyRocks at Quora Replication MySQL Parallel Replication (4 parts) at Booking.com Mitigating MySQL Replication Lag and Reducing Read Load at Github Read Consistency with Database Replicas at Shopify Black-Box Auditing: Verifying End-to-End Replication Integrity between MySQL and Redshift at Yelp Partitioning Main MySQL Database at Airbnb Herb: Multi-DC Replication Engine for Schemaless Datastore at Uber Sharding Sharding MySQL at Pinterest Sharding MySQL at Twilio Sharding MySQL at Square Sharding MySQL at Quora Sharding Layer of Schemaless Datastore at Uber Sharding & IDs at Instagram Sharding Postgres at Notion Solr: Improving Performance for Batch Indexing at Box Geosharded Recommendations (3 parts) at Tinder Scaling Services with Shard Manager at Facebook Presto the Distributed SQL Query Engine Presto at Pinterest Presto Infrastructure at Lyft Presto at Grab Engineering Data Analytics with Presto and Apache Parquet at Uber Data Wrangling at Slack Presto in Big Data Platform on AWS at Netflix Presto Auto Scaling at Eventbrite Speed Up Presto with Alluxio Local Cache at Uber",
+            "description": "MySQL at Uber MySQL at Pinterest PostgreSQL at Twitch Scaling MySQL-based Financial Reporting System at Airbnb Scaling MySQL at Wix Building and Deploying MySQL Raft at Meta MaxScale (MySQL) Database Proxy at Airbnb Switching from Postgres to MySQL at Uber Handling Growth with Postgres at Instagram Scaling the Analytics Database (Postgres) at TransferWise Updating a 50 Terabyte PostgreSQL Database at Adyen Scaling Database Access for 100s of Billions of Queries per Day at PayPal Minimizing Read-Write MySQL Downtime at Yelp Migrating MySQL from 5.6 to 8.0 at Facebook Migration from HBase to MyRocks at Quora Replication MySQL Parallel Replication (4 parts) at Booking.com Mitigating MySQL Replication Lag and Reducing Read Load at Github Read Consistency with Database Replicas at Shopify Black-Box Auditing: Verifying End-to-End Replication Integrity between MySQL and Redshift at Yelp Partitioning Main MySQL Database at Airbnb Herb: Multi-DC Replication Engine for Schemaless Datastore at Uber Sharding Sharding MySQL at Pinterest Sharding MySQL at Twilio Sharding MySQL at Square Sharding MySQL at Quora Sharding Layer of Schemaless Datastore at Uber Sharding & IDs at Instagram Sharding Postgres at Notion Sharding Postgres at Figma Solr: Improving Performance for Batch Indexing at Box Geosharded Recommendations (3 parts) at Tinder Scaling Services with Shard Manager at Facebook Presto the Distributed SQL Query Engine Presto at Pinterest Presto Infrastructure at Lyft Presto at Grab Engineering Data Analytics with Presto and Apache Parquet at Uber Data Wrangling at Slack Presto in Big Data Platform on AWS at Netflix Presto Auto Scaling at Eventbrite Speed Up Presto with Alluxio Local Cache at Uber",
             "tags": []
           },
           {
