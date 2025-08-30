@@ -18535,63 +18535,15 @@
             "tags": []
           },
           {
-            "name": "glide",
-            "url": "https://github.com/Masterminds/glide",
-            "description": "Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.",
-            "tags": []
-          },
-          {
-            "name": "godep",
-            "url": "https://github.com/tools/godep",
-            "description": "dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.",
-            "tags": []
-          },
-          {
-            "name": "goop",
-            "url": "https://github.com/nitrous-io/goop",
-            "description": "Simple dependency manager for Go (golang), inspired by Bundler.",
-            "tags": []
-          },
-          {
-            "name": "gop",
-            "url": "https://github.com/lunny/gop",
-            "description": "Build and manage your Go applications out of GOPATH.",
-            "tags": []
-          },
-          {
-            "name": "gopm",
-            "url": "https://github.com/gpmgo/gopm",
-            "description": "Go Package Manager.",
-            "tags": []
-          },
-          {
-            "name": "govendor",
-            "url": "https://github.com/kardianos/govendor",
-            "description": "Go Package Manager. Go vendor tool that works with the standard vendor file.",
-            "tags": []
-          },
-          {
-            "name": "gpm",
-            "url": "https://github.com/pote/gpm",
-            "description": "Barebones dependency manager for Go.",
-            "tags": []
-          },
-          {
             "name": "gup",
             "url": "https://github.com/nao1215/gup",
             "description": "Update binaries installed by \"go install\".",
             "tags": []
           },
           {
-            "name": "johnny-deps",
-            "url": "https://github.com/VividCortex/johnny-deps",
-            "description": "Minimal dependency version using Git.",
-            "tags": []
-          },
-          {
-            "name": "modgv",
-            "url": "https://github.com/lucasepe/modgv",
-            "description": "Converts 'go mod graph' output into Graphviz's DOT language.",
+            "name": "modup",
+            "url": "https://github.com/chaindead/modup",
+            "description": "Terminal UI for Go dependency updates with outdated module detection and selective upgrading.",
             "tags": []
           },
           {
@@ -18604,12 +18556,6 @@
             "name": "syft",
             "url": "https://github.com/anchore/syft",
             "description": "A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.",
-            "tags": []
-          },
-          {
-            "name": "VenGO",
-            "url": "https://github.com/DamnWidget/VenGO",
-            "description": "create and manage exportable isolated go virtual environments.",
             "tags": []
           }
         ]
@@ -32886,6 +32832,12 @@
             "name": "alacritty",
             "url": "https://github.com/alacritty/alacritty",
             "description": "A cross-platform, GPU enhanced terminal emulator",
+            "tags": []
+          },
+          {
+            "name": "Andromeda",
+            "url": "https://github.com/tryandromeda/andromeda",
+            "description": "JavaScript & TypeScript runtime built from the ground up in Rust \ud83e\udd80 and powered by The Nova Engine.",
             "tags": []
           },
           {
@@ -60451,6 +60403,12 @@
             "tags": []
           },
           {
+            "name": "OMath",
+            "url": "https://github.com/orange-cpp/omath",
+            "description": "Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. [ZLIB]",
+            "tags": []
+          },
+          {
             "name": "muparser",
             "url": "https://beltoforion.de/en/muparser",
             "description": "muParser is an extensible high performance math expression parser library written in C++. [MIT]",
@@ -81216,15 +81174,15 @@
             "tags": []
           },
           {
-            "name": "remix",
-            "url": "https://github.com/remix-run/remix",
-            "description": "Full stack web Framework that lets you focus on the user interface",
-            "tags": []
-          },
-          {
             "name": "gatsby",
             "url": "https://github.com/gatsbyjs/gatsby",
             "description": "Build modern websites with React",
+            "tags": []
+          },
+          {
+            "name": "remix",
+            "url": "https://github.com/remix-run/remix",
+            "description": "Full stack web Framework that lets you focus on the user interface",
             "tags": []
           },
           {
@@ -81237,6 +81195,12 @@
             "name": "refine",
             "url": "https://github.com/refinedev/refine",
             "description": "Build your React-based CRUD applications, without constraints",
+            "tags": []
+          },
+          {
+            "name": "vike",
+            "url": "https://github.com/vikejs/vike",
+            "description": "The Modular Framework - Next.js & Nuxt alternative",
             "tags": []
           },
           {
@@ -81255,6 +81219,18 @@
             "name": "shadcn-ui",
             "url": "https://github.com/shadcn-ui/ui",
             "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
+            "tags": []
+          },
+          {
+            "name": "chakra-ui",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "description": "Component system for building SaaS products with speed",
+            "tags": []
+          },
+          {
+            "name": "mantine",
+            "url": "https://github.com/mantinedev/mantine",
+            "description": "Fully featured React components library",
             "tags": []
           },
           {
@@ -81279,12 +81255,6 @@
             "name": "ariakit",
             "url": "https://github.com/ariakit/ariakit",
             "description": "Toolkit for building accessible web apps with React",
-            "tags": []
-          },
-          {
-            "name": "mantine",
-            "url": "https://github.com/mantinedev/mantine",
-            "description": "Fully featured React components library",
             "tags": []
           },
           {
@@ -81405,12 +81375,6 @@
             "name": "tanstack-router",
             "url": "https://github.com/TanStack/router",
             "description": "Type-safe router with built-in caching & URL state management",
-            "tags": []
-          },
-          {
-            "name": "create-react-app",
-            "url": "https://github.com/facebook/create-react-app",
-            "description": "Set up a modern Web app by running one command",
             "tags": []
           },
           {
@@ -81636,12 +81600,6 @@
             "tags": []
           },
           {
-            "name": "formik",
-            "url": "https://github.com/jaredpalmer/formik",
-            "description": "Build forms in React, without the tears",
-            "tags": []
-          },
-          {
             "name": "react-jsonschema-form",
             "url": "https://github.com/mozilla-services/react-jsonschema-form",
             "description": "A React component for building Web forms from JSON Schema",
@@ -81654,9 +81612,9 @@
             "tags": []
           },
           {
-            "name": "vest",
-            "url": "https://github.com/ealush/vest",
-            "description": "Declarative validations framework",
+            "name": "tanstack-form",
+            "url": "https://github.com/TanStack/form",
+            "description": "Headless, performant, and type-safe form state management",
             "tags": []
           },
           {
@@ -81855,6 +81813,12 @@
             "name": "wave",
             "url": "https://github.com/wavetermdev/waveterm",
             "description": "An open-source, cross-platform terminal for seamless workflows",
+            "tags": []
+          },
+          {
+            "name": "readest",
+            "url": "https://github.com/readest/readest",
+            "description": "A minimalistic, feature-rich and cross-platform eBook reader",
             "tags": []
           }
         ]
