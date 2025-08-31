@@ -41932,7 +41932,7 @@
           },
           {
             "name": "Slash",
-            "url": "https://github.com/boojack/slash",
+            "url": "https://github.com/yourselfhosted/slash",
             "description": "An open source, self-hosted bookmarks and link sharing platform. GPL-3.0 Docker",
             "tags": []
           },
@@ -43658,7 +43658,7 @@
           },
           {
             "name": "Stirling-PDF",
-            "url": "https://github.com/Frooodle/Stirling-PDF",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
             "description": "Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. Apache-2.0 Docker/Java",
             "tags": []
           },
@@ -43687,7 +43687,7 @@
           },
           {
             "name": "BookLore",
-            "url": "https://github.com/adityachandelgit/BookLore",
+            "url": "https://github.com/booklore-app/booklore",
             "description": "Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. GPL-3.0 Docker",
             "tags": []
           },
@@ -45469,12 +45469,6 @@
             "tags": []
           },
           {
-            "name": "PlexRipper",
-            "url": "https://www.plexripper.rocks/",
-            "description": "\u26a0 - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "PodFetch",
             "url": "https://samtv12345.github.io/PodFetch",
             "description": "Sleek and efficient podcast downloader. ( Source Code ) Apache-2.0 Docker/Rust",
@@ -45484,6 +45478,12 @@
             "name": "Radarr",
             "url": "https://radarr.video/",
             "description": "Automatically download movies via Usenet and BitTorrent (fork of Sonarr). ( Source Code ) GPL-3.0 C#/Docker",
+            "tags": []
+          },
+          {
+            "name": "Reaparr",
+            "url": "https://www.reaparr.rocks/",
+            "description": "\u26a0 - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -45536,7 +45536,7 @@
           },
           {
             "name": "yt-dlp Web UI",
-            "url": "https://github.com/marcopeocchi/yt-dlp-web-ui",
+            "url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
             "description": "Web GUI for yt-dlp. MPL-2.0 Docker/Go/Nodejs",
             "tags": []
           }
@@ -45577,7 +45577,7 @@
           },
           {
             "name": "Black Candy",
-            "url": "https://github.com/blackcandy-org/black_candy",
+            "url": "https://github.com/blackcandy-org/blackcandy",
             "description": "Music streaming server. MIT Docker/Ruby",
             "tags": []
           },
@@ -46240,7 +46240,7 @@
           },
           {
             "name": "TeslaMate",
-            "url": "https://github.com/adriankumpf/teslamate",
+            "url": "https://github.com/teslamate-org/teslamate",
             "description": "A powerful data logger for Tesla vehicles. MIT Elixir/Docker",
             "tags": []
           },
@@ -47037,7 +47037,7 @@
           },
           {
             "name": "Mejiro",
-            "url": "https://github.com/dmpop/mejiro",
+            "url": "https://github.com/dmpop/pellicola",
             "description": "Easy-to-use instant photo publishing. GPL-3.0 PHP",
             "tags": []
           },
@@ -47499,7 +47499,7 @@
           },
           {
             "name": "Jina",
-            "url": "https://github.com/jina-ai/jina/",
+            "url": "https://github.com/jina-ai/serve",
             "description": "Cloud-native neural search framework for any kind of data. Apache-2.0 Python/Docker",
             "tags": []
           },
@@ -47529,7 +47529,7 @@
           },
           {
             "name": "sist2",
-            "url": "https://github.com/simon987/sist2",
+            "url": "https://github.com/sist2app/sist2",
             "description": "Lightning-fast file system indexer and search tool. GPL-3.0 C/Docker",
             "tags": []
           },
