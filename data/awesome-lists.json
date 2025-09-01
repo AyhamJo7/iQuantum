@@ -33188,6 +33188,12 @@
             "tags": []
           },
           {
+            "name": "tunein-cli",
+            "url": "https://github.com/tsirysndr/tunein-cli",
+            "description": "Browse and listen to thousands of radio stations across the globe right from your terminal",
+            "tags": []
+          },
+          {
             "name": "WhatBPM",
             "url": "https://github.com/sergree/whatbpm",
             "description": "A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify.",
@@ -43889,7 +43895,7 @@
           {
             "name": "s-cart",
             "url": "https://s-cart.org/",
-            "description": "S-Cart is a free e-commerce website project for individuals and businesses, built on top of Laravel Framework. ( Demo , Source Code ) MIT PHP",
+            "description": "E-commerce website for individuals and businesses, built on top of Laravel Framework. ( Demo , Source Code ) MIT PHP",
             "tags": []
           },
           {
