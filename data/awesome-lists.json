@@ -42893,12 +42893,6 @@
             "tags": []
           },
           {
-            "name": "Retrospring",
-            "url": "https://github.com/retrospring/retrospring",
-            "description": "Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ( Demo ) AGPL-3.0 Ruby/Nodejs",
-            "tags": []
-          },
-          {
             "name": "Scoold",
             "url": "https://scoold.com",
             "description": "Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text search, SAML, LDAP integration and social login support. ( Demo , Source Code ) Apache-2.0 Java/Docker/K8S",
@@ -58372,8 +58366,8 @@
             "tags": []
           },
           {
-            "name": "morphologica",
-            "url": "https://github.com/ABRG-Models/morphologica",
+            "name": "mathplot",
+            "url": "https://github.com/sebsjames/mathplot",
             "description": "C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] website",
             "tags": []
           }
@@ -60454,6 +60448,12 @@
             "name": "QuantLib",
             "url": "https://github.com/lballabio/quantlib",
             "description": "A free/open-source library for quantitative finance. [Modified BSD] website",
+            "tags": []
+          },
+          {
+            "name": "sebsjames/maths",
+            "url": "https://github.com/sebsjames/maths",
+            "description": "A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in mathplot ).  [Apache2] website",
             "tags": []
           },
           {
