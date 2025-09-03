@@ -41384,6 +41384,12 @@
             "tags": []
           },
           {
+            "name": "Medama Analytics",
+            "url": "https://oss.medama.io",
+            "description": "Privacy-first website analytics. Tiny, simple, and cookie-free. ( Demo , Source Code ) Apache-2.0/MIT Docker/Go",
+            "tags": []
+          },
+          {
             "name": "Metabase",
             "url": "https://metabase.com/",
             "description": "Easy way for everyone in your company to ask questions and learn from data. ( Source Code ) AGPL-3.0 Java/Docker",
@@ -42911,12 +42917,6 @@
             "tags": []
           },
           {
-            "name": "Takah\u0113",
-            "url": "https://jointakahe.org/",
-            "description": "Federated microblogging server. Mastodon, & ActivityPub compatible. ( Source Code ) BSD-3-Clause Docker",
-            "tags": []
-          },
-          {
             "name": "Talkyard",
             "url": "https://www.talkyard.io/",
             "description": "Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ( Demo , Source Code ) AGPL-3.0 Docker/Scala",
@@ -44084,6 +44084,12 @@
             "tags": []
           },
           {
+            "name": "TinyFeed",
+            "url": "https://feed.lovergne.dev/",
+            "description": "Generate a static HTML page from a collection of feeds wtih a simple CLI. ( Demo , Source Code ) MIT Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Yarr",
             "url": "https://github.com/nkanaev/yarr",
             "description": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. MIT Go",
@@ -44098,6 +44104,12 @@
             "name": "bewCloud",
             "url": "https://bewcloud.com",
             "description": "File sharing + sync, notes, and photos (alternative to Nextcloud and ownCloud's RSS reader). ( Source Code , Clients ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Cloudreve",
+            "url": "https://cloudreve.org/",
+            "description": "File management and sharing system, supports multiple storage providers. ( Demo , Source Code ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -44827,6 +44839,12 @@
             "name": "Citadel",
             "url": "https://www.citadel.org/",
             "description": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more. ( Source Code ) GPL-3.0 C/Docker/Shell",
+            "tags": []
+          },
+          {
+            "name": "Colanode",
+            "url": "https://colanode.com",
+            "description": "Collaboration suite with real-time messaging, rich text pages, file management, and dynamic databases - built for offline work (alternative to Slack, Notion). ( Source Code ) Apache-2.0 K8S/Docker",
             "tags": []
           },
           {
@@ -48304,6 +48322,12 @@
             "tags": []
           },
           {
+            "name": "Listaway",
+            "url": "https://github.com/jeffrpowell/listaway/",
+            "description": "List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists). ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "myTinyTodo",
             "url": "https://www.mytinytodo.net/",
             "description": "Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ( Demo , Source Code ) GPL-2.0 PHP",
@@ -48817,6 +48841,12 @@
             "name": "WackoWiki",
             "url": "https://wackowiki.org/",
             "description": "WackoWiki is a light and easy to install multilingual Wiki-engine. ( Source Code ) BSD-3-Clause PHP",
+            "tags": []
+          },
+          {
+            "name": "Wiki-Go",
+            "url": "https://leomoon.com/downloads/web-apps/wiki-go/",
+            "description": "A modern, feature-rich, databaseless flat-file wiki platform. ( Demo , Source Code ) GPL-3.0 Go/Docker",
             "tags": []
           },
           {
