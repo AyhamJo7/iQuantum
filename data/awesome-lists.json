@@ -44673,7 +44673,7 @@
           {
             "name": "Drop",
             "url": "https://droposs.org",
-            "description": "\u26a0 - Game distribution platform, designed for distributing and sharing DRM-free games efficiently (alternative to Steam, GameVault). ( Source Code , Clients ) AGPL-3.0 Docker",
+            "description": "Game distribution platform, designed for distributing and sharing DRM-free games efficiently (alternative to Steam, GameVault). ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -78609,12 +78609,6 @@
             "tags": []
           },
           {
-            "name": "PublicLab.org",
-            "url": "https://github.com/publiclab/plots2",
-            "description": "(label: first-timers-only) An open source publishing platform for environmental projects. Check out new contributors welcome page.",
-            "tags": []
-          },
-          {
             "name": "Ruby on Rails",
             "url": "https://github.com/rails/rails",
             "description": "(label: good first issue) Ruby on Rails (Rails) is an open source web application framework written in Ruby.",
@@ -81249,6 +81243,12 @@
             "name": "ant-design",
             "url": "https://github.com/ant-design/ant-design",
             "description": "An enterprise-class UI design language and React UI library",
+            "tags": []
+          },
+          {
+            "name": "Radix",
+            "url": "https://www.radix-ui.com/",
+            "description": "Unstyled, accessible components for building high\u2011quality design systems.",
             "tags": []
           },
           {
