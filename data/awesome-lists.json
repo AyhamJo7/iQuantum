@@ -35233,6 +35233,12 @@
             "tags": []
           },
           {
+            "name": "cartesiancs/vessel",
+            "url": "https://github.com/cartesiancs/vessel",
+            "description": "C2 (Command & Control) software for orchestrating physical devices.",
+            "tags": []
+          },
+          {
             "name": "dcapal",
             "url": "https://github.com/dcapal/dcapal",
             "description": "DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.",
