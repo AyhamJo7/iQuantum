@@ -33021,6 +33021,12 @@
             "tags": []
           },
           {
+            "name": "rkik",
+            "url": "https://github.com/aguacero7/rkik",
+            "description": "CLI tool designed for stateless and passive NTP inspection, just as dig or ping are for DNS and ICMP. It supports async requests and continuous monitoring.",
+            "tags": []
+          },
+          {
             "name": "Rust Iot Platform",
             "url": "https://github.com/iot-ecology/rust-iot-platform",
             "description": "A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.",
@@ -46817,8 +46823,8 @@
           },
           {
             "name": "pacebin",
-            "url": "https://git.swurl.xyz/swirl/pacebin.git/about/",
-            "description": "Super-minimal pastebin and file upload service focusing on small executable size, portability, and ease of configuration. ( Demo , Source Code ) AGPL-3.0 C",
+            "url": "https://git.crueter.xyz/crueter/pacebin",
+            "description": "Super-minimal pastebin and file upload service focusing on small executable size, portability, and ease of configuration. ( Demo ) AGPL-3.0 C",
             "tags": []
           },
           {
@@ -48536,8 +48542,8 @@
           },
           {
             "name": "clink",
-            "url": "https://git.swurl.xyz/swirl/clink.git/about/",
-            "description": "A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ( Demo , Source Code ) AGPL-3.0 C",
+            "url": "https://git.crueter.xyz/crueter/clink",
+            "description": "A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ( Demo ) AGPL-3.0 C",
             "tags": []
           },
           {
