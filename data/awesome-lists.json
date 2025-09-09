@@ -17731,7 +17731,7 @@
           {
             "name": "bart",
             "url": "https://github.com/gaissmai/bart",
-            "description": "Package bart provides a fast routing table algorithm.",
+            "description": "Package bart provides a Balanced-Routing-Table (BART) for very fast IP to CIDR lookups and more.",
             "tags": []
           },
           {
@@ -41551,12 +41551,6 @@
             "tags": []
           },
           {
-            "name": "LiveStreamDVR",
-            "url": "https://github.com/MrBrax/LiveStreamDVR",
-            "description": "\u26a0 - Automatic Twitch recorder capable of capturing live streams, chat messages and stream metadata. MIT Python/Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Omeka S",
             "url": "https://omeka.org/s/",
             "description": "Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ( Source Code ) GPL-3.0 Nodejs",
@@ -48695,6 +48689,12 @@
             "tags": []
           },
           {
+            "name": "Pangolin",
+            "url": "https://digpangolin.com/",
+            "description": "Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale). ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Pomerium",
             "url": "https://www.pomerium.io",
             "description": "Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ( Source Code ) Apache-2.0 Go/Docker",
@@ -48722,6 +48722,12 @@
             "name": "Traefik",
             "url": "https://traefik.io/",
             "description": "HTTP reverse proxy and load balancer that makes deploying microservices easy. ( Source Code ) MIT Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "UUSEC WAF",
+            "url": "https://uuwaf.uusec.com",
+            "description": "Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ( Source Code ) GPL-3.0 C/Lua/Docker",
             "tags": []
           },
           {
