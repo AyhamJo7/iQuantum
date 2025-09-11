@@ -50193,6 +50193,12 @@
             "tags": []
           },
           {
+            "name": "docker-dns",
+            "url": "https://github.com/bytesharky/docker-dns",
+            "description": "Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. .docker ) on the host to simplify service discovery by @bytesharky",
+            "tags": []
+          },
+          {
             "name": "etcd",
             "url": "https://github.com/etcd-io/etcd",
             "description": "Distributed reliable key-value store for the most critical data of a distributed system by @etcd-io (former part of CoreOS)",
