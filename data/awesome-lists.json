@@ -57872,6 +57872,12 @@
             "tags": []
           },
           {
+            "name": "librb",
+            "url": "https://github.com/mlyszczek/librb",
+            "description": "C implementation of ring (circular) buffer, with full thread awareness that allows for concurrent read/write and can automatically grow in size when needed. [BSD] website",
+            "tags": []
+          },
+          {
             "name": "LSHBOX",
             "url": "https://github.com/RSIA-LIESMARS-WHU/LSHBOX",
             "description": "A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]",
