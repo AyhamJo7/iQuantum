@@ -33973,6 +33973,12 @@
             "tags": []
           },
           {
+            "name": "GitType",
+            "url": "https://github.com/unhappychoice/gittype",
+            "description": "A CLI code-typing game that turns your source code into typing challenges",
+            "tags": []
+          },
+          {
             "name": "gorilla-devs/ferium",
             "url": "https://github.com/gorilla-devs/ferium",
             "description": "Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge",
