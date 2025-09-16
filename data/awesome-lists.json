@@ -33702,6 +33702,12 @@
             "tags": []
           },
           {
+            "name": "tsink",
+            "url": "https://github.com/h2337/tsink",
+            "description": "Embedded time-series database for Rust",
+            "tags": []
+          },
+          {
             "name": "Turso",
             "url": "https://github.com/tursodatabase/turso",
             "description": "Turso Database is an in-process SQL database, compatible with SQLite.",
