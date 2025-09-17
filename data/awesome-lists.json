@@ -63907,6 +63907,12 @@
             "tags": []
           },
           {
+            "name": "cppstat",
+            "url": "https://cppstat.dev",
+            "description": "A site that lists C++ features and their support by compilers and standard library implementations in an accessible way.",
+            "tags": []
+          },
+          {
             "name": "C++ by Example",
             "url": "http://www.cbyexample.com/",
             "description": "Learn C++ by Example.",
@@ -81282,9 +81288,9 @@
             "tags": []
           },
           {
-            "name": "material-ui",
-            "url": "https://github.com/mui/material-ui",
-            "description": "Ready-to-use foundational React components",
+            "name": "shadcn-ui",
+            "url": "https://github.com/shadcn-ui/ui",
+            "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
             "tags": []
           },
           {
@@ -81294,15 +81300,9 @@
             "tags": []
           },
           {
-            "name": "Radix",
-            "url": "https://www.radix-ui.com/",
-            "description": "Unstyled, accessible components for building high\u2011quality design systems.",
-            "tags": []
-          },
-          {
-            "name": "shadcn-ui",
-            "url": "https://github.com/shadcn-ui/ui",
-            "description": "Beautifully designed components built using Radix UI and Tailwind CSS",
+            "name": "material-ui",
+            "url": "https://github.com/mui/material-ui",
+            "description": "Ready-to-use foundational React components",
             "tags": []
           },
           {
@@ -81345,6 +81345,12 @@
             "name": "react-email",
             "url": "https://github.com/resend/react-email",
             "description": "Unstyled components for creating beautiful emails",
+            "tags": []
+          },
+          {
+            "name": "8bitcn-ui",
+            "url": "https://github.com/TheOrcDev/8bitcn-ui",
+            "description": "A retro 8-bit themed React component library built on top of shadcn",
             "tags": []
           },
           {
@@ -81552,6 +81558,12 @@
             "tags": []
           },
           {
+            "name": "playwright",
+            "url": "https://github.com/microsoft/playwright",
+            "description": "A framework for Web Testing and Automation",
+            "tags": []
+          },
+          {
             "name": "Awesome React Components",
             "url": "https://github.com/brillout/awesome-react-components",
             "description": "",
@@ -81654,6 +81666,12 @@
             "tags": []
           },
           {
+            "name": "json-edit-react",
+            "url": "https://github.com/CarlosNZ/json-edit-react",
+            "description": "Highly configurable JSON/Object tree editor/viewer",
+            "tags": []
+          },
+          {
             "name": "storybook",
             "url": "https://github.com/storybookjs/storybook",
             "description": "Storybook is a frontend workshop for building UI components and pages in isolation",
@@ -81685,7 +81703,7 @@
           },
           {
             "name": "react-jsonschema-form",
-            "url": "https://github.com/mozilla-services/react-jsonschema-form",
+            "url": "https://github.com/rjsf-team/react-jsonschema-form",
             "description": "A React component for building Web forms from JSON Schema",
             "tags": []
           },
@@ -81810,6 +81828,12 @@
             "tags": []
           },
           {
+            "name": "react-inltayer",
+            "url": "https://github.com/aymericzip/intlayer",
+            "description": "Internationalization focused on maintenability for React",
+            "tags": []
+          },
+          {
             "name": "react-spring",
             "url": "https://github.com/pmndrs/react-spring",
             "description": "A spring physics based React animation library",
@@ -81904,6 +81928,12 @@
             "url": "https://github.com/readest/readest",
             "description": "A minimalistic, feature-rich and cross-platform eBook reader",
             "tags": []
+          },
+          {
+            "name": "bookcars",
+            "url": "https://github.com/aelassas/bookcars",
+            "description": "Car rental platform",
+            "tags": []
           }
         ]
       },
@@ -81968,6 +81998,12 @@
             "name": "react-native-device-info",
             "url": "https://github.com/react-native-device-info/react-native-device-info",
             "description": "Device Information for React Native iOS and Android",
+            "tags": []
+          },
+          {
+            "name": "react-native-maps",
+            "url": "https://github.com/react-native-maps/react-native-maps",
+            "description": "React Native Mapview component",
             "tags": []
           }
         ]
