@@ -74753,6 +74753,12 @@
             "tags": []
           },
           {
+            "name": "Flet",
+            "url": "https://flet.dev",
+            "description": "Cross-platform GUI framework for building modern apps in pure Python. Run on Windows, macOS, Linux, Android, iOS, and the Web.",
+            "tags": []
+          },
+          {
             "name": "Flexx",
             "url": "https://github.com/zoofIO/flexx",
             "description": "Flexx is a pure Python toolkit for creating GUI's, that uses web technology for its rendering.",
@@ -76191,7 +76197,7 @@
           {
             "name": "locust",
             "url": "https://github.com/locustio/locust",
-            "description": "GUI / Web Testing  - Scalable user load testing tool written in Python. PyAutoGUI - PyAutoGUI is a cross-platform GUI automation Python module for human beings. Schemathesis - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications. Selenium - Python bindings for Selenium WebDriver. sixpack - A language-agnostic A/B Testing framework. splinter - Open source tool for testing web applications.",
+            "description": "GUI / Web Testing  - Scalable user load testing tool written in Python. PyAutoGUI - PyAutoGUI is a cross-platform GUI automation Python module for human beings. Schemathesis - A tool for automatic property-based testing of web applications built with Open API / Swagger specifications. Selenium - Python bindings for Selenium WebDriver . sixpack - A language-agnostic A/B Testing framework. splinter - Open source tool for testing web applications.",
             "tags": []
           },
           {
