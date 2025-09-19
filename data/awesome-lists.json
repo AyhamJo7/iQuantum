@@ -30095,6 +30095,12 @@
             "tags": []
           },
           {
+            "name": "VidCrop",
+            "url": "https://apps.apple.com/app/VidCrop/6752624705",
+            "description": "A simple video cropping tool that supports multiple formats and precise trimming.",
+            "tags": []
+          },
+          {
             "name": "XLD",
             "url": "http://tmkk.undo.jp/xld/index_e.html",
             "description": "Tool to decode, convert and play various 'lossless' audio files.",
@@ -30127,7 +30133,13 @@
           {
             "name": "YPlayer",
             "url": "https://www.engineerdraft.com/en/yplayer/",
-            "description": "A multifunctional app capable of live caption on-device, converting audio and video files into text and subtitle, transforming recordings into text, and translating subtitles.",
+            "description": "A multifunctional app for live captions, audio/video transcription, and subtitle translation.",
+            "tags": []
+          },
+          {
+            "name": "Musicer",
+            "url": "https://apps.apple.com/app/musicer/6745227444",
+            "description": "A lightweight local music player that supports multiple formats for enjoying music anytime.",
             "tags": []
           }
         ]
