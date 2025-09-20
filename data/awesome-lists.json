@@ -29338,9 +29338,21 @@
             "tags": []
           },
           {
+            "name": "BoltAI",
+            "url": "https://boltai.com",
+            "description": "A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.",
+            "tags": []
+          },
+          {
             "name": "ChatGPT",
-            "url": "https://openai.com/chatgpt/download/",
+            "url": "https://openai.com/chatgpt/mac/",
             "description": "A conversational AI system that listens, learns, and challenges",
+            "tags": []
+          },
+          {
+            "name": "Claude",
+            "url": "https://claude.ai/download",
+            "description": "Your AI partner on desktop. Fast, focused, and designed for deep work.",
             "tags": []
           },
           {
@@ -29353,6 +29365,18 @@
             "name": "Chatbox",
             "url": "https://chatboxai.app",
             "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...).",
+            "tags": []
+          },
+          {
+            "name": "RecurseChat",
+            "url": "https://recurse.chat",
+            "description": "RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.",
+            "tags": []
+          },
+          {
+            "name": "Runtime",
+            "url": "https://github.com/runtime-org/runtime",
+            "description": "AI taskmate and take control of the web & your office tools",
             "tags": []
           },
           {
@@ -31297,18 +31321,6 @@
             "tags": []
           },
           {
-            "name": "ChatGPT",
-            "url": "https://openai.com/chatgpt/mac/",
-            "description": "ChatGPT on your desktop. Chat about email, screenshots, files, and anything on your screen. Download. Available now on macOS.",
-            "tags": []
-          },
-          {
-            "name": "Claude",
-            "url": "https://claude.ai/download",
-            "description": "Your AI partner on desktop. Fast, focused, and designed for deep work.",
-            "tags": []
-          },
-          {
             "name": "CleanMyMac",
             "url": "https://macpaw.com/cleanmymac",
             "description": "Delete megatons of junk, malware, and make your Mac faster & more organized",
@@ -31360,6 +31372,12 @@
             "name": "Lungo",
             "url": "https://sindresorhus.com/lungo",
             "description": "Prevent your Mac from going to sleep.",
+            "tags": []
+          },
+          {
+            "name": "LaunchNext",
+            "url": "https://github.com/RoversX/LaunchNext",
+            "description": "Classic Launchpad experience, relive old macOS.",
             "tags": []
           },
           {
@@ -31601,12 +31619,6 @@
             "tags": []
           },
           {
-            "name": "BoltAI",
-            "url": "https://boltai.com",
-            "description": "A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.",
-            "tags": []
-          },
-          {
             "name": "Cerebro",
             "url": "https://cerebroapp.com/",
             "description": "Open-source productivity booster with a brain.",
@@ -31841,12 +31853,6 @@
             "tags": []
           },
           {
-            "name": "RecurseChat",
-            "url": "https://recurse.chat",
-            "description": "RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.",
-            "tags": []
-          },
-          {
             "name": "RescueTime",
             "url": "https://www.rescuetime.com/",
             "description": "Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.",
@@ -31862,12 +31868,6 @@
             "name": "Rize",
             "url": "https://rize.io/",
             "description": "A.I. powered time tracker that automatically improves your focus and helps you build better work habits.",
-            "tags": []
-          },
-          {
-            "name": "Runtime",
-            "url": "https://github.com/runtime-org/runtime",
-            "description": "AI taskmate and take control of the web & your office tools",
             "tags": []
           },
           {
@@ -34558,6 +34558,12 @@
             "name": "cotp",
             "url": "https://github.com/replydev/cotp",
             "description": "Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.",
+            "tags": []
+          },
+          {
+            "name": "domcyrus/rustnet",
+            "url": "https://github.com/domcyrus/rustnet",
+            "description": "Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection",
             "tags": []
           },
           {
@@ -37843,6 +37849,12 @@
             "tags": []
           },
           {
+            "name": "Nonanti/mathcore",
+            "url": "https://github.com/Nonanti/mathcore",
+            "description": "Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic",
+            "tags": []
+          },
+          {
             "name": "Ryan-D-Gast/differential-equations",
             "url": "https://github.com/Ryan-D-Gast/differential-equations",
             "description": "A high-performance library for numerically solving differential equations",
@@ -38575,7 +38587,7 @@
           {
             "name": "postgres",
             "url": "https://crates.io/keywords/postgres",
-            "description": "PostgreSql [  , postgresql ] c410-f3r/wtx - Fast implementation with a low set of external dependencies. sfackler/rust-postgres [ postgres ] - A native PostgreSQL client",
+            "description": "PostgreSql [  , postgresql ] c410-f3r/wtx - Fast implementation with a low set of external dependencies. rust-postgres [ postgres ] - A native PostgreSQL client",
             "tags": []
           },
           {
@@ -47411,6 +47423,12 @@
             "tags": []
           },
           {
+            "name": "Vanilla Cookbook",
+            "url": "https://vanilla-cookbook.readthedocs.io/en/",
+            "description": "Recipe manager designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible. ( Source Code ) GPL-3.0 Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "What To Cook?",
             "url": "https://github.com/kassner/whattocook",
             "description": "Get a recipe to cook today, based on the ingredients you have at home. AGPL-3.0 Docker",
@@ -47692,6 +47710,12 @@
             "name": "NextCloudPi",
             "url": "https://github.com/nextcloud/nextcloudpi",
             "description": "Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. GPL-2.0 Shell/PHP",
+            "tags": []
+          },
+          {
+            "name": "Nirvati",
+            "url": "https://nirvati.org",
+            "description": "Easily 1-click spin up popular self-hosted apps from a convenient web interface. ( Source Code ) AGPL-3.0 Rust/K8S",
             "tags": []
           },
           {
