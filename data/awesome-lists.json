@@ -22772,12 +22772,6 @@
             "tags": []
           },
           {
-            "name": "go-m3u8",
-            "url": "https://github.com/etherlabsio/go-m3u8",
-            "description": "Parser and generator library for Apple m3u8 playlists. Actively maintained version of quangngotan95/go-m3u8 with improvements and latest HLS playlist parsing compatibility.",
-            "tags": []
-          },
-          {
             "name": "go-mpd",
             "url": "https://github.com/unki2aut/go-mpd",
             "description": "Parser and generator library for MPEG-DASH manifest files.",
@@ -22796,15 +22790,15 @@
             "tags": []
           },
           {
-            "name": "libvlc-go",
-            "url": "https://github.com/adrg/libvlc-go",
-            "description": "Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).",
+            "name": "hls-m3u8",
+            "url": "https://github.com/Eyevinn/hls-m3u8",
+            "description": "Parser and generator for HLS (M3U8) playlists; kept up to date with the spec.",
             "tags": []
           },
           {
-            "name": "m3u8",
-            "url": "https://github.com/grafov/m3u8",
-            "description": "Parser and generator library of M3U8 playlists for Apple HLS.",
+            "name": "libvlc-go",
+            "url": "https://github.com/adrg/libvlc-go",
+            "description": "Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).",
             "tags": []
           },
           {
@@ -26838,6 +26832,12 @@
             "tags": []
           },
           {
+            "name": "Anytype",
+            "url": "https://anytype.io/",
+            "description": "Privacy-focused Notion alternative with local storage, optional sync, and self-hosted server support.",
+            "tags": []
+          },
+          {
             "name": "AppFlowy",
             "url": "https://www.appflowy.io/",
             "description": "Open-source alternative to Notion.",
@@ -27939,6 +27939,12 @@
             "tags": []
           },
           {
+            "name": "ReqRes",
+            "url": "https://reqresapp.com/",
+            "description": "Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.",
+            "tags": []
+          },
+          {
             "name": "Trayce",
             "url": "https://trayce.dev",
             "description": "Lightweight tool to monitor Docker container traffic with a built-in .bru HTTP client.",
@@ -28007,12 +28013,6 @@
             "name": "Apidog",
             "url": "https://www.apidog.com/",
             "description": "All-in-One workspace for API Design, Documentation, Debug, Mock, Test.",
-            "tags": []
-          },
-          {
-            "name": "ReqRes",
-            "url": "https://reqresapp.com/",
-            "description": "Native macOS app to monitor, debug, and mock HTTP(S) requests and responses.",
             "tags": []
           }
         ]
@@ -51581,6 +51581,12 @@
             "tags": []
           },
           {
+            "name": "Defang",
+            "url": "https://github.com/DefangLabs/defang",
+            "description": "Deploy Docker Compose to your favorite cloud in minutes by @DefangLabs",
+            "tags": []
+          },
+          {
             "name": "Depot :heavy_dollar_sign:",
             "url": "https://depot.dev",
             "description": "Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. Done in seconds .",
@@ -52308,6 +52314,12 @@
             "name": "Datadog",
             "url": "https://www.datadoghq.com/",
             "description": ":heavy_dollar_sign: - Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.",
+            "tags": []
+          },
+          {
+            "name": "DockStat",
+            "url": "https://github.com/its4nik/dockstat",
+            "description": ":construction: - A full fletched (WIP) Docker management solution featuring plugin support and community integration by its4nik",
             "tags": []
           },
           {
