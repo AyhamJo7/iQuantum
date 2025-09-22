@@ -49576,12 +49576,6 @@
             "tags": []
           },
           {
-            "name": "Dozzle",
-            "url": "https://github.com/amir20/dozzle",
-            "description": "Monitor container logs in real-time with a browser or mobile device. @amir20",
-            "tags": []
-          },
-          {
             "name": "Dynatrace",
             "url": "https://www.dynatrace.com/solutions/container-monitoring/",
             "description": ":heavy_dollar_sign: - Monitor containerized applications without installing agents or modifying your Run commands",
@@ -50213,7 +50207,7 @@
           },
           {
             "name": "Sysdig Secure",
-            "url": "https://sysdig.com/solutions/cloud-threat-detection-and-response/",
+            "url": "https://www.sysdig.com/solutions/cloud-detection-and-response-cdr",
             "description": ":heavy_dollar_sign: - Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.",
             "tags": []
           },
@@ -51368,7 +51362,7 @@
           },
           {
             "name": "GitLab Container Registry",
-            "url": "https://docs.gitlab.com/ee/user/packages/container_registry/",
+            "url": "https://docs.gitlab.com/user/packages/container_registry/",
             "description": "Registry focused on using its images in GitLab CI",
             "tags": []
           },
@@ -52200,7 +52194,7 @@
           },
           {
             "name": "Semaphore CI",
-            "url": "https://semaphoreci.com/",
+            "url": "https://semaphore.io/",
             "description": ":heavy_dollar_sign: \u2014 A high-performance cloud solution that makes it easy to build, test and ship your containers to production.",
             "tags": []
           },
@@ -52342,7 +52336,7 @@
           },
           {
             "name": "Sysdig Monitor",
-            "url": "https://sysdig.com/products/monitor/",
+            "url": "https://www.sysdig.com/products/monitor",
             "description": ":heavy_dollar_sign: - Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.",
             "tags": []
           }
@@ -52435,7 +52429,7 @@
           },
           {
             "name": "Docker vs. VMs? Combining Both for Cloud Portability Nirvana",
-            "url": "https://www.flexera.com/blog/finops/docker-vs-vms-combining-both-for-cloud-portability-nirvana/",
+            "url": "https://www.flexera.com/blog/finops/",
             "description": "",
             "tags": []
           },
