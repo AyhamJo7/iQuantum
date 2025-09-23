@@ -44849,6 +44849,12 @@
         "name": "Generative Artificial Intelligence (GenAI)",
         "resources": [
           {
+            "name": "Agenta",
+            "url": "https://agenta.ai/",
+            "description": "LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications with collaborative prompt engineering. ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "AnythingLLM",
             "url": "https://anythingllm.com/",
             "description": "All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ( Source Code ) MIT Nodejs/Docker",
@@ -46624,12 +46630,6 @@
             "name": "Memos",
             "url": "https://usememos.com/",
             "description": "Knowledge base that works with a SQLite db file. ( Demo , Source Code ) MIT Docker/Go",
-            "tags": []
-          },
-          {
-            "name": "minimalist-web-notepad",
-            "url": "https://github.com/pereorga/minimalist-web-notepad",
-            "description": "Minimalist notepad.cc clone. ( Demo ) Apache-2.0 PHP",
             "tags": []
           },
           {
@@ -48871,12 +48871,6 @@
             "name": "Otter Wiki",
             "url": "https://otterwiki.com/",
             "description": "Simple, easy to use wiki software using markdown. ( Source Code ) MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "Pepperminty Wiki",
-            "url": "https://github.com/sbrl/Pepperminty-Wiki",
-            "description": "Complete markdown-powered wiki contained in a single PHP file. ( Demo ) MPL-2.0 PHP",
             "tags": []
           },
           {
