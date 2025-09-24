@@ -37599,6 +37599,12 @@
             "tags": []
           },
           {
+            "name": "AppCUI",
+            "url": "https://github.com/gdt050579/AppCUI-rs",
+            "description": "[ appcui ] - A full-featured, cross-platform TUI/CUI framework in Rust, with built-in widgets, layout control, animations, Unicode and theming support.",
+            "tags": []
+          },
+          {
             "name": "cfyzium/bearlibterminal",
             "url": "https://github.com/nabijaczleweli/BearLibTerminal.rs",
             "description": "BearLibTerminal  [ bear-lib-terminal ] - BearLibTerminal bindings",
@@ -43709,12 +43715,6 @@
             "url": "https://github.com/Stirling-Tools/Stirling-PDF",
             "description": "Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. Apache-2.0 Docker/Java",
             "tags": []
-          },
-          {
-            "name": "Teedy",
-            "url": "https://teedy.io/",
-            "description": "Lightweight document management system packed with all the features you can expect from big expensive solutions (Ex SismicsDocs). ( Demo , Source Code ) GPL-2.0 Docker/Java",
-            "tags": []
           }
         ]
       },
@@ -44755,12 +44755,6 @@
             "tags": []
           },
           {
-            "name": "Lodestone",
-            "url": "https://github.com/Lodestone-Team/lodestone",
-            "description": "Server hosting tool for Minecraft and other multiplayers. AGPL-3.0 Docker/Rust",
-            "tags": []
-          },
-          {
             "name": "Minus Games",
             "url": "https://accessory.github.io/minus_games_user_guide",
             "description": "Sync games and save files across multiple devices. ( Source Code ) MIT Rust",
@@ -45562,12 +45556,6 @@
             "name": "Reiverr",
             "url": "https://github.com/aleksilassila/reiverr",
             "description": "\u26a0 - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "SickChill",
-            "url": "https://sickchill.github.io/",
-            "description": "Automatic video library manager for TV shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Source Code ) GPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -46885,12 +46873,6 @@
             "name": "SnyPy",
             "url": "https://snypy.com",
             "description": "Open source on-prem code snippet manager. ( Demo , Source Code ) MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "Spacebin",
-            "url": "https://spaceb.in",
-            "description": "Modern Pastebin server written in Go with a JS-free web UI and tons of features. ( Demo , Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -81288,12 +81270,6 @@
             "tags": []
           },
           {
-            "name": "The Fullstack Tutorial for GraphQL",
-            "url": "https://github.com/howtographql/howtographql",
-            "description": "",
-            "tags": []
-          },
-          {
             "name": "next",
             "url": "https://github.com/vercel/next.js",
             "description": "The React Framework",
@@ -81498,12 +81474,6 @@
             "tags": []
           },
           {
-            "name": "wouter",
-            "url": "https://github.com/molefrog/wouter",
-            "description": "A minimalist-friendly routing",
-            "tags": []
-          },
-          {
             "name": "tanstack-router",
             "url": "https://github.com/TanStack/router",
             "description": "Type-safe router with built-in caching & URL state management",
@@ -81519,12 +81489,6 @@
             "name": "parcel",
             "url": "https://github.com/parcel-bundler/parcel",
             "description": "The zero configuration build tool for the web",
-            "tags": []
-          },
-          {
-            "name": "million",
-            "url": "https://github.com/aidenybai/million",
-            "description": "An extremely fast and lightweight optimizing compiler",
             "tags": []
           },
           {
@@ -81630,12 +81594,6 @@
             "tags": []
           },
           {
-            "name": "react-loading-skeleton",
-            "url": "https://github.com/dvtng/react-loading-skeleton",
-            "description": "Create skeleton screens that automatically adapt to your app",
-            "tags": []
-          },
-          {
             "name": "react-qrcode",
             "url": "https://github.com/zpao/qrcode.react",
             "description": "QR component for use with React",
@@ -81645,12 +81603,6 @@
             "name": "react-archer",
             "url": "https://github.com/pierpo/react-archer",
             "description": "Draw arrows between React elements",
-            "tags": []
-          },
-          {
-            "name": "react-icons",
-            "url": "https://github.com/react-icons/react-icons",
-            "description": "SVG React icons of popular icon packs",
             "tags": []
           },
           {
@@ -81675,12 +81627,6 @@
             "name": "keen-slider",
             "url": "https://github.com/rcbyr/keen-slider",
             "description": "The Touch slider carousel",
-            "tags": []
-          },
-          {
-            "name": "cookie-consent-banner",
-            "url": "https://github.com/porscheofficial/cookie-consent-banner",
-            "description": "\u2013 The lightweight and flexible Cookie Consent Banner",
             "tags": []
           },
           {
@@ -81717,12 +81663,6 @@
             "name": "storybook",
             "url": "https://github.com/storybookjs/storybook",
             "description": "Storybook is a frontend workshop for building UI components and pages in isolation",
-            "tags": []
-          },
-          {
-            "name": "react-styleguidist",
-            "url": "https://github.com/styleguidist/react-styleguidist",
-            "description": "Isolated React component development environment with a living style guide",
             "tags": []
           },
           {
@@ -81918,21 +81858,9 @@
             "tags": []
           },
           {
-            "name": "react-rails",
-            "url": "https://github.com/reactjs/react-rails",
-            "description": "Integrate React with Rails",
-            "tags": []
-          },
-          {
             "name": "fulcro",
             "url": "https://github.com/fulcrologic/fulcro",
             "description": "A library for development of web applications in clj/cljs",
-            "tags": []
-          },
-          {
-            "name": "tailwind-react",
-            "url": "https://tw-elements.com/docs/standard/integrations/react-integration/",
-            "description": "Article that shows you how to integrate React application with Tailwind",
             "tags": []
           },
           {
@@ -82003,12 +81931,6 @@
           {
             "name": "Expo",
             "url": "https://expo.dev/",
-            "description": "",
-            "tags": []
-          },
-          {
-            "name": "Expo Snack Playground",
-            "url": "https://snack.expo.dev/",
             "description": "",
             "tags": []
           },
