@@ -47875,7 +47875,7 @@
           {
             "name": "Flipt",
             "url": "https://flipt.io",
-            "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ( Demo , Source Code ) GPL-3.0 Docker/K8S/Go",
+            "description": "Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ( Source Code ) GPL-3.0 Docker/K8S/Go",
             "tags": []
           },
           {
@@ -48586,12 +48586,6 @@
             "name": "Kutt",
             "url": "https://kutt.it",
             "description": "Modern URL shortener with support for custom domains and custom URLs. ( Demo , Source Code ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
-            "name": "liteshort",
-            "url": "https://ls.ikl.sh/",
-            "description": "User-friendly, actually lightweight, and configurable URL shortener. ( Source Code ) MIT Python/deb",
             "tags": []
           },
           {
