@@ -21375,6 +21375,12 @@
             "tags": []
           },
           {
+            "name": "mexce",
+            "url": "https://github.com/imakris/mexce",
+            "description": "A single-header, dependency-free JIT compiler for scalar mathematical expressions that generates optimized x87 FPU machine code. [BSD]",
+            "tags": []
+          },
+          {
             "name": "MIRACL",
             "url": "https://github.com/CertiVox/MIRACL",
             "description": "A Multiprecision Integer and Rational Arithmetic Cryptographic Library. [AGPL]",
