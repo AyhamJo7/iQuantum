@@ -34952,6 +34952,12 @@
             "tags": []
           },
           {
+            "name": "OpenResty Manager",
+            "url": "https://github.com/Safe3/openresty-manager",
+            "description": "The easiest using, powerful and beautiful OpenResty Manager(Nginx Enhanced Version), open source alternative to OpenResty Edge. By @Safe3",
+            "tags": []
+          },
+          {
             "name": "Swarm Ingress Router",
             "url": "https://github.com/tpbowden/swarm-ingress-router",
             "description": ":skull: - Route DNS names to Swarm services based on labels. By @tpbowden",
@@ -65224,12 +65230,6 @@
             "tags": []
           },
           {
-            "name": "Strongbox",
-            "url": "https://github.com/strongbox/strongbox",
-            "description": "(label: good first issue) Strongbox is an artifact repository manager written in Java.",
-            "tags": []
-          },
-          {
             "name": "TEAMMATES",
             "url": "https://github.com/TEAMMATES/teammates",
             "description": "(label: good first issue) TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.",
@@ -76140,115 +76140,127 @@
           {
             "name": "AlDente",
             "url": "https://apphousekitchen.com/",
-            "description": "Charge limiter app for MacBooks to keep your battery healthy even longer.",
+            "description": "Battery charge limiter for MacBooks.",
             "tags": []
           },
           {
             "name": "Amphetamine",
             "url": "https://itunes.apple.com/us/app/amphetamine/id937984704",
-            "description": "Override your energy saver settings and keep your Mac awake.",
+            "description": "Keep your Mac awake.",
             "tags": []
           },
           {
             "name": "AdBlock One",
             "url": "https://cleanerone.trendmicro.com/ad-block-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
-            "description": "Your New Favorite Free Ad Blocker for macOS and iOS: Stop seeing annoying ads in Safari. Open websites faster. Browse the web more safely.",
+            "description": "Free ad blocker for Safari.",
             "tags": []
           },
           {
             "name": "AppCleaner",
             "url": "http://freemacsoft.net/appcleaner/",
-            "description": "Small application which allows you to thoroughly uninstall unwanted apps.",
+            "description": "Thoroughly uninstall apps.",
             "tags": []
           },
           {
             "name": "Apple Silicon App Test",
             "url": "https://doesitarm.com/apple-silicon-app-test/",
-            "description": "Browser-based tool for checking Apple Silicon app compatibility before you buy an M1 Mac.",
+            "description": "Check Apple Silicon app compatibility.",
             "tags": []
           },
           {
             "name": "Background Music",
             "url": "https://github.com/kyleneideck/BackgroundMusic",
-            "description": "Automatically pause your music, set individual apps' volumes and record system audio.",
+            "description": "Control app volumes and record system audio.",
             "tags": []
           },
           {
             "name": "Cleaner One",
             "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8",
-            "description": "All-in-one Disk Cleaning Manager: Clean up your Mac and optimize its performance. Run a quick scan now to verify what's taking up your storage.",
+            "description": "Disk cleaning and Mac optimization.",
             "tags": []
           },
           {
             "name": "Cleaner for Xcode",
             "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
-            "description": "Helps make your Xcode faster by removing unwanted and deprecated files.",
+            "description": "Remove unwanted Xcode files.",
             "tags": []
           },
           {
             "name": "coconutBattery",
             "url": "https://www.coconut-flavour.com/coconutbattery/",
-            "description": "Shows live information about the battery in your Mac. Includes: manufacture date, capacity, cycle count, battery status, temperature, discharging power.",
+            "description": "Mac battery information and statistics.",
             "tags": []
           },
           {
             "name": "DaisyDisk",
             "url": "https://daisydiskapp.com/",
-            "description": "Gives a great overview of disk usage. Can also make more disk-space available by cleaning up your disk.",
+            "description": "Disk usage analyzer and cleaner.",
+            "tags": []
+          },
+          {
+            "name": "Dayflow",
+            "url": "https://github.com/JerryZLiu/Dayflow",
+            "description": "Screen activity timeline with AI support.",
+            "tags": []
+          },
+          {
+            "name": "DockAnchor",
+            "url": "https://github.com/bwya77/DockAnchor",
+            "description": "Lock the macOS Dock to a single screen in a multi-monitor setup.",
             "tags": []
           },
           {
             "name": "everythingByMdfind",
             "url": "https://github.com/appledragon/everythingByMdfind",
-            "description": "A powerful and efficient file search tool for macOS, leveraging the native Spotlight engine for lightning-fast results.",
+            "description": "Fast file search using Spotlight.",
             "tags": []
           },
           {
             "name": "gfxCardStatus",
             "url": "https://gfx.io/",
-            "description": "Unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics.",
+            "description": "Monitor graphics card usage and battery impact.",
             "tags": []
           },
           {
             "name": "GrandPerspective",
             "url": "https://grandperspectiv.sourceforge.net",
-            "description": "A small utility that visualizes disk usage by way of tree maps. It lets you quickly spot which files and folders take up the most space.",
+            "description": "Visualize disk usage with tree maps.",
             "tags": []
           },
           {
             "name": "Gray",
             "url": "https://github.com/zenangst/Gray",
-            "description": "Pick between the light appearance and the dark appearance on a per-app basis with the click of a button.",
+            "description": "Per-app light/dark mode switcher.",
             "tags": []
           },
           {
             "name": "HandShaker",
             "url": "http://www.smartisan.com/apps/handshaker",
-            "description": "Mac on the management of Android mobile phone content.",
+            "description": "Manage Android phone content on Mac.",
             "tags": []
           },
           {
             "name": "iStat Menus",
             "url": "https://bjango.com/mac/istatmenus/",
-            "description": "Advanced Mac system monitor on the menubar.",
+            "description": "Advanced system monitor for menubar.",
             "tags": []
           },
           {
             "name": "iStats",
             "url": "https://github.com/Chris911/iStats",
-            "description": "Command-line tool that allows you to easily grab the CPU temperature, fan speeds and battery information on OSX.",
+            "description": "Command-line system information tool.",
             "tags": []
           },
           {
             "name": "Juice",
             "url": "https://github.com/brianmichel/Juice",
-            "description": "Make your battery information a bit more interesting.",
+            "description": "Enhanced battery information display.",
             "tags": []
           },
           {
             "name": "KeepingYouAwake",
             "url": "https://github.com/newmarcel/KeepingYouAwake",
-            "description": "Alternative to Caffeine with better support for dark mode in Mac.",
+            "description": "Caffeine alternative with dark mode support.",
             "tags": []
           },
           {
