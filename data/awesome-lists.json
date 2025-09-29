@@ -67,7 +67,7 @@
           {
             "name": "OllamaFarm",
             "url": "https://github.com/presbrey/ollamafarm",
-            "description": "Manage, load-balance, and failover packs of Ollamas",
+            "description": "Manage, load-balance, and failover packs of Ollamas.",
             "tags": []
           }
         ]
@@ -233,7 +233,7 @@
           {
             "name": "jwx",
             "url": "https://github.com/lestrrat-go/jwx",
-            "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies",
+            "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
             "tags": []
           },
           {
@@ -257,7 +257,7 @@
           {
             "name": "oidc",
             "url": "https://github.com/zitadel/oidc",
-            "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation",
+            "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.",
             "tags": []
           },
           {
@@ -429,7 +429,7 @@
           {
             "name": "bot",
             "url": "https://github.com/go-telegram/bot",
-            "description": "Zero-dependencies Telegram Bot library with additional UI components",
+            "description": "Zero-dependencies Telegram Bot library with additional UI components.",
             "tags": []
           },
           {
@@ -1151,7 +1151,7 @@
           {
             "name": "config",
             "url": "https://github.com/num30/config",
-            "description": "configure your app using file, environment variables, or flags in two lines of code",
+            "description": "configure your app using file, environment variables, or flags in two lines of code.",
             "tags": []
           },
           {
@@ -1175,7 +1175,7 @@
           {
             "name": "confiq",
             "url": "https://github.com/greencoda/confiq",
-            "description": "Structured data format to config struct decoder library for Go - supporting multiple data formats",
+            "description": "Structured data format to config struct decoder library for Go - supporting multiple data formats.",
             "tags": []
           },
           {
@@ -1188,6 +1188,12 @@
             "name": "conflate",
             "url": "https://github.com/the4thamigo-uk/conflate",
             "description": "Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.",
+            "tags": []
+          },
+          {
+            "name": "enflag",
+            "url": "https://github.com/atelpis/enflag",
+            "description": "Container-oriented, zero-dependency configuration library that unifies Env variable and Flag parsing. Uses generics for type safety, without reflection or struct tags.",
             "tags": []
           },
           {
@@ -1205,7 +1211,7 @@
           {
             "name": "env",
             "url": "https://github.com/syntaqx/env",
-            "description": "An environment utility package with support for unmarshaling into structs",
+            "description": "An environment utility package with support for unmarshaling into structs.",
             "tags": []
           },
           {
@@ -3126,7 +3132,7 @@
           {
             "name": "KSQL",
             "url": "https://github.com/VinGarcia/ksql",
-            "description": "A Simple and Powerful Golang SQL Library",
+            "description": "A Simple and Powerful Golang SQL Library.",
             "tags": []
           },
           {
@@ -3174,7 +3180,7 @@
           {
             "name": "ydb-go-sdk",
             "url": "https://github.com/ydb-platform/ydb-go-sdk",
-            "description": "native and database/sql driver YDB (Yandex Database)",
+            "description": "native and database/sql driver YDB (Yandex Database).",
             "tags": []
           }
         ]
@@ -3830,7 +3836,7 @@
           {
             "name": "NATS",
             "url": "https://github.com/nats-io/nats-server",
-            "description": "NATS is a simple, secure, and\n  performant communications system for digital systems, services, and devices.",
+            "description": "NATS is a simple, secure, and performant communications system for digital systems, services, and devices.",
             "tags": []
           },
           {
@@ -8947,7 +8953,7 @@
           {
             "name": "azuretls-client",
             "url": "https://github.com/Noooste/azuretls-client",
-            "description": "An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint",
+            "description": "An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint.",
             "tags": []
           },
           {
@@ -11201,7 +11207,7 @@
           {
             "name": "htmlyaml",
             "url": "https://github.com/nikolaydubina/htmlyaml",
-            "description": "Rich rendering of YAML as HTML in Go",
+            "description": "Rich rendering of YAML as HTML in Go.",
             "tags": []
           },
           {
@@ -57109,6 +57115,12 @@
             "tags": []
           },
           {
+            "name": "Rybbit",
+            "url": "https://rybbit.io",
+            "description": "Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics). ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Shynet",
             "url": "https://github.com/milesmcc/shynet",
             "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Apache-2.0 Python/Docker",
@@ -61562,6 +61574,12 @@
             "tags": []
           },
           {
+            "name": "Anubis",
+            "url": "https://anubis.techaro.lol/",
+            "description": "Web AI firewall utility which protects upstream resources from scraper bots. ( Source Code ) MIT Docker/deb/Go",
+            "tags": []
+          },
+          {
             "name": "asciinema",
             "url": "https://asciinema.org/",
             "description": "Web app for hosting asciicasts. ( Demo , Source Code ) Apache-2.0 Elixir/Docker",
@@ -61925,6 +61943,12 @@
             "name": "Wakupator",
             "url": "https://github.com/Gibus21250/Wakupator",
             "description": "Wake On LAN Machine Manager based on network traffic. MIT C",
+            "tags": []
+          },
+          {
+            "name": "Warracker",
+            "url": "https://warracker.com",
+            "description": "Warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -70535,12 +70559,6 @@
             "tags": []
           },
           {
-            "name": "MacDown",
-            "url": "http://macdown.uranusjr.com/",
-            "description": "Open-source Markdown editor for OS X.",
-            "tags": []
-          },
-          {
             "name": "Marked 2",
             "url": "http://marked2app.com/",
             "description": "This is the Markdown preview with an elegant and powerful set of tools for all writers.",
@@ -75241,7 +75259,7 @@
           {
             "name": "Vidwall",
             "url": "https://apps.apple.com/app/Vidwall/6747587746",
-            "description": "Supports setting 4K videos (MP4, MOV formats) as dynamic wallpapers.",
+            "description": "Easily import MP4/MOV videos as system wallpapers and lock screen animations.",
             "tags": []
           },
           {
