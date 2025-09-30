@@ -6766,6 +6766,12 @@
             "tags": []
           },
           {
+            "name": "timberjack",
+            "url": "https://github.com/DeRuina/timberjack",
+            "description": "Rolling logger with size-based, time-based, and scheduled clock-based rotation, supporting compression and cleanup.",
+            "tags": []
+          },
+          {
             "name": "tint",
             "url": "https://github.com/lmittmann/tint",
             "description": "A slog.Handler that writes tinted logs.",
@@ -63936,7 +63942,7 @@
           {
             "name": "Kuvasz Uptime",
             "url": "https://kuvasz-uptime.dev",
-            "description": "Performant, stable uptime & SSL monitoring service that just works. ( Source Code ) Apache-2.0 Docker",
+            "description": "Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. ( Demo , Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -73812,6 +73818,12 @@
             "name": "MusicBrainz Picard",
             "url": "https://picard.musicbrainz.org/",
             "description": "Cross-platform music tagger written in Python.",
+            "tags": []
+          },
+          {
+            "name": "MyMedia",
+            "url": "https://github.com/photangralenphie/MyMedia",
+            "description": "Display and watch your local movie and TV show library.",
             "tags": []
           },
           {
