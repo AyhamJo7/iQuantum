@@ -22961,6 +22961,12 @@
             "url": "https://github.com/mattreecebentley/plf_indiesort",
             "description": "A sort wrapper which enables the use of std::sort (& other random-access sort functions) with non-random-access containers, and also improves sort performance for large/non-trivially-copyable types in random-access containers and arrays. [zLib] website",
             "tags": []
+          },
+          {
+            "name": "x86-simd-sort",
+            "url": "https://github.com/numpy/x86-simd-sort",
+            "description": "C++ template library for high performance SIMD based sorting algorithms. [BSD-3-Clause]",
+            "tags": []
           }
         ]
       },
