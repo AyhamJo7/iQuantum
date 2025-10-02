@@ -50347,6 +50347,12 @@
             "url": "https://github.com/aelassas/bookcars",
             "description": "Car rental platform",
             "tags": []
+          },
+          {
+            "name": "notifuse",
+            "url": "https://github.com/Notifuse/notifuse",
+            "description": "Modern self-hosted emailing platform to send newsletters & transactional emails",
+            "tags": []
           }
         ]
       },
