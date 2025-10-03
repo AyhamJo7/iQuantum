@@ -37212,12 +37212,6 @@
             "tags": []
           },
           {
-            "name": "Red Hat CodeReady Workspaces",
-            "url": "https://developers.redhat.com/products/openshift-dev-spaces/overview",
-            "description": "A collaborative Kubernetes-native solution for rapid application development that delivers consistent developer environments on Red Hat OpenShift to allow anyone with a browser to contribute code in under two minutes.",
-            "tags": []
-          },
-          {
             "name": "Red Hat OpenShift Dedicated",
             "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/dedicated",
             "description": ":heavy_dollar_sign: - Fully-managed Red Hat\u00ae OpenShift\u00ae service on Amazon Web Services and Google Cloud",
@@ -61616,6 +61610,12 @@
             "tags": []
           },
           {
+            "name": "Canary Tokens",
+            "url": "https://canarytokens.org",
+            "description": "Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access. ( Source Code ) BSD-3-Clause Docker/Python",
+            "tags": []
+          },
+          {
             "name": "ClipCascade",
             "url": "https://github.com/Sathvik-Rao/ClipCascade",
             "description": "Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. GPL-3.0 Java/Docker",
@@ -65316,12 +65316,6 @@
             "name": "Ancient Beast",
             "url": "https://github.com/FreezingMoon/AncientBeast",
             "description": "(label: easy) Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.",
-            "tags": []
-          },
-          {
-            "name": "API-pull-with-JavaScript",
-            "url": "https://github.com/AliBasboga/APIExampleWithExpress.git",
-            "description": "(label: API-pull-and-use) API data extraction and delivery to the user to present.",
             "tags": []
           },
           {
