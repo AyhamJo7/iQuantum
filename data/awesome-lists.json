@@ -14905,6 +14905,12 @@
             "tags": []
           },
           {
+            "name": "docker-volume-backup",
+            "url": "https://github.com/offen/docker-volume-backup",
+            "description": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.",
+            "tags": []
+          },
+          {
             "name": "Dockerfile-Generator",
             "url": "https://github.com/ozankasikci/dockerfile-generator",
             "description": "A go library and an executable that produces valid Dockerfiles using various input channels.",
@@ -26633,6 +26639,12 @@
             "tags": []
           },
           {
+            "name": "graves/awful_aj",
+            "url": "https://github.com/graves/awful_aj",
+            "description": "[ awful_aj ] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.",
+            "tags": []
+          },
+          {
             "name": "illacloud/illa",
             "url": "https://github.com/illacloud/illa",
             "description": "Low-code internal tool builder.",
@@ -29463,12 +29475,6 @@
             "tags": []
           },
           {
-            "name": "marcelbuesing/can-dbc",
-            "url": "https://github.com/marcelbuesing/can-dbc",
-            "description": "[ can-dbc ] - A parser for the DBC format",
-            "tags": []
-          },
-          {
             "name": "marcelbuesing/tokio-socketcan-bcm",
             "url": "https://github.com/marcelbuesing/tokio-socketcan-bcm",
             "description": "[ tokio-socketcan-bcm ] - Linux SocketCAN BCM support for tokio",
@@ -29478,6 +29484,12 @@
             "name": "mbr/socketcan",
             "url": "https://github.com/socketcan-rs/socketcan-rs",
             "description": "[ socketcan ] - Linux SocketCAN library",
+            "tags": []
+          },
+          {
+            "name": "oxibus/can-dbc",
+            "url": "https://github.com/oxibus/can-dbc",
+            "description": "[ can-dbc ] - A parser for the DBC format",
             "tags": []
           },
           {
