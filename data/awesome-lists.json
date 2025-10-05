@@ -76,6 +76,12 @@
         "name": "Audio and Music",
         "resources": [
           {
+            "name": "beep",
+            "url": "https://github.com/faiface/beep",
+            "description": "A simple library for playback and audio manipulation.",
+            "tags": []
+          },
+          {
             "name": "flac",
             "url": "https://github.com/mewkiz/flac",
             "description": "Native Go FLAC encoder/decoder with support for FLAC streams.",
@@ -159,9 +165,9 @@
             "tags": []
           },
           {
-            "name": "go-guardian",
-            "url": "https://github.com/shaj13/go-guardian",
-            "description": "Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.",
+            "name": "go-iam",
+            "url": "https://github.com/melvinodsa/go-iam",
+            "description": "Developer-first Identity and Access Management system with a simple UI.",
             "tags": []
           },
           {
@@ -9992,6 +9998,12 @@
             "tags": []
           },
           {
+            "name": "SafeDep/vet",
+            "url": "https://github.com/safedep/vet",
+            "description": "Protect against malicious open source packages.",
+            "tags": []
+          },
+          {
             "name": "secret",
             "url": "https://github.com/rsjethani/secret",
             "description": "Prevent your secrets from leaking into logs, std* etc.",
@@ -14866,6 +14878,12 @@
             "name": "cassowary",
             "url": "https://github.com/rogerwelin/cassowary",
             "description": "Modern cross-platform HTTP load-testing tool written in Go.",
+            "tags": []
+          },
+          {
+            "name": "chaosmonkey",
+            "url": "https://github.com/Netflix/chaosmonkey",
+            "description": "A resiliency tool that helps applications tolerate random instance failures.",
             "tags": []
           },
           {
@@ -40571,7 +40589,7 @@
           {
             "name": "Distributed Machine Learning",
             "url": "https://www.csie.ntu.edu.tw/~cjlin/talks/bigdata-bilbao.pdf",
-            "description": "Machine Learning Platform at Yelp Machine Learning Platform at Etsy Machine Learning Platform at Zalando Scaling AI/ML Infrastructure at Uber Recommendation System at Lyft Reinforcement Learning Platform at Lyft Platform for Serving Recommendations at Etsy Infrastructure to Run User Forecasts at Spotify Aroma: Using ML for Code Recommendation at Facebook Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft LyftLearn: ML Model Training Infrastructure built on Kubernetes at Lyft Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber Genie: Gen AI On-Call Copilot at Uber COTA: Improving Customer Care with NLP & Machine Learning at Uber Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber Repo-Topix: Topic Extraction Framework at Github Concourse: Generating Personalized Content Notifications in Near-Real-Time at LinkedIn Altus Care: Applying a Chatbot to Platform Engineering at eBay PyKrylov: Accelerating Machine Learning Research at eBay Box Graph: Spontaneous Social Network at Box PricingNet: Pricing Modelling with Neural Networks at Skyscanner PinText: Multitask Text Embedding System at Pinterest SearchSage: Learning Search Query Representations at Pinterest Cannes: ML saves $1.7M a year on document previews at Dropbox Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp Learning with Privacy at Scale at Apple Deep Learning for Image Classification Experiment at Mercari Deep Learning for Frame Detection in Product Images at Allegro Content-based Video Relevance Prediction at Hulu Moderating Inappropriate Video Content at Yelp Improving Photo Selection With Deep Learning at TripAdvisor Personalized Recommendations for Experiences Using Deep Learning at TripAdvisor Personalised Recommender Systems at BBC Machine Learning (2 parts) at Cond\u00e9 Nast Natural Language Processing and Content Analysis (2 parts) at Cond\u00e9 Nast Mapping the World of Music Using Machine Learning (2 parts) at iHeartRadio Machine Learning to Improve Streaming Quality at Netflix Machine Learning to Match Drivers & Riders at GO-JEK Improving Video Thumbnails with Deep Neural Nets at YouTube Quantile Regression for Delivering On Time at Instacart Cross-Lingual End-to-End Product Search with Deep Learning at Zalando Machine Learning at Jane Street Machine Learning for Ranking Answers End-to-End at Quora Clustering Similar Stories Using LDA at Flipboard Similarity Search at Flickr Large-Scale Machine Learning Pipeline for Job Recommendations at Indeed Deep Learning from Prototype to Production at Taboola Atom Smashing using Machine Learning at CERN Mapping Tags at Medium Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto Map Pins with DBSCAN & Random Forests at Foursquare Forecasting at Uber Financial Forecasting at Uber Productionizing ML with Workflows at Twitter GUI Testing Powered by Deep Learning at eBay Scaling Machine Learning to Recommend Driving Routes at Pivotal Real-Time Predictions at DoorDash Machine Intelligence at Dropbox Machine Learning for Indexing Text from Billions of Images at Dropbox Modeling User Journeys via Semantic Embeddings at Etsy Automated Fake Account Detection at LinkedIn Building Knowledge Graph at Airbnb Core Modeling at Instagram Neural Architecture Search (NAS) for Prohibited Item Detection at Mercari Computer Vision at Airbnb 3D Home Backend Algorithms at Zillow Long-term Forecasts at Lyft Discovering Popular Dishes with Deep Learning at Yelp SplitNet Architecture for Ad Candidate Ranking at Twitter Jobs Filter at Indeed Architecting Restaurant Wait Time Predictions at Yelp Music Personalization at Spotify Deep Learning for Domain Name Valuation at GoDaddy Similarity Clustering to Catch Fraud Rings at Stripe Personalized Search at Etsy ML Feature Serving Infrastructure at Lyft Context-Specific Bidding System at Etsy Moderating Promotional Spam and Inappropriate Content in Photos at Scale at Yelp Optimizing Payments with Machine Learning at Dropbox Scaling Media Machine Learning at Netflix Similarity Engine at eBay Machine Learning in Content Moderation at Etsy",
+            "description": "Machine Learning Platform at Yelp Machine Learning Platform at Etsy Machine Learning Platform at Zalando Scaling AI/ML Infrastructure at Uber Recommendation System at Lyft Reinforcement Learning Platform at Lyft Platform for Serving Recommendations at Etsy Infrastructure to Run User Forecasts at Spotify Aroma: Using ML for Code Recommendation at Facebook Flyte: Cloud Native Machine Learning and Data Processing Platform at Lyft LyftLearn: ML Model Training Infrastructure built on Kubernetes at Lyft Horovod: Open Source Distributed Deep Learning Framework for TensorFlow at Uber Genie: Gen AI On-Call Copilot at Uber COTA: Improving Customer Care with NLP & Machine Learning at Uber Manifold: Model-Agnostic Visual Debugging Tool for Machine Learning at Uber Repo-Topix: Topic Extraction Framework at Github Concourse: Generating Personalized Content Notifications in Near-Real-Time at LinkedIn Altus Care: Applying a Chatbot to Platform Engineering at eBay PyKrylov: Accelerating Machine Learning Research at eBay Box Graph: Spontaneous Social Network at Box PricingNet: Pricing Modelling with Neural Networks at Skyscanner PinText: Multitask Text Embedding System at Pinterest SearchSage: Learning Search Query Representations at Pinterest Cannes: ML saves $1.7M a year on document previews at Dropbox Scaling Gradient Boosted Trees for Click-Through-Rate Prediction at Yelp Learning with Privacy at Scale at Apple Deep Learning for Image Classification Experiment at Mercari Deep Learning for Frame Detection in Product Images at Allegro Content-based Video Relevance Prediction at Hulu Moderating Inappropriate Video Content at Yelp Improving Photo Selection With Deep Learning at TripAdvisor Personalized Recommendations for Experiences Using Deep Learning at TripAdvisor Personalised Recommender Systems at BBC Machine Learning (2 parts) at Cond\u00e9 Nast Natural Language Processing and Content Analysis (2 parts) at Cond\u00e9 Nast Mapping the World of Music Using Machine Learning (2 parts) at iHeartRadio Machine Learning to Improve Streaming Quality at Netflix Machine Learning to Match Drivers & Riders at GO-JEK Improving Video Thumbnails with Deep Neural Nets at YouTube Quantile Regression for Delivering On Time at Instacart Cross-Lingual End-to-End Product Search with Deep Learning at Zalando Machine Learning at Jane Street Machine Learning for Ranking Answers End-to-End at Quora Ranking Platform at Booking.com Clustering Similar Stories Using LDA at Flipboard Similarity Search at Flickr Large-Scale Machine Learning Pipeline for Job Recommendations at Indeed Deep Learning from Prototype to Production at Taboola Atom Smashing using Machine Learning at CERN Mapping Tags at Medium Clustering with the Dirichlet Process Mixture Model in Scala at Monsanto Map Pins with DBSCAN & Random Forests at Foursquare Forecasting at Uber Financial Forecasting at Uber Productionizing ML with Workflows at Twitter GUI Testing Powered by Deep Learning at eBay Scaling Machine Learning to Recommend Driving Routes at Pivotal Real-Time Predictions at DoorDash Machine Intelligence at Dropbox Machine Learning for Indexing Text from Billions of Images at Dropbox Modeling User Journeys via Semantic Embeddings at Etsy Automated Fake Account Detection at LinkedIn Building Knowledge Graph at Airbnb Core Modeling at Instagram Neural Architecture Search (NAS) for Prohibited Item Detection at Mercari Computer Vision at Airbnb 3D Home Backend Algorithms at Zillow Long-term Forecasts at Lyft Discovering Popular Dishes with Deep Learning at Yelp SplitNet Architecture for Ad Candidate Ranking at Twitter Jobs Filter at Indeed Architecting Restaurant Wait Time Predictions at Yelp Music Personalization at Spotify Deep Learning for Domain Name Valuation at GoDaddy Similarity Clustering to Catch Fraud Rings at Stripe Personalized Search at Etsy ML Feature Serving Infrastructure at Lyft Context-Specific Bidding System at Etsy Moderating Promotional Spam and Inappropriate Content in Photos at Scale at Yelp Optimizing Payments with Machine Learning at Dropbox Scaling Media Machine Learning at Netflix Similarity Engine at eBay Machine Learning in Content Moderation at Etsy",
             "tags": []
           }
         ]
@@ -61775,12 +61793,6 @@
             "name": "google-webfonts-helper",
             "url": "https://github.com/majodev/google-webfonts-helper",
             "description": "\u26a0 - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ( Demo ) MIT Nodejs",
-            "tags": []
-          },
-          {
-            "name": "Gophish",
-            "url": "https://getgophish.com/",
-            "description": "Powerful phishing framework that makes it easy to test your organization's exposure to phishing. ( Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
