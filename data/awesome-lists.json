@@ -26651,6 +26651,12 @@
             "tags": []
           },
           {
+            "name": "flusterIO/fluster",
+            "url": "https://github.com/flusterIO/fluster",
+            "description": "An all-in-one note taking application built for STEM students and professionals.",
+            "tags": []
+          },
+          {
             "name": "Furtherance",
             "url": "https://github.com/unobserved-io/Furtherance",
             "description": "Time tracking app built with GTK4",
