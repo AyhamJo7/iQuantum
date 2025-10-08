@@ -3,76 +3,6 @@
     "name": "Awesome Go",
     "categories": [
       {
-        "name": "Actor Model",
-        "resources": [
-          {
-            "name": "Ergo",
-            "url": "https://github.com/ergo-services/ergo",
-            "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
-            "tags": []
-          },
-          {
-            "name": "Goakt",
-            "url": "https://github.com/Tochemey/goakt",
-            "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
-            "tags": []
-          },
-          {
-            "name": "Hollywood",
-            "url": "https://github.com/anthdm/hollywood",
-            "description": "Blazingly fast and light-weight Actor engine written in Golang.",
-            "tags": []
-          },
-          {
-            "name": "ProtoActor",
-            "url": "https://github.com/asynkron/protoactor-go",
-            "description": "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Artificial Intelligence",
-        "resources": [
-          {
-            "name": "chromem-go",
-            "url": "https://github.com/philippgille/chromem-go",
-            "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
-            "tags": []
-          },
-          {
-            "name": "fun",
-            "url": "https://gitlab.com/tozd/go/fun",
-            "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
-            "tags": []
-          },
-          {
-            "name": "langchaingo",
-            "url": "https://github.com/tmc/langchaingo",
-            "description": "LangChainGo is a framework for developing applications powered by language models.",
-            "tags": []
-          },
-          {
-            "name": "LocalAI",
-            "url": "https://github.com/mudler/LocalAI",
-            "description": "Open Source OpenAI alternative, self-host AI models.",
-            "tags": []
-          },
-          {
-            "name": "Ollama",
-            "url": "https://github.com/jmorganca/ollama",
-            "description": "Run large language models locally.",
-            "tags": []
-          },
-          {
-            "name": "OllamaFarm",
-            "url": "https://github.com/presbrey/ollamafarm",
-            "description": "Manage, load-balance, and failover packs of Ollamas.",
-            "tags": []
-          }
-        ]
-      },
-      {
         "name": "Audio and Music",
         "resources": [
           {
@@ -91,6 +21,12 @@
             "name": "gaad",
             "url": "https://github.com/Comcast/gaad",
             "description": "Native Go AAC bitstream parser.",
+            "tags": []
+          },
+          {
+            "name": "go-mpris",
+            "url": "https://github.com/leberKleber/go-mpris",
+            "description": "Client for mpris dbus interfaces.",
             "tags": []
           },
           {
@@ -1072,6 +1008,12 @@
             "tags": []
           },
           {
+            "name": "structcli",
+            "url": "https://github.com/leodido/structcli",
+            "description": "Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.",
+            "tags": []
+          },
+          {
             "name": "strumt",
             "url": "https://github.com/antham/strumt",
             "description": "Library to create prompt chain.",
@@ -1551,8 +1493,8 @@
           },
           {
             "name": "go-test-coverage",
-            "url": "https://github.com/vladopajic/go-test-coverage",
-            "description": "Tool and GitHub action which reports issues when test coverage is below set threshold.",
+            "url": "https://github.com/marketplace/actions/go-test-coverage",
+            "description": "A GitHub Action which reports issues when test coverage is below set threshold.",
             "tags": []
           },
           {
@@ -2093,6 +2035,12 @@
       {
         "name": "Trees",
         "resources": [
+          {
+            "name": "graphlib",
+            "url": "https://github.com/aio-arch/graphlib",
+            "description": "Topological sort lib,Sorting and pruning of DAG graphs.",
+            "tags": []
+          },
           {
             "name": "hashsplit",
             "url": "http://github.com/bobg/hashsplit",
@@ -9385,6 +9333,12 @@
         "name": "Performance",
         "resources": [
           {
+            "name": "ebpf-go",
+            "url": "https://github.com/cilium/ebpf",
+            "description": "Provides utilities for loading, compiling, and debugging eBPF programs.",
+            "tags": []
+          },
+          {
             "name": "go-instrument",
             "url": "https://github.com/nikolaydubina/go-instrument",
             "description": "Automatically add spans to all methods and functions.",
@@ -10570,12 +10524,6 @@
             "tags": []
           },
           {
-            "name": "raymond",
-            "url": "https://github.com/aymerick/raymond",
-            "description": "Complete handlebars implementation in Go.",
-            "tags": []
-          },
-          {
             "name": "Razor",
             "url": "https://github.com/sipin/gorazor",
             "description": "Razor view engine for Golang.",
@@ -10603,6 +10551,12 @@
             "name": "templ",
             "url": "https://github.com/a-h/templ",
             "description": "A HTML templating language that has great developer tooling.",
+            "tags": []
+          },
+          {
+            "name": "templator",
+            "url": "https://github.com/alesr/templator",
+            "description": "A type-safe HTML template rendering engine for Go.",
             "tags": []
           }
         ]
@@ -10770,6 +10724,12 @@
             "name": "go-snaps",
             "url": "http://github.com/gkampitakis/go-snaps",
             "description": "Jest-like snapshot testing in Golang.",
+            "tags": []
+          },
+          {
+            "name": "go-test-coverage",
+            "url": "https://github.com/vladopajic/go-test-coverage",
+            "description": "Tool that reports coverage of files below set threshold.",
             "tags": []
           },
           {
@@ -13090,6 +13050,12 @@
             "name": "ptr",
             "url": "https://github.com/gotidy/ptr",
             "description": "Package that provide functions for simplified creation of pointers from constants of basic types.",
+            "tags": []
+          },
+          {
+            "name": "rate",
+            "url": "https://github.com/webriots/rate",
+            "description": "High-performance rate limiting library with token bucket and AIMD strategies.",
             "tags": []
           },
           {
