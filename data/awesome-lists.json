@@ -1777,6 +1777,12 @@
         "name": "Iterators",
         "resources": [
           {
+            "name": "gloop",
+            "url": "https://github.com/alvii147/gloop",
+            "description": "Convenient looping using Go's range-over-func feature.",
+            "tags": []
+          },
+          {
             "name": "goterator",
             "url": "https://github.com/yaa110/goterator",
             "description": "Iterator implementation to provide map and reduce functionalities.",
@@ -4602,6 +4608,12 @@
             "tags": []
           },
           {
+            "name": "dec128",
+            "url": "https://github.com/jokruger/dec128",
+            "description": "High performance 128-bit fixed-point decimal numbers.",
+            "tags": []
+          },
+          {
             "name": "decimal",
             "url": "https://github.com/shopspring/decimal",
             "description": "Arbitrary-precision fixed-point decimal numbers.",
@@ -4653,6 +4665,12 @@
             "name": "go-nowpayments",
             "url": "https://github.com/matm/go-nowpayments",
             "description": "Library for the crypto NOWPayments API.",
+            "tags": []
+          },
+          {
+            "name": "gobl",
+            "url": "https://github.com/invopop/gobl",
+            "description": "Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.",
             "tags": []
           },
           {
@@ -4965,6 +4983,12 @@
             "tags": []
           },
           {
+            "name": "Pi",
+            "url": "https://github.com/elgopher/pi",
+            "description": "Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.",
+            "tags": []
+          },
+          {
             "name": "Pitaya",
             "url": "https://github.com/topfreegames/pitaya",
             "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
@@ -5088,6 +5112,12 @@
       {
         "name": "Geographic",
         "resources": [
+          {
+            "name": "borders",
+            "url": "https://github.com/kpfaulkner/borders",
+            "description": "Detects image borders and converts to GeoJSON for GIS operations.",
+            "tags": []
+          },
           {
             "name": "geoos",
             "url": "https://github.com/spatial-go/geoos",
@@ -5230,6 +5260,12 @@
       {
         "name": "Goroutines",
         "resources": [
+          {
+            "name": "anchor",
+            "url": "https://github.com/kyuff/anchor",
+            "description": "Library to manage component lifecycle in microservice architectures.",
+            "tags": []
+          },
           {
             "name": "ants",
             "url": "https://github.com/panjf2000/ants",
@@ -6153,6 +6189,12 @@
             "name": "go-cron",
             "url": "https://github.com/rk/go-cron",
             "description": "Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons.",
+            "tags": []
+          },
+          {
+            "name": "go-job",
+            "url": "https://github.com/cybergarage/go-job",
+            "description": "A flexible and extensible job scheduling and execution library for Go.",
             "tags": []
           },
           {
@@ -7424,6 +7466,12 @@
             "tags": []
           },
           {
+            "name": "varmq",
+            "url": "https://github.com/goptics/varmq",
+            "description": "A storage-agnostic message queue and worker pool for concurrent Go programs.",
+            "tags": []
+          },
+          {
             "name": "Watermill",
             "url": "https://github.com/ThreeDotsLabs/watermill",
             "description": "Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.",
@@ -7567,6 +7615,12 @@
             "name": "gocontainer",
             "url": "https://github.com/vardius/gocontainer",
             "description": "Simple Dependency Injection Container.",
+            "tags": []
+          },
+          {
+            "name": "godi",
+            "url": "https://github.com/junioryono/godi",
+            "description": "Microsoft-style dependency injection for Go with scoped lifetimes and generics.",
             "tags": []
           },
           {
@@ -8649,6 +8703,12 @@
             "name": "go-multiproxy",
             "url": "https://github.com/presbrey/go-multiproxy",
             "description": "Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in",
+            "tags": []
+          },
+          {
+            "name": "go-pcaplite",
+            "url": "https://github.com/alexcfv/go-pcaplite",
+            "description": "Lightweight live packet capture library with HTTPS SNI extraction.",
             "tags": []
           },
           {
@@ -10403,6 +10463,12 @@
             "tags": []
           },
           {
+            "name": "gostream",
+            "url": "https://github.com/mariomac/gostream",
+            "description": "Type-safe stream processing library inspired by the Java Streams API.",
+            "tags": []
+          },
+          {
             "name": "machine",
             "url": "https://github.com/whitaker-io/machine",
             "description": "Go library for writing and generating stream workers with built in metrics and traceability.",
@@ -10418,6 +10484,12 @@
             "name": "stream",
             "url": "https://github.com/youthlin/stream",
             "description": "Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...",
+            "tags": []
+          },
+          {
+            "name": "StreamSQL",
+            "url": "https://github.com/rulego/streamsql",
+            "description": "A lightweight streaming SQL engine for real-time data processing.",
             "tags": []
           }
         ]
@@ -10997,6 +11069,12 @@
             "name": "mockery",
             "url": "https://github.com/vektra/mockery",
             "description": "Tool to generate Go interfaces.",
+            "tags": []
+          },
+          {
+            "name": "mockfs",
+            "url": "https://github.com/balinomad/go-mockfs",
+            "description": "Mock filesystem for Go testing with error injection and latency simulation, built on testing/fstest.MapFS .",
             "tags": []
           },
           {
@@ -12205,6 +12283,12 @@
         "name": "Utilities",
         "resources": [
           {
+            "name": "abstract",
+            "url": "https://github.com/maxbolgarin/abstract",
+            "description": "Abstractions and utilities to get rid of boilerplate code in business logic.",
+            "tags": []
+          },
+          {
             "name": "apm",
             "url": "https://github.com/topfreegames/apm",
             "description": "Process manager for Golang applications with an HTTP API.",
@@ -12292,6 +12376,12 @@
             "name": "config-file-validator",
             "url": "https://github.com/Boeing/config-file-validator",
             "description": "Cross Platform tool to validate configuration files.",
+            "tags": []
+          },
+          {
+            "name": "contem",
+            "url": "https://github.com/maxbolgarin/contem",
+            "description": "Drop-in context.Context replacement for graceful shutdown Go applications.",
             "tags": []
           },
           {
@@ -19282,6 +19372,12 @@
             "name": "Speedb",
             "url": "https://github.com/speedb-io/speedb",
             "description": "Community-led project: A RocksDB compliant high performance scalable embedded key-value store. [Apache2]",
+            "tags": []
+          },
+          {
+            "name": "sqlgen",
+            "url": "https://github.com/getml/sqlgen",
+            "description": "A reflection-based ORM and SQL query generator for C++-20, similar to Python's SQLAlchemy/SQLModel or Rust's Diesel. [MIT]",
             "tags": []
           },
           {
@@ -35382,6 +35478,12 @@
             "name": "Docker Desktop",
             "url": "https://www.docker.com/products/docker-desktop/",
             "description": "Official native app. Only for Windows and MacOS",
+            "tags": []
+          },
+          {
+            "name": "Docker DB Manager",
+            "url": "https://github.com/AbianS/docker-db-manager",
+            "description": "Desktop app for managing Docker database containers with visual interface and one-click operations.",
             "tags": []
           },
           {
@@ -54116,19 +54218,19 @@
           {
             "name": "Google IO 2018",
             "url": "https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19",
-            "description": "Building beautiful, flexible user interfaces",
+            "description": "Building beautiful, flexible user interfaces.",
             "tags": []
           },
           {
             "name": "Presentation",
             "url": "https://speakerdeck.com/hjjunior/why-i-chose-flutter",
-            "description": "by Helio S. Junior",
+            "description": "by Helio S. Junior .",
             "tags": []
           },
           {
             "name": "Flutter Web",
             "url": "https://medium.com/flutter-community/ins-and-outs-of-flutter-web-7a82721dc19a",
-            "description": "Ins and Outs of Flutter Web by Nash",
+            "description": "Ins and Outs of Flutter Web by Nash .",
             "tags": []
           }
         ]
@@ -54139,7 +54241,7 @@
           {
             "name": "Welcome to Flutter",
             "url": "https://didierboelens.com",
-            "description": "English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens",
+            "description": "English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.",
             "tags": []
           },
           {
@@ -54151,31 +54253,31 @@
           {
             "name": "Flutter by Example",
             "url": "https://flutterbyexample.com/",
-            "description": "Tutorials based on Redux, Firebase, Custom Animations, and UI",
+            "description": "Tutorials based on Redux, Firebase, Custom Animations, and UI.",
             "tags": []
           },
           {
             "name": "Flutter Institute",
             "url": "https://flutter.institute/",
-            "description": "Very original content and tutorials by Brian Armstrong",
+            "description": "Very original content and tutorials by Brian Armstrong .",
             "tags": []
           },
           {
             "name": "Norbert",
             "url": "https://medium.com/@norbertkozsir",
-            "description": "In depth articles, features and app creation by Norbert515",
+            "description": "In depth articles, features and app creation by Norbert515 .",
             "tags": []
           },
           {
             "name": "Flutter Tips",
             "url": "https://medium.com/@diegoveloper",
-            "description": "Articles, tips & tricks in the development by Diego Vel\u00e1squez",
+            "description": "Articles, tips & tricks in the development by Diego Vel\u00e1squez .",
             "tags": []
           },
           {
             "name": "FilledStacks",
             "url": "https://www.filledstacks.com/",
-            "description": "Tutorials and guides on development by Dane Mackier",
+            "description": "Tutorials and guides on development by Dane Mackier .",
             "tags": []
           },
           {
@@ -54193,7 +54295,7 @@
           {
             "name": "Flutter Stack Weekly",
             "url": "https://blog.canopas.com/tagged/canopas-flutter-weekly",
-            "description": "Weekly newsletter on new development and updates curated by Jimmy Sanghani",
+            "description": "Weekly newsletter on new development and updates curated by Jimmy Sanghani .",
             "tags": []
           }
         ]
@@ -54204,19 +54306,19 @@
           {
             "name": "Animated Chat",
             "url": "https://codelabs.developers.google.com/codelabs/flutter/#0",
-            "description": "Building beautiful UIs by Google Code Labs",
+            "description": "Building beautiful UIs by Google Code Labs.",
             "tags": []
           },
           {
             "name": "Firebase Chat",
             "url": "https://codelabs.developers.google.com/codelabs/flutter-firebase/#0",
-            "description": "Firebase integration by Google Code Labs",
+            "description": "Firebase integration by Google Code Labs.",
             "tags": []
           },
           {
             "name": "Flutter and Dart development",
             "url": "https://suragch.medium.com/flutter-and-dart-development-articles-981be9ef7b23",
-            "description": "Articles and tutorials by Suragch",
+            "description": "Articles and tutorials by Suragch .",
             "tags": []
           }
         ]
@@ -54227,25 +54329,25 @@
           {
             "name": "Roadmap to Flutter Development",
             "url": "https://github.com/olexale/flutter_roadmap",
-            "description": "[5433\u2b50] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by Olexandr Leuschenko .",
+            "description": "[5794\u2b50] - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by Olexandr Leuschenko .",
             "tags": []
           },
           {
             "name": "Layout Cheat Sheet",
             "url": "https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e",
-            "description": "Extensive examples of layout widgets by Tomek Pola\u0144ski",
+            "description": "Extensive examples of layout widgets by Tomek Pola\u0144ski .",
             "tags": []
           },
           {
             "name": "Getting Started with Flutter",
             "url": "https://www.raywenderlich.com/24499516-getting-started-with-flutter",
-            "description": "by raywenderlich.com",
+            "description": "by raywenderlich.com .",
             "tags": []
           },
           {
             "name": "Beginner's Guide",
             "url": "https://github.com/antz22/ultimate-guide-to-flutter",
-            "description": "[377\u2b50] - Comprehensive guide to the basics of Flutter and Firebase by Anthony",
+            "description": "[431\u2b50] - Comprehensive guide to the basics of Flutter and Firebase by Anthony .",
             "tags": []
           }
         ]
@@ -54256,7 +54358,7 @@
           {
             "name": "Flutter state management for minimalists",
             "url": "https://suragch.medium.com/flutter-state-management-for-minimalists-4c71a2f2f0c1?sk=6f9cedfb550ca9cc7f88317e2e7055a0",
-            "description": "Understanding app architecture without relying on third-party frameworks by Suragch . See also State Management",
+            "description": "Understanding app architecture without relying on third-party frameworks by Suragch . See also State Management .",
             "tags": []
           }
         ]
@@ -54267,61 +54369,61 @@
           {
             "name": "Rendering Pipeline",
             "url": "https://www.youtube.com/watch?v=UUfXWzp0-DU",
-            "description": "[1140\ud83d\udc4d] and Let's build a render tree - Engine architecture by Adam Barth",
+            "description": "[1187\ud83d\udc4d] and Let's build a render tree - Engine architecture by Adam Barth.",
             "tags": []
           },
           {
             "name": "Render Objects",
             "url": "https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208",
-            "description": "What are Widgets, RenderObjects and Elements? by Norbert515",
+            "description": "What are Widgets, RenderObjects and Elements? by Norbert515 .",
             "tags": []
           },
           {
             "name": "Streams and RxDart",
             "url": "https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart",
-            "description": "Skillmatters presentation by Brian Egan",
+            "description": "Skillmatters presentation by Brian Egan .",
             "tags": []
           },
           {
             "name": "Gesture System",
             "url": "https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f",
-            "description": "Flutter Deep Dive: Gestures by Nash",
+            "description": "Flutter Deep Dive: Gestures by Nash .",
             "tags": []
           },
           {
             "name": "Schemas",
             "url": "https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/",
-            "description": "Widget, State, Context and InheritedWidget explanations by Didier Boelens",
+            "description": "Widget, State, Context and InheritedWidget explanations by Didier Boelens .",
             "tags": []
           },
           {
             "name": "Rendering Engine Tutorial",
             "url": "https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d",
-            "description": "Flutter's Rendering Engine: A Tutorial by AbdulRahman AlHamali",
+            "description": "Flutter's Rendering Engine: A Tutorial by AbdulRahman AlHamali .",
             "tags": []
           },
           {
             "name": "Inherited Widget",
             "url": "https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e",
-            "description": "Flutter\u2019s InheritedWidget to hold app state by Chema Molins",
+            "description": "Flutter\u2019s InheritedWidget to hold app state by Chema Molins .",
             "tags": []
           },
           {
             "name": "From Mobile to Desktop",
             "url": "https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e",
-            "description": "Building applications for smartphones and desktops by Marcelo Henrique Neppel",
+            "description": "Building applications for smartphones and desktops by Marcelo Henrique Neppel .",
             "tags": []
           },
           {
             "name": "Accessibility widgets",
             "url": "https://medium.com/flutter-community/a-deep-dive-into-flutters-accessibility-widgets-eb0ef9455bc",
-            "description": "Deep dive information about all aspects of accessibility by Muhammed Salih G\u00fcler",
+            "description": "Deep dive information about all aspects of accessibility by Muhammed Salih G\u00fcler .",
             "tags": []
           },
           {
             "name": "Profiling w/ Timeline",
             "url": "https://medium.com/flutter-io/profiling-flutter-applications-using-the-timeline-a1a434964af3",
-            "description": "Using the Timeline allows you to find and address specific performance issues in your application by Chinmay Garde",
+            "description": "Using the Timeline allows you to find and address specific performance issues in your application by Chinmay Garde .",
             "tags": []
           }
         ]
@@ -54332,7 +54434,7 @@
           {
             "name": "Shaders",
             "url": "https://wolfenrain.medium.com/flutter-shaders-an-initial-look-d9eb98d3fd7a",
-            "description": "Fragment shaders, set it up, how it works and making it work by Jochum van der Ploeg",
+            "description": "Fragment shaders, set it up, how it works and making it work by Jochum van der Ploeg .",
             "tags": []
           }
         ]
@@ -54349,13 +54451,13 @@
           {
             "name": "Build Flavor",
             "url": "https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36",
-            "description": "Define build configurations and switch them by Salvatore Giordano",
+            "description": "Define build configurations and switch them by Salvatore Giordano .",
             "tags": []
           },
           {
             "name": "Build Flavor",
             "url": "https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4",
-            "description": "Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by Angelo Cassano",
+            "description": "Easily build flavors in Flutter (Android and iOS) with flutter_flavorizr by Angelo Cassano .",
             "tags": []
           }
         ]
@@ -54372,31 +54474,31 @@
           {
             "name": "Tensor Programming",
             "url": "https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd",
-            "description": "Very rich content by Tensor Programming",
+            "description": "[86\ud83c\udfac] - Very rich content by Tensor Programming .",
             "tags": []
           },
           {
             "name": "Mtechviral",
             "url": "https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV",
-            "description": "[Hindi/English] Mtechviral Series By Pawan Kumar",
+            "description": "[264\ud83c\udfac] - [Hindi/English] Mtechviral Series By Pawan Kumar .",
             "tags": []
           },
           {
             "name": "Flutter in Practice",
             "url": "https://www.youtube.com/playlist?list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN",
-            "description": "Free video courssd for beginners & non-programmers by Zaiste",
+            "description": "Free video courses for beginners & non-programmers by Zaiste .",
             "tags": []
           },
           {
             "name": "Whatsupcoders",
             "url": "https://www.youtube.com/c/whatsupcoders",
-            "description": "Free video series on Flutter Widgets by Kamal",
+            "description": "[82\ud83c\udfac] - Free video series on Flutter Widgets by Kamal .",
             "tags": []
           },
           {
             "name": "Reso Coder",
             "url": "https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA",
-            "description": "Intermediate and advanced videos by Matej Re\u0161et\u00e1r",
+            "description": "Intermediate and advanced videos by Matej Re\u0161et\u00e1r .",
             "tags": []
           }
         ]
@@ -54407,19 +54509,25 @@
           {
             "name": "Official Gallery",
             "url": "https://github.com/flutter/gallery",
-            "description": "Demo for the material design widgets provided by Flutter Team",
+            "description": "Demo for the material design widgets provided by Flutter Team.",
             "tags": []
           },
           {
             "name": "Flutter Examples",
             "url": "https://github.com/nisrulz/flutter-examples",
-            "description": "[6923\u2b50] - Simple basic isolated apps for devs by Nishant Srivastava",
+            "description": "[7112\u2b50] - Simple basic isolated apps for devs by Nishant Srivastava .",
             "tags": []
           },
           {
             "name": "Flutter Catalog",
             "url": "https://github.com/X-Wei/flutter_catalog",
-            "description": "[2167\u2b50] - showcasing Flutter components, with side-by-side source code view, by X-Wei",
+            "description": "[2256\u2b50] - showcasing Flutter components, with side-by-side source code view, by X-Wei .",
+            "tags": []
+          },
+          {
+            "name": "Generative Art",
+            "url": "https://github.com/Solido/flutter-d-art",
+            "description": "[479\u2b50] - Generative Art by Robert Felker .",
             "tags": []
           }
         ]
@@ -54428,51 +54536,87 @@
         "name": "UI",
         "resources": [
           {
+            "name": "Radial Menu",
+            "url": "https://github.com/xqwzts/flutter_radial_menu",
+            "description": "[505\u2b50] - Animated Radial Menu by Victor Choueiri .",
+            "tags": []
+          },
+          {
+            "name": "Tinder Cards",
+            "url": "https://github.com/Ivaskuu/tinder_cards",
+            "description": "[929\u2b50] - Tinder like cards swipe effect by Ivascu Adrian .",
+            "tags": []
+          },
+          {
+            "name": "Flip Panel",
+            "url": "https://github.com/hnvn/flutter_flip_panel",
+            "description": "[614\u2b50] - Flip panel with built-in animation by HungHD .",
+            "tags": []
+          },
+          {
             "name": "Facebook Reactions",
             "url": "https://github.com/duytq94/facebook-reaction-animation",
-            "description": "[425\u2b50] - Facebook reactions widget by Duy Tran",
+            "description": "[443\u2b50] - Facebook reactions widget by Duy Tran .",
             "tags": []
           },
           {
             "name": "Flushbar",
             "url": "https://github.com/AndreHaueisen/flushbar",
-            "description": "[1004\u2b50] - Highly configurable Snackbar by Andre Haueisen",
+            "description": "[1023\u2b50] - Highly configurable Snackbar by Andre Haueisen .",
             "tags": []
           },
           {
             "name": "Stepper Touch",
             "url": "https://github.com/Rahiche/stepper_touch",
-            "description": "[303\u2b50] - Lateral value stepper nicely animated by Raouf Rahiche .",
+            "description": "[355\u2b50] - Lateral value stepper nicely animated by Raouf Rahiche .",
+            "tags": []
+          },
+          {
+            "name": "Folding Cell",
+            "url": "https://github.com/faob-dev/folding_cell",
+            "description": "[563\u2b50] - Fold your widget by Faob .",
             "tags": []
           },
           {
             "name": "Liquid Pull To Refresh",
             "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
-            "description": "[1249\u2b50] - A beautiful and custom refresh indicator by Ayush Agarwal .",
+            "description": "[1290\u2b50] - A beautiful and custom refresh indicator by Ayush Agarwal .",
             "tags": []
           },
           {
             "name": "Direct Select",
             "url": "https://github.com/LanarsInc/direct-select-flutter",
-            "description": "[774\u2b50] - Selection widget with an ethereal, full-screen modal popup by Ivan Yatsouba .",
+            "description": "[806\u2b50] - Selection widget with an ethereal, full-screen modal popup by Ivan Yatsouba .",
             "tags": []
           },
           {
             "name": "Before After",
             "url": "https://github.com/xsahil03x/before_after",
-            "description": "[913\u2b50] - Beautiful slider which makes it easier to display the difference between two images, by Sahil Kumar .",
+            "description": "[1006\u2b50] - Beautiful slider which makes it easier to display the difference between two images, by Sahil Kumar .",
             "tags": []
           },
           {
             "name": "Scratcher",
             "url": "https://github.com/vintage/scratcher",
-            "description": "[573\u2b50] - Scratch card widget which temporarily hides content from user, by Kamil Rykowski .",
+            "description": "[643\u2b50] - Scratch card widget which temporarily hides content from user, by Kamil Rykowski .",
+            "tags": []
+          },
+          {
+            "name": "Image Sequence Animator",
+            "url": "https://github.com/aliyigitbireroglu/flutter-image-sequence-animator",
+            "description": "[153\u2b50] - A simple widget for animating a set of images with full custom controls as an alternative to using a GIF file by Ali Yigit Bireroglu .",
             "tags": []
           },
           {
             "name": "Beautiful_Popup",
             "url": "https://github.com/jaweii/Flutter_beautiful_popup",
-            "description": "[677\u2b50] - Beautify your app popup by jaweii .",
+            "description": "[727\u2b50] - Beautify your app popup by jaweii .",
+            "tags": []
+          },
+          {
+            "name": "Credit Card Form",
+            "url": "https://github.com/Origogi/Flutter-Credit-Card-Input",
+            "description": "[494\u2b50] - Animated credit card input form Origogi .",
             "tags": []
           },
           {
@@ -54482,243 +54626,309 @@
             "tags": []
           },
           {
+            "name": "Flutter Tags",
+            "url": "https://github.com/Dn-a/flutter_tags",
+            "description": "[507\u2b50] - Tags with different customizations by Di Natale Antonino .",
+            "tags": []
+          },
+          {
             "name": "Flutter Neumorphic",
             "url": "https://github.com/Idean/Flutter-Neumorphic",
-            "description": "[2007\u2b50] - Ready to use Neumorphic kit for Flutter with \ud83d\udd76\ufe0f dark mode.",
+            "description": "[2137\u2b50] - Ready to use Neumorphic kit for Flutter with \ud83d\udd76\ufe0f dark mode.",
             "tags": []
           },
           {
             "name": "Dough",
             "url": "https://github.com/HatFeather/flutter_dough",
-            "description": "[704\u2b50] - Widgets for a squishy user interface by Josiah Saunders .",
+            "description": "[735\u2b50] - Widgets for a squishy user interface by Josiah Saunders .",
             "tags": []
           },
           {
             "name": "Card Settings",
             "url": "https://github.com/codegrue/card_settings",
-            "description": "[545\u2b50] - package for building settings forms by codegrue .",
+            "description": "[559\u2b50] - package for building settings forms by codegrue .",
             "tags": []
           },
           {
             "name": "Timelines",
             "url": "https://github.com/chulwoo-park/timelines",
-            "description": "[712\u2b50] - Powerful & Easy to use timeline package by Chulwoo Park .",
+            "description": "[768\u2b50] - Powerful & Easy to use timeline package by Chulwoo Park .",
             "tags": []
           },
           {
             "name": "Timeline Tile",
             "url": "https://github.com/JHBitencourt/timeline_tile",
-            "description": "[735\u2b50] - Tile to help build beautiful and customisable timelines by Julio Bitencourt .",
+            "description": "[783\u2b50] - Tile to help build beautiful and customisable timelines by Julio Bitencourt .",
             "tags": []
           },
           {
             "name": "Rounded Loading Button",
             "url": "https://github.com/chrisedg87/flutter_rounded_loading_button",
-            "description": "[325\u2b50] - Button with a loading indicator, complete with success and error animations by Chris Edgington",
+            "description": "[358\u2b50] - Button with a loading indicator, complete with success and error animations by Chris Edgington .",
             "tags": []
           },
           {
             "name": "Flyer Chat",
             "url": "https://github.com/flyerhq/flutter_chat_ui",
-            "description": "[1594\u2b50] - Community-driven chat UI implementation by the Flyer Chat team",
+            "description": "[2070\u2b50] - Community-driven chat UI implementation by the Flyer Chat team .",
             "tags": []
           },
           {
             "name": "Smooth Page Indicator",
             "url": "https://github.com/Milad-Akarie/smooth_page_indicator",
-            "description": "[1199\u2b50] - Customizable animated page indicator with a set of built-in effects. Milad Akarie",
+            "description": "[1383\u2b50] - Customizable animated page indicator with a set of built-in effects. Milad Akarie .",
+            "tags": []
+          },
+          {
+            "name": "Super Editor",
+            "url": "https://github.com/superlistapp/super_editor/",
+            "description": "[?\u2b50] - Advanced toolkit for building document editors and readers by Flutter Bounty Hunters .",
             "tags": []
           },
           {
             "name": "Forui",
             "url": "https://github.com/forus-labs/forui",
-            "description": "[359\u2b50] - Minimalistic UI library heavily inspired by shadcn/ui by Forus Labs .",
+            "description": "[1379\u2b50] - Minimalistic UI library heavily inspired by shadcn/ui by Forus Labs .",
             "tags": []
           },
           {
             "name": "Shadcn",
             "url": "https://github.com/nank1ro/flutter-shadcn-ui",
-            "description": "[894\u2b50] - Shadcn-ui port. Fully customizable UI components.",
+            "description": "[2276\u2b50] - Shadcn-ui port. Fully customizable UI components.",
+            "tags": []
+          },
+          {
+            "name": "TDesign Flutter",
+            "url": "https://github.com/Tencent/tdesign-flutter",
+            "description": "[951\u2b50] - A useful UI component library matches the TDesign style by Tencent .",
             "tags": []
           },
           {
             "name": "Super List",
             "url": "https://github.com/superlistapp/super_sliver_list",
-            "description": "[283\u2b50] - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by Matej Knopp",
+            "description": "[384\u2b50] - Drop-in replacement for SliverList and ListView that can handle large amount of items with variable extents by Matej Knopp .",
             "tags": []
           },
           {
             "name": "Reorderables",
             "url": "https://github.com/hanshengchiu/reorderables",
-            "description": "[726\u2b50] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by Hansheng Chiu .",
+            "description": "[759\u2b50] - Drag&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by Hansheng Chiu .",
             "tags": []
           },
           {
             "name": "Liquid Pull To Refresh",
             "url": "https://github.com/aagarwal1012/Liquid-Pull-To-Refresh",
-            "description": "[1249\u2b50] - A beautiful and custom refresh indicator by Ayush Agarwal .",
+            "description": "[1290\u2b50] - A beautiful and custom refresh indicator by Ayush Agarwal .",
+            "tags": []
+          },
+          {
+            "name": "Infinite Listview",
+            "url": "https://github.com/fluttercommunity/flutter_infinite_listview",
+            "description": "[303\u2b50] - Infinite scroll in both directions by Simon Lightfoot .",
             "tags": []
           },
           {
             "name": "PlutoGrid",
             "url": "https://github.com/bosskmk/pluto_grid",
-            "description": "[661\u2b50] - Web and desktop datagrid that can be controlled by the keyboard by bosskmk .",
+            "description": "[725\u2b50] - Web and desktop datagrid that can be controlled by the keyboard by bosskmk .",
             "tags": []
           },
           {
             "name": "Typeahead",
             "url": "https://github.com/AbdulRahmanAlHamali/flutter_typeahead",
-            "description": "[817\u2b50] - Display overlay suggestions to users as they type by Abdul Rahman Al Hamali",
+            "description": "[847\u2b50] - Display overlay suggestions to users as they type by Abdul Rahman Al Hamali .",
+            "tags": []
+          },
+          {
+            "name": "Snaplist",
+            "url": "https://github.com/ariedov/flutter_snaplist",
+            "description": "[456\u2b50] - Create snappable list views by David Leibovych .",
             "tags": []
           },
           {
             "name": "StaggeredGridView",
             "url": "https://github.com/letsar/flutter_staggered_grid_view",
-            "description": "[3122\u2b50] - GridView with tiles of variable sizes by Romain Rastel",
+            "description": "[3206\u2b50] - GridView with tiles of variable sizes by Romain Rastel .",
             "tags": []
           },
           {
             "name": "Sticky Headers",
             "url": "https://github.com/slightfoot/flutter_sticky_headers",
-            "description": "[1080\u2b50] - Configurable sticky headers by Simon Lightfoot",
+            "description": "[1131\u2b50] - Configurable sticky headers by Simon Lightfoot .",
             "tags": []
           },
           {
             "name": "Hidden Drawer Menu",
             "url": "https://github.com/RafaelBarbosatec/hidden_drawer_menu",
-            "description": "[351\u2b50] - Beautiful drawer mode menu feature with perspective animations by Rafael Almeida Barbosa .",
+            "description": "[354\u2b50] - Beautiful drawer mode menu feature with perspective animations by Rafael Almeida Barbosa .",
             "tags": []
           },
           {
             "name": "Flutter Inner Drawer",
             "url": "https://github.com/Dn-a/flutter_inner_drawer",
-            "description": "[513\u2b50] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by Di Natale Antonino .",
+            "description": "[517\u2b50] - Easy way to create an internal drawer (left / right) where you can enter a list-menu or other by Di Natale Antonino .",
             "tags": []
           },
           {
             "name": "Fancy Bottom Navigation",
             "url": "https://github.com/tunitowen/fancy_bottom_navigation",
-            "description": "[758\u2b50] - Animated bottom navigation by Tony Owen .",
+            "description": "[808\u2b50] - Animated bottom navigation by Tony Owen .",
             "tags": []
           },
           {
             "name": "Circular Bottom Navigation",
             "url": "https://github.com/imaNNeoFighT/circular_bottom_navigation",
-            "description": "[653\u2b50] - Beautiful animated bottom navigation bar by Iman Khoshabi .",
+            "description": "[680\u2b50] - Beautiful animated bottom navigation bar by Iman Khoshabi .",
             "tags": []
           },
           {
             "name": "Bottom Navy Bar",
             "url": "https://github.com/pedromassango/bottom_navy_bar",
-            "description": "[1022\u2b50] - Beautiful and colorful animated bottom navigation bar by Pedro Massango .",
+            "description": "[1069\u2b50] - Beautiful and colorful animated bottom navigation bar by Pedro Massango .",
+            "tags": []
+          },
+          {
+            "name": "Titled Navigation Bar",
+            "url": "https://github.com/pedromassango/titled_navigation_bar",
+            "description": "[370\u2b50] - Animated bottom navigation bar that switch between icon and title by Pedro Massango .",
             "tags": []
           },
           {
             "name": "Google Nav Bar",
             "url": "https://github.com/sooxt98/google_nav_bar",
-            "description": "[737\u2b50] - A modern google style nav bar for flutter by Sooxt98",
+            "description": "[772\u2b50] - A modern google style nav bar for flutter by Sooxt98 .",
             "tags": []
           },
           {
             "name": "Rubber Bottom Sheet",
             "url": "https://github.com/mcrovero/rubber",
-            "description": "[562\u2b50] - Elastic material bottom sheet by Mattia Crovero .",
+            "description": "[566\u2b50] - Elastic material bottom sheet by Mattia Crovero .",
             "tags": []
           },
           {
             "name": "Modal Bottom Sheet",
             "url": "https://github.com/jamesblasco/modal_bottom_sheet",
-            "description": "[1860\u2b50] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by Jaime Blasco .",
+            "description": "[1959\u2b50] - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by Jaime Blasco .",
             "tags": []
           },
           {
             "name": "RangeSlider",
             "url": "https://github.com/boeledi/RangeSlider",
-            "description": "[374\u2b50] - 2-thumb configurable RangeSlider by Didier Boelens",
+            "description": "[376\u2b50] - 2-thumb configurable RangeSlider by Didier Boelens .",
+            "tags": []
+          },
+          {
+            "name": "Fluid Slider",
+            "url": "https://github.com/rvamsikrishna/flutter_fluid_slider",
+            "description": "[324\u2b50] - A slider with a minimal design and fluid like animation by Vamsi Krishna .",
             "tags": []
           },
           {
             "name": "Flutter Xlider",
             "url": "https://github.com/Ali-Azmoud/flutter_xlider",
-            "description": "[518\u2b50] - A material design slider and range slider, horizontal and vertical, with RTL support by Ali-Azmoud",
+            "description": "[524\u2b50] - A material design slider and range slider, horizontal and vertical, with RTL support by Ali-Azmoud .",
             "tags": []
           },
           {
             "name": "Offline",
             "url": "https://github.com/jogboms/flutter_offline",
-            "description": "[1054\u2b50] - Tidy utility to handle offline/online connectivity by Jeremiah Ogbomo .",
+            "description": "[1245\u2b50] - Tidy utility to handle offline/online connectivity by Jeremiah Ogbomo .",
+            "tags": []
+          },
+          {
+            "name": "In View Notifier List",
+            "url": "https://github.com/rvamsikrishna/inview_notifier_list",
+            "description": "[?\u2b50] - ListView that notify when widgets are on screen within a provided area by Vamsi Krishna .",
             "tags": []
           },
           {
             "name": "ShowCaseView",
             "url": "https://github.com/simformsolutions/flutter_showcaseview",
-            "description": "[1488\u2b50] - Way to showcase your app features on iOS and Android by Simform",
+            "description": "[1805\u2b50] - Way to showcase your app features on iOS and Android by Simform .",
             "tags": []
           },
           {
             "name": "Mix",
             "url": "https://github.com/leoafarias/mix",
-            "description": "[561\u2b50] - An expressive way to effortlessly build design systems by Leo Farias .",
+            "description": "[724\u2b50] - An expressive way to effortlessly build design systems by Leo Farias .",
             "tags": []
           },
           {
             "name": "Blurhash",
             "url": "https://github.com/fluttercommunity/flutter_blurhash",
-            "description": "[520\u2b50] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by Robert Felker",
+            "description": "[556\u2b50] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by Robert Felker .",
+            "tags": []
+          },
+          {
+            "name": "Unicorn Speed Dial",
+            "url": "https://github.com/tiagojencmartins/unicornspeeddial",
+            "description": "[345\u2b50] - Floating Action Button with Speed Dial by Tiago Martins .",
             "tags": []
           },
           {
             "name": "Slidable",
             "url": "https://github.com/letsar/flutter_slidable",
-            "description": "[2690\u2b50] - Slidable list item with left and right slide actions by Romain Rastel",
+            "description": "[2828\u2b50] - Slidable list item with left and right slide actions by Romain Rastel .",
             "tags": []
           },
           {
             "name": "Backdrop",
             "url": "https://github.com/fluttercommunity/backdrop",
-            "description": "[331\u2b50] - Backdrop implementation for flutter.",
+            "description": "[341\u2b50] - Backdrop implementation for flutter.",
             "tags": []
           },
           {
             "name": "Frosted Glass",
             "url": "http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter",
-            "description": "Render effect by Collin Jackson",
+            "description": "Render effect by Collin Jackson .",
+            "tags": []
+          },
+          {
+            "name": "Parallax",
+            "url": "https://github.com/roughike/page-transformer",
+            "description": "[876\u2b50] - ViewPager by Iiro Krankka .",
             "tags": []
           },
           {
             "name": "Shimmer",
             "url": "https://github.com/hnvn/flutter_shimmer",
-            "description": "[1784\u2b50] - Shimmer effect while content is loading by HungHD",
+            "description": "[1832\u2b50] - Shimmer effect while content is loading by HungHD .",
             "tags": []
           },
           {
             "name": "Wave",
             "url": "https://github.com/i-protoss/wave",
-            "description": "[1106\u2b50] - Displaying some waves with custom color, duration, floating and blur effects by RockerFlower",
+            "description": "[1122\u2b50] - Displaying some waves with custom color, duration, floating and blur effects by RockerFlower .",
             "tags": []
           },
           {
             "name": "Liquid Swipe",
             "url": "https://github.com/iamSahdeep/liquid_swipe_flutter",
-            "description": "Liquid swipe to your stacked containers by Sahdeep Singh",
+            "description": "Liquid swipe to your stacked containers by Sahdeep Singh .",
             "tags": []
           },
           {
             "name": "PhotoFilters",
             "url": "https://github.com/skkallayath/photofilters",
-            "description": "[403\u2b50] - Apply filters to an image by Sharafudheen KK .",
+            "description": "[427\u2b50] - Apply filters to an image by Sharafudheen KK .",
             "tags": []
           },
           {
             "name": "Shine",
             "url": "https://github.com/JonathanMonga/flutter_shine.dart",
-            "description": "[146\u2b50]  - Pretty shadows with dynamic light positions by Jonathan Monga .",
+            "description": "[149\u2b50]  - Pretty shadows with dynamic light positions by Jonathan Monga .",
             "tags": []
           },
           {
             "name": "Clay Containers",
             "url": "https://github.com/mcaubrey/clay_containers",
-            "description": "[437\u2b50] - Neumorphic widget primitives to serve as the foundation of your own designs by Michael Charles .",
+            "description": "[456\u2b50] - Neumorphic widget primitives to serve as the foundation of your own designs by Michael Charles .",
+            "tags": []
+          },
+          {
+            "name": "Calendar Widget",
+            "url": "https://github.com/pinkfish/flutter_calendar",
+            "description": "[243\u2b50] - Calendar widget by David Bennett .",
             "tags": []
           },
           {
@@ -54730,19 +54940,19 @@
           {
             "name": "Table Calendar",
             "url": "https://github.com/aleksanderwozniak/table_calendar",
-            "description": "[1813\u2b50] - Calendar organized neatly into a Table, with vertical autosizing by Aleksander Wo\u017aniak",
+            "description": "[1937\u2b50] - Calendar organized neatly into a Table, with vertical autosizing by Aleksander Wo\u017aniak .",
             "tags": []
           },
           {
             "name": "Time Planner",
             "url": "https://github.com/Jamalianpour/time_planner",
-            "description": "[223\u2b50] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by Mohammad Jamalianpour",
+            "description": "[238\u2b50] - A beautiful, easy to use and customizable time planner for flutter mobile, desktop and web by Mohammad Jamalianpour .",
             "tags": []
           },
           {
             "name": "Dynamic Widget",
             "url": "https://github.com/dengyin2000/dynamic_widget",
-            "description": "[1554\u2b50] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by Denny Deng .",
+            "description": "[1630\u2b50] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by Denny Deng .",
             "tags": []
           }
         ]
@@ -54753,67 +54963,73 @@
           {
             "name": "Carousel Slider",
             "url": "https://github.com/serenader2014/flutter_carousel_slider",
-            "description": "[1591\u2b50] - Carousel slider widget, support infinite scroll and custom child widget by serenader",
+            "description": "[1671\u2b50] - Carousel slider widget, support infinite scroll and custom child widget by serenader .",
+            "tags": []
+          },
+          {
+            "name": "Parallax Image",
+            "url": "https://github.com/pulyaevskiy/parallax-image",
+            "description": "[278\u2b50] - Image parallax by Anatoly Pulyaevskiy .",
             "tags": []
           },
           {
             "name": "Photo View",
             "url": "https://github.com/renancaraujo/photo_view",
-            "description": "[1901\u2b50] - Scalable image view with loading placeholder by Renan C. Ara\u00fajo",
+            "description": "[1982\u2b50] - Scalable image view with loading placeholder by Renan C. Ara\u00fajo .",
             "tags": []
           },
           {
             "name": "SVG",
             "url": "https://github.com/dnfield/flutter_svg",
-            "description": "[1661\u2b50] - SVG parsing, rendering, and widget library by Dan Field",
+            "description": "[1689\u2b50] - SVG parsing, rendering, and widget library by Dan Field .",
             "tags": []
           },
           {
             "name": "Image Cropper",
             "url": "https://github.com/hnvn/flutter_image_cropper",
-            "description": "[993\u2b50] - Crop your images support ratio, rotation, zoom by HungHD",
+            "description": "[1046\u2b50] - Crop your images support ratio, rotation, zoom by HungHD .",
             "tags": []
           },
           {
             "name": "Cached Network Image",
             "url": "https://github.com/renefloor/flutter_cached_network_image",
-            "description": "[2431\u2b50] - Show images from the internet and keep them in the cache directory by",
+            "description": "[2547\u2b50] - Show images from the internet and keep them in the cache directory by.",
             "tags": []
           },
           {
             "name": "Lottie",
             "url": "https://github.com/xvrh/lottie-flutter",
-            "description": "[1157\u2b50] - Use airbnb's popular After Effects Animation library by xvrh",
+            "description": "[1257\u2b50] - Use airbnb's popular After Effects Animation library by xvrh .",
             "tags": []
           },
           {
             "name": "Bitmap",
             "url": "https://github.com/renancaraujo/bitmap",
-            "description": "[175\u2b50] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by Renan C. Ara\u00fajo",
+            "description": "[176\u2b50] - Perform Bitmap manipulations (such as contrast and exposure) with a help from the Dart FFI by Renan C. Ara\u00fajo .",
             "tags": []
           },
           {
             "name": "Crop",
             "url": "https://github.com/xclud/flutter_crop",
-            "description": "[258\u2b50] - Crop any widget/image in Android, iOS, Web and Desktop by Mahdi K. Fard",
+            "description": "[259\u2b50] - Crop any widget/image in Android, iOS, Web and Desktop by Mahdi K. Fard .",
             "tags": []
           },
           {
             "name": "Image Picker",
             "url": "https://github.com/flutter/packages/tree/main/packages/image_picker",
-            "description": "Images Selection by Collin Jackson",
+            "description": "Images Selection by Collin Jackson .",
             "tags": []
           },
           {
             "name": "WeChat Assets Picker",
             "url": "https://github.com/fluttercandies/flutter_wechat_assets_picker",
-            "description": "[1496\u2b50] - Assets picker in WeChat style, support multi assets by Alex Li .",
+            "description": "[1616\u2b50] - Assets picker in WeChat style, support multi assets by Alex Li .",
             "tags": []
           },
           {
             "name": "Advance Image Picker",
             "url": "https://pub.dev/packages/advance_image_picker",
-            "description": "Select and edit images from Android/iOS library and capture camera shots from within the same view by WetaVN",
+            "description": "Select and edit images from Android/iOS library and capture camera shots from within the same view by WetaVN .",
             "tags": []
           }
         ]
@@ -54822,21 +55038,33 @@
         "name": "Map",
         "resources": [
           {
+            "name": "Google Map View",
+            "url": "https://github.com/apptreesoftware/flutter_google_map_view",
+            "description": "[415\u2b50] - Displaying google map plugin by AppTree Software .",
+            "tags": []
+          },
+          {
             "name": "GeoCoder",
             "url": "https://github.com/aloisdeniel/flutter_geocoder",
-            "description": "[185\u2b50] - Forward and reverse geocoding by Alo\u00efs Deniel",
+            "description": "[191\u2b50] - Forward and reverse geocoding by Alo\u00efs Deniel .",
+            "tags": []
+          },
+          {
+            "name": "Mapbox GL",
+            "url": "https://github.com/mapbox/flutter-mapbox-gl",
+            "description": "[270\u2b50] - Interactive, customizable vector maps by Mapbox.",
             "tags": []
           },
           {
             "name": "AMap",
             "url": "https://github.com/fluttify-project/amap_map_fluttify",
-            "description": "[538\u2b50] - Access to AMap services(\u9ad8\u5fb7\u5730\u56fe) by fluttify-project",
+            "description": "[540\u2b50] - Access to AMap services(\u9ad8\u5fb7\u5730\u56fe) by fluttify-project .",
             "tags": []
           },
           {
             "name": "Map",
             "url": "https://github.com/xclud/flutter_map",
-            "description": "[129\u2b50] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by Mahdi K. Fard",
+            "description": "[139\u2b50] - Fully-fledged interactive Map widget for flutter written in pure Dart. Supports all platforms. by Mahdi K. Fard .",
             "tags": []
           }
         ]
@@ -54847,31 +55075,49 @@
           {
             "name": "Circular Chart",
             "url": "https://github.com/xqwzts/flutter_circular_chart",
-            "description": "[398\u2b50] - Animated radial and pie charts by Victor Choueiri",
+            "description": "[406\u2b50] - Animated radial and pie charts by Victor Choueiri .",
+            "tags": []
+          },
+          {
+            "name": "Sparkline",
+            "url": "https://github.com/xqwzts/flutter_sparkline",
+            "description": "[258\u2b50] - Sparkline by Victor Choueiri .",
+            "tags": []
+          },
+          {
+            "name": "Candlesticks",
+            "url": "https://github.com/trentpiercy/flutter-candlesticks",
+            "description": "[429\u2b50] - OHLC and Trade Volume Charts by Trent Piercy .",
+            "tags": []
+          },
+          {
+            "name": "FCharts",
+            "url": "https://github.com/thekeenant/fcharts",
+            "description": "[326\u2b50] - Beautiful, responsive, animated charts by Keenan Thompson .",
             "tags": []
           },
           {
             "name": "FL Chart",
             "url": "https://github.com/imaNNeoFighT/fl_chart",
-            "description": "[6741\u2b50] - Draw fantastic charts in Flutter by Iman Khoshabi",
+            "description": "[7313\u2b50] - Draw fantastic charts in Flutter by Iman Khoshabi .",
             "tags": []
           },
           {
             "name": "Bezier Chart",
             "url": "https://github.com/aeyrium/bezier-chart",
-            "description": "[446\u2b50] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by Diego Velasquez",
+            "description": "[451\u2b50] - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by Diego Velasquez .",
             "tags": []
           },
           {
             "name": "Echarts",
             "url": "https://github.com/entronad/flutter_echarts",
-            "description": "[739\u2b50] - Large collection of advanced reactives charts by LIN Chen",
+            "description": "[765\u2b50] - Large collection of advanced reactives charts by LIN Chen .",
             "tags": []
           },
           {
             "name": "Graphic",
             "url": "https://github.com/entronad/graphic",
-            "description": "[1587\u2b50] - Data visualization library based on the Grammar of Graphics by LIN Chen",
+            "description": "[1737\u2b50] - Data visualization library based on the Grammar of Graphics by LIN Chen .",
             "tags": []
           }
         ]
@@ -54882,25 +55128,43 @@
           {
             "name": "Fluro",
             "url": "https://github.com/goposse/fluro",
-            "description": "[3672\u2b50] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by Posse",
+            "description": "[3710\u2b50] - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by Posse .",
+            "tags": []
+          },
+          {
+            "name": "PageView Indicator",
+            "url": "https://github.com/leocavalcante/page_view_indicator",
+            "description": "[165\u2b50] - Build page indicators for the PageView by Leo Cavalcante .",
+            "tags": []
+          },
+          {
+            "name": "Deep Link Navigation",
+            "url": "https://github.com/Dennis-Krasnov/Flutter-Deep-Link-Navigation",
+            "description": "[67\u2b50] - Elegant abstraction for complete deep linking navigation in Flutter by Dennis Krasnov .",
             "tags": []
           },
           {
             "name": "Get",
             "url": "https://github.com/jonataslaw/get",
-            "description": "[10245\u2b50] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by Jonny Borges",
+            "description": "[11002\u2b50] - Navigate between screens & display snackbars/dialogs/bottomSheets without context by Jonny Borges .",
             "tags": []
           },
           {
             "name": "Beamer",
             "url": "https://github.com/slovnicki/beamer",
-            "description": "[588\u2b50] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by Sandro Lovni\u010dki",
+            "description": "[602\u2b50] - Route through guarded page stacks and URLs using the Navigator 2.0 API effortlessly by Sandro Lovni\u010dki .",
+            "tags": []
+          },
+          {
+            "name": "go_router",
+            "url": "https://github.com/csells/go_router",
+            "description": "[440\u2b50] - Declarative routes to reduce complexity, deep linking for mobile and the web while maintaining developer experience by Chris Sells .",
             "tags": []
           },
           {
             "name": "auto_route",
             "url": "https://github.com/Milad-Akarie/auto_route_library",
-            "description": "[1570\u2b50] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. Milad_Akarie .",
+            "description": "[1708\u2b50] - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you. Milad_Akarie .",
             "tags": []
           }
         ]
@@ -54911,37 +55175,67 @@
           {
             "name": "Local Auth",
             "url": "https://github.com/flutter/packages/tree/main/packages/local_auth",
-            "description": "Touch ID, lock code, fingerprint auth on iOS and Android",
+            "description": "Touch ID, lock code, fingerprint auth on iOS and Android.",
+            "tags": []
+          },
+          {
+            "name": "Login",
+            "url": "https://github.com/AppleEducate/flutter_login",
+            "description": "[710\u2b50] - FaceID, TouchID, and Fingerprint Reader by Rody Davis .",
             "tags": []
           },
           {
             "name": "Google Sign-In",
             "url": "https://github.com/flutter/packages/tree/main/packages/google_sign_in",
-            "description": "Google OAuth",
+            "description": "Google OAuth.",
             "tags": []
           },
           {
             "name": "Firebase Auth",
             "url": "https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth",
-            "description": "Firebase OAuth",
+            "description": "Firebase OAuth.",
+            "tags": []
+          },
+          {
+            "name": "Facebook Login",
+            "url": "https://github.com/roughike/flutter_facebook_login",
+            "description": "[405\u2b50] - Authenticate with native Android & iOS Facebook login SDKs by Iiro Krankka .",
+            "tags": []
+          },
+          {
+            "name": "Apple Sign-In",
+            "url": "https://github.com/tomgilder/flutter_apple_sign_in",
+            "description": "[160\u2b50] - Apple sign in by Tom Gilder .",
+            "tags": []
+          },
+          {
+            "name": "OAuth",
+            "url": "https://github.com/hitherejoe/FlutterOAuth",
+            "description": "[177\u2b50] - Buffer, Strava, Unsplash, Github OAuth by Joe Birch .",
             "tags": []
           },
           {
             "name": "Firebase Phone Auth",
             "url": "https://medium.com/@gildaswise/flutter-adding-sign-in-with-google-and-phone-authentication-to-your-app-69f681518f9b",
-            "description": "Phone number auth via SMS by Gild\u00e1sio Filho",
+            "description": "Phone number auth via SMS by Gild\u00e1sio Filho .",
             "tags": []
           },
           {
             "name": "SimpleAuth",
             "url": "https://github.com/Clancey/simple_auth",
-            "description": "[352\u2b50] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by James Clancey",
+            "description": "[352\u2b50] - Azure Active Directory, Amazon, Dropbox, Facebook, Github, Google, Instagram, Linked In, Microsoft Live Connect, Github, OAuth, Basic Auth by James Clancey .",
             "tags": []
           },
           {
             "name": "Flutter AppAuth",
             "url": "https://github.com/MaikuB/flutter_appauth",
-            "description": "[271\u2b50] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by Michael Bui",
+            "description": "[293\u2b50] - Plugin that provides a wrapper around the AppAuth iOS and Android SDKs by Michael Bui .",
+            "tags": []
+          },
+          {
+            "name": "Passkeys",
+            "url": "https://github.com/corbado/flutter-passkeys",
+            "description": "[158\u2b50] Authenticate your users with passkeys (e.g. Face ID, Touch ID, screen lock) based on FIDO2 / WebAuthn by Corbado .",
             "tags": []
           }
         ]
@@ -54952,37 +55246,37 @@
           {
             "name": "Masked Text",
             "url": "https://github.com/benhurott/flutter-masked-text",
-            "description": "[276\u2b50] - Masked text with custom and monetary formatting by Ben-hur Santos Ott",
+            "description": "[275\u2b50] - Masked text with custom and monetary formatting by Ben-hur Santos Ott .",
             "tags": []
           },
           {
             "name": "Fleather",
             "url": "https://github.com/fleather-editor/fleather",
-            "description": "Soft & gentle rich text editor",
+            "description": "Soft & gentle rich text editor.",
             "tags": []
           },
           {
             "name": "AutoSizeText",
             "url": "https://github.com/leisim/auto_size_text",
-            "description": "[2025\u2b50] - Automatically resizes text to fit perfectly within its bounds by Simon Leier .",
+            "description": "[2111\u2b50] - Automatically resizes text to fit perfectly within its bounds by Simon Leier .",
             "tags": []
           },
           {
             "name": "Parsed Text",
             "url": "https://github.com/fayeed/flutter_parsed_text",
-            "description": "[219\u2b50] - Interactive text based on content recognition, also supports Regex by Fayeed Pawaskar",
+            "description": "[222\u2b50] - Interactive text based on content recognition, also supports Regex by Fayeed Pawaskar .",
             "tags": []
           },
           {
             "name": "TeX",
             "url": "https://github.com/shah-xad/flutter_tex",
-            "description": "[276\u2b50] - Render Mathematics Equations with full HTML and JavaScript support by Shahzad Akram",
+            "description": "[295\u2b50] - Render Mathematics Equations with full HTML and JavaScript support by Shahzad Akram .",
             "tags": []
           },
           {
             "name": "Code Field",
             "url": "https://github.com/BertrandBev/code_field",
-            "description": "Customizable code field widget supporting syntax highlighting by Bertrand Bevillard",
+            "description": "Customizable code field widget supporting syntax highlighting by Bertrand Bevillard .",
             "tags": []
           }
         ]
@@ -54993,13 +55287,13 @@
           {
             "name": "Form Builder",
             "url": "https://github.com/danvick/flutter_form_builder",
-            "description": "[1480\u2b50] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by Danvick Miller",
+            "description": "[1581\u2b50] - Framework that simplifies building forms, validating fields, reacting to changes, and collecting the final user input by Danvick Miller .",
             "tags": []
           },
           {
             "name": "Reactive Forms",
             "url": "https://github.com/joanpablo/reactive_forms",
-            "description": "[467\u2b50] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.",
+            "description": "[490\u2b50] - Model-driven approach to handling Forms inputs and validations, heavily inspired in Angular's Reactive Forms.",
             "tags": []
           }
         ]
@@ -55010,13 +55304,19 @@
           {
             "name": "Usage",
             "url": "https://github.com/dart-lang/usage",
-            "description": "[146\u2b50] - Google Analytics wrapper for command-line, web, and Flutter apps",
+            "description": "[147\u2b50] - Google Analytics wrapper for command-line, web, and Flutter apps.",
             "tags": []
           },
           {
             "name": "Firebase Analytics",
             "url": "https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_analytics",
-            "description": "Connect to Firebase Analytics API",
+            "description": "Connect to Firebase Analytics API.",
+            "tags": []
+          },
+          {
+            "name": "Pure Mixpanel",
+            "url": "https://github.com/seenickcode/pure_mixpanel",
+            "description": "[25\u2b50] - Analytics for the popular Mixpanel.com Nick Manning .",
             "tags": []
           }
         ]
@@ -55027,19 +55327,36 @@
           {
             "name": "GenLang",
             "url": "https://github.com/KingWu/gen_lang",
-            "description": "[100\u2b50] - Code generator for Internationalization by King Wu",
+            "description": "[100\u2b50] - Code generator for Internationalization by King Wu .",
             "tags": []
           },
           {
             "name": "Flutter Translate",
             "url": "https://github.com/bratan/flutter_translate",
-            "description": "[401\u2b50] - Internationalization (i18n) library by Florin Bratan",
+            "description": "[412\u2b50] - Internationalization (i18n) library by Florin Bratan .",
             "tags": []
           },
           {
             "name": "attranslate",
             "url": "https://github.com/fkirc/attranslate",
-            "description": "Semi-automated translation of ARB or JSON files by fkirc",
+            "description": "Semi-automated translation of ARB or JSON files by fkirc .",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Styling",
+        "resources": [
+          {
+            "name": "Flutterial",
+            "url": "https://github.com/rxlabz/flutterial",
+            "description": "[1753\u2b50] - Flutter Material Theme explorer by Erick Ghaumez .",
+            "tags": []
+          },
+          {
+            "name": "Pigment",
+            "url": "https://github.com/bregydoc/pigment",
+            "description": "[216\u2b50] - Simple but useful package for use colors in flutter.",
             "tags": []
           }
         ]
@@ -55050,13 +55367,13 @@
           {
             "name": "photo_manager",
             "url": "https://github.com/fluttercandies/flutter_photo_manager",
-            "description": "[671\u2b50] - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by CaiJingLong and Alex Li .",
+            "description": "[739\u2b50] - Provides assets (image/video/audio) abstraction management APIs that can be easily integrated with custom UI widgets by CaiJingLong and Alex Li .",
             "tags": []
           },
           {
             "name": "Audio Players Plugin",
             "url": "https://github.com/luanpotter/audioplayers",
-            "description": "[1976\u2b50] - Play multiple audio files simultaneously (Android/iOS) by Luan Nico .",
+            "description": "[2108\u2b50] - Play multiple audio files simultaneously (Android/iOS) by Luan Nico .",
             "tags": []
           },
           {
@@ -55068,13 +55385,13 @@
           {
             "name": "Flutter Sound",
             "url": "https://github.com/dooboolab/flutter_sound",
-            "description": "[868\u2b50] - Flutter audio recorder and player at one hand by dooboolab",
+            "description": "[925\u2b50] - Flutter audio recorder and player at one hand by dooboolab .",
             "tags": []
           },
           {
             "name": "AssetsAudioPlayer",
             "url": "https://github.com/florent37/Flutter-AssetsAudioPlayer",
-            "description": "[752\u2b50]  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]",
+            "description": "[770\u2b50]  Simultaneous playback of audio from assets/network/file and displaying notifications [android / ios / web / macos]",
             "tags": []
           },
           {
@@ -55086,43 +55403,43 @@
           {
             "name": "WebRTC",
             "url": "https://github.com/cloudwebrtc/flutter-webrtc",
-            "description": "[4086\u2b50] - WebRTC plugin for iOS/Android by CloudWebRtc",
+            "description": "[4386\u2b50] - WebRTC plugin for iOS/Android by CloudWebRtc .",
             "tags": []
           },
           {
             "name": "Chewie",
             "url": "https://github.com/brianegan/chewie",
-            "description": "[1926\u2b50] - Provides low-level access to video playback by Brian Egan",
+            "description": "[2034\u2b50] - Provides low-level access to video playback by Brian Egan .",
             "tags": []
           },
           {
             "name": "Video Trimmer",
             "url": "https://github.com/sbis04/video_trimmer",
-            "description": "[432\u2b50] - Visualise and trim videos by Souvik Biswas",
+            "description": "[477\u2b50] - Visualise and trim videos by Souvik Biswas .",
             "tags": []
           },
           {
             "name": "CamerAwesome",
             "url": "https://github.com/Apparence-io/camera_awesome",
-            "description": "[952\u2b50] - Community camera plugin rework by Apparence.io studio",
+            "description": "[1117\u2b50] - Community camera plugin rework by Apparence.io studio .",
             "tags": []
           },
           {
             "name": "Video Editor",
             "url": "https://github.com/LeGoffMael/video_editor",
-            "description": "[386\u2b50] - Edit (crop, trim, rotate) a video and a its cover by Ma\u00ebl Le Goff",
+            "description": "[472\u2b50] - Edit (crop, trim, rotate) a video and its cover by Ma\u00ebl Le Goff .",
             "tags": []
           },
           {
             "name": "Speech Recognition",
             "url": "https://github.com/rxlabz/speech_recognition",
-            "description": "[337\u2b50] - Speech to text by Erick Ghaumez",
+            "description": "[338\u2b50] - Speech to text by Erick Ghaumez .",
             "tags": []
           },
           {
             "name": "OK Google",
             "url": "https://marcinszalek.pl/flutter/ok-google-flutter/",
-            "description": "Integrate google assistant by Marcin Szalek",
+            "description": "Integrate google assistant by Marcin Szalek .",
             "tags": []
           }
         ]
@@ -55133,13 +55450,19 @@
           {
             "name": "Firebase Storage",
             "url": "https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_storage",
-            "description": "Firebase as data storage",
+            "description": "Firebase as data storage.",
             "tags": []
           },
           {
             "name": "Secure Storage",
             "url": "https://github.com/mogol/flutter_secure_storage",
-            "description": "[1118\u2b50] - Keychain and Keystore storage by German Saprykin",
+            "description": "[1234\u2b50] - Keychain and Keystore storage by German Saprykin .",
+            "tags": []
+          },
+          {
+            "name": "Streaming Shared Preferences",
+            "url": "https://github.com/roughike/streaming_shared_preferences",
+            "description": "[248\u2b50] - Reactive key-value store, shared preferences with Streams by Iiro Krankka .",
             "tags": []
           }
         ]
@@ -55150,19 +55473,19 @@
           {
             "name": "Admob",
             "url": "https://pub.dev/packages/admob",
-            "description": "GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt",
+            "description": "GoogleAdmob supports interstitial ads in both iOS and Android by Brett Nesbitt.",
             "tags": []
           },
           {
             "name": "Firebase AdMob",
             "url": "https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_admob",
-            "description": "Ad integration using Firebase",
+            "description": "Ad integration using Firebase.",
             "tags": []
           },
           {
             "name": "Inapp Purchase",
             "url": "https://github.com/dooboolab/flutter_inapp_purchase",
-            "description": "[550\u2b50] - Features set of 'in app purchase' derived from react-native-iap by dooboolab",
+            "description": "[573\u2b50] - Features set of 'in app purchase' derived from react-native-iap by dooboolab .",
             "tags": []
           },
           {
@@ -55174,13 +55497,13 @@
           {
             "name": "Facebook Audience Network",
             "url": "https://github.com/dreamsoftin/facebook_audience_network",
-            "description": "Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & natvie ads by Dreamsoft Innovations .",
+            "description": "Facebook Audience Network Ad plugin that shows banner, interstitial, in-stream video, rewarded video & native ads by Dreamsoft Innovations .",
             "tags": []
           },
           {
             "name": "Square In-App Payments SDK",
             "url": "https://github.com/square/in-app-payments-flutter-plugin",
-            "description": "[339\u2b50] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by Square",
+            "description": "[342\u2b50] - Take payments by embedding a card entry form in your app that produces nonces from customer-provided card information or digital wallets by Square .",
             "tags": []
           }
         ]
@@ -55189,45 +55512,141 @@
         "name": "Templates",
         "resources": [
           {
+            "name": "Movie Details",
+            "url": "https://github.com/FlutterRocks/movie-details-ui",
+            "description": "[429\u2b50] - Movie details page by Iiro Krankka .",
+            "tags": []
+          },
+          {
             "name": "Mates",
             "url": "https://github.com/CodemateLtd/FlutterMates",
-            "description": "[592\u2b50] - How to load profiles from the randomuser.me API and a nice profile details page by Iiro Krankka",
+            "description": "[598\u2b50] - How to load profiles from the randomuser.me API and a nice profile details page by Iiro Krankka .",
+            "tags": []
+          },
+          {
+            "name": "Weather",
+            "url": "https://github.com/alessandroaime/Weather",
+            "description": "[156\u2b50] - Weather app to learn how to use Canvas and Animation by Alessandro Aime .",
+            "tags": []
+          },
+          {
+            "name": "TodoMVC",
+            "url": "https://github.com/brianegan/flutter_architecture_samples",
+            "description": "[8859\u2b50] - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by Brian Egan .",
+            "tags": []
+          },
+          {
+            "name": "Restaurant Menu",
+            "url": "https://github.com/braulio94/menu_flutter",
+            "description": "[624\u2b50] - Restaurant menu by Braulio Cassule .",
+            "tags": []
+          },
+          {
+            "name": "UI Challenges",
+            "url": "https://github.com/tomialagbe/flutter_ui_challenges",
+            "description": "[1514\u2b50] - Profile, Travel, Food App by Tomi Alagbe .",
+            "tags": []
+          },
+          {
+            "name": "Cupertino Settings",
+            "url": "https://github.com/matthinc/flutter_cupertino_settings",
+            "description": "[233\u2b50] - iOS Settings by Matthias Rupp .",
+            "tags": []
+          },
+          {
+            "name": "Music Player",
+            "url": "https://github.com/thosakwe/flutter_music_player",
+            "description": "[224\u2b50] - music player component by Tobe O .",
+            "tags": []
+          },
+          {
+            "name": "Dashboard",
+            "url": "https://github.com/Ivaskuu/dashboard",
+            "description": "[936\u2b50] - Dashboard and Shop Items by Ivascu Adrian .",
+            "tags": []
+          },
+          {
+            "name": "Todo",
+            "url": "https://github.com/littlemarc2011/FlutterTodo",
+            "description": "[582\u2b50] - Todo template from Dribble by Marc L .",
+            "tags": []
+          },
+          {
+            "name": "UI Kit",
+            "url": "https://github.com/iampawan/Flutter-UI-Kit",
+            "description": "[6277\u2b50] - Collection of useful UIs in a UIKit by Pawan Kumar .",
+            "tags": []
+          },
+          {
+            "name": "Book",
+            "url": "https://github.com/putraxor/flutter-book-app",
+            "description": "[354\u2b50] - Bookshelf by Ardiansyah Putra .",
             "tags": []
           },
           {
             "name": "The Gorgeous Login",
             "url": "https://github.com/huextrat/TheGorgeousLogin",
-            "description": "[1736\u2b50] - Design and smooth login template by Hugo Extrat",
+            "description": "[1770\u2b50] - Design and smooth login template by Hugo Extrat .",
             "tags": []
           },
           {
             "name": "Liquid Pay Payment App",
             "url": "https://github.com/longhoang2984/flutter_payment_app_ui",
-            "description": "[304\u2b50] - Liquid Pay App Concept by Long Hoang",
+            "description": "[309\u2b50] - Liquid Pay App Concept by Long Hoang .",
+            "tags": []
+          },
+          {
+            "name": "DrawApp",
+            "url": "https://github.com/SnakeyHips/drawapp",
+            "description": "[240\u2b50] - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by Jake Gough .",
+            "tags": []
+          },
+          {
+            "name": "Starter Kit",
+            "url": "https://github.com/KingWu/flutter_starter_kit",
+            "description": "[804\u2b50] - App Store implementation to learn Bloc, RxDart, Sqflite, Fluro and Dio. by King Wu .",
+            "tags": []
+          },
+          {
+            "name": "Feather",
+            "url": "https://github.com/jhomlala/feather",
+            "description": "[682\u2b50] - Beautiful weather application. Application includes RxDart, Dio, BLoC, i18n, unit and widget tests. by Jakub Homlala .",
+            "tags": []
+          },
+          {
+            "name": "Clone UI Challenges",
+            "url": "https://github.com/javico2609/flutter-challenges",
+            "description": "[1514\u2b50] - Collection of useful UIs clones by Javier Gonz\u00e1lez .",
             "tags": []
           },
           {
             "name": "FlutterFoodybite",
             "url": "https://github.com/JideGuru/FlutterFoodybite",
-            "description": "[1567\u2b50] - Beautiful food app UI template by JideGuru",
+            "description": "[1686\u2b50] - Beautiful food app UI template by JideGuru .",
             "tags": []
           },
           {
             "name": "Flutter Samples",
             "url": "https://github.com/diegoveloper/flutter-samples",
-            "description": "[3083\u2b50] - Collection of nice flutter samples by Diego Vel\u00e1squez .",
+            "description": "[3191\u2b50] - Collection of nice flutter samples by Diego Vel\u00e1squez .",
             "tags": []
           },
           {
             "name": "ActingWeb First_App",
             "url": "https://github.com/gregertw/actingweb_firstapp",
-            "description": "[476\u2b50] - Starter app with basic elements for a team-developed production-quality app by Greger Wedel",
+            "description": "[517\u2b50] - Starter app with basic elements for a team-developed production-quality app by Greger Wedel .",
             "tags": []
           },
           {
             "name": "Smart Washing Machine",
             "url": "https://github.com/pawlik92/flutter_whirlpool",
-            "description": "[880\u2b50] - Smart washing machine UI challenge app with Box2D physic engine by Tomasz Pawlikowski",
+            "description": "[903\u2b50] - Smart washing machine UI challenge app with Box2D physic engine by Tomasz Pawlikowski .",
+            "tags": []
+          },
+          {
+            "name": "Beautiful Timelines",
+            "url": "https://github.com/JHBitencourt/beautiful_timelines",
+            "description": "[330\u2b50] - A set of beautiful timelines by Julio Bitencourt .",
             "tags": []
           }
         ]
@@ -55238,13 +55657,13 @@
           {
             "name": "GitTouch",
             "url": "https://github.com/pd4d10/git-touch",
-            "description": "[1565\u2b50] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by Rongjian Zhang",
+            "description": "[1649\u2b50] - Open source mobile client for GitHub, GitLab, Bitbucket and Gitea by Rongjian Zhang .",
             "tags": []
           },
           {
             "name": "RustDesk",
             "url": "https://github.com/rustdesk/rustdesk",
-            "description": "[72980\u2b50] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by RustDesk team",
+            "description": "[99332\u2b50] - Open source virtual / remote desktop. TeamViewer alternative.  Built with Rust by RustDesk team .",
             "tags": []
           }
         ]
@@ -55253,9 +55672,15 @@
         "name": "Machine Learning",
         "resources": [
           {
+            "name": "MLKit",
+            "url": "https://github.com/azihsoyn/flutter_mlkit",
+            "description": "[388\u2b50] - Firebase Machine Learning Kit by Naoya Yoshizawa .",
+            "tags": []
+          },
+          {
             "name": "m2cgen",
             "url": "https://github.com/BayesWitnesses/m2cgen",
-            "description": "[2792\u2b50] - CLI tool to convert ML models into native Dart code by BayesWitnesses",
+            "description": "[2915\u2b50] - CLI tool to convert ML models into native Dart code by BayesWitnesses .",
             "tags": []
           }
         ]
@@ -55264,15 +55689,27 @@
         "name": "Vision",
         "resources": [
           {
+            "name": "ML Vision Camera Stream",
+            "url": "https://github.com/santetis/flutter_camera_ml_vision",
+            "description": "[273\u2b50] - ML vision recognitions (QRcode, face, ...) with live camera stream by Aumard Jimmy and Santetis .",
+            "tags": []
+          },
+          {
+            "name": "Google Mobile Vision",
+            "url": "https://github.com/edufolly/flutter_mobile_vision",
+            "description": "[456\u2b50] - Google Mobile Vision by Eduardo Folly .",
+            "tags": []
+          },
+          {
             "name": "ARKit Plugin",
             "url": "https://github.com/olexale/arkit_flutter_plugin",
-            "description": "[798\u2b50] - Wrapper for ARKit - Apple's augmented reality platform for iOS by Olexandr Leuschenko .",
+            "description": "[830\u2b50] - Wrapper for ARKit - Apple's augmented reality platform for iOS by Olexandr Leuschenko .",
             "tags": []
           },
           {
             "name": "ARCore Plugin",
             "url": "https://github.com/giandifra/arcore_flutter_plugin",
-            "description": "[433\u2b50] - Augmented reality with ARCore platform by Gian Marco Di Francesco .",
+            "description": "[446\u2b50] - Augmented reality with ARCore platform by Gian Marco Di Francesco .",
             "tags": []
           }
         ]
@@ -55289,7 +55726,7 @@
           {
             "name": "Plugins",
             "url": "https://github.com/flutter/packages/tree/main/packages",
-            "description": "Official Flutter Team Plugins",
+            "description": "Official Flutter Team Plugins.",
             "tags": []
           }
         ]
@@ -55300,115 +55737,151 @@
           {
             "name": "WebView",
             "url": "https://github.com/dart-flitter/flutter_webview_plugin",
-            "description": "[1479\u2b50] - Render web content by Hadrien Lejard",
+            "description": "[1491\u2b50] - Render web content by Hadrien Lejard .",
             "tags": []
           },
           {
             "name": "Location",
             "url": "https://github.com/Lyokone/flutterlocation",
-            "description": "[1104\u2b50] - Handle location, handling callbacks to get continuous location by Lyokone",
+            "description": "[1144\u2b50] - Handle location, handling callbacks to get continuous location by Lyokone .",
             "tags": []
           },
           {
             "name": "Proximity Sensor Plugin",
             "url": "https://pub.dev/packages/proximity_plugin",
-            "description": "A plugin to access the proximity sensor of your device by Manoj NB",
+            "description": "A plugin to access the proximity sensor of your device by Manoj NB .",
+            "tags": []
+          },
+          {
+            "name": "Geolocation",
+            "url": "https://github.com/loup-v/geolocation",
+            "description": "[228\u2b50] - Fully featured geolocation plugin: current location, location updates, geocode, places and more by Loup .",
             "tags": []
           },
           {
             "name": "Local Notifications",
             "url": "https://github.com/MaikuB/flutter_local_notifications",
-            "description": "[2441\u2b50] - Plugin for displaying local notifications by Michael Bui",
+            "description": "[2624\u2b50] - Plugin for displaying local notifications by Michael Bui .",
             "tags": []
           },
           {
             "name": "Device Calendar",
             "url": "https://github.com/builttoroam/device_calendar",
-            "description": "Plugin for modifying calendars on the user's device by Built to Roam",
+            "description": "Plugin for modifying calendars on the user's device by Built to Roam .",
             "tags": []
           },
           {
             "name": "Badger",
             "url": "https://github.com/g123k/flutter_app_badger",
-            "description": "[308\u2b50] - Update app badge on the launcher by Edouard Marquez",
+            "description": "[309\u2b50] - Update app badge on the launcher by Edouard Marquez .",
             "tags": []
           },
           {
             "name": "UDID",
             "url": "https://github.com/GigaDroid/flutter_udid",
-            "description": "[245\u2b50] - Persistent UDID across app reinstalls by Leon Kukuk",
+            "description": "[272\u2b50] - Persistent UDID across app reinstalls by Leon Kukuk .",
             "tags": []
           },
           {
             "name": "Downloader",
             "url": "https://github.com/hnvn/flutter_downloader",
-            "description": "[906\u2b50] - Create and manage download tasks by HungHD",
+            "description": "[1\u2b50] - Create and manage download tasks by HungHD .",
             "tags": []
           },
           {
             "name": "InAppWebView",
             "url": "https://github.com/pichillilorenzo/flutter_inappwebview",
-            "description": "[3178\u2b50] - Add inline WebView widgets or open an in-app browser window by Lorenzo Pichilli",
+            "description": "[3611\u2b50] - Add inline WebView widgets or open an in-app browser window by Lorenzo Pichilli .",
             "tags": []
           },
           {
             "name": "AppAvailability",
             "url": "https://github.com/pichillilorenzo/flutter_appavailability",
-            "description": "[92\u2b50] - List, launch and check installed apps by Lorenzo Pichilli",
+            "description": "[93\u2b50] - List, launch and check installed apps by Lorenzo Pichilli .",
             "tags": []
           },
           {
             "name": "File Picker",
             "url": "https://github.com/miguelpruivo/plugins_flutter_file_picker",
-            "description": "[1320\u2b50] - Native file explorer to load absolute file path by Miguel Ruivo",
+            "description": "[1494\u2b50] - Native file explorer to load absolute file path by Miguel Ruivo .",
             "tags": []
           },
           {
             "name": "VPN",
             "url": "https://github.com/X-dea/Flutter_VPN",
-            "description": "[350\u2b50] - Access VPN services by Jason C.H",
+            "description": "[371\u2b50] - Access VPN services by Jason C.H .",
             "tags": []
           },
           {
             "name": "Geolocator",
             "url": "https://github.com/baseflow/flutter-geolocator",
-            "description": "[1240\u2b50] - A Flutter geolocation plugin which provides easy access to the platform specific location services by Baseflow",
+            "description": "[1311\u2b50] - A Flutter geolocation plugin which provides easy access to the platform specific location services by Baseflow .",
             "tags": []
           },
           {
             "name": "Permission Handler",
             "url": "https://github.com/baseflow/flutter-permission-handler",
-            "description": "[2023\u2b50] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by Baseflow",
+            "description": "[2144\u2b50] - A Flutter permission plugin which provides a cross-platform (iOS, Android) API to request and check permissions by Baseflow .",
+            "tags": []
+          },
+          {
+            "name": "WidgetKit",
+            "url": "https://github.com/fasky-software/flutter_widgetkit",
+            "description": "[?\u2b50] - A plugins which allows you to create a Widget-Extention for iOS by Thomas Leiter .",
             "tags": []
           },
           {
             "name": "Live Activities",
             "url": "https://github.com/istornz/live_activities",
-            "description": "[164\u2b50] - A plugin to use iOS live activities & Dynamic Island features by Dimitri Dessus",
+            "description": "[233\u2b50] - A plugin to use iOS live activities & Dynamic Island features by Dimitri Dessus .",
+            "tags": []
+          },
+          {
+            "name": "QR Code Reader",
+            "url": "https://github.com/villela/flutter_qrcode_reader",
+            "description": "[232\u2b50] - QR Code reader plugin by Matheus Villela .",
+            "tags": []
+          },
+          {
+            "name": "Fast QR Reader View",
+            "url": "https://github.com/facundomedica/fast_qr_reader_view",
+            "description": "[292\u2b50] - Live multicode reader by Facundo Medica .",
             "tags": []
           },
           {
             "name": "Blue",
             "url": "https://github.com/pauldemarco/flutter_blue",
-            "description": "[2378\u2b50] - Bluetooth by Paul DeMarco",
+            "description": "[2429\u2b50] - Bluetooth by Paul DeMarco .",
+            "tags": []
+          },
+          {
+            "name": "Beacons",
+            "url": "https://github.com/loup-v/beacons",
+            "description": "[78\u2b50] - Flutter beacons plugin by Loup .",
             "tags": []
           },
           {
             "name": "NFC Reader",
             "url": "https://github.com/matteocrippa/flutter-nfc-reader",
-            "description": "[394\u2b50] - NFC reader plugin for iOS and Android by Matteo Crippa",
+            "description": "[428\u2b50] - NFC reader plugin for iOS and Android by Matteo Crippa .",
+            "tags": []
+          },
+          {
+            "name": "Beacon broadcast",
+            "url": "https://github.com/pszklarska/beacon_broadcast",
+            "description": "[83\u2b50] - Library for turning your phone into a beacon by Paulina Szklarska .",
             "tags": []
           },
           {
             "name": "Reactive Ble",
             "url": "https://github.com/PhilipsHue/flutter_reactive_ble",
-            "description": "[664\u2b50] - Handles BLE operations for multiple devices by Philips Hue",
+            "description": "[701\u2b50] - Handles BLE operations for multiple devices by Philips Hue .",
             "tags": []
           },
           {
             "name": "NFC Manager",
             "url": "https://github.com/okadan/flutter-nfc-manager",
-            "description": "[200\u2b50] - Generic NFC plugin for iOS and Android by Naoki Okada",
+            "description": "[235\u2b50] - Generic NFC plugin for iOS and Android by Naoki Okada .",
             "tags": []
           }
         ]
@@ -55419,19 +55892,19 @@
           {
             "name": "Sqflite",
             "url": "https://github.com/tekartik/sqflite",
-            "description": "[2856\u2b50] - SQLite flutter plugin by Alexandre Roux",
+            "description": "[2972\u2b50] - SQLite flutter plugin by Alexandre Roux .",
             "tags": []
           },
           {
             "name": "Drift",
             "url": "https://github.com/simolus3/drift",
-            "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by Simon Binder",
+            "description": "Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter by .\nSimon Binder",
             "tags": []
           },
           {
             "name": "ObjectBox",
             "url": "https://github.com/objectbox/objectbox-dart",
-            "description": "On-device database for fast cross-platform Dart object persistence by ObjectBox",
+            "description": "On-device database for fast cross-platform Dart object persistence by ObjectBox .",
             "tags": []
           }
         ]
@@ -55440,15 +55913,33 @@
         "name": "Services",
         "resources": [
           {
+            "name": "Dialogflow",
+            "url": "https://github.com/VictorRancesCode/flutter_dialogflow",
+            "description": "[212\u2b50] - Plugin to easily integrate with dialogflow by Victor Rances .",
+            "tags": []
+          },
+          {
             "name": "OneSignal",
             "url": "https://github.com/OneSignal/OneSignal-Flutter-SDK",
-            "description": "[615\u2b50] - Push notification service by OneSignal",
+            "description": "[649\u2b50] - Push notification service by OneSignal .",
+            "tags": []
+          },
+          {
+            "name": "Place Dialog",
+            "url": "https://github.com/pinkfish/flutter_places_dialog",
+            "description": "[44\u2b50] - Places picker dialog returning the places to the app by David Bennett .",
+            "tags": []
+          },
+          {
+            "name": "App Review",
+            "url": "https://github.com/AppleEducate/app_review",
+            "description": "[40\u2b50] - Requesting and Writing Reviews for Android and iOS by Rody Davis .",
             "tags": []
           },
           {
             "name": "In App Review",
             "url": "https://github.com/britannio/in_app_review",
-            "description": "[311\u2b50] - Requesting and Writing Reviews for Android, iOS and MacOS by Britannio Jarrett",
+            "description": "[360\u2b50] - Requesting and Writing Reviews for Android, iOS and MacOS by Britannio Jarrett .",
             "tags": []
           }
         ]
@@ -55459,61 +55950,85 @@
           {
             "name": "Bloc",
             "url": "https://github.com/felangel/bloc",
-            "description": "[11726\u2b50] - Collection of packages that help implement the BLoC design pattern by Felix Angelov",
+            "description": "[12288\u2b50] - Collection of packages that help implement the BLoC design pattern by Felix Angelov .",
             "tags": []
           },
           {
             "name": "Provider",
             "url": "https://github.com/rrousselGit/provider",
-            "description": "[5101\u2b50] - State-management library for Flutter by Remi Rousselet",
+            "description": "[5230\u2b50] - State-management library for Flutter by Remi Rousselet .",
             "tags": []
           },
           {
             "name": "RiverPod",
             "url": "https://github.com/rrousselGit/river_pod",
-            "description": "[6172\u2b50] - Provider, but different by Remi Rousselet",
+            "description": "[6922\u2b50] - Provider, but different by Remi Rousselet .",
             "tags": []
           },
           {
             "name": "Get It",
             "url": "https://github.com/fluttercommunity/get_it",
-            "description": "[1323\u2b50] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by Thomas Burkhartb",
+            "description": "[1426\u2b50] - Simple direct Service Locator that allows to decouple the interface from a concrete implementation by Thomas Burkhartb .",
             "tags": []
           },
           {
             "name": "GetX",
             "url": "https://github.com/jonataslaw/getx",
-            "description": "[10245\u2b50] - Contextless, State-management & navigation by Jonny Borges",
+            "description": "[11002\u2b50] - Contextless, State-management & navigation by Jonny Borges .",
             "tags": []
           },
           {
             "name": "MobX",
             "url": "https://github.com/mobxjs/mobx.dart",
-            "description": "[2390\u2b50] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.",
+            "description": "[2451\u2b50] - Supercharge the state-management in your apps with Transparent Functional Reactive Programming (TFRP). Port of MobX from the Js/React land.",
             "tags": []
           },
           {
             "name": "Signals",
             "url": "https://github.com/rodydavis/signals.dart",
-            "description": "[433\u2b50] - Reactive programming made simple. Port of Signals pattern by Rody Davis",
+            "description": "[658\u2b50] - Reactive programming made simple. Port of Signals pattern by Rody Davis .",
+            "tags": []
+          },
+          {
+            "name": "Built redux",
+            "url": "https://github.com/davidmarne/flutter_built_redux",
+            "description": "[77\u2b50] - Automatic subscribing to your redux stores. Based on the built pattern by David Marne .",
             "tags": []
           },
           {
             "name": "Redux.dart",
             "url": "https://github.com/johnpryan/redux.dart",
-            "description": "[516\u2b50] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by John Ryan and Brian Egan",
+            "description": "[521\u2b50] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by John Ryan and Brian Egan .",
             "tags": []
           },
           {
             "name": "Redux",
             "url": "https://github.com/brianegan/flutter_redux",
-            "description": "[1653\u2b50] - Built to work with redux.dart , utilities that allow you to easily consume a Redux Store to build Widgets",
+            "description": "[1653\u2b50] - Built to work with redux.dart , utilities that allow you to easily consume a Redux Store to build Widgets.",
+            "tags": []
+          },
+          {
+            "name": "Inject",
+            "url": "https://github.com/google/inject.dart",
+            "description": "[867\u2b50] - Compile-time dependency injection by Google.",
+            "tags": []
+          },
+          {
+            "name": "Flux",
+            "url": "https://github.com/google/flutter_flux",
+            "description": "[376\u2b50] - Implementation of the Flux framework by Google.",
+            "tags": []
+          },
+          {
+            "name": "Fish",
+            "url": "https://github.com/alibaba/fish-redux",
+            "description": "[7313\u2b50] - Alibaba Redux implementation.",
             "tags": []
           },
           {
             "name": "Async Redux",
             "url": "https://pub.dev/packages/async_redux",
-            "description": "[229\u2b50] - Redux without boilerplate. Allows for both sync and async reducers by Marcelo Glasberg",
+            "description": "[237\u2b50] - Redux without boilerplate. Allows for both sync and async reducers by Marcelo Glasberg .",
             "tags": []
           }
         ]
@@ -55524,13 +56039,13 @@
           {
             "name": "Hooks",
             "url": "https://github.com/rrousselGit/flutter_hooks",
-            "description": "[3119\u2b50] - Advanced code sharing between widgets by Remi Rousselet",
+            "description": "[3280\u2b50] - Advanced code sharing between widgets by Remi Rousselet .",
             "tags": []
           },
           {
             "name": "Functional widget",
             "url": "https://github.com/rrousselGit/functional_widget",
-            "description": "[595\u2b50] - Code generator writing widgets as functions with annotations by Remi Rousselet",
+            "description": "[608\u2b50] - Code generator writing widgets as functions with annotations by Remi Rousselet .",
             "tags": []
           }
         ]
@@ -55541,19 +56056,19 @@
           {
             "name": "Graphql",
             "url": "https://github.com/zino-app/graphql-flutter",
-            "description": "[3243\u2b50] - Implementation of the GraphQL spec by Zino App B.V.",
+            "description": "[3267\u2b50] - Implementation of the GraphQL spec by Zino App B.V. .",
             "tags": []
           },
           {
             "name": "GeoFlutterFire",
             "url": "https://github.com/DarshanGowda0/GeoFlutterFire",
-            "description": "[305\u2b50] - Implementation of GeoFirestore for flutter by Darshan Gowda",
+            "description": "[306\u2b50] - Implementation of GeoFirestore for flutter by Darshan Gowda .",
             "tags": []
           },
           {
             "name": "Ferry",
             "url": "https://github.com/gql-dart/ferry",
-            "description": "[600\u2b50] - Powerful & Extensible GraphQL Client by Sat Mandir Khalsa",
+            "description": "[627\u2b50] - Powerful & Extensible GraphQL Client by Sat Mandir Khalsa .",
             "tags": []
           }
         ]
@@ -55562,27 +56077,27 @@
         "name": "Backend",
         "resources": [
           {
-            "name": "Dynamic Widget",
-            "url": "https://github.com/dengyin2000/dynamic_widget",
-            "description": "[1554\u2b50] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by Denny Deng .",
+            "name": "Serverpod",
+            "url": "https://github.com/serverpod/serverpod",
+            "description": "Write your server-side code and API in Dart.",
             "tags": []
           },
           {
-            "name": "NETCoreSync",
-            "url": "https://github.com/aldycool/NETCoreSync",
-            "description": "Centralized database synchronization framework for multiple clients, built on top of Moor library by Aldy J",
+            "name": "Nitric",
+            "url": "https://github.com/nitrictech/nitric",
+            "description": "[1842\u2b50] - Open source framework with pluggable deployment by Nitric ..",
+            "tags": []
+          },
+          {
+            "name": "Dynamic Widget",
+            "url": "https://github.com/dengyin2000/dynamic_widget",
+            "description": "[1630\u2b50] - Build your dynamic UI with json, and the json format is very similar with flutter widget code by Denny Deng .",
             "tags": []
           },
           {
             "name": "Parse for Flutter",
             "url": "https://github.com/parse-community/Parse-SDK-Flutter/tree/master/packages/flutter",
-            "description": "[575\u2b50] Open source backend framework by ParsePlatform .",
-            "tags": []
-          },
-          {
-            "name": "Serverpod",
-            "url": "https://github.com/serverpod/serverpod",
-            "description": "Write your server-side code and API in Dart.",
+            "description": "[583\u2b50] Open source backend framework by ParsePlatform .",
             "tags": []
           }
         ]
@@ -55591,33 +56106,57 @@
         "name": "Animation",
         "resources": [
           {
+            "name": "Heroine",
+            "url": "https://pub.dev/packages/heroine",
+            "description": "[?\u2b50] - The queen of hero transitions by [whynotmake.it].",
+            "tags": []
+          },
+          {
+            "name": "Motor",
+            "url": "https://pub.dev/packages/motor",
+            "description": "[?\u2b50] - Unified motion system for Flutter - physics-based springs and duration-based curves by [whynotmake.it]",
+            "tags": []
+          },
+          {
             "name": "SpinKit",
             "url": "https://github.com/jogboms/flutter_spinkit",
-            "description": "[2990\u2b50] - Animated loading indicators by Jeremiah Ogbomo",
+            "description": "[3114\u2b50] - Animated loading indicators by Jeremiah Ogbomo .",
+            "tags": []
+          },
+          {
+            "name": "Villains",
+            "url": "https://github.com/Norbert515/flutter_villains",
+            "description": "[366\u2b50] - Page transition animations by Norbert Kozsir .",
             "tags": []
           },
           {
             "name": "AnimatedTextKit",
             "url": "https://github.com/aagarwal1012/Animated-Text-Kit",
-            "description": "[1652\u2b50] - A collection of cool text animations by Ayush Agarwal",
+            "description": "[1735\u2b50] - A collection of cool text animations by Ayush Agarwal .",
             "tags": []
           },
           {
             "name": "Drawing Animation",
             "url": "https://github.com/biocarl/drawing_animation",
-            "description": "[484\u2b50] - Create drawing line animations based on SVG path data by Carl Hauck",
+            "description": "[505\u2b50] - Create drawing line animations based on SVG path data by Carl Hauck .",
             "tags": []
           },
           {
             "name": "Simple Animations",
             "url": "https://github.com/felixblaschke/simple_animations",
-            "description": "Create awesome custom animations easily by Felix Blaschke",
+            "description": "Create awesome custom animations easily by Felix Blaschke .",
+            "tags": []
+          },
+          {
+            "name": "Flutter-animation-set",
+            "url": "https://github.com/efoxTeam/flutter-animation-set",
+            "description": "[283\u2b50] - Easy to build an animation set by efoxTeam .",
             "tags": []
           },
           {
             "name": "Staggered Animations",
             "url": "https://github.com/mobiten/flutter_staggered_animations",
-            "description": "[1566\u2b50] - Easily add staggered animations to your ListView, GridView, Column and Row by mobiten",
+            "description": "[1644\u2b50] - Easily add staggered animations to your ListView, GridView, Column and Row by mobiten .",
             "tags": []
           },
           {
@@ -55629,13 +56168,13 @@
           {
             "name": "Funvas",
             "url": "https://github.com/creativecreatorormaybenot/funvas",
-            "description": "[524\u2b50] - Create fun time based canvas animations by creativecreatorormaybenot .",
+            "description": "[544\u2b50] - Create fun time based canvas animations by creativecreatorormaybenot .",
             "tags": []
           },
           {
             "name": "Flutter Animate",
             "url": "https://pub.dev/packages/flutter_animate",
-            "description": "[915\u2b50] - A performant library that makes it simple to add almost any kind of animated effect by gskinner",
+            "description": "[1070\u2b50] - A performant library that makes it simple to add almost any kind of animated effect by gskinner .",
             "tags": []
           }
         ]
@@ -55646,13 +56185,13 @@
           {
             "name": "flutter_convenient_test",
             "url": "https://github.com/fzyzcjy/flutter_convenient_test",
-            "description": "[479\u2b50] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by fzyzcjy",
+            "description": "[556\u2b50] - Tests with action history, time travelling, screenshots, rapid re-execution, video recordings, interactive mode by fzyzcjy .",
             "tags": []
           },
           {
             "name": "Patrol",
             "url": "https://github.com/leancodepl/patrol",
-            "description": "[860\u2b50] - Easy-to-learn, powerful UI testing framework eliminating limitations of flutter_test , integration_test , and flutter_driver by LeanCode",
+            "description": "[1131\u2b50] - Easy-to-learn, powerful UI testing framework eliminating limitations of flutter_test , integration_test , and flutter_driver by LeanCode .",
             "tags": []
           }
         ]
@@ -55663,7 +56202,7 @@
           {
             "name": "Responsive Framework",
             "url": "https://github.com/Codelessly/ResponsiveFramework",
-            "description": "[1262\u2b50] - Automatically adapt UI to different screen sizes. Responsiveness made simple by Codelessly",
+            "description": "[1370\u2b50] - Automatically adapt UI to different screen sizes. Responsiveness made simple by Codelessly .",
             "tags": []
           }
         ]
@@ -55674,7 +56213,7 @@
           {
             "name": "styled_widget",
             "url": "https://github.com/ReinBentdal/styled_widget",
-            "description": "[1260\u2b50] - Simplifying your widget tree structure by defining widgets using methods by Rein Gundersen Bentdal .",
+            "description": "[1327\u2b50] - Simplifying your widget tree structure by defining widgets using methods by Rein Gundersen Bentdal .",
             "tags": []
           }
         ]
@@ -55685,7 +56224,7 @@
           {
             "name": "Graphx",
             "url": "https://github.com/roipeker/graphx",
-            "description": "[491\u2b50] - Making drawings and animations extremely simple, inspired by Flash, by Roi Peker .",
+            "description": "[514\u2b50] - Making drawings and animations extremely simple, inspired by Flash, by Roi Peker .",
             "tags": []
           }
         ]
@@ -55696,43 +56235,79 @@
           {
             "name": "Flame",
             "url": "https://github.com/flame-engine/flame",
-            "description": "[9154\u2b50] - Minimalist game engine by Luan Nico",
+            "description": "[10193\u2b50] - Minimalist game engine by Luan Nico .",
             "tags": []
           },
           {
             "name": "Bonfire",
             "url": "https://github.com/RafaelBarbosatec/bonfire",
-            "description": "[1217\u2b50] - Flame engine based game engine for 2D RPG games",
+            "description": "[1384\u2b50] - Flame engine based game engine for 2D RPG games.",
             "tags": []
           },
           {
             "name": "Zerker",
             "url": "https://github.com/flutterkit/zerker",
-            "description": "[681\u2b50] - Lightweight and powerful graphic animation library by drawcall .",
+            "description": "[704\u2b50] - Lightweight and powerful graphic animation library by drawcall .",
             "tags": []
           },
           {
             "name": "Flip",
             "url": "https://github.com/RedBrogdon/flutterflip",
-            "description": "[265\u2b50] - Reversi game by Andrew Brogdon",
+            "description": "[268\u2b50] - Reversi game by Andrew Brogdon .",
+            "tags": []
+          },
+          {
+            "name": "2048",
+            "url": "https://github.com/anuranBarman/2048",
+            "description": "[361\u2b50] - 2048 game by Anuran Barman .",
+            "tags": []
+          },
+          {
+            "name": "TRex",
+            "url": "https://github.com/renancaraujo/trex-flame",
+            "description": "[7\u2b50] - Port of the famous Chrome's Trex game by Renan C. Ara\u00fajo .",
             "tags": []
           },
           {
             "name": "Crush",
             "url": "https://github.com/boeledi/flutter_crush",
-            "description": "[575\u2b50] - How to build a Math-3 game, like Candy Crush, Bejeweled by Didier Boelens",
+            "description": "[609\u2b50] - How to build a Math-3 game, like Candy Crush, Bejeweled by Didier Boelens .",
+            "tags": []
+          },
+          {
+            "name": "Slide Puzzle",
+            "url": "https://github.com/kevmoo/slide_puzzle",
+            "description": "[180\u2b50] - Classic slide (15) puzzle by Kevin Moore .",
             "tags": []
           },
           {
             "name": "Tetris",
             "url": "https://github.com/boyan01/flutter-tetris",
-            "description": "[1601\u2b50] - Tetris game by YangBin",
+            "description": "[1648\u2b50] - Tetris game by YangBin .",
+            "tags": []
+          },
+          {
+            "name": "Party Charades",
+            "url": "https://github.com/vintage/party_flutter",
+            "description": "[209\u2b50] - Party charades by Kamil Rykowski .",
+            "tags": []
+          },
+          {
+            "name": "Ghost Rigger",
+            "url": "https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger",
+            "description": "[256\u2b50] - Ghost Rigger is a cyberpunk inspired puzzle game by Iain Smith and Julio Ernesto Rodr\u00edguez Caba\u00f1as .",
+            "tags": []
+          },
+          {
+            "name": "Space Empires",
+            "url": "https://github.com/satyamx64/space_empires",
+            "description": "[101\u2b50] - A 4X Space themed strategy game by Satyam Sharma .",
             "tags": []
           },
           {
             "name": "Awesome Flame",
             "url": "https://github.com/flame-engine/awesome-flame",
-            "description": "[1047\u2b50] - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by Flame Engine",
+            "description": "[1248\u2b50] - Curated list of the best Flame games, projects, libraries, tools, tutorials, articles and more by Flame Engine .",
             "tags": []
           }
         ]
@@ -55741,21 +56316,33 @@
         "name": "Premium",
         "resources": [
           {
+            "name": "History Of Everything",
+            "url": "https://github.com/2d-inc/HistoryOfEverything",
+            "description": "[6568\u2b50] - Animated vertical timeline of humanity by 2D, Inc .",
+            "tags": []
+          },
+          {
+            "name": "Developer Quest",
+            "url": "https://github.com/2d-inc/developer_quest",
+            "description": "[2982\u2b50] - Become a tech lead, slay bugs by 2D, Inc .",
+            "tags": []
+          },
+          {
             "name": "AppFlowy",
             "url": "https://github.com/AppFlowy-IO/appflowy",
-            "description": "[55783\u2b50] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by AppFlowy team",
+            "description": "[65821\u2b50] - Open Source Notion Alternative. You are in charge of your data and customizations. Built with Flutter and Rust by AppFlowy team .",
             "tags": []
           },
           {
             "name": "RustDesk",
             "url": "https://github.com/rustdesk/rustdesk",
-            "description": "[72980\u2b50] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by RustDesk team .",
+            "description": "[99332\u2b50] - Open source virtual/remote desktop and TeamViewer alternative. Built with Flutter and Rust by RustDesk team .",
             "tags": []
           },
           {
             "name": "Spotube",
             "url": "https://github.com/KRTirtho/spotube",
-            "description": "Open source Spotify client for desktop and mobile by Kingkor Roy Tirtho",
+            "description": "Open source Spotify client for desktop and mobile by Kingkor Roy Tirtho .",
             "tags": []
           }
         ]
@@ -55766,145 +56353,229 @@
           {
             "name": "Flutter Team Samples",
             "url": "https://github.com/flutter/samples",
-            "description": "[17079\u2b50] - Collection of examples (including maps, json, Material and Cupertino) by the Flutter team",
+            "description": "[18613\u2b50] - Collection of examples (including maps, json, Material and Cupertino) by the Flutter team .",
             "tags": []
           },
           {
             "name": "Flutter Common Widgets",
             "url": "https://github.com/alibaba/flutter-common-widgets-app",
-            "description": "[23626\u2b50] - Collection of official widgets demos & docs in chinese to help developers learn quickly by Alibaba Auction Frontend Team",
+            "description": "[23710\u2b50] - Collection of official widgets demos & docs in chinese to help developers learn quickly by Alibaba Auction Frontend Team .",
+            "tags": []
+          },
+          {
+            "name": "Meme Chat",
+            "url": "https://github.com/efortuna/memechat",
+            "description": "[543\u2b50] - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.",
+            "tags": []
+          },
+          {
+            "name": "BloomeeTunes",
+            "url": "https://github.com/HemantKArya/BloomeeTunes",
+            "description": "[1304\u2b50] - Multi-Source Music Streaming Application by HemantKArya .",
+            "tags": []
+          },
+          {
+            "name": "Lime",
+            "url": "https://github.com/fablue/lime-flutter",
+            "description": "[373\u2b50] - Lime social network by Sebastian Sellmair.",
+            "tags": []
+          },
+          {
+            "name": "Planets",
+            "url": "https://github.com/sergiandreplace/flutter_planets_tutorial",
+            "description": "[756\u2b50] - Planet exploration that demonstrate rich UI by Sergi Mart\u00ednez .",
+            "tags": []
+          },
+          {
+            "name": "NewsBuzz",
+            "url": "https://github.com/theankurkedia/NewsBuzz",
+            "description": "[599\u2b50] - Firebase backed news reader using News API by Ankur Kedia .",
+            "tags": []
+          },
+          {
+            "name": "DroidKaigi2018-flutter",
+            "url": "https://github.com/konifar/droidkaigi2018-flutter",
+            "description": "[508\u2b50] - Unofficial conference app for DroidKaigi 2018 Tokyo by konifar .",
             "tags": []
           },
           {
             "name": "Music Player",
             "url": "https://github.com/iampawan/Flutter-Music-Player",
-            "description": "[1708\u2b50] - Full featured music player by Pawan Kumar",
+            "description": "[1761\u2b50] - Full featured music player by Pawan Kumar .",
             "tags": []
           },
           {
             "name": "WhatTodo",
             "url": "https://github.com/burhanrashid52/WhatTodo",
-            "description": "[1175\u2b50] - Todoist like UI by Burhanuddin Rashid",
+            "description": "[1250\u2b50] - Todoist like UI by Burhanuddin Rashid .",
             "tags": []
           },
           {
             "name": "FlutterGram",
             "url": "https://github.com/mdanics/fluttergram",
-            "description": "[2314\u2b50] - Complete Instagram based on Firestore & Google Functions by MDanics",
+            "description": "[2393\u2b50] - Complete Instagram based on Firestore & Google Functions by MDanics .",
+            "tags": []
+          },
+          {
+            "name": "BookSearch",
+            "url": "https://github.com/Norbert515/BookSearch",
+            "description": "[548\u2b50] - Digital BookShelf for your reading progress by Norbert515 .",
+            "tags": []
+          },
+          {
+            "name": "Cinematic",
+            "url": "https://github.com/aaronoe/FlutterCinematic",
+            "description": "[900\u2b50] - UI for Movie DB Public API by Aaron Oertel .",
+            "tags": []
+          },
+          {
+            "name": "Beer-Me-Up",
+            "url": "https://github.com/benoitletondor/Beer-Me-Up",
+            "description": "[494\u2b50] - Beer tracking nicely designed by Benoit Letondor .",
             "tags": []
           },
           {
             "name": "Trace",
             "url": "https://github.com/trentpiercy/trace",
-            "description": "[1108\u2b50] - Modern and powerful crypto portfolio & market explorer by Trent Piercy",
+            "description": "[1137\u2b50] - Modern and powerful crypto portfolio & market explorer by Trent Piercy .",
             "tags": []
           },
           {
             "name": "Taskist",
             "url": "https://github.com/huextrat/Taskist",
-            "description": "[998\u2b50] - Taskist is a ToDo List app for Task Management by Hugo EXTRAT",
+            "description": "[1051\u2b50] - Taskist is a ToDo List app for Task Management by Hugo EXTRAT .",
+            "tags": []
+          },
+          {
+            "name": "Tourism",
+            "url": "https://github.com/bluemix/tourism-demo",
+            "description": "[305\u2b50] - Tourism app based on redux w/ animations & i18n by blueMix .",
             "tags": []
           },
           {
             "name": "Linwood Butterfly",
             "url": "https://github.com/LinwoodCloud/Butterfly",
-            "description": "[972\u2b50] - Powerful note taking app and an alternative to OneNote by CodeDoctorDE",
+            "description": "[1463\u2b50] - Powerful note taking app and an alternative to OneNote by CodeDoctorDE .",
             "tags": []
           },
           {
             "name": "Trinity Orientation @ Univ Toronto",
             "url": "https://github.com/matthewtory/trinity-orientation-2018",
-            "description": "[617\u2b50] - Orientation week at Trinity College, U of T by Matthew Tory",
+            "description": "[618\u2b50] - Orientation week at Trinity College, U of T by Matthew Tory .",
             "tags": []
           },
           {
             "name": "Transform Widget",
             "url": "https://github.com/DrPaulT/flutter-engine-test",
-            "description": "Image widgets as 3D game engine sprites by Paul Thomas",
+            "description": "Image widgets as 3D game engine sprites by Paul Thomas .",
+            "tags": []
+          },
+          {
+            "name": "Deer",
+            "url": "https://github.com/aleksanderwozniak/deer",
+            "description": "[459\u2b50] - Minimalist Todo Planner built using BLoC pattern by Aleksander Wo\u017aniak .",
             "tags": []
           },
           {
             "name": "TailorMade",
             "url": "https://github.com/jogboms/tailor_made",
-            "description": "[327\u2b50] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by Jeremiah Ogbomo",
+            "description": "[334\u2b50] - Managing a Fashion designer's daily routine using a mixture of ReBLoC w/ Firebase Cloud Store & Functions by Jeremiah Ogbomo .",
+            "tags": []
+          },
+          {
+            "name": "Instory",
+            "url": "https://github.com/InvertedX/instory",
+            "description": "[206\u2b50] - Instgram story downloader with a beautiful UI Sarath .",
             "tags": []
           },
           {
             "name": "Spacex-Go",
             "url": "https://github.com/jesusrp98/spacex-go",
-            "description": "[869\u2b50] - Simple yet powerful, open-source SpaceX launch tracker. jesusrp98 .",
+            "description": "[913\u2b50] - Simple yet powerful, open-source SpaceX launch tracker. jesusrp98 .",
+            "tags": []
+          },
+          {
+            "name": "Superhero Interaction",
+            "url": "https://github.com/pinkeshdarji/SuperHeroInteraction",
+            "description": "[220\u2b50] - Cool Superhero interaction animation by Pinkesh Darji .",
+            "tags": []
+          },
+          {
+            "name": "Reply",
+            "url": "https://github.com/flschweiger/reply",
+            "description": "[558\u2b50] - 'Reply' Material Design case study by Frederik Schweiger .",
             "tags": []
           },
           {
             "name": "Enigma",
             "url": "https://github.com/AmitJoki/Enigma",
-            "description": "Privacy chat with end-to-end encryption by AmitJoki",
+            "description": "Privacy chat with end-to-end encryption by AmitJoki .",
             "tags": []
           },
           {
             "name": "Chillify",
             "url": "https://github.com/KarimElghamry/chillify",
-            "description": "Fancy music app made with Provider and Bloc pattern by Karim Elghamry",
+            "description": "Fancy music app made with Provider and Bloc pattern by Karim Elghamry .",
             "tags": []
           },
           {
             "name": "Pokedex",
             "url": "https://github.com/scitbiz/flutter_pokedex",
-            "description": "Pokedex app with beautiful UI and smooth animation by Hung Pham",
+            "description": "Pokedex app with beautiful UI and smooth animation by Hung Pham .",
             "tags": []
           },
           {
             "name": "Timy Messenger",
             "url": "https://github.com/janoodleFTW/timy-messenger",
-            "description": "[2081\u2b50] - Group messaging app with a focus on organizing events by Miguel Beltran and Franz Heinfling",
+            "description": "[2107\u2b50] - Group messaging app with a focus on organizing events by Miguel Beltran and Franz Heinfling .",
             "tags": []
           },
           {
             "name": "GitJournal",
             "url": "https://github.com/GitJournal/GitJournal",
-            "description": "[3454\u2b50] - Journaling your data in a Git Repo by Vishesh Handa",
+            "description": "[3893\u2b50] - Journaling your data in a Git Repo by Vishesh Handa .",
             "tags": []
           },
           {
             "name": "AuthPass",
             "url": "https://github.com/authpass/authpass",
-            "description": "[2251\u2b50] - Keepass compatible password manager for mobile and desktop by hpoul",
+            "description": "[2471\u2b50] - Keepass compatible password manager for mobile and desktop by hpoul .",
             "tags": []
           },
           {
             "name": "Fwitter",
             "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
-            "description": "[3858\u2b50] - Full Twitter clone using Firebase solution by Sonu Sharma",
+            "description": "[4157\u2b50] - Full Twitter clone using Firebase solution by Sonu Sharma .",
             "tags": []
           },
           {
             "name": "Harpy",
             "url": "https://github.com/robertodoering/harpy",
-            "description": "[2064\u2b50] - Feature rich Twitter client by Roberto Doering",
+            "description": "[2084\u2b50] - Feature rich Twitter client by Roberto Doering .",
             "tags": []
           },
           {
             "name": "Mooltik",
             "url": "https://github.com/ruskakimov/mooltik",
-            "description": "[203\u2b50] - Animation app for making cartoons by Rustem Kakimov",
+            "description": "[221\u2b50] - Animation app for making cartoons by Rustem Kakimov .",
             "tags": []
           },
           {
             "name": "Spotube",
             "url": "https://github.com/KRTirtho/spotube",
-            "description": "[28916\u2b50] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by KRTirtho",
+            "description": "[41650\u2b50] - A lightweight free Spotify crossplatform-client with no Spotify premium account requirement by KRTirtho .",
             "tags": []
           },
           {
             "name": "Let's Draw",
             "url": "https://github.com/JideGuru/flutter_drawing_board",
-            "description": "[278\u2b50] - A simple drawing app made by JideGuru",
+            "description": "[329\u2b50] - A simple drawing app made by JideGuru .",
             "tags": []
           },
           {
             "name": "Openreads",
             "url": "https://github.com/mateusz-bak/openreads-android",
-            "description": "[872\u2b50] - A simple privacy oriented mobile books tracker using Open Library API by mateusz-bak",
+            "description": "[1303\u2b50] - A simple privacy oriented mobile books tracker using Open Library API by mateusz-bak .",
             "tags": []
           }
         ]
@@ -55915,67 +56586,73 @@
           {
             "name": "Launcher Icons",
             "url": "https://github.com/franzsilva/flutter_launcher_icons",
-            "description": "Generate your launcher icons easily by Mark O'Sullivan and Franz Silva",
+            "description": "Generate your launcher icons easily by Mark O'Sullivan and Franz Silva .",
             "tags": []
           },
           {
             "name": "FlutterIcon",
             "url": "http://fluttericon.com/",
-            "description": "[420\u2b50] - Icon set generator by Mike Hoolehan",
+            "description": "[438\u2b50] - Icon set generator by Mike Hoolehan .",
             "tags": []
           },
           {
             "name": "FVM",
             "url": "https://github.com/leoafarias/fvm",
-            "description": "[4565\u2b50] - Flutter Version Management: A simple cli to manage Flutter SDK versions.",
+            "description": "[5191\u2b50] - Flutter Version Management: A simple cli to manage Flutter SDK versions.",
             "tags": []
           },
           {
             "name": "Environment Configuration",
             "url": "https://github.com/TatsuUkraine/dart_environment_config",
-            "description": "[92\u2b50] - CLI tool to generate .env configurations for application environments by TatsuUkraine",
+            "description": "[93\u2b50] - CLI tool to generate .env configurations for application environments by TatsuUkraine .",
             "tags": []
           },
           {
             "name": "Flutter Flavorizr",
             "url": "https://github.com/AngeloAvv/flutter_flavorizr",
-            "description": "[453\u2b50] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by Angelo Cassano",
+            "description": "[533\u2b50] - CLI utility to easily generate flavors for Android and iOS in less than 3 minutes by Angelo Cassano .",
             "tags": []
           },
           {
             "name": "Fontify",
             "url": "https://github.com/westracer/fontify",
-            "description": "[103\u2b50] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by Igor Kharakhordin",
+            "description": "[107\u2b50] - CLI tool to convert SVG icons to OTF font and generate Flutter-compatible class by Igor Kharakhordin .",
             "tags": []
           },
           {
             "name": "FlutterGen",
             "url": "https://github.com/FlutterGen/flutter_gen",
-            "description": "[1460\u2b50] - Assets code generator for your images, fonts, colors, etc \u2014 Get rid of String-based APIs.",
+            "description": "[1564\u2b50] - Assets code generator for your images, fonts, colors, etc \u2014 Get rid of String-based APIs.",
             "tags": []
           },
           {
             "name": "Very Good Cli",
             "url": "https://github.com/VeryGoodOpenSource/very_good_cli",
-            "description": "[2150\u2b50] - Very Good Command Line Interface for Dart created by Very Good Ventures",
+            "description": "[2304\u2b50] - Very Good Command Line Interface for Dart created by Very Good Ventures .",
             "tags": []
           },
           {
             "name": "Flutter Sidekick",
             "url": "https://github.com/leoafarias/sidekick",
-            "description": "[1529\u2b50] - Simple app to make Flutter development more delightful by Leo Farias",
+            "description": "[1673\u2b50] - Simple app to make Flutter development more delightful by Leo Farias .",
             "tags": []
           },
           {
             "name": "Dart Code Metrics",
             "url": "https://github.com/dart-code-checker/dart-code-metrics",
-            "description": "[859\u2b50] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by Dart Code Checker team .",
+            "description": "[863\u2b50] - Additional linter which reports code metrics, checks for anti-patterns and provides additional rules for the Dart analyzer by Dart Code Checker team .",
+            "tags": []
+          },
+          {
+            "name": "Appainter",
+            "url": "https://github.com/zeshuaro/appainter",
+            "description": "[721\u2b50] - A material theme editor and generator for Flutter by Joshua Tang .",
             "tags": []
           },
           {
             "name": "Melos",
             "url": "https://github.com/invertase/melos",
-            "description": "[1116\u2b50] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by Invertase",
+            "description": "[1382\u2b50] - Manage projects with multiple packages, automated versioning, changelogs & publishing via Conventional Commits by Invertase .",
             "tags": []
           }
         ]
@@ -55986,7 +56663,7 @@
           {
             "name": "Awesome Snippets",
             "url": "https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets",
-            "description": "Collection of commonly used classes and methods by Nash",
+            "description": "Collection of commonly used classes and methods by Nash .",
             "tags": []
           },
           {
@@ -55998,7 +56675,7 @@
           {
             "name": "Flutter Intl",
             "url": "https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl",
-            "description": "i18n binding from arb files by Localizely",
+            "description": "i18n binding from arb files by Localizely .",
             "tags": []
           }
         ]
@@ -56009,13 +56686,13 @@
           {
             "name": "Enhancement_Suite",
             "url": "https://github.com/marius-h/flutter_enhancement_suite",
-            "description": "[286\u2b50] - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by Marius H\u00f6fler",
+            "description": "[289\u2b50] - Search for pub.dev libraries, update version, Bloc, Snippet, etc you're covered by Marius H\u00f6fler .",
             "tags": []
           },
           {
             "name": "Flutter Intl",
             "url": "https://plugins.jetbrains.com/plugin/13666-flutter-intl",
-            "description": "18n binding from arb files by Localizely",
+            "description": "18n binding from arb files by Localizely .",
             "tags": []
           }
         ]
@@ -56026,61 +56703,61 @@
           {
             "name": "Desktop Embedding",
             "url": "https://github.com/google/flutter-desktop-embedding",
-            "description": "[7102\u2b50] - Desktop implementations of the Flutter embedding API by Google",
+            "description": "[7090\u2b50] - Desktop implementations of the Flutter embedding API by Google.",
             "tags": []
           },
           {
             "name": "Golang Desktop Embedder",
             "url": "https://github.com/go-flutter-desktop/go-flutter",
-            "description": "[5856\u2b50] - Golang embedder for desktop by Pierre Champion",
+            "description": "[5929\u2b50] - Golang embedder for desktop by Pierre Champion .",
             "tags": []
           },
           {
             "name": "Native Shell",
             "url": "https://github.com/nativeshell/nativeshell",
-            "description": "[628\u2b50] - Experimental embedder for Flutter by Matej Knopp",
+            "description": "[658\u2b50] - Experimental embedder for Flutter by Matej Knopp .",
             "tags": []
           },
           {
             "name": "Rust Desktop Embedder",
             "url": "https://github.com/gliheng/flutter-rs",
-            "description": "[2101\u2b50] - Rust embedder for desktop by juju .",
+            "description": "[2116\u2b50] - Rust embedder for desktop by juju .",
             "tags": []
           },
           {
             "name": "bitsdojo_window",
             "url": "https://github.com/bitsdojo/bitsdojo_window",
-            "description": "Customize windows owner-drawn chrome by BitsDojo",
+            "description": "Customize windows owner-drawn chrome by BitsDojo .",
             "tags": []
           },
           {
             "name": "Raspberry Pi Embedder",
             "url": "https://github.com/ardera/flutter-pi",
-            "description": "[1587\u2b50] - Light-weight Embedder for Raspberry Pi by Hannes Winkler",
+            "description": "[1848\u2b50] - Light-weight Embedder for Raspberry Pi by Hannes Winkler .",
             "tags": []
           },
           {
             "name": "Fluent UI",
             "url": "https://github.com/bdlukaa/fluent_ui",
-            "description": "[2890\u2b50] - Microsoft's Fluent Design System in Flutter by Bruno D'Luka",
+            "description": "[3305\u2b50] - Microsoft's Fluent Design System in Flutter by Bruno D'Luka .",
             "tags": []
           },
           {
             "name": "MacOS UI",
             "url": "https://github.com/GroovinChip/macos_ui",
-            "description": "[1820\u2b50] - Widgets and themes implementing the current macOS design language by Groovin Chip",
+            "description": "[2076\u2b50] - Widgets and themes implementing the current macOS design language by Groovin Chip .",
             "tags": []
           },
           {
             "name": "Ubuntu Yaru",
             "url": "https://github.com/ubuntu/yaru.dart",
-            "description": "[195\u2b50] - Distinct look and feel of the Ubuntu Desktop by Ubuntu",
+            "description": "[347\u2b50] - Distinct look and feel of the Ubuntu Desktop by Ubuntu .",
             "tags": []
           },
           {
             "name": "Awesome Flutter Desktop",
             "url": "https://github.com/leanflutter/awesome-flutter-desktop",
-            "description": "[1537\u2b50] - A curated list of awesome things related to Flutter desktop by LeanFlutter",
+            "description": "[1658\u2b50] - A curated list of awesome things related to Flutter desktop by LeanFlutter .",
             "tags": []
           }
         ]
@@ -56135,13 +56812,13 @@
           {
             "name": "It's All Widgets!",
             "url": "https://itsallwidgets.com",
-            "description": "Open list of published apps by Hillel Coren , Thomas Burkhart , Simon Lightfoot and Scott Stoll",
+            "description": "Open list of published apps by Hillel Coren , Thomas Burkhart , Simon Lightfoot and Scott Stoll .",
             "tags": []
           },
           {
             "name": "Awesome Flutter Linux",
             "url": "https://github.com/jpnurmi/awesome-flutter-linux",
-            "description": "A curated list of awesome Linux-specific Flutter packages and projects by J-P Nurmi",
+            "description": "A curated list of awesome Linux-specific Flutter packages and projects by J-P Nurmi .",
             "tags": []
           }
         ]
@@ -56152,7 +56829,7 @@
           {
             "name": "The One",
             "url": "https://www.youtube.com/watch?v=sIIgtClYq0s",
-            "description": "[459\ud83d\udc4d]",
+            "description": "[461\ud83d\udc4d]",
             "tags": []
           }
         ]
@@ -56163,7 +56840,7 @@
           {
             "name": "Matrix2",
             "url": "https://github.com/bus710/matrix2",
-            "description": "Sense Hat's LED matrix control game by bus710",
+            "description": "Sense Hat's LED matrix control game by bus710 .",
             "tags": []
           }
         ]
@@ -56174,13 +56851,13 @@
           {
             "name": "Interview Questions",
             "url": "https://github.com/whatsupcoders/Flutter-Interview-Questions",
-            "description": "List of helpful questions you can use to interview potential candidates by Whatsupcoders",
+            "description": "List of helpful questions you can use to interview potential candidates by Whatsupcoders .",
             "tags": []
           },
           {
             "name": "The International Flutter Starter Kit",
             "url": "https://medium.com/flutter-community/intl-flutter-starter-kit-18415e739fb6",
-            "description": "Guide by the experts by Beyza Sunay Guler & Nawal Alhamwi",
+            "description": "Guide by the experts by Beyza Sunay Guler & Nawal Alhamwi .",
             "tags": []
           },
           {
@@ -56197,7 +56874,7 @@
           {
             "name": "Logo",
             "url": "https://drive.google.com/drive/folders/1GDGdQ0ghrxTNTx6aZLT41eV5sPZvV7bU",
-            "description": "Logo for stickers impressions",
+            "description": "Logo for stickers impressions.",
             "tags": []
           }
         ]
@@ -56208,31 +56885,31 @@
           {
             "name": "Gitter",
             "url": "https://gitter.im/flutter/flutter",
-            "description": "Exchange channel",
+            "description": "Exchange channel.",
             "tags": []
           },
           {
             "name": "r/FlutterDev",
             "url": "https://www.reddit.com/r/FlutterDev/",
-            "description": "Reddit community by u/JaapVermeulen",
+            "description": "Reddit community by u/JaapVermeulen .",
             "tags": []
           },
           {
             "name": "Discord",
             "url": "https://discord.gg/N7Yshp4",
-            "description": "Discord server to discuss and get help by Pritykin",
+            "description": "Discord server to discuss and get help by Pritykin .",
             "tags": []
           },
           {
             "name": "Flutter Community",
             "url": "https://github.com/fluttercommunity",
-            "description": "Central place for community made packages",
+            "description": "Central place for community made packages.",
             "tags": []
           },
           {
             "name": "OpenFlutter",
             "url": "https://github.com/OpenFlutter",
-            "description": "Make it easier \u8ba9 Flutter \u66f4\u7b80\u5355",
+            "description": "Make it easier \u8ba9 Flutter \u66f4\u7b80\u5355.",
             "tags": []
           },
           {
@@ -56244,13 +56921,13 @@
           {
             "name": "Flutter Events",
             "url": "https://flutterevents.com",
-            "description": "An open list of Flutter events by @hillelcoren",
+            "description": "An open list of Flutter events by @hillelcoren .",
             "tags": []
           },
           {
             "name": "FlutterX",
             "url": "https://flutterx.com",
-            "description": "Searchable list of resources by Hillel Coren",
+            "description": "Searchable list of resources by Hillel Coren .",
             "tags": []
           }
         ]
@@ -56411,6 +57088,29 @@
             "name": "Denmark",
             "url": "https://www.meetup.com/Flutter-Developers-Denmark/",
             "description": "Meetup",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "\ud83c\uddea\ud83c\uddec Egypt",
+        "resources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/groups/FlutterEgypt/",
+            "description": "",
+            "tags": []
+          },
+          {
+            "name": "Egypt",
+            "url": "https://www.meetup.com/flutter-nyc/",
+            "description": "Meetup",
+            "tags": []
+          },
+          {
+            "name": "X.com",
+            "url": "https://x.com/flutteregypt",
+            "description": "",
             "tags": []
           }
         ]
@@ -56804,7 +57504,7 @@
           {
             "name": "Telegram - Oh, my Flutter",
             "url": "https://t.me/ohmyflutter",
-            "description": "",
+            "description": ".",
             "tags": []
           },
           {
