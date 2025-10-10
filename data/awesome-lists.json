@@ -41809,6 +41809,12 @@
             "tags": []
           },
           {
+            "name": "JSpecify Package-Info Generator",
+            "url": "https://github.com/bcaillard/jspecify-packageinfo-generator",
+            "description": "Maven plugin that automatically generates package-info.java files with JSpecify annotations (@NullMarked and @NullUnmarked), helping you manage nullness boundaries in your Java projects without manual boilerplate.",
+            "tags": []
+          },
+          {
             "name": "Lombok",
             "url": "https://projectlombok.org",
             "description": "Code generator that aims to reduce verbosity.",
@@ -43188,6 +43194,12 @@
         "name": "Imagery",
         "resources": [
           {
+            "name": "Barcode-Lib4J",
+            "url": "https://github.com/vws-java/Barcode-Lib4J",
+            "description": "Generates QR Code, DataMatrix, and other 1D/2D barcodes as vector (PDF, EPS, SVG) and raster (PNG, BMP, JPG) images with DPI awareness, high precision, and CMYK color model support.",
+            "tags": []
+          },
+          {
             "name": "Imgscalr",
             "url": "https://github.com/rkalla/imgscalr",
             "description": "Simple, efficient and hardware-accelerated image-scaling library implemented in pure Java 2D.",
@@ -44094,6 +44106,12 @@
             "name": "yGuard",
             "url": "https://github.com/yWorks/yGuard",
             "description": "Obfuscation via renaming and shrinking.",
+            "tags": []
+          },
+          {
+            "name": "JBang",
+            "url": "https://github.com/maxandersen/jbang/",
+            "description": "JBang makes it easy to use Java for scripting. It lets you use a single file for\n  code and dependency management and allows you to run it directly.",
             "tags": []
           }
         ]
@@ -45304,6 +45322,12 @@
             "tags": []
           },
           {
+            "name": "Ayza",
+            "url": "https://github.com/Hakky54/ayza",
+            "description": "High-level SSL configuration builder for configuring HTTP clients and servers with SSL/TLS.",
+            "tags": []
+          },
+          {
             "name": "Bouncy Castle",
             "url": "https://www.bouncycastle.org/java.html",
             "description": "All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.",
@@ -45409,12 +45433,6 @@
             "name": "SecurityBuilder",
             "url": "https://github.com/tersesystems/securitybuilder",
             "description": "Fluent Builder API for JCA and JSSE classes and especially X.509 certificates.",
-            "tags": []
-          },
-          {
-            "name": "SSLContext-Kickstart",
-            "url": "https://github.com/Hakky54/sslcontext-kickstart",
-            "description": "High-level SSL context builder for configuring HTTP clients with SSL/TLS.",
             "tags": []
           },
           {
@@ -45846,6 +45864,12 @@
             "tags": []
           },
           {
+            "name": "junit-pioneer",
+            "url": "https://junit-pioneer.org/",
+            "description": "JUnit 5 extension pack, pushing the frontiers on Jupiter.",
+            "tags": []
+          },
+          {
             "name": "LogCaptor",
             "url": "https://github.com/Hakky54/log-captor",
             "description": "Captures log entries for unit testing purposes.",
@@ -46217,6 +46241,12 @@
             "name": "Vaadin",
             "url": "https://vaadin.com",
             "description": "Full-stack open-source Java framework that simplifies web app development. Build complex, interactive applications with Java alone, and enhance with TypeScript and React components, without needing deep JavaScript, CSS, or HTML expertise.",
+            "tags": []
+          },
+          {
+            "name": "WebForms Core",
+            "url": "https://github.com/webforms-core",
+            "description": "A technology for managing HTML tags from the server.",
             "tags": []
           }
         ]
