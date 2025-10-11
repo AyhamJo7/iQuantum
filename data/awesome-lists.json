@@ -59508,6 +59508,12 @@
             "tags": []
           },
           {
+            "name": "Hive-Pal",
+            "url": "https://hivepal.app",
+            "description": "Mobile-first beekeeping management app for tracking hives, inspections, queen records, and equipment with streamlined data entry optimized for field use. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "juntagrico",
             "url": "https://juntagrico.org/",
             "description": "Management platform for community gardens and vegetable cooperatives. ( Source Code ) LGPL-3.0 Python",
@@ -61095,6 +61101,12 @@
             "name": "EasyWI",
             "url": "https://easy-wi.com",
             "description": "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ( Source Code ) GPL-3.0 PHP/Shell",
+            "tags": []
+          },
+          {
+            "name": "Gameyfin",
+            "url": "https://gameyfin.org",
+            "description": "Video game library manager with automatic scanning, web access, downloads, and plugin support. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -63739,6 +63751,12 @@
             "name": "Bar Assistant",
             "url": "https://barassistant.app/",
             "description": "Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. ( Demo , Source Code ) MIT PHP/Docker",
+            "tags": []
+          },
+          {
+            "name": "CookCLI",
+            "url": "https://cooklang.org",
+            "description": "Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. ( Source Code ) MIT Rust",
             "tags": []
           },
           {
@@ -73941,7 +73959,7 @@
           },
           {
             "name": "Witsy",
-            "url": "https://jan.ai/",
+            "url": "https://github.com/nbonamy/witsy",
             "description": "desktop AI assistant / universal MCP client.",
             "tags": []
           }
