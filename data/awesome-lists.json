@@ -75129,6 +75129,12 @@
             "tags": []
           },
           {
+            "name": "Nani",
+            "url": "https://nani.now",
+            "description": "Fast AI translation with explanations.",
+            "tags": []
+          },
+          {
             "name": "OpenAI Translator",
             "url": "https://github.com/yetone/openai-translator",
             "description": "Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
