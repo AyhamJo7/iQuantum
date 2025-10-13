@@ -11603,6 +11603,12 @@
             "tags": []
           },
           {
+            "name": "lancet",
+            "url": "https://github.com/duke-git/lancet",
+            "description": "A comprehensive, Lodash-like utility library for Go",
+            "tags": []
+          },
+          {
             "name": "petrovich",
             "url": "https://github.com/striker2000/petrovich",
             "description": "Petrovich is the library which inflects Russian names to given grammatical case.",
@@ -12852,12 +12858,6 @@
             "name": "koazee",
             "url": "https://github.com/wesovilabs/koazee",
             "description": "Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.",
-            "tags": []
-          },
-          {
-            "name": "lancet",
-            "url": "https://github.com/duke-git/lancet",
-            "description": "A comprehensive, efficient, and reusable util function library of go.",
             "tags": []
           },
           {
