@@ -13227,6 +13227,12 @@
             "tags": []
           },
           {
+            "name": "sqlz",
+            "url": "https://github.com/rfberaldo/sqlz",
+            "description": "Extension for the database/sql package, adding named queries, struct scanning, and batch operations.",
+            "tags": []
+          },
+          {
             "name": "sshman",
             "url": "https://github.com/shoobyban/sshman",
             "description": "SSH Manager for authorized_keys files on multiple remote servers.",
@@ -15150,6 +15156,12 @@
             "name": "jcli",
             "url": "https://github.com/jenkins-zh/jenkins-cli",
             "description": "Jenkins CLI allows you manage your Jenkins as an easy way.",
+            "tags": []
+          },
+          {
+            "name": "k0s",
+            "url": "https://github.com/k0sproject/k0s",
+            "description": "Zero Friction Kubernetes distribution.",
             "tags": []
           },
           {
