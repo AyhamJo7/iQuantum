@@ -15327,6 +15327,12 @@
             "tags": []
           },
           {
+            "name": "podman-tui",
+            "url": "https://github.com/containers/podman-tui",
+            "description": "Terminal UI for Podman management.",
+            "tags": []
+          },
+          {
             "name": "Pomerium",
             "url": "https://github.com/pomerium/pomerium",
             "description": "Pomerium is an identity-aware access proxy.",
@@ -25411,6 +25417,12 @@
             "tags": []
           },
           {
+            "name": "Typst",
+            "url": "https://github.com/typst/typst",
+            "description": "A markup-based typesetting system",
+            "tags": []
+          },
+          {
             "name": "UpVPN",
             "url": "https://github.com/upvpn/upvpn-app",
             "description": "WireGuard VPN client for macOS, Linux, and Windows built on Tauri.",
@@ -27908,8 +27920,8 @@
             "tags": []
           },
           {
-            "name": "Revolt/backend",
-            "url": "https://github.com/revoltchat/backend",
+            "name": "Stoatchat",
+            "url": "https://github.com/stoatchat/stoatchat",
             "description": "User-first chat platform built with modern web technologies.",
             "tags": []
           }
@@ -28544,6 +28556,12 @@
             "tags": []
           },
           {
+            "name": "Vaishnav-Sabari-Girish/ComChan",
+            "url": "https://github.com/Vaishnav-Sabari-Girish/ComChan",
+            "description": "A minimal serial monitor with plotter TUI.",
+            "tags": []
+          },
+          {
             "name": "esp-rs",
             "url": "https://github.com/esp-rs",
             "description": "home to a number of community projects enabling the use of the Rust programming language on various SoCs and modules produced by Espressif Systems.",
@@ -28927,6 +28945,12 @@
             "name": "g3bench",
             "url": "https://github.com/bytedance/g3",
             "description": "A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless",
+            "tags": []
+          },
+          {
+            "name": "pawurb/hotpath",
+            "url": "https://github.com/pawurb/hotpath",
+            "description": "A simple profiler that shows exactly where your code spends time and allocates",
             "tags": []
           },
           {
@@ -30220,6 +30244,12 @@
             "tags": []
           },
           {
+            "name": "NikitaSmithTheOne/rate-limiters-rs",
+            "url": "https://github.com/NikitaSmithTheOne/rate-limiters-rs",
+            "description": "[ rate-limiters ] - Rust library for rate limiting (Leaky Bucket, Token Bucket, Fixed/Sliding Window)",
+            "tags": []
+          },
+          {
             "name": "orium/archery",
             "url": "https://github.com/orium/archery",
             "description": "[ archery ] - Library to abstract from Rc / Arc pointer types.",
@@ -30422,6 +30452,12 @@
             "tags": []
           },
           {
+            "name": "rust-openssl",
+            "url": "https://github.com/rust-openssl/rust-openssl",
+            "description": "OpenSSL bindings",
+            "tags": []
+          },
+          {
             "name": "RustCrypto/hashes",
             "url": "https://github.com/RustCrypto/hashes",
             "description": "Collection of cryptographic hash functions",
@@ -30437,12 +30473,6 @@
             "name": "sfackler/rust-native-tls",
             "url": "https://github.com/sfackler/rust-native-tls",
             "description": "Bindings for native TLS libraries",
-            "tags": []
-          },
-          {
-            "name": "sfackler/rust-openssl",
-            "url": "https://github.com/sfackler/rust-openssl",
-            "description": "OpenSSL bindings",
             "tags": []
           },
           {
@@ -30555,12 +30585,6 @@
             "name": "infinyon/fluvio",
             "url": "https://github.com/infinyon/fluvio",
             "description": "Programmable data streaming platform",
-            "tags": []
-          },
-          {
-            "name": "swim-rust",
-            "url": "https://github.com/graphform/swim-rust",
-            "description": "[ swim-rust ] - Self-contained distributed software platform for building stateful, massively real-time streaming applications.",
             "tags": []
           }
         ]
@@ -32362,6 +32386,12 @@
             "name": "s-panferov/queryst",
             "url": "https://github.com/s-panferov/queryst",
             "description": "A query string parsing library inspired by gs",
+            "tags": []
+          },
+          {
+            "name": "slimreaper35/dockerfile-parser-rs",
+            "url": "https://github.com/slimreaper35/dockerfile-parser-rs",
+            "description": "[ dockerfile-parser-rs ] - Dockerfile parsing library and CLI tool",
             "tags": []
           },
           {
@@ -65633,12 +65663,6 @@
             "url": "https://theme-park.dev/",
             "description": "A collection of themes/skins for 50 selfhosted apps! ( Source Code ) MIT CSS",
             "tags": []
-          },
-          {
-            "name": "Track Awesome Selfhosted",
-            "url": "https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/",
-            "description": "Get the latest updates of awesome-selfhosted.",
-            "tags": []
           }
         ]
       }
@@ -74508,6 +74532,12 @@
             "name": "LosslessCut",
             "url": "https://github.com/mifi/lossless-cut",
             "description": "Cross platform tool for quick and lossless video and audio trimming using ffmpeg.",
+            "tags": []
+          },
+          {
+            "name": "LyricGlow",
+            "url": "https://github.com/ateymoori/lyricglow",
+            "description": "Synchronized lyrics player with word-by-word glow effects for Spotify, Apple Music, and YouTube Music.",
             "tags": []
           },
           {
