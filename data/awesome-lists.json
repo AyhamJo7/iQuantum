@@ -71560,6 +71560,12 @@
             "tags": []
           },
           {
+            "name": "NotePlus",
+            "url": "https://noteplus.com/",
+            "description": "True Native Note and LLM Client",
+            "tags": []
+          },
+          {
             "name": "Noteship",
             "url": "https://noteship.com",
             "description": "Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally.",
@@ -71930,6 +71936,12 @@
             "name": "PDFsail",
             "url": "https://pdfsail.com/",
             "description": "PDFsail offers free online PDF tools for editing, converting, merging, compressing, and OCR. No download required. Try this AI-powered all-in-one PDF solution now!.",
+            "tags": []
+          },
+          {
+            "name": "Heynote",
+            "url": "https://heynote.com/",
+            "description": "A dedicated scratchpad for developers.",
             "tags": []
           }
         ]
