@@ -33440,6 +33440,12 @@
             "tags": []
           },
           {
+            "name": "\ud83e\udd80 Free Ferris Pack \ud83e\udd80",
+            "url": "https://github.com/MariaLetta/free-ferris-pack",
+            "description": "Pack of 50+ Free Ferris illustrations with different emotions, poses and situations in PNG and SVG licensed under CC0",
+            "tags": []
+          },
+          {
             "name": "c410-f3r/wtx-bench",
             "url": "https://github.com/c410-f3r/wtx-bench",
             "description": "Web benchmarks",
@@ -61485,6 +61491,12 @@
             "name": "FlowForge",
             "url": "https://flowforge.com/",
             "description": "Deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams. ( Source Code ) Apache-2.0 Nodejs/Docker/K8S",
+            "tags": []
+          },
+          {
+            "name": "FMD Server",
+            "url": "https://fmd-foss.org",
+            "description": "A server to communicate with the FMD (Find My Device) Android app, to locate and control your devices. ( Source Code , Clients ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
