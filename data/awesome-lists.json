@@ -101,6 +101,12 @@
             "tags": []
           },
           {
+            "name": "go-githubauth",
+            "url": "https://github.com/jferrl/go-githubauth",
+            "description": "Utilities for GitHub authentication: generate and use GitHub application and installation tokens.",
+            "tags": []
+          },
+          {
             "name": "go-iam",
             "url": "https://github.com/melvinodsa/go-iam",
             "description": "Developer-first Identity and Access Management system with a simple UI.",
@@ -8082,6 +8088,12 @@
             "name": "persian",
             "url": "https://github.com/mavihq/persian",
             "description": "Some utilities for Persian language in go.",
+            "tags": []
+          },
+          {
+            "name": "purego",
+            "url": "https://github.com/ebitengine/purego",
+            "description": "A library for calling C functions from Go without Cgo.",
             "tags": []
           },
           {
