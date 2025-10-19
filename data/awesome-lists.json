@@ -40225,6 +40225,12 @@
             "tags": []
           },
           {
+            "name": "azureappconfiguration",
+            "url": "https://github.com/Azure/AppConfiguration-GoProvider",
+            "description": "The configuration provider for consuming data in Azure App Configuration from Go applications.",
+            "tags": []
+          },
+          {
             "name": "bcl",
             "url": "https://github.com/wkhere/bcl",
             "description": "BCL is a configuration language similar to HCL.",
@@ -41098,6 +41104,12 @@
             "name": "hatchet",
             "url": "https://github.com/hatchet-dev/hatchet",
             "description": "Distributed, Fault-tolerant task queue.",
+            "tags": []
+          },
+          {
+            "name": "list",
+            "url": "https://github.com/koss-null/list",
+            "description": "A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.",
             "tags": []
           },
           {
@@ -43934,6 +43946,12 @@
             "tags": []
           },
           {
+            "name": "FuncFrog",
+            "url": "https://github.com/koss-null/FuncFrog",
+            "description": "Functional helpers library providing Map, Filter, Reduce and other stream operations on generic slices Go1.18+ with lazy evaluation and error handling mechanisms.",
+            "tags": []
+          },
+          {
             "name": "go-functional",
             "url": "https://github.com/BooleanCat/go-functional",
             "description": "Functional programming in Go using generics",
@@ -45274,6 +45292,12 @@
             "tags": []
           },
           {
+            "name": "go-scheduler",
+            "url": "https://github.com/pardnchiu/go-scheduler",
+            "description": "Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies.",
+            "tags": []
+          },
+          {
             "name": "gocron",
             "url": "https://github.com/go-co-op/gocron",
             "description": "Easy and fluent Go job scheduling. This is an actively maintained fork of jasonlvhit/gocron .",
@@ -46546,6 +46570,12 @@
         "name": "Microsoft Excel",
         "resources": [
           {
+            "name": "cellwalker",
+            "url": "https://github.com/chonla/cellwalker",
+            "description": "Virtually traverse Excel cell by cell's name.",
+            "tags": []
+          },
+          {
             "name": "excelize",
             "url": "https://github.com/xuri/excelize",
             "description": "Golang library for reading and writing Microsoft Excel\u2122 (XLSX) files.",
@@ -46727,6 +46757,12 @@
             "name": "ore",
             "url": "https://github.com/firasdarwish/ore",
             "description": "Lightweight, generic & simple dependency injection (DI) container.",
+            "tags": []
+          },
+          {
+            "name": "parsley",
+            "url": "https://github.com/matzefriedrich/parsley",
+            "description": "A flexible and modular reflection-based DI library with advanced features like scoped contexts and proxy generation, designed for large-scale Go applications.",
             "tags": []
           },
           {
@@ -52151,6 +52187,12 @@
             "tags": []
           },
           {
+            "name": "retro",
+            "url": "https://github.com/goioc/retro",
+            "description": "Handy retry-on-error library with extensive flexibility (backoff strategies, caps, etc).",
+            "tags": []
+          },
+          {
             "name": "retry",
             "url": "https://github.com/kamilsk/retry",
             "description": "The most advanced functional mechanism to perform actions repetitively until successful.",
@@ -52779,6 +52821,12 @@
             "name": "Ginrpc",
             "url": "https://github.com/xxjwxc/ginrpc",
             "description": "Gin parameter automatic binding tool,gin rpc tools.",
+            "tags": []
+          },
+          {
+            "name": "go-api-boot",
+            "url": "https://github.com/SaiNageswarS/go-api-boot",
+            "description": "A gRpc-first micro-service framework. Features include ODM support for Mongo, cloud resource support (AWS/Azure/Google), and a fluent dependency injection which is customized for gRpc. Additionally, grpc-web is supported directly, enabling browser access to all gRpc APIs without a proxy.",
             "tags": []
           },
           {
@@ -54428,6 +54476,12 @@
             "name": "sg",
             "url": "https://github.com/ChristopherRabotin/sg",
             "description": "Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.",
+            "tags": []
+          },
+          {
+            "name": "sigma",
+            "url": "https://github.com/go-sigma/sigma",
+            "description": "OCI-native container image registry, support OCI-native artifact, scan artifact, image build etc.",
             "tags": []
           },
           {
@@ -58988,6 +59042,12 @@
             "name": "Hazel Game Engine",
             "url": "https://github.com/TheCherno/Hazel",
             "description": "Hazel is primarily an early-stage interactive application and rendering engine for Windows. [Apache-2.0 license]",
+            "tags": []
+          },
+          {
+            "name": "IX-Ray Platform",
+            "url": "https://github.com/ixray-team/ixray-1.6-stcop",
+            "description": "Fork of X-Ray 1.6 engine that aims to improve gaming experience and simplify development of modifications. [Modified MIT/non-commercial only]",
             "tags": []
           },
           {
@@ -65198,6 +65258,12 @@
             "url": "https://github.com/Ahoo-Wang/CosId",
             "description": "Universal, flexible, high-performance distributed ID generator.",
             "tags": []
+          },
+          {
+            "name": "Apache ShardingSphere",
+            "url": "https://github.com/apache/shardingsphere",
+            "description": "Distributed SQL transaction & query engine that allows for data sharding, scaling, encryption, and more on any database.",
+            "tags": []
           }
         ]
       },
@@ -65226,6 +65292,17 @@
             "name": "Time4J",
             "url": "https://github.com/MenoData/Time4J",
             "description": "Advanced date and time library. (LGPL-2.1-only)",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Decentralization",
+        "resources": [
+          {
+            "name": "java-tron",
+            "url": "https://github.com/tronprotocol/java-tron",
+            "description": "Implementation of the Tron Protocol, whic utilizes blockchains to develop decentralized applications.",
             "tags": []
           }
         ]
@@ -67262,7 +67339,7 @@
             "tags": []
           },
           {
-            "name": "gRPC",
+            "name": "gRPC-java",
             "url": "https://github.com/grpc/grpc-java",
             "description": "RPC framework based on protobuf and HTTP/2.",
             "tags": []
@@ -68055,6 +68132,12 @@
             "url": "https://swagger.io",
             "description": "Standard, language-agnostic interface to REST APIs.",
             "tags": []
+          },
+          {
+            "name": "openapi-generator",
+            "url": "https://github.com/OpenAPITools/openapi-generator",
+            "description": "Allows generation of API client libraries, SDKs, server stubs, documentation and configuration automatically given an OpenAPI Spec.",
+            "tags": []
           }
         ]
       },
@@ -68683,6 +68766,12 @@
             "name": "weld-testing",
             "url": "https://github.com/weld/weld-testing",
             "description": "Set of test framework extensions (JUnit 4, JUnit 5, Spock) to enhance the testing of CDI components via Weld. Supports Weld 5.",
+            "tags": []
+          },
+          {
+            "name": "selenium",
+            "url": "https://github.com/SeleniumHQ/selenium",
+            "description": "Browser automation framework and ecosystem.",
             "tags": []
           },
           {
