@@ -27719,6 +27719,12 @@
         "name": "Services",
         "resources": [
           {
+            "name": "deepwiki-rs",
+            "url": "https://github.com/sopaco/deepwiki-rs",
+            "description": "Transform your codebase into professional architecture documentation.",
+            "tags": []
+          },
+          {
             "name": "deps.rs",
             "url": "https://github.com/deps-rs/deps.rs",
             "description": "Detect outdated or insecure dependencies",
