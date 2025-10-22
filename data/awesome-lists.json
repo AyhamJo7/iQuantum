@@ -101,6 +101,12 @@
             "tags": []
           },
           {
+            "name": "go-guardian",
+            "url": "https://github.com/shaj13/go-guardian",
+            "description": "Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.",
+            "tags": []
+          },
+          {
             "name": "go-githubauth",
             "url": "https://github.com/jferrl/go-githubauth",
             "description": "Utilities for GitHub authentication: generate and use GitHub application and installation tokens.",
@@ -116,6 +122,12 @@
             "name": "go-jose",
             "url": "https://github.com/go-jose/go-jose",
             "description": "Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.",
+            "tags": []
+          },
+          {
+            "name": "go-jwt",
+            "url": "https://github.com/pardnchiu/go-jwt",
+            "description": "JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic refresh capabilities.",
             "tags": []
           },
           {
@@ -1094,6 +1106,12 @@
             "name": "aconfig",
             "url": "https://github.com/cristalhq/aconfig",
             "description": "Simple, useful and opinionated config loader.",
+            "tags": []
+          },
+          {
+            "name": "argus",
+            "url": "https://github.com/agilira/argus",
+            "description": "File watching and configuration management with MPSC ring buffer, adaptive batching strategies, and universal format parsing (JSON, YAML, TOML, INI, HCL, Properties).",
             "tags": []
           },
           {
@@ -2948,6 +2966,12 @@
             "tags": []
           },
           {
+            "name": "obreron",
+            "url": "https://github.com/profe-ajedrez/obreron",
+            "description": "Fast and cheap SQL builder which does only one thing, SQL building.",
+            "tags": []
+          },
+          {
             "name": "ormlite",
             "url": "https://github.com/pupizoid/ormlite",
             "description": "Lightweight package containing some ORM-like features and helpers for sqlite databases.",
@@ -3851,6 +3875,12 @@
             "name": "opentelemetry-go-auto-instrumentation",
             "url": "https://github.com/alibaba/opentelemetry-go-auto-instrumentation",
             "description": "OpenTelemetry Compile-Time Instrumentation for Golang.",
+            "tags": []
+          },
+          {
+            "name": "oras",
+            "url": "https://github.com/oras-project/oras",
+            "description": "CLI and library for OCI Artifacts in container registries.",
             "tags": []
           },
           {
@@ -12258,6 +12288,12 @@
             "name": "boilr",
             "url": "https://github.com/tmrts/boilr",
             "description": "Blazingly fast CLI tool for creating projects from boilerplate templates.",
+            "tags": []
+          },
+          {
+            "name": "boring",
+            "url": "https://github.com/alebeck/boring",
+            "description": "Simple command-line SSH tunnel manager.",
             "tags": []
           },
           {
@@ -27899,6 +27935,12 @@
             "name": "Redlib",
             "url": "https://github.com/redlib-org/redlib",
             "description": "An alternative private front-end to Reddit, with its origins in Libreddit",
+            "tags": []
+          },
+          {
+            "name": "SinTan1729/Chhoto URL",
+            "url": "https://github.com/SinTan1729/chhoto-url",
+            "description": "A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.",
             "tags": []
           },
           {
@@ -74819,6 +74861,12 @@
             "name": "Musicer",
             "url": "https://apps.apple.com/app/musicer/6745227444",
             "description": "A lightweight local music player that supports multiple formats for enjoying music anytime.",
+            "tags": []
+          },
+          {
+            "name": "Fmusic",
+            "url": "https://github.com/wandercn/fmusic",
+            "description": "A fmusic is a open source music player on SwiftUI.",
             "tags": []
           }
         ]
