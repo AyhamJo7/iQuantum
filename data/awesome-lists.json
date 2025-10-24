@@ -30577,6 +30577,12 @@
             "tags": []
           },
           {
+            "name": "pathwaycom/pathway",
+            "url": "https://github.com/pathwaycom/pathway",
+            "description": "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.",
+            "tags": []
+          },
+          {
             "name": "pg_analytics",
             "url": "https://github.com/paradedb/paradedb/tree/dev/pg_analytics",
             "description": "PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.",
@@ -32117,6 +32123,12 @@
             "name": "tikv/grpc-rs",
             "url": "https://github.com/tikv/grpc-rs",
             "description": "The gRPC library built on C Core library and futures",
+            "tags": []
+          },
+          {
+            "name": "deboa",
+            "url": "https://crates.io/crates/deboa",
+            "description": "A friendly http client on top of hyper with several addoons, serialization formats and macros. [ ]",
             "tags": []
           },
           {
@@ -63155,6 +63167,12 @@
             "tags": []
           },
           {
+            "name": "Many Notes",
+            "url": "https://github.com/brufdev/many-notes",
+            "description": "Markdown note-taking web application designed for simplicity. MIT Docker",
+            "tags": []
+          },
+          {
             "name": "Memos",
             "url": "https://usememos.com/",
             "description": "Knowledge base that works with a SQLite db file. ( Demo , Source Code ) MIT Docker/Go",
@@ -75397,6 +75415,12 @@
             "name": "Mana Security",
             "url": "https://www.manasecurity.com/",
             "description": "vulnerability management app for individuals.",
+            "tags": []
+          },
+          {
+            "name": "Vulert",
+            "url": "https://vulert.com",
+            "description": "Vulert secures software by detecting vulnerabilities in open-source dependencies\u2014without accessing your code. It supports Js, PHP, Java, Python, and more",
             "tags": []
           },
           {
