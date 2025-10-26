@@ -26014,6 +26014,12 @@
             "tags": []
           },
           {
+            "name": "RustFS",
+            "url": "https://github.com/rustfs/rustfs",
+            "description": "[ RustFS ] - \ud83d\ude80 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+            "tags": []
+          },
+          {
             "name": "seppo0010/rsedis",
             "url": "https://github.com/seppo0010/rsedis",
             "description": "A Redis reimplementation.",
@@ -74116,6 +74122,12 @@
             "name": "Witsy",
             "url": "https://github.com/nbonamy/witsy",
             "description": "desktop AI assistant / universal MCP client.",
+            "tags": []
+          },
+          {
+            "name": "remio",
+            "url": "https://www.remio.ai/?utm_source=github_list",
+            "description": "A personal ChatGPT that \u200b\u200bresponds based on your knowledge\u200b\u200b. Lastest LLMs, Local first, and BYOK supported.",
             "tags": []
           }
         ]
