@@ -62707,6 +62707,12 @@
             "tags": []
           },
           {
+            "name": "IT-Tools by sharevb",
+            "url": "https://github.com/sharevb/it-tools",
+            "description": "Collection of handy online tools for developers (fork of it-tools . ( Demo ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Jelu",
             "url": "https://bayang.github.io/jelu-web",
             "description": "Read and to-read list book tracker. ( Source Code ) MIT Java/Docker",
@@ -64381,12 +64387,6 @@
             "name": "Opik",
             "url": "https://www.comet.com/site/products/opik/",
             "description": "\u26a0 - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ( Source Code ) Apache-2.0 Docker/Python",
-            "tags": []
-          },
-          {
-            "name": "Panora",
-            "url": "https://panora.dev",
-            "description": "\u26a0 - Add an integration catalog to your SaaS product in minutes (alternative to Merge.dev). ( Source Code ) AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -72046,6 +72046,12 @@
             "tags": []
           },
           {
+            "name": "TableTool",
+            "url": "https://tabletool.io/",
+            "description": "Effortless CSV Browser!",
+            "tags": []
+          },
+          {
             "name": "Heynote",
             "url": "https://heynote.com/",
             "description": "A dedicated scratchpad for developers.",
@@ -72389,6 +72395,12 @@
             "name": "Loca Studio",
             "url": "https://www.cunningo.com/locastudio/index.html",
             "description": "Analyze, review, and edit app translations.",
+            "tags": []
+          },
+          {
+            "name": "LINQPad",
+            "url": "https://www.linqpad.net/",
+            "description": "Scratchpad for .NET development with instant feedback, LINQ query support, and database connectivity.",
             "tags": []
           },
           {
@@ -72977,6 +72989,12 @@
             "name": "Parallels",
             "url": "http://www.parallels.com/",
             "description": "Powerful, easy-to-use VM. No free upgrade for each new Mac OS.",
+            "tags": []
+          },
+          {
+            "name": "Podman Desktop",
+            "url": "https://podman-desktop.io/",
+            "description": "Open-source graphical tool for managing containers and Kubernetes.",
             "tags": []
           },
           {
