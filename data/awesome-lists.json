@@ -30659,6 +30659,12 @@
             "tags": []
           },
           {
+            "name": "bilinearlabs/rs-merkle-tree",
+            "url": "https://github.com/bilinearlabs/rs-merkle-tree/",
+            "description": "Merkle tree implementation in Rust with configurable storage backends and hash functions. Fixed depth and incremental only. Optimized for fast proof generation.",
+            "tags": []
+          },
+          {
             "name": "billyevans/tst",
             "url": "https://github.com/billyevans/tst",
             "description": "[ tst ] - Ternary search tree collection",
@@ -59373,6 +59379,12 @@
             "tags": []
           },
           {
+            "name": "Iceshrimp.NET",
+            "url": "https://iceshrimp.net",
+            "description": "Federated microblogging server that communicates over ActivityPub. ( Source Code ) EUPL-1.2 .NET/C#/Docker",
+            "tags": []
+          },
+          {
             "name": "Isso",
             "url": "https://isso-comments.de/",
             "description": "Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ( Source Code ) MIT Python/Docker",
@@ -62494,12 +62506,6 @@
             "name": "2FAuth",
             "url": "https://github.com/Bubka/2FAuth",
             "description": "Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ( Demo ) AGPL-3.0 PHP/Docker",
-            "tags": []
-          },
-          {
-            "name": "AlertHub",
-            "url": "https://github.com/Ardakilic/alerthub",
-            "description": "\u26a0 - Get alerts from GitHub releases. MIT Nodejs/Docker",
             "tags": []
           },
           {
