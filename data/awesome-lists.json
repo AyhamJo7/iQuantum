@@ -15195,6 +15195,12 @@
             "tags": []
           },
           {
+            "name": "k9s",
+            "url": "https://github.com/derailed/k9s",
+            "description": "Kubernetes CLI to manage your clusters in style.",
+            "tags": []
+          },
+          {
             "name": "kala",
             "url": "https://github.com/ajvb/kala",
             "description": "Simplistic, modern, and performant job scheduler.",
@@ -36578,6 +36584,12 @@
             "name": "Kraken",
             "url": "https://github.com/uber/kraken",
             "description": "Uber's Highly scalable P2P docker registry, capable of distributing TBs of data in seconds.",
+            "tags": []
+          },
+          {
+            "name": "nscr",
+            "url": "https://github.com/jhstatewide/nscr",
+            "description": "A light-weight, self-contained container registry that's easy to run and maintain.",
             "tags": []
           },
           {
