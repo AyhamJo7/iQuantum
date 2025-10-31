@@ -60674,7 +60674,7 @@
           {
             "name": "Tiny Tiny RSS",
             "url": "https://tt-rss.org",
-            "description": "Open source web-based news feed (RSS/Atom) reader and aggregator. ( Demo , Source Code ) GPL-3.0 Docker/PHP",
+            "description": "Web-based news feed (RSS/Atom) reader and aggregator. ( Source Code ) GPL-3.0 Docker/PHP",
             "tags": []
           },
           {
@@ -62727,7 +62727,7 @@
           {
             "name": "IT-Tools by sharevb",
             "url": "https://github.com/sharevb/it-tools",
-            "description": "Collection of handy online tools for developers (fork of it-tools . ( Demo ) GPL-3.0 Docker",
+            "description": "Collection of handy online tools for developers (fork of it-tools ). ( Demo ) GPL-3.0 Docker",
             "tags": []
           },
           {
