@@ -1014,12 +1014,6 @@
             "tags": []
           },
           {
-            "name": "sand",
-            "url": "https://github.com/Zaba505/sand",
-            "description": "Simple API for creating interpreters and so much more.",
-            "tags": []
-          },
-          {
             "name": "sflags",
             "url": "https://github.com/octago/sflags",
             "description": "Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.",
@@ -1047,18 +1041,6 @@
             "name": "teris-io/cli",
             "url": "https://github.com/teris-io/cli",
             "description": "Simple and complete API for building command line interfaces in Go.",
-            "tags": []
-          },
-          {
-            "name": "ts",
-            "url": "https://github.com/liujianping/ts",
-            "description": "Timestamp convert & compare tool.",
-            "tags": []
-          },
-          {
-            "name": "ukautz/clif",
-            "url": "https://github.com/ukautz/clif",
-            "description": "Small command line interface framework.",
             "tags": []
           },
           {
@@ -1136,12 +1118,6 @@
             "name": "configuration",
             "url": "https://github.com/BoRuDar/configuration",
             "description": "Library for initializing configuration structs from env variables, files, flags and 'default' tag.",
-            "tags": []
-          },
-          {
-            "name": "configure",
-            "url": "https://github.com/paked/configure",
-            "description": "Provides configuration through multiple sources, including JSON, flags and environment variables.",
             "tags": []
           },
           {
@@ -1283,12 +1259,6 @@
             "tags": []
           },
           {
-            "name": "gofigure",
-            "url": "https://github.com/ian-kent/gofigure",
-            "description": "Go application configuration made easy.",
-            "tags": []
-          },
-          {
             "name": "GoLobby/Config",
             "url": "https://github.com/golobby/config",
             "description": "GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.",
@@ -1337,12 +1307,6 @@
             "tags": []
           },
           {
-            "name": "ingo",
-            "url": "https://github.com/schachmat/ingo",
-            "description": "Flags persisted in an ini-like config file.",
-            "tags": []
-          },
-          {
             "name": "ini",
             "url": "https://github.com/go-ini/ini",
             "description": "Go package to read and write INI files.",
@@ -1352,12 +1316,6 @@
             "name": "ini",
             "url": "https://github.com/wlevene/ini",
             "description": "INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.",
-            "tags": []
-          },
-          {
-            "name": "joshbetz/config",
-            "url": "https://github.com/joshbetz/config",
-            "description": "Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.",
             "tags": []
           },
           {
@@ -1391,12 +1349,6 @@
             "tags": []
           },
           {
-            "name": "mini",
-            "url": "https://github.com/sasbury/mini",
-            "description": "Golang package for parsing ini-style configuration files.",
-            "tags": []
-          },
-          {
             "name": "nasermirzaei89/env",
             "url": "https://github.com/nasermirzaei89/env",
             "description": "Simple useful package for read environment variables.",
@@ -1424,12 +1376,6 @@
             "name": "sonic",
             "url": "https://github.com/bytedance/sonic",
             "description": "A blazingly fast JSON serializing & deserializing library.",
-            "tags": []
-          },
-          {
-            "name": "store",
-            "url": "https://github.com/tucnak/store",
-            "description": "Lightweight configuration manager for Go.",
             "tags": []
           },
           {
