@@ -10095,12 +10095,6 @@
             "tags": []
           },
           {
-            "name": "gogoprotobuf",
-            "url": "https://github.com/gogo/protobuf",
-            "description": "Protocol Buffers for Go with Gadgets.",
-            "tags": []
-          },
-          {
             "name": "goprotobuf",
             "url": "https://github.com/golang/protobuf",
             "description": "Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.",
@@ -75651,6 +75645,12 @@
             "tags": []
           },
           {
+            "name": "MacsyZones",
+            "url": "https://macsyzones.com/",
+            "description": "Organize your windows with ease and boost your productivity.",
+            "tags": []
+          },
+          {
             "name": "Lasso",
             "url": "https://thelasso.app",
             "description": "Intuitive and easy to use grid-based window manager.",
@@ -75773,6 +75773,12 @@
             "name": "Enpass",
             "url": "https://www.enpass.io/",
             "description": "Cross-platform password management tool with cloud integration.",
+            "tags": []
+          },
+          {
+            "name": "Keyzer",
+            "url": "https://apps.apple.com/app/Keyzer/6500434773",
+            "description": "Simple password manager that supports saving portable password files.",
             "tags": []
           },
           {
@@ -75998,6 +76004,12 @@
             "name": "Apple Silicon App Test",
             "url": "https://doesitarm.com/apple-silicon-app-test/",
             "description": "Check Apple Silicon app compatibility.",
+            "tags": []
+          },
+          {
+            "name": "AirBattery",
+            "url": "https://lihaoyun6.github.io/airbattery/",
+            "description": "View all device batteries in the Dock, menu bar, or widgets.",
             "tags": []
           },
           {
