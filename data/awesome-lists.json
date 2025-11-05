@@ -22631,6 +22631,12 @@
             "url": "https://github.com/torch/torch7",
             "description": "A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] website",
             "tags": []
+          },
+          {
+            "name": "volesti",
+            "url": "https://github.com/GeomScale/volesti",
+            "description": "High dimensional sampling from truncated distributions, convex optimization and volume computation.",
+            "tags": []
           }
         ]
       },
@@ -27066,6 +27072,12 @@
             "name": "ddh",
             "url": "https://github.com/darakian/ddh",
             "description": "Fast duplicate file finder",
+            "tags": []
+          },
+          {
+            "name": "deshaw/procfd",
+            "url": "https://github.com/deshaw/procfd",
+            "description": "[ procfd ] - Linux lsof replacement to list open file descriptors for processes",
             "tags": []
           },
           {
@@ -74318,6 +74330,12 @@
             "name": "Algo",
             "url": "https://github.com/trailofbits/algo",
             "description": "Personal IPSEC VPN in the cloud.",
+            "tags": []
+          },
+          {
+            "name": "ClashX Guide",
+            "url": "https://clashx.tech",
+            "description": "Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips.",
             "tags": []
           },
           {
