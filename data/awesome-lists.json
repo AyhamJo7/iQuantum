@@ -56696,6 +56696,12 @@
         "name": "Analytics",
         "resources": [
           {
+            "name": "ANALOG",
+            "url": "https://github.com/orangecoloured/analog",
+            "description": "A minimal analytics tool. Tracks events in a span of 10-30 days. MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Aptabase",
             "url": "https://aptabase.com/",
             "description": "Privacy first and simple analytics for mobile and desktop apps. ( Source Code ) AGPL-3.0 Docker",
@@ -57122,6 +57128,12 @@
             "name": "Dotclear",
             "url": "https://git.dotclear.org/dev/dotclear",
             "description": "Take control over your blog. GPL-2.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Ech0",
+            "url": "https://echo.soopy.cn/",
+            "description": "Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese). ( Demo , Source Code ) AGPL-3.0 Docker/K8S",
             "tags": []
           },
           {
@@ -59916,6 +59928,12 @@
             "name": "ResourceSpace",
             "url": "https://www.resourcespace.com",
             "description": "Simple, fast, and free way to organise your digital assets. ( Demo , Source Code ) BSD-4-Clause PHP",
+            "tags": []
+          },
+          {
+            "name": "slcl",
+            "url": "https://gitea.privatedns.org/xavi/slcl",
+            "description": "Simple and lightweight web cloud storage. ( Source Code ) AGPL-3.0 C",
             "tags": []
           },
           {
@@ -62761,7 +62779,7 @@
           {
             "name": "Mealie",
             "url": "https://nightly.mealie.io/",
-            "description": "Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ( Source Code ) MIT Python",
+            "description": "Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ( Demo , Source Code ) MIT Python",
             "tags": []
           },
           {
