@@ -76006,6 +76006,12 @@
             "url": "https://sindresorhus.com/shareful",
             "description": "Supercharge the system share menu with copy, save, and open actions.",
             "tags": []
+          },
+          {
+            "name": "Mouse Jiggler for Mac",
+            "url": "https://mousejigglermac.com",
+            "description": "Prevent Mac from sleep with Mac Mouse Mover.",
+            "tags": []
           }
         ]
       },
