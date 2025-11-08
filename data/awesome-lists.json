@@ -65952,12 +65952,6 @@
             "tags": []
           },
           {
-            "name": "bolt",
-            "url": "https://github.com/puppetlabs/bolt",
-            "description": "(label: Beginner-Friendly) Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.",
-            "tags": []
-          },
-          {
             "name": "chatwoot",
             "url": "https://github.com/chatwoot/chatwoot",
             "description": "(label: good first issue) Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.",
@@ -71257,6 +71251,12 @@
             "name": "MJML",
             "url": "https://mjmlio.github.io/mjml-app/",
             "description": "Create responsive emails with a semantic syntax and rich components.",
+            "tags": []
+          },
+          {
+            "name": "NameQuick",
+            "url": "https://namequick.app",
+            "description": "AI-powered file renaming tool for macO",
             "tags": []
           },
           {
