@@ -25315,6 +25315,12 @@
             "tags": []
           },
           {
+            "name": "qiluo-admin",
+            "url": "https://github.com/chelunfu/qiluo_admin",
+            "description": "An enterprise-grade rapid development platform (Axum + SeaORM + JWT + VUE3, supports MySQL/Postgres/SQLite)",
+            "tags": []
+          },
+          {
             "name": "Rauthy",
             "url": "https://github.com/sebadob/rauthy",
             "description": "OpenID Connect Single Sign-On Identity & Access Management",
@@ -25831,6 +25837,12 @@
             "name": "DB3 Network",
             "url": "https://github.com/dbpunk-labs/db3",
             "description": "DB3 is a community-driven blockchain layer2 decentralized database network",
+            "tags": []
+          },
+          {
+            "name": "dsplce-co/supabase-plus",
+            "url": "https://github.com/dsplce-co/supabase-plus",
+            "description": "[ supabase-plus ] - A batteries-included command-line utility that extends the official Supabase CLI",
             "tags": []
           },
           {
@@ -26710,6 +26722,12 @@
             "name": "Bartib",
             "url": "https://github.com/nikolassv/bartib",
             "description": "[ Bartib ] - A simple timetracker for the command line",
+            "tags": []
+          },
+          {
+            "name": "CookCLI",
+            "url": "https://github.com/cooklang/CookCLI",
+            "description": "Command-line recipe manager with web server, shopping lists, and meal planning capabilities.",
             "tags": []
           },
           {
