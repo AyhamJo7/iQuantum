@@ -33225,6 +33225,12 @@
             "tags": []
           },
           {
+            "name": "tako",
+            "url": "https://github.com/rust-dd/tako",
+            "description": "Tako is an asynchronous web framework for Rust on Hyper & Tokio. GitHub Workflow Status",
+            "tags": []
+          },
+          {
             "name": "tiny-http",
             "url": "https://github.com/tiny-http/tiny-http",
             "description": "Low level HTTP server library",
