@@ -30326,6 +30326,12 @@
             "tags": []
           },
           {
+            "name": "leptonyu/cfg-rs",
+            "url": "https://github.com/leptonyu/cfg-rs",
+            "description": "[ cfg-rs ] - A Configuration Library for Rust Applications.",
+            "tags": []
+          },
+          {
             "name": "rust-cli/config-rs",
             "url": "https://github.com/rust-cli/config-rs",
             "description": "[ config ] - Layered configuration system (with strong support for 12-factor applications).",
