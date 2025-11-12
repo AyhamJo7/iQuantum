@@ -74039,6 +74039,12 @@
             "tags": []
           },
           {
+            "name": "ChatGPT Atlas",
+            "url": "https://chatgpt.com/atlas/",
+            "description": "ChatGPT Atlas, the browser with ChatGPT built in. Get instant answers, summaries, and smart web help\u2014right from any page.",
+            "tags": []
+          },
+          {
             "name": "Chrome",
             "url": "https://www.google.com/chrome/",
             "description": "Chrome, developed by Google",
