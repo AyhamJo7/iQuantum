@@ -64660,12 +64660,6 @@
             "url": "https://github.com/MvvmCross/MvvmCross",
             "description": "(label: first-timers-only) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",
             "tags": []
-          },
-          {
-            "name": "RawCMS",
-            "url": "https://github.com/arduosoft/RawCMS",
-            "description": "(label: good first issue) RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.",
-            "tags": []
           }
         ]
       },
@@ -64709,12 +64703,6 @@
             "name": "Cake",
             "url": "https://github.com/cake-build/cake",
             "description": "(label: Good-first-issue) Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.",
-            "tags": []
-          },
-          {
-            "name": "grok.net",
-            "url": "https://github.com/Marusyk/grok.net",
-            "description": "(label: good first issue) Cross platform .NET grok implementation",
             "tags": []
           },
           {
@@ -65344,12 +65332,6 @@
             "tags": []
           },
           {
-            "name": "Predator",
-            "url": "https://github.com/Zooz/predator",
-            "description": "(label: good first issue) A powerful open-source platform for load testing APIs.",
-            "tags": []
-          },
-          {
             "name": "ramda-adjunct",
             "url": "https://github.com/char0n/ramda-adjunct",
             "description": "(label: help-wanted) Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.",
@@ -65398,12 +65380,6 @@
             "tags": []
           },
           {
-            "name": "Reddit Enhancement Suite",
-            "url": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
-            "description": "(label: help-wanted) A browser extension to enhance the Reddit browsing experience.",
-            "tags": []
-          },
-          {
             "name": "serverless",
             "url": "https://github.com/serverless/serverless",
             "description": "(label: good first issue) The Serverless Framework",
@@ -65447,7 +65423,7 @@
           },
           {
             "name": "Time to Leave",
-            "url": "https://github.com/thamara/time-to-leave",
+            "url": "https://github.com/TTLApp/time-to-leave",
             "description": "(label: good first issue) Working hours time tracker app based on Electron and Javascript.",
             "tags": []
           },
@@ -71048,6 +71024,12 @@
             "name": "Nova",
             "url": "https://nova.app/",
             "description": "Beautiful, fast, flexible Mac code editor from Panic .",
+            "tags": []
+          },
+          {
+            "name": "Trae",
+            "url": "https://www.trae.ai/",
+            "description": "An IDE by ByteDance with advanced AI capabilities, including two modes: SOLO for fully AI-driven development and IDE for a more traditional editing experience.",
             "tags": []
           },
           {
