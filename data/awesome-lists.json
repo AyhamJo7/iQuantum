@@ -25339,6 +25339,12 @@
             "tags": []
           },
           {
+            "name": "run",
+            "url": "https://github.com/Esubaalew/run",
+            "description": "[ run-kit ] - Universal multi-language runner and smart REPL (25+ languages: Python, JS, Go, C, etc.).",
+            "tags": []
+          },
+          {
             "name": "Rust Iot Platform",
             "url": "https://github.com/iot-ecology/rust-iot-platform",
             "description": "A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.",
@@ -26224,6 +26230,12 @@
             "name": "broot",
             "url": "https://github.com/Canop/broot",
             "description": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot",
+            "tags": []
+          },
+          {
+            "name": "FileSSH",
+            "url": "https://github.com/JayanAXHF/FileSSH",
+            "description": "A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more!",
             "tags": []
           },
           {
