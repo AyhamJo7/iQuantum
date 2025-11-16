@@ -370,6 +370,12 @@
             "tags": []
           },
           {
+            "name": "nview",
+            "url": "https://github.com/blinklabs-io/nview",
+            "description": "Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens.",
+            "tags": []
+          },
+          {
             "name": "solana-go",
             "url": "https://github.com/gagliardetto/solana-go",
             "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
@@ -58949,7 +58955,7 @@
           {
             "name": "Datasette",
             "url": "https://datasette.io/",
-            "description": "Explore and publish data with easy import and export and database management. ( Demo , Source Code ) Apache-2.0 Python/Docker",
+            "description": "Explore and publish data with easy import and export and database management. ( Source Code ) Apache-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -59096,8 +59102,8 @@
           },
           {
             "name": "PdfDing",
-            "url": "https://github.com/mrmn2/PdfDing",
-            "description": "PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. AGPL-3.0 Docker",
+            "url": "https://www.pdfding.com",
+            "description": "PDF manager, viewer and editor offering a seamless user experience on multiple devices. It's designed to be minimal, fast, and easy to set up using Docker. ( Demo , Source Code ) AGPL-3.0 Docker/K8S",
             "tags": []
           },
           {
@@ -61660,7 +61666,7 @@
           },
           {
             "name": "OpenZiti",
-            "url": "https://openziti.github.io/",
+            "url": "https://openziti.io/",
             "description": "Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. ( Source Code ) Apache-2.0 Go",
             "tags": []
           },
@@ -71519,6 +71525,12 @@
             "name": "Katalon Studio",
             "url": "https://www.katalon.com",
             "description": "Simplify API, Web, and Mobile Automation Tests.",
+            "tags": []
+          },
+          {
+            "name": "Maestro",
+            "url": "https://maestro.dev/",
+            "description": "End-to-end testing for Mobile and Web apps. Supports iOS, Android, React Native, Flutter and more.",
             "tags": []
           },
           {
