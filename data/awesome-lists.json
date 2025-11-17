@@ -36081,6 +36081,12 @@
             "tags": []
           },
           {
+            "name": "microcheck",
+            "url": "https://github.com/tarampampam/microcheck",
+            "description": "Lightweight health check utilities for Docker containers (75 KB instead of 9.3 MB for httpcheck versus cURL) in pure C - http(s), port checks, and parallel execution are included. by @tarampampam",
+            "tags": []
+          },
+          {
             "name": "NVIDIA-Docker",
             "url": "https://github.com/NVIDIA/nvidia-docker",
             "description": ":skull: The NVIDIA Container Runtime for Docker by @NVIDIA",
@@ -70148,6 +70154,12 @@
             "tags": []
           },
           {
+            "name": "Cursor",
+            "url": "https://cursor.com/",
+            "description": "AI-powered code editor built to make you extraordinarily productive. Features include AI autocomplete, chat, and an autonomous coding agent.",
+            "tags": []
+          },
+          {
             "name": "Emacs",
             "url": "https://www.emacswiki.org/emacs/EmacsForMacOS",
             "description": "Popular Unix-based text editor for programmers and system administrators.",
@@ -70241,6 +70253,12 @@
             "name": "Vimr",
             "url": "http://vimr.org/",
             "description": "Refined Vim Experience for OS X.",
+            "tags": []
+          },
+          {
+            "name": "Windsurf",
+            "url": "https://windsurf.com/",
+            "description": "AI code editor featuring Cascade, an agentic AI experience that writes and edits code autonomously. Includes AI autocomplete, memories, and MCP support.",
             "tags": []
           },
           {
