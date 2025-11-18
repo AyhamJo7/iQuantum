@@ -29325,8 +29325,8 @@
             "tags": []
           },
           {
-            "name": "coreylowman/dfdx",
-            "url": "https://github.com/coreylowman/dfdx",
+            "name": "chelsea0x3b/dfdx",
+            "url": "https://github.com/chelsea0x3b/dfdx",
             "description": "CUDA accelerated machine learning framework that leverages many of Rust's unique features.",
             "tags": []
           },
@@ -29755,8 +29755,8 @@
             "tags": []
           },
           {
-            "name": "awslabs/aws-lambda-rust-runtime",
-            "url": "https://github.com/awslabs/aws-lambda-rust-runtime",
+            "name": "aws/aws-lambda-rust-runtime",
+            "url": "https://github.com/aws/aws-lambda-rust-runtime",
             "description": "[ lambda_runtime ] - Runtime for AWS Lambda",
             "tags": []
           },
@@ -49312,6 +49312,12 @@
             "name": "python-rapidjson",
             "url": "https://github.com/python-rapidjson/python-rapidjson",
             "description": "A Python wrapper around RapidJSON .",
+            "tags": []
+          },
+          {
+            "name": "toonify",
+            "url": "https://github.com/ScrapeGraphAI/toonify",
+            "description": "A compact, human-readable serialization format that reduces LLM token usage by 30-60% compared to JSON.",
             "tags": []
           },
           {
@@ -74114,6 +74120,12 @@
             "name": "Opera",
             "url": "https://www.opera.com",
             "description": "Experience faster, distraction-free browsing with Ad blocking, and browse privately.",
+            "tags": []
+          },
+          {
+            "name": "Ora",
+            "url": "https://www.orabrowser.com/",
+            "description": "Open-source macOS browser built with Swift and WebKit. Fast, secure, and native Arc alternative with smooth tab management, spaces, and vertical sidebar.",
             "tags": []
           },
           {
