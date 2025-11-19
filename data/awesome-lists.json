@@ -31495,6 +31495,12 @@
             "tags": []
           },
           {
+            "name": "kand-ta/kand",
+            "url": "https://github.com/kand-ta/kand",
+            "description": "[ kand ] - A Modern, High-Performance Technical Analysis Library in Rust, Python, and JS/TS(WASM).",
+            "tags": []
+          },
+          {
             "name": "stochastic-rs",
             "url": "https://github.com/rust-dd/stochastic-rs",
             "description": "[ stochastic-rs ] - High-performance data generation library for stochastic process with quant finance tools.",
@@ -57553,12 +57559,6 @@
             "tags": []
           },
           {
-            "name": "MiAOU",
-            "url": "https://miaou.dystroy.org/login",
-            "description": "Multi-room persistent chat server. ( Source Code ) MIT Nodejs",
-            "tags": []
-          },
-          {
             "name": "Mumble",
             "url": "https://wiki.mumble.info/wiki/Main_Page",
             "description": "Low-latency, high quality voice/text chat software. ( Source Code , Clients ) BSD-3-Clause C++/deb",
@@ -57652,12 +57652,6 @@
             "name": "Synapse",
             "url": "https://element-hq.github.io/synapse/latest/index.html",
             "description": "Server for Matrix , an open standard for decentralized persistent communication. ( Source Code ) Apache-2.0 Python/deb",
-            "tags": []
-          },
-          {
-            "name": "Syndie",
-            "url": "https://syndie.de",
-            "description": "Syndie is a libre system for operating distributed forums. CC0-1.0 Java",
             "tags": []
           },
           {
@@ -58394,12 +58388,6 @@
             "name": "yarn.social",
             "url": "https://yarn.social",
             "description": "Self-Hosted, Twitter\u2122-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ( Source Code ) MIT Go",
-            "tags": []
-          },
-          {
-            "name": "Zusam",
-            "url": "https://github.com/zusam/zusam",
-            "description": "Free and open-source way to self-host private forums for groups of friends or family. ( Demo ) AGPL-3.0 PHP",
             "tags": []
           }
         ]
@@ -59199,12 +59187,6 @@
             "name": "Stump",
             "url": "https://www.stumpapp.dev",
             "description": "A fast, free and open source comics, manga and digital book server with OPDS support. ( Source Code ) MIT Rust",
-            "tags": []
-          },
-          {
-            "name": "The Epube",
-            "url": "https://tt-rss.org/ZeEpube/",
-            "description": "Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ( Source Code ) GPL-3.0 PHP",
             "tags": []
           }
         ]
@@ -62353,12 +62335,6 @@
             "name": "Wastebin",
             "url": "https://github.com/matze/wastebin",
             "description": "Lightweight, minimal and fast pastebin with an SQLite backend. ( Demo ) MIT Rust/Docker",
-            "tags": []
-          },
-          {
-            "name": "ybFeed",
-            "url": "https://github.com/ybizeul/ybFeed",
-            "description": "Personal micro feed where you can post snippets of text or images. MIT Go/Nodejs/Docker",
             "tags": []
           },
           {
