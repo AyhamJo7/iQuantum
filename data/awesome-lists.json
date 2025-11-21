@@ -47026,6 +47026,12 @@
             "tags": []
           },
           {
+            "name": "desbordante",
+            "url": "https://github.com/desbordante/desbordante-core/",
+            "description": "An open source data profiler for complex pattern discovery.",
+            "tags": []
+          },
+          {
             "name": "optimus",
             "url": "https://github.com/hi-primus/optimus",
             "description": "Agile Data Science Workflows made easy with PySpark.",
@@ -74863,7 +74869,7 @@
           {
             "name": "escrcpy",
             "url": "https://github.com/viarotel-org/escrcpy",
-            "description": "\ud83d\udcf1 Graphical Scrcpy to display and control Android, devices powered by Electron.",
+            "description": "\ud83d\udcf1 Graphical Scrcpy to display and control Android devices, powered by Electron.",
             "tags": []
           },
           {
