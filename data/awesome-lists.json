@@ -26879,6 +26879,12 @@
             "tags": []
           },
           {
+            "name": "biandratti/huginn-net",
+            "url": "https://github.com/biandratti/huginn-net",
+            "description": "Multi-protocol passive network fingerprinting combining p0f TCP and JA4 TLS analysis for OS and application detection",
+            "tags": []
+          },
+          {
             "name": "cargo-audit",
             "url": "https://crates.io/crates/cargo-audit",
             "description": "Audit Cargo.lock for crates with security vulnerabilities",
@@ -64234,6 +64240,12 @@
         "name": "C",
         "resources": [
           {
+            "name": "Julia",
+            "url": "https://github.com/JuliaLang/julia",
+            "description": "(label: good first issue) The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.",
+            "tags": []
+          },
+          {
             "name": "Profanity",
             "url": "https://github.com/profanity-im/profanity",
             "description": "(label: good first issue) Ncurses XMPP chat client.",
@@ -64289,6 +64301,12 @@
             "name": "Godot Engine",
             "url": "https://github.com/godotengine/godot",
             "description": "(label: good first issue) 2D and 3D cross-platform game engine. Also has C# and Python code.",
+            "tags": []
+          },
+          {
+            "name": "Julia",
+            "url": "https://github.com/JuliaLang/julia",
+            "description": "(label: good first issue) The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.",
             "tags": []
           },
           {
@@ -65039,19 +65057,7 @@
           {
             "name": "Julia",
             "url": "https://github.com/JuliaLang/julia",
-            "description": "(label: good first issue) Julia Projects for Beginners \u2014 Easy Ideas to Get Started Coding in Julia",
-            "tags": []
-          },
-          {
-            "name": "Julia Language: Good first issue",
-            "url": "https://github.com/JuliaLang/julia",
-            "description": "(label: good first issue) \"Move like Python, Run like C\" - A fresh approach to technical computing!",
-            "tags": []
-          },
-          {
-            "name": "Julia Language: Help wanted",
-            "url": "https://github.com/JuliaLang/julia",
-            "description": "(label: help-wanted) \"Move like Python, Run like C\" - A fresh approach to technical computing!",
+            "description": "(label: good first issue) The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.",
             "tags": []
           }
         ]
