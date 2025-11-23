@@ -59334,7 +59334,7 @@
           },
           {
             "name": "GoS\u0190",
-            "url": "https://github.com/stv0g/gose",
+            "url": "https://codeberg.org/stv0g/gose",
             "description": "Modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. Apache-2.0 Go/Docker",
             "tags": []
           },
@@ -72532,6 +72532,12 @@
             "tags": []
           },
           {
+            "name": "Fluent",
+            "url": "https://fluentmac.app",
+            "description": "Native AI assistant that brings 450+ models (BYOK) into any macOS app with instant app & browser context, customizable actions, shortcuts, and local models support.",
+            "tags": []
+          },
+          {
             "name": "RecurseChat",
             "url": "https://recurse.chat",
             "description": "RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.",
@@ -75119,12 +75125,6 @@
             "tags": []
           },
           {
-            "name": "nnScreenshots",
-            "url": "https://www.nearnorthsoftware.com/software/screenshots.php",
-            "description": "A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.",
-            "tags": []
-          },
-          {
             "name": "skhd",
             "url": "https://github.com/koekeishiya/skhd",
             "description": "Simple hotkey daemon for macOS.",
@@ -75134,6 +75134,12 @@
             "name": "Strategr",
             "url": "https://khrykin.github.io/strategr/",
             "description": "No-fuss time management app. Stategr helps you maximize your productivity, giving you the quickest and most effective way to time-box your day.",
+            "tags": []
+          },
+          {
+            "name": "SwiftBiu",
+            "url": "https://swiftbiu.com/",
+            "description": "SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations \"one step\". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets.",
             "tags": []
           },
           {
