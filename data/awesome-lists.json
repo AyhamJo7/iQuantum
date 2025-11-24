@@ -26551,6 +26551,12 @@
         "name": "Message Queue",
         "resources": [
           {
+            "name": "Rmqtt",
+            "url": "https://github.com/rmqtt/rmqtt",
+            "description": "MQTT Server/MQTT Broker \u2014 Scalable distributed MQTT message broker for IoT in the 5G era.",
+            "tags": []
+          },
+          {
             "name": "RobustMQ",
             "url": "https://github.com/robustmq/robustmq",
             "description": "Next generation cloud-native converged message queue.",
@@ -28996,7 +29002,7 @@
           },
           {
             "name": "pawurb/hotpath",
-            "url": "https://github.com/pawurb/hotpath",
+            "url": "https://github.com/pawurb/hotpath-rs",
             "description": "A simple profiler that shows exactly where your code spends time and allocates",
             "tags": []
           },
@@ -31035,7 +31041,7 @@
           },
           {
             "name": "VennDB",
-            "url": "https://venndb.rs/",
+            "url": "https://venndb.plabayo.tech/",
             "description": "[ venndb ] - An append-only in-memory database in Rust for rows queried using bit (flag) columns.",
             "tags": []
           }
@@ -59838,6 +59844,12 @@
             "tags": []
           },
           {
+            "name": "Onyx Community Edition",
+            "url": "https://onyx.app",
+            "description": "Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ( Source Code ) MIT Docker/K8S",
+            "tags": []
+          },
+          {
             "name": "Open-WebUI",
             "url": "https://openwebui.com",
             "description": "User-friendly AI Interface, supports Ollama, OpenAI API. ( Source Code ) BSD-3-Clause Docker/Python",
@@ -63003,6 +63015,12 @@
             "tags": []
           },
           {
+            "name": "Saltcorn",
+            "url": "https://saltcorn.com/",
+            "description": "No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications. ( Source Code ) MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "SQLPage",
             "url": "https://sql-page.com",
             "description": "SQL-only dynamic website builder. ( Source Code ) MIT Rust/Docker",
@@ -64145,7 +64163,7 @@
           {
             "name": "awweso.me",
             "url": "https://awweso.me/",
-            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  | awesome-web.theravenhub",
+            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  | awesome-web.theravenhub | awesomehub.web.app",
             "tags": []
           },
           {
