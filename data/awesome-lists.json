@@ -7,7 +7,7 @@
         "resources": [
           {
             "name": "beep",
-            "url": "https://github.com/faiface/beep",
+            "url": "https://github.com/gopxl/beep",
             "description": "A simple library for playback and audio manipulation.",
             "tags": []
           },
@@ -25831,6 +25831,12 @@
             "name": "CozoDB",
             "url": "https://github.com/cozodb/cozo",
             "description": "A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!",
+            "tags": []
+          },
+          {
+            "name": "Curvine",
+            "url": "https://github.com/CurvineIO/curvine",
+            "description": "Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.",
             "tags": []
           },
           {
