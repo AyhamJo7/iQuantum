@@ -25023,6 +25023,12 @@
             "url": "https://github.com/cpp-for-yourself",
             "description": "A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.",
             "tags": []
+          },
+          {
+            "name": "CompileBytes C++ Compiler",
+            "url": "https://www.compilebytes.com/tools/cpp",
+            "description": "\u2013 Online C++ compiler and interactive code execution environment.",
+            "tags": []
           }
         ]
       },
