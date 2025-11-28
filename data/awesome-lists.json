@@ -49660,6 +49660,12 @@
             "tags": []
           },
           {
+            "name": "react-bits",
+            "url": "https://github.com/DavidHDev/react-bits",
+            "description": "A collection of animated, interactive & fully customizable React components",
+            "tags": []
+          },
+          {
             "name": "mantine",
             "url": "https://github.com/mantinedev/mantine",
             "description": "Fully featured React components library",
@@ -49945,6 +49951,12 @@
             "name": "react-insta-stories",
             "url": "https://github.com/mohitk05/react-insta-stories",
             "description": "A React component for Instagram like stories",
+            "tags": []
+          },
+          {
+            "name": "react-hot-toast",
+            "url": "https://github.com/timolins/react-hot-toast",
+            "description": "Lightweight and customizable toast notifications for React",
             "tags": []
           },
           {
