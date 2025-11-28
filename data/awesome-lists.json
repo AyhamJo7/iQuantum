@@ -29226,6 +29226,12 @@
             "tags": []
           },
           {
+            "name": "Ackee-Blockchain/trident",
+            "url": "https://github.com/Ackee-Blockchain/trident",
+            "description": "Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation",
+            "tags": []
+          },
+          {
             "name": "proptest",
             "url": "https://crates.io/crates/proptest",
             "description": "property testing framework inspired by the Hypothesis framework for Python",
