@@ -61776,12 +61776,6 @@
             "tags": []
           },
           {
-            "name": "Passky",
-            "url": "https://passky.org",
-            "description": "Simple and modern password manager with website, browser extension, android and desktop application. ( Demo , Source Code ) GPL-3.0 PHP/Docker",
-            "tags": []
-          },
-          {
             "name": "Psono",
             "url": "https://psono.com/",
             "description": "Password manager for companies. ( Demo , Source Code ) Apache-2.0 Python",
@@ -61832,12 +61826,6 @@
             "name": "dpaste",
             "url": "https://dpaste.org/",
             "description": "Simple pastebin with multiple text and code option, with short url result easy to remember. ( Source Code ) MIT Docker/Django",
-            "tags": []
-          },
-          {
-            "name": "FlashPaper",
-            "url": "https://github.com/AndrewPaglusch/FlashPaper",
-            "description": "One-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ( Demo ) MIT Docker/PHP",
             "tags": []
           },
           {
@@ -71328,6 +71316,12 @@
             "tags": []
           },
           {
+            "name": "GitButler",
+            "url": "https://gitbutler.com/",
+            "description": "Change management with parallel and stacked branches, unlimited undo, agent integrations.",
+            "tags": []
+          },
+          {
             "name": "GitFinder",
             "url": "https://gitfinder.com/",
             "description": "Fast and lightweight Git client for Mac with Finder integration.",
@@ -74244,6 +74238,12 @@
             "name": "BeardedSpice",
             "url": "https://github.com/beardedspice/beardedspice",
             "description": "Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.",
+            "tags": []
+          },
+          {
+            "name": "Bye AppQuit",
+            "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
+            "description": "A minimal menu bar app to quickly view and kill running processes.",
             "tags": []
           },
           {
