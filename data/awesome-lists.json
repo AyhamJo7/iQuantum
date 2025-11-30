@@ -28097,6 +28097,12 @@
             "tags": []
           },
           {
+            "name": "biome",
+            "url": "https://github.com/biomejs/biome",
+            "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
+            "tags": []
+          },
+          {
             "name": "clippy",
             "url": "https://crates.io/crates/clippy",
             "description": "Rust lints",
@@ -49714,6 +49720,12 @@
             "tags": []
           },
           {
+            "name": "headlessui",
+            "url": "https://github.com/tailwindlabs/headlessui",
+            "description": "Completely unstyled, accessible UI components for React",
+            "tags": []
+          },
+          {
             "name": "redux",
             "url": "https://github.com/reduxjs/redux",
             "description": "Predictable State Container for JavaScript Apps",
@@ -64181,7 +64193,7 @@
           {
             "name": "awweso.me",
             "url": "https://awweso.me/",
-            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  | awesome-web.theravenhub | awesomehub.web.app",
+            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  , awesome-web.theravenhub , awesomehub.web.app",
             "tags": []
           },
           {
