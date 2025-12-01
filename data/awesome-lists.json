@@ -74277,6 +74277,12 @@
             "tags": []
           },
           {
+            "name": "DynamicHorizon",
+            "url": "https://dynamichorizon.app",
+            "description": "Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.",
+            "tags": []
+          },
+          {
             "name": "Eye Timer",
             "url": "https://adelmaer.com/eyetimer",
             "description": "Take Breaks to prevent Eye Strain timer for Mac.",
