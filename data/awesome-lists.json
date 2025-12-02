@@ -71145,6 +71145,12 @@
             "tags": []
           },
           {
+            "name": "Requestly",
+            "url": "https://requestly.io",
+            "description": "Open-source, lightweight Git-Friendly API Client built for modern developers.",
+            "tags": []
+          },
+          {
             "name": "Trayce",
             "url": "https://trayce.dev",
             "description": "Lightweight tool to monitor Docker container traffic with a built-in .bru HTTP client.",
