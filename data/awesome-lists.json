@@ -25834,6 +25834,12 @@
             "tags": []
           },
           {
+            "name": "ayarotsky/redis-shield",
+            "url": "https://github.com/ayarotsky/redis-shield",
+            "description": "A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting",
+            "tags": []
+          },
+          {
             "name": "CozoDB",
             "url": "https://github.com/cozodb/cozo",
             "description": "A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast!",
