@@ -56659,6 +56659,12 @@
             "tags": []
           },
           {
+            "name": "Cronicle",
+            "url": "https://cronicle.net/",
+            "description": "Simple, distributed task scheduler and runner with a web based UI. ( Source Code ) MIT Nodejs",
+            "tags": []
+          },
+          {
             "name": "Dagu",
             "url": "https://docs.dagu.cloud/",
             "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
@@ -56686,6 +56692,12 @@
             "name": "Github Ntfy",
             "url": "https://github.com/BreizhHardware/ntfy_alerts",
             "description": "\u26a0 - Push notifications to NTFY, Gotify, Discord or Slack when a new release is available on Docker Hub or Github. ( Clients ) GPL-3.0 Rust/Docker",
+            "tags": []
+          },
+          {
+            "name": "gocron",
+            "url": "https://github.com/flohoss/gocron",
+            "description": "Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file. MIT Docker",
             "tags": []
           },
           {
@@ -58224,6 +58236,12 @@
             "tags": []
           },
           {
+            "name": "Automad",
+            "url": "https://automad.org/",
+            "description": "Flat-file content management system and template engine. ( Demo , Source Code ) MIT PHP/Docker",
+            "tags": []
+          },
+          {
             "name": "Backdrop CMS",
             "url": "https://backdropcms.org/",
             "description": "Comprehensive CMS for small to medium sized businesses and non-profits. ( Source Code ) GPL-2.0 PHP",
@@ -59139,6 +59157,12 @@
             "tags": []
           },
           {
+            "name": "Upvote RSS",
+            "url": "https://www.upvote-rss.com/",
+            "description": "\u26a0 - Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more. ( Demo , Source Code ) MIT Docker/PHP",
+            "tags": []
+          },
+          {
             "name": "Yarr",
             "url": "https://github.com/nkanaev/yarr",
             "description": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. MIT Go",
@@ -59177,6 +59201,12 @@
             "name": "Nextcloud",
             "url": "https://nextcloud.com/",
             "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. ( Demo , Source Code ) AGPL-3.0 PHP/deb",
+            "tags": []
+          },
+          {
+            "name": "OpenCloud",
+            "url": "https://docs.opencloud.eu/",
+            "description": "File Sharing and Collaboration Platform. ( Source Code ) Apache-2.0 Docker/Go/Nodejs",
             "tags": []
           },
           {
@@ -59339,6 +59369,12 @@
         "name": "File Transfer - Single-click & Drag-n-drop Upload",
         "resources": [
           {
+            "name": "015",
+            "url": "https://send.fudaoyuan.icu",
+            "description": "A temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Chibisafe",
             "url": "https://chibisafe.app",
             "description": "File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ( Source Code ) MIT Docker/Nodejs",
@@ -59390,6 +59426,12 @@
             "name": "GoS\u0190",
             "url": "https://codeberg.org/stv0g/gose",
             "description": "Modern file-uploader focusing on scalability and simplicity. It only depends on a S3 storage backend and hence scales horizontally without the need for additional databases or caches. Apache-2.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Jirafeau",
+            "url": "https://gitlab.com/jirafeau/Jirafeau",
+            "description": "One-click-fileshare project. Select your file, upload, and share a link. That's it. AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -60709,6 +60751,12 @@
             "tags": []
           },
           {
+            "name": "Lyrion Music Server",
+            "url": "https://lyrion.org/",
+            "description": "Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). ( Source Code , Clients ) GPL-2.0 deb/Docker/Perl",
+            "tags": []
+          },
+          {
             "name": "Maloja",
             "url": "https://github.com/krateng/maloja",
             "description": "Music scrobble database (alternative to Last.fm). ( Demo ) GPL-3.0 Python/Docker",
@@ -61204,6 +61252,12 @@
             "tags": []
           },
           {
+            "name": "jetlog",
+            "url": "https://github.com/pbogre/jetlog",
+            "description": "Personal flight tracker and viewer. GPL-2.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Kasm Workspaces",
             "url": "https://kasmweb.com/",
             "description": "Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ( Demo , Source Code ) GPL-3.0 Docker",
@@ -61255,6 +61309,12 @@
             "name": "Neko",
             "url": "https://neko.m1k1o.net",
             "description": "Virtual browser that runs in docker and uses WebRTC. ( Source Code ) Apache-2.0 Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "OmniTools",
+            "url": "https://omnitools.app/",
+            "description": "Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -63496,6 +63556,12 @@
             "tags": []
           },
           {
+            "name": "Libredesk",
+            "url": "https://libredesk.io/",
+            "description": "Modern customer support desk. Single binary app. ( Source Code ) AGPL-3.0 Docker/Go/Nodejs",
+            "tags": []
+          },
+          {
             "name": "MantisBT",
             "url": "https://www.mantisbt.org/",
             "description": "Bug tracker, fits best for software development. ( Demo , Source Code ) GPL-2.0 PHP",
@@ -63705,6 +63771,12 @@
             "name": "go-doxy",
             "url": "https://github.com/yusing/godoxy",
             "description": "Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. MIT Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "godoxy",
+            "url": "https://docs.godoxy.dev/",
+            "description": "High-performance reverse proxy and container orchestrator for self-hosters. ( Demo , Source Code ) MIT Docker/Go",
             "tags": []
           },
           {
@@ -74653,6 +74725,12 @@
             "tags": []
           },
           {
+            "name": "Deskmark",
+            "url": "https://apps.apple.com/app/Deskmark/6755948110",
+            "description": "Add watermarks to the desktop, ideal for recording videos.",
+            "tags": []
+          },
+          {
             "name": "Etcher",
             "url": "https://www.balena.io/etcher/",
             "description": "Flash OS images to SD cards & USB drives, safely and easily.",
@@ -75218,6 +75296,12 @@
             "name": "SwiftBiu",
             "url": "https://swiftbiu.com/",
             "description": "SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations \"one step\". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets.",
+            "tags": []
+          },
+          {
+            "name": "Table Habit",
+            "url": "https://github.com/FriesI23/mhabit",
+            "description": "\u2013 A cross-platform habit tracker that helps you build micro-habits with growth curves and offline-first syncing.",
             "tags": []
           },
           {
@@ -75825,6 +75909,12 @@
             "name": "MagicQuit",
             "url": "https://magicquit.com/",
             "description": "Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life.",
+            "tags": []
+          },
+          {
+            "name": "MiddleDrag",
+            "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
+            "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS.",
             "tags": []
           },
           {
