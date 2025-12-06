@@ -65988,6 +65988,12 @@
             "url": "https://github.com/vitejs/vite",
             "description": "(label: good first issue) Next generation frontend tooling. It's fast! Alternative to Create React App",
             "tags": []
+          },
+          {
+            "name": "Vitest",
+            "url": "https://github.com/vitest-dev/vitest",
+            "description": "(label: good first issue) A blazing fast unit test framework powered by Vite.",
+            "tags": []
           }
         ]
       }
