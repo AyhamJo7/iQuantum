@@ -40286,6 +40286,12 @@
             "tags": []
           },
           {
+            "name": "High Availability with Distributed DB on Kubernetes at Airbnb",
+            "url": "https://airbnb.tech/infrastructure/achieving-high-availability-with-distributed-database-on-kubernetes-at-airbnb/",
+            "description": "",
+            "tags": []
+          },
+          {
             "name": "Automating Datacenter Operations at Dropbox",
             "url": "https://blogs.dropbox.com/tech/2019/01/automating-datacenter-operations-at-dropbox/",
             "description": "",
@@ -64301,7 +64307,7 @@
           {
             "name": "/c/selfhosted on lemmy.world",
             "url": "https://lemmy.world/c/selfhosted",
-            "description": "Communities/forums:  , /c/selfhost on lemmy.ml , /r/selfhosted on reddit , r-selfhosted forum , /r/selfhosted Matrix Channel , Homelab forum , /r/homelab on reddit , IndieWeb",
+            "description": "Communities/forums:  , /c/selfhost on lemmy.ml , /r/selfhosted on reddit , /r/selfhosted Matrix Channel , /r/homelab on reddit , IndieWeb",
             "tags": []
           },
           {
