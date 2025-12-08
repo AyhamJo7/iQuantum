@@ -28163,8 +28163,8 @@
             "tags": []
           },
           {
-            "name": "envio-cli/envio",
-            "url": "https://github.com/envio-cli/envio",
+            "name": "envio",
+            "url": "https://github.com/humblepenguinn/envio",
             "description": "A Modern And Secure CLI Tool For Managing Environment Variables",
             "tags": []
           },
@@ -30730,6 +30730,12 @@
             "tags": []
           },
           {
+            "name": "enum-map",
+            "url": "https://codeberg.org/sugar700/enum-map",
+            "description": "[ enum-map ] - An optimized map implementation for enums using an array to store values.",
+            "tags": []
+          },
+          {
             "name": "fizyk20/generic-array",
             "url": "https://github.com/fizyk20/generic-array",
             "description": "a hack to allow for arrays sized by typenums",
@@ -30775,12 +30781,6 @@
             "name": "tnballo/scapegoat",
             "url": "https://github.com/tnballo/scapegoat",
             "description": "[ scapegoat ] - Safe, fallible, stack-only alternative to BTreeSet and BTreeMap .",
-            "tags": []
-          },
-          {
-            "name": "xfix/enum-map",
-            "url": "https://codeberg.org/xfix/enum-map",
-            "description": "[ enum-map ] - An optimized map implementation for enums using an array to store values.",
             "tags": []
           },
           {
@@ -33359,6 +33359,12 @@
             "name": "Rust Guidelines",
             "url": "http://aturon.github.io/",
             "description": "Aaron Turon's blog posts on rust",
+            "tags": []
+          },
+          {
+            "name": "Rust Security Handbook",
+            "url": "https://github.com/yevh/rust-security-handbook",
+            "description": "A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more.",
             "tags": []
           },
           {
@@ -74349,6 +74355,12 @@
             "tags": []
           },
           {
+            "name": "Boring Notch",
+            "url": "https://theboring.name/",
+            "description": "Turn your MacBook notch into a music and file control center.",
+            "tags": []
+          },
+          {
             "name": "Bye AppQuit",
             "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
             "description": "A minimal menu bar app to quickly view and kill running processes.",
@@ -75332,6 +75344,12 @@
             "name": "Timing",
             "url": "https://timingapp.com/",
             "description": "Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.",
+            "tags": []
+          },
+          {
+            "name": "Trace",
+            "url": "https://trace.techulus.xyz",
+            "description": "Open-source spotlight alternative and shortcut toolkit.",
             "tags": []
           },
           {
