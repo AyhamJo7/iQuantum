@@ -17038,7 +17038,7 @@
         "resources": [
           {
             "name": "50 Shades of Go",
-            "url": "https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/",
+            "url": "https://golang50shades.github.io/",
             "description": "Traps, Gotchas, and Common Mistakes for New Golang Devs.",
             "tags": []
           },
@@ -49577,6 +49577,12 @@
             "tags": []
           },
           {
+            "name": "ruixen-ui",
+            "url": "https://github.com/ruixenui/ruixen.com",
+            "description": "Modern, lightweight React component library with elegant design",
+            "tags": []
+          },
+          {
             "name": "redux",
             "url": "https://github.com/reduxjs/redux",
             "description": "Predictable State Container for JavaScript Apps",
@@ -49871,12 +49877,6 @@
             "tags": []
           },
           {
-            "name": "markdown-to-jsx",
-            "url": "https://www.npmjs.com/package/markdown-to-jsx",
-            "description": "A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.",
-            "tags": []
-          },
-          {
             "name": "storybook",
             "url": "https://github.com/storybookjs/storybook",
             "description": "Storybook is a frontend workshop for building UI components and pages in isolation",
@@ -50012,6 +50012,12 @@
             "name": "react-figma",
             "url": "https://github.com/react-figma/react-figma",
             "description": "A React renderer for Figma",
+            "tags": []
+          },
+          {
+            "name": "markdown-to-jsx",
+            "url": "https://github.com/quantizor/markdown-to-jsx",
+            "description": "A very fast and versatile markdown toolchain",
             "tags": []
           },
           {
