@@ -24716,6 +24716,12 @@
             "url": "https://www.autosar.org/fileadmin/standards/R21-11/AP/AUTOSAR_RS_CPP14Guidelines.pdf",
             "description": "",
             "tags": []
+          },
+          {
+            "name": "F-35 Fighter Jet's C++ Coding Standards",
+            "url": "https://www.stroustrup.com/JSF-AV-rules.pdf",
+            "description": "",
+            "tags": []
           }
         ]
       },
