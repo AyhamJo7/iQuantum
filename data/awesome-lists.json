@@ -74187,6 +74187,12 @@
             "url": "https://github.com/mattDavo/Yippy",
             "description": "Clipboard manager with user-friendly UI.",
             "tags": []
+          },
+          {
+            "name": "ClipFlow",
+            "url": "https://github.com/praneeth552/clipflow",
+            "description": "Free clipboard history manager with terminal-style navigation.",
+            "tags": []
           }
         ]
       },
