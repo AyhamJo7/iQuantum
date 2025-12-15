@@ -25506,6 +25506,12 @@
             "tags": []
           },
           {
+            "name": "mierak/rmpc",
+            "url": "https://github.com/mierak/rmpc",
+            "description": "[ rmpc ] - A modern and configurable, terminal based MPD Client with album art support",
+            "tags": []
+          },
+          {
             "name": "ncspot",
             "url": "https://github.com/hrkfdn/ncspot",
             "description": "Cross-platform ncurses Spotify client, inspired by ncmpc and the likes.",
@@ -30510,15 +30516,15 @@
             "tags": []
           },
           {
-            "name": "iggy",
-            "url": "https://github.com/apache/iggy",
-            "description": "[ iggy ] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols",
+            "name": "fluvio",
+            "url": "https://github.com/fluvio-community/fluvio",
+            "description": "Programmable data streaming platform",
             "tags": []
           },
           {
-            "name": "infinyon/fluvio",
-            "url": "https://github.com/infinyon/fluvio",
-            "description": "Programmable data streaming platform",
+            "name": "iggy",
+            "url": "https://github.com/apache/iggy",
+            "description": "[ iggy ] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols",
             "tags": []
           },
           {
@@ -31887,6 +31893,12 @@
             "name": "estk/log4rs",
             "url": "https://github.com/estk/log4rs",
             "description": "highly configurable logging framework modeled after Java's Logback and log4j libraries",
+            "tags": []
+          },
+          {
+            "name": "fast/logforth",
+            "url": "https://github.com/fast/logforth",
+            "description": "A versatile, extensible, and easy-to-use logging framework for Rust applications. It allows you to configure multiple dispatches, filters, and appenders to customize your logging setup according to your needs.",
             "tags": []
           },
           {
@@ -73636,6 +73648,12 @@
             "name": "LibreWolf",
             "url": "https://librewolf.net",
             "description": "A fork of Firefox, focused on privacy, security and freedom.",
+            "tags": []
+          },
+          {
+            "name": "Helium",
+            "url": "https://helium.computer/",
+            "description": "A free, open-source, private and honest web browser based on Chromium with Ublock Pre-Installed.",
             "tags": []
           },
           {
