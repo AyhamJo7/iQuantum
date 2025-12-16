@@ -68268,6 +68268,12 @@
             "tags": []
           },
           {
+            "name": "Djot",
+            "url": "https://github.com/php-collective/djot-php",
+            "description": "A PHP parser for Djot , a modern light markup language (successor of Markdown).",
+            "tags": []
+          },
+          {
             "name": "Essence",
             "url": "https://github.com/essence/essence",
             "description": "A library for extracting web media.",
