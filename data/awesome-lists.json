@@ -71092,6 +71092,12 @@
             "tags": []
           },
           {
+            "name": "Mockoon",
+            "url": "https://mockoon.com/",
+            "description": "Create mock APIs in seconds.",
+            "tags": []
+          },
+          {
             "name": "Paw",
             "url": "https://paw.cloud/",
             "description": "Advanced HTTP client.",
@@ -74117,12 +74123,6 @@
         "name": "Clipboard Tools",
         "resources": [
           {
-            "name": "Boop",
-            "url": "https://boop.okat.best/",
-            "description": "Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more.",
-            "tags": []
-          },
-          {
             "name": "CleanClip",
             "url": "https://cleanclip.cc",
             "description": "The cleanest Clipboard Manager on macOS, ever!",
@@ -74171,6 +74171,12 @@
             "tags": []
           },
           {
+            "name": "Paste Quick",
+            "url": "https://wangchujiang.com/paste-quick/",
+            "description": "A simple, privacy-first clipboard manager.",
+            "tags": []
+          },
+          {
             "name": "Paste",
             "url": "http://pasteapp.me",
             "description": "Smart clipboard history & snippets manager.",
@@ -74204,6 +74210,12 @@
             "name": "Maccy",
             "url": "https://maccy.app/",
             "description": "Lightweight clipboard manager for macOS.",
+            "tags": []
+          },
+          {
+            "name": "OneClip",
+            "url": "https://github.com/Wcowin/OneClip",
+            "description": "A simple and professional macOS clipboard manager.",
             "tags": []
           },
           {
