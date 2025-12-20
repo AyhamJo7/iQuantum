@@ -28972,9 +28972,9 @@
             "tags": []
           },
           {
-            "name": "dgriffen/rls-vs2017",
-            "url": "https://github.com/ZoeyR/rls-vs2017",
-            "description": "Visual Studio  - Rust support for Visual Studio 2017 Preview PistonDevelopers/VisualRust - A Visual Studio extension for Rust",
+            "name": "PistonDevelopers/VisualRust",
+            "url": "https://github.com/PistonDevelopers/VisualRust",
+            "description": "Visual Studio  - A Visual Studio extension for Rust",
             "tags": []
           },
           {
@@ -30640,8 +30640,8 @@
         "name": "Data visualization",
         "resources": [
           {
-            "name": "blitzar-tech/egui_graphs",
-            "url": "https://github.com/blitzar-tech/egui_graphs",
+            "name": "blitzarx1/egui_graphs",
+            "url": "https://github.com/blitzarx1/egui_graphs",
             "description": "[ egui_graphs ] - Interactive graph visualization widget powered by egui and petgraph.",
             "tags": []
           },
@@ -32865,6 +32865,12 @@
             "name": "ffmpeg-sidecar",
             "url": "https://github.com/nathanbabcock/ffmpeg-sidecar",
             "description": "Wrap a standalone FFmpeg binary in an intuitive Iterator interface.",
+            "tags": []
+          },
+          {
+            "name": "screencapturekit-rs",
+            "url": "https://github.com/doom-fish/screencapturekit-rs",
+            "description": "[ screencapturekit ] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture",
             "tags": []
           }
         ]
