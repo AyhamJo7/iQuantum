@@ -72599,6 +72599,12 @@
             "tags": []
           },
           {
+            "name": "Maestro",
+            "url": "https://runmaestro.ai",
+            "description": "Run multiple AI coding agents in parallel with a spec-driven workflow.",
+            "tags": []
+          },
+          {
             "name": "Witsy",
             "url": "https://github.com/nbonamy/witsy",
             "description": "desktop AI assistant / universal MCP client.",
