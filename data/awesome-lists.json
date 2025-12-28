@@ -56411,7 +56411,7 @@
           },
           {
             "name": "Rybbit",
-            "url": "https://rybbit.io",
+            "url": "https://rybbit.com/",
             "description": "Web and products analytics that is easy to setup and more intuitive (alternative to Google Analytics). ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
@@ -59963,6 +59963,12 @@
             "tags": []
           },
           {
+            "name": "FitTrackee",
+            "url": "https://docs.fittrackee.org/",
+            "description": "Simple workout/activity tracker. ( Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
             "name": "Mere Medical",
             "url": "https://meremedical.co/",
             "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
@@ -61199,6 +61205,12 @@
             "tags": []
           },
           {
+            "name": "Movary",
+            "url": "https://github.com/leepeuker/movary",
+            "description": "\u26a0 - Web app to track and rate your watched movies. ( Demo ) MIT Docker/PHP",
+            "tags": []
+          },
+          {
             "name": "MyIP",
             "url": "https://ipcheck.ing",
             "description": "\u26a0 - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ( Demo , Source Code ) MIT Nodejs/Docker",
@@ -61361,6 +61373,12 @@
             "tags": []
           },
           {
+            "name": "Wishlist",
+            "url": "https://github.com/cmintey/wishlist",
+            "description": "Wishlist application that you can share with your friends and family. MIT Docker/K8S",
+            "tags": []
+          },
+          {
             "name": "Yamtrack",
             "url": "https://github.com/FuzzyGrim/Yamtrack",
             "description": "\u26a0 - Media tracker for movies, tv shows, anime, manga, video games and books. ( Demo ) AGPL-3.0 Docker/Python",
@@ -61501,6 +61519,12 @@
             "name": "Lago",
             "url": "https://www.getlago.com/",
             "description": "Metering and usage-based billing. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "monetr",
+            "url": "https://monetr.app/",
+            "description": "Budgeting application focused on planning for recurring expenses. ( Source Code ) FSL-1.1-MIT Docker/K8S",
             "tags": []
           },
           {
@@ -73407,6 +73431,12 @@
             "name": "Omniplayer",
             "url": "https://okaapps.com/product/1470926410#",
             "description": "Best media player on Mac, support almost all format.",
+            "tags": []
+          },
+          {
+            "name": "Whispering",
+            "url": "https://epicenter.md/whispering/",
+            "description": "Multi-provider speech-to-text with AI transformations and keyboard shortcuts.",
             "tags": []
           },
           {
