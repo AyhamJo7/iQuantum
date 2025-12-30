@@ -22752,6 +22752,12 @@
             "tags": []
           },
           {
+            "name": "MicroQuickJS",
+            "url": "https://github.com/bellard/mquickjs",
+            "description": "MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. [MIT]",
+            "tags": []
+          },
+          {
             "name": "MiniScript",
             "url": "https://miniscript.org/",
             "description": "scripting language modern, elegant, easy to learn, and easy to embed in your own C# or C++ projects. [MIT]",
@@ -25503,6 +25509,12 @@
             "name": "Glicol",
             "url": "https://github.com/chaosprint/glicol",
             "description": "Graph-oriented live coding language, for collaborative musicking in browsers.",
+            "tags": []
+          },
+          {
+            "name": "LargeModGames/spotatui",
+            "url": "https://github.com/LargeModGames/spotatui",
+            "description": "[ spotatui ] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization",
             "tags": []
           },
           {
@@ -58996,12 +59008,6 @@
             "tags": []
           },
           {
-            "name": "Precis",
-            "url": "https://github.com/leozqin/precis",
-            "description": "Extensibility-oriented RSS reader that can use LLMs (including local LLMs) to summarize RSS entries with built-in notification support. MIT Python/Docker",
-            "tags": []
-          },
-          {
             "name": "reader",
             "url": "https://github.com/lemon24/reader",
             "description": "Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. BSD-3-Clause Python",
@@ -62968,12 +62974,6 @@
             "url": "https://www.rstudio.com/products/rstudio/#Server",
             "description": "Web browser based IDE for R. ( Source Code ) AGPL-3.0 Java/C++",
             "tags": []
-          },
-          {
-            "name": "Wakapi",
-            "url": "https://wakapi.dev/",
-            "description": "Tracking tool for coding statistics, compatible with WakaTime. ( Source Code ) GPL-3.0 Go/Docker",
-            "tags": []
           }
         ]
       },
@@ -63571,6 +63571,12 @@
             "name": "Traggo",
             "url": "https://traggo.net/",
             "description": "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ( Source Code ) GPL-3.0 Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "Wakapi",
+            "url": "https://wakapi.dev/",
+            "description": "Tracking tool for coding statistics, compatible with WakaTime. ( Source Code ) GPL-3.0 Go/Docker",
             "tags": []
           },
           {
