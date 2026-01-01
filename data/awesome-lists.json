@@ -17609,6 +17609,12 @@
             "tags": []
           },
           {
+            "name": "sfl library",
+            "url": "https://github.com/slavenf/sfl-library",
+            "description": "a header-only C++11 library that provides several new or lesser-known containers, some of which can be used in C++20 constant expressions. [zlib]",
+            "tags": []
+          },
+          {
             "name": "Siv3D",
             "url": "https://github.com/Siv3D/OpenSiv3D",
             "description": "Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). [MIT] website",
@@ -21788,6 +21794,12 @@
             "tags": []
           },
           {
+            "name": "CZMQ",
+            "url": "https://github.com/zeromq/czmq",
+            "description": "High-level C binding for \u00d8MQ. [MPL2] website",
+            "tags": []
+          },
+          {
             "name": "Restbed",
             "url": "https://github.com/corvusoft/restbed",
             "description": "C++11 Asynchronous RESTful framework. [AGPL]",
@@ -22115,6 +22127,12 @@
             "name": "ZeroMQ",
             "url": "https://github.com/zeromq/libzmq",
             "description": "High-speed, modular asynchronous communication library. [LGPL3/MPL2] website",
+            "tags": []
+          },
+          {
+            "name": "Zyre",
+            "url": "https://github.com/zeromq/zyre",
+            "description": "Local Area Clustering for Peer-to-Peer Applications. [MPL2]",
             "tags": []
           }
         ]
