@@ -56446,12 +56446,6 @@
             "tags": []
           },
           {
-            "name": "Shynet",
-            "url": "https://github.com/milesmcc/shynet",
-            "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Apache-2.0 Python/Docker",
-            "tags": []
-          },
-          {
             "name": "Socioboard",
             "url": "https://github.com/socioboard/Socioboard-5.0",
             "description": "\u26a0 - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. GPL-3.0 Nodejs",
@@ -61643,7 +61637,7 @@
           {
             "name": "DailyTxT",
             "url": "https://github.com/PhiTux/DailyTxT",
-            "description": "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. MIT Docker",
+            "description": "Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. ( Demo ) MIT Docker",
             "tags": []
           },
           {
@@ -62493,12 +62487,6 @@
             "name": "MeshCentral",
             "url": "https://meshcentral.com/",
             "description": "Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. ( Source Code ) Apache-2.0 Nodejs",
-            "tags": []
-          },
-          {
-            "name": "Remotely",
-            "url": "https://github.com/immense/Remotely",
-            "description": "Remote desktop control and remote scripting solution, enterprise level remote support solution with admin web interface and remote control via browser. GPL-3.0 C#/Docker",
             "tags": []
           },
           {
