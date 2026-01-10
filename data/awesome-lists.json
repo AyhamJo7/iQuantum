@@ -47888,6 +47888,12 @@
         "name": "Distribution",
         "resources": [
           {
+            "name": "cx_freeze",
+            "url": "https://github.com/marcelotduarte/cx_Freeze",
+            "description": "It is a Python tool that converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.",
+            "tags": []
+          },
+          {
             "name": "Nuitka",
             "url": "https://github.com/Nuitka/Nuitka",
             "description": "Compiles Python programs into high-performance standalone executables (cross-platform, supports all Python versions).",
@@ -48174,6 +48180,12 @@
             "tags": []
           },
           {
+            "name": "CustomTkinter",
+            "url": "https://github.com/tomschimansky/customtkinter",
+            "description": "A modern and customizable python UI-library based on Tkinter.",
+            "tags": []
+          },
+          {
             "name": "DearPyGui",
             "url": "https://github.com/RaylockLLC/DearPyGui/",
             "description": "A Simple GPU accelerated Python GUI framework",
@@ -48228,8 +48240,14 @@
             "tags": []
           },
           {
-            "name": "PyQt",
+            "name": "PySide",
             "url": "https://doc.qt.io/qtforpython/",
+            "description": "Qt for Python offers the official Python bindings for Qt , this is same as PyQt but it's the official binding with different licensing.",
+            "tags": []
+          },
+          {
+            "name": "PyQt",
+            "url": "https://www.riverbankcomputing.com/static/Docs/PyQt6/",
             "description": "Python bindings for the Qt cross-platform application and UI framework.",
             "tags": []
           },
@@ -49088,6 +49106,12 @@
             "name": "conda",
             "url": "https://github.com/conda/conda/",
             "description": "Cross-platform, Python-agnostic binary package manager.",
+            "tags": []
+          },
+          {
+            "name": "Hatch",
+            "url": "https://github.com/pypa/hatch",
+            "description": "Modern, extensible Python project management.",
             "tags": []
           },
           {
@@ -50328,6 +50352,12 @@
             "name": "microdot",
             "url": "https://github.com/miguelgrinberg/microdot",
             "description": "The impossibly small web framework for Python and MicroPython.",
+            "tags": []
+          },
+          {
+            "name": "reflex",
+            "url": "https://github.com/reflex-dev/reflex",
+            "description": "\u2013 A framework for building reactive, full-stack web applications entirely with python .",
             "tags": []
           },
           {
