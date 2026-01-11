@@ -22118,6 +22118,12 @@
             "tags": []
           },
           {
+            "name": "wspp",
+            "url": "https://github.com/pinwhell/wspp",
+            "description": "a zero-dependency single-header, modern WebSocket client & server, ws/wss library. [MIT]",
+            "tags": []
+          },
+          {
             "name": "PcapPlusPlus",
             "url": "https://github.com/seladb/PcapPlusPlus",
             "description": "a multiplatform C++ network sniffing and packet parsing and crafting framework. [Unlicense]",
