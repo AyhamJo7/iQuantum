@@ -47282,6 +47282,12 @@
             "tags": []
           },
           {
+            "name": "dynaconf",
+            "url": "https://github.com/dynaconf/dynaconf",
+            "description": "Dynaconf is a configuration manager with plugins for Django, Flask and FastAPI.",
+            "tags": []
+          },
+          {
             "name": "hydra",
             "url": "https://github.com/facebookresearch/hydra",
             "description": "Hydra is a framework for elegantly configuring complex applications.",
@@ -47833,6 +47839,12 @@
             "name": "borg",
             "url": "https://github.com/borgbackup/borg",
             "description": "A deduplicating archiver with compression and encryption.",
+            "tags": []
+          },
+          {
+            "name": "chaostoolkit",
+            "url": "https://github.com/chaostoolkit/chaostoolkit",
+            "description": "A Chaos Engineering toolkit & Orchestration for Developers.",
             "tags": []
           }
         ]
