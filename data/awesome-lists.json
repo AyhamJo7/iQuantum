@@ -3,6 +3,82 @@
     "name": "Awesome Go",
     "categories": [
       {
+        "name": "Actor Model",
+        "resources": [
+          {
+            "name": "asyncmachine-go/pkg/machine",
+            "url": "https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine",
+            "description": "Graph control flow library (AOP, actor, state-machine).",
+            "tags": []
+          },
+          {
+            "name": "Ergo",
+            "url": "https://github.com/ergo-services/ergo",
+            "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
+            "tags": []
+          },
+          {
+            "name": "Goakt",
+            "url": "https://github.com/Tochemey/goakt",
+            "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
+            "tags": []
+          },
+          {
+            "name": "Hollywood",
+            "url": "https://github.com/anthdm/hollywood",
+            "description": "Blazingly fast and light-weight Actor engine written in Golang.",
+            "tags": []
+          },
+          {
+            "name": "ProtoActor",
+            "url": "https://github.com/asynkron/protoactor-go",
+            "description": "Distributed actors for Go, C#, and Java/Kotlin.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "resources": [
+          {
+            "name": "chromem-go",
+            "url": "https://github.com/philippgille/chromem-go",
+            "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
+            "tags": []
+          },
+          {
+            "name": "fun",
+            "url": "https://gitlab.com/tozd/go/fun",
+            "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
+            "tags": []
+          },
+          {
+            "name": "langchaingo",
+            "url": "https://github.com/tmc/langchaingo",
+            "description": "LangChainGo is a framework for developing applications powered by language models.",
+            "tags": []
+          },
+          {
+            "name": "LocalAI",
+            "url": "https://github.com/mudler/LocalAI",
+            "description": "Open Source OpenAI alternative, self-host AI models.",
+            "tags": []
+          },
+          {
+            "name": "Ollama",
+            "url": "https://github.com/jmorganca/ollama",
+            "description": "Run large language models locally.",
+            "tags": []
+          },
+          {
+            "name": "OllamaFarm",
+            "url": "https://github.com/presbrey/ollamafarm",
+            "description": "Manage, load-balance, and failover packs of Ollamas.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Audio and Music",
         "resources": [
           {
@@ -6418,6 +6494,12 @@
             "name": "omg.jsonparser",
             "url": "https://github.com/dedalqq/omg.jsonparser",
             "description": "Simple JSON parser with validation by condition via golang struct fields tags.",
+            "tags": []
+          },
+          {
+            "name": "SJSON",
+            "url": "https://github.com/tidwall/sjson",
+            "description": "Set a JSON value with one line of code.",
             "tags": []
           },
           {
@@ -26329,6 +26411,12 @@
             "tags": []
           },
           {
+            "name": "pikeru",
+            "url": "https://github.com/dvhar/pikeru",
+            "description": "File picker for linux with good thumbnails and search",
+            "tags": []
+          },
+          {
             "name": "xplr",
             "url": "https://github.com/sayanarijit/xplr",
             "description": "A hackable, minimal, fast TUI file explorer",
@@ -26716,12 +26804,6 @@
             "tags": []
           },
           {
-            "name": "adamperkowski/highlightos",
-            "url": "https://github.com/adamperkowski/highlightos",
-            "description": "x86_64 OS kernel written in Rust & Assembly.",
-            "tags": []
-          },
-          {
             "name": "Andy-Python-Programmer/aero",
             "url": "https://github.com/Andy-Python-Programmer/aero",
             "description": "A modern, unix-like operating system following the monolithic kernel design.",
@@ -26737,6 +26819,12 @@
             "name": "DragonOS-Community/DragonOS",
             "url": "https://github.com/DragonOS-Community/DragonOS",
             "description": "An operating system with a self-developed kernel from scratch and Linux compatibility.",
+            "tags": []
+          },
+          {
+            "name": "koibtw/highlightos",
+            "url": "https://github.com/koibtw/highlightos",
+            "description": "x86_64 OS kernel written in Rust & Assembly.",
             "tags": []
           },
           {
@@ -41977,6 +42065,12 @@
             "tags": []
           },
           {
+            "name": "Spring Data Dynamic Query",
+            "url": "https://github.com/tdilber/spring-data-dynamic-query",
+            "description": "Unified dynamic query interface for Spring Data JPA, MongoDB, and Elasticsearch, enabling advanced JOIN(s), OR logic, scoped conditions, powerful projections and advanced features with zero boilerplate.",
+            "tags": []
+          },
+          {
             "name": "Spring Data JPA MongoDB Expressions",
             "url": "https://github.com/mhewedy/spring-data-jpa-mongodb-expressions",
             "description": "Allows you to use MongoDB query language to query your relational database.",
@@ -42692,6 +42786,12 @@
             "name": "SnapKit",
             "url": "https://github.com/reportmill/SnapKit",
             "description": "Modern Java UI library for both desktop and web.",
+            "tags": []
+          },
+          {
+            "name": "Sierra",
+            "url": "https://github.com/HTTP-RPC/Sierra",
+            "description": "Lightwieght declarative DSL for rapid development of Swing applications.",
             "tags": []
           },
           {
@@ -43635,6 +43735,12 @@
             "tags": []
           },
           {
+            "name": "JBang",
+            "url": "https://www.jbang.dev/",
+            "description": "JBang makes it easy to use Java for scripting. It lets you use a single file for code and dependency management and allows you to run it directly.",
+            "tags": []
+          },
+          {
             "name": "JBot",
             "url": "https://github.com/rampatra/jbot",
             "description": "Framework for building chatbots. (GPL-3.0-only)",
@@ -43800,12 +43906,6 @@
             "name": "yGuard",
             "url": "https://github.com/yWorks/yGuard",
             "description": "Obfuscation via renaming and shrinking.",
-            "tags": []
-          },
-          {
-            "name": "JBang",
-            "url": "https://github.com/maxandersen/jbang/",
-            "description": "JBang makes it easy to use Java for scripting. It lets you use a single file for\n  code and dependency management and allows you to run it directly.",
             "tags": []
           }
         ]
@@ -44323,7 +44423,7 @@
           },
           {
             "name": "Open HTML to PDF",
-            "url": "https://github.com/danfickle/openhtmltopdf",
+            "url": "https://github.com/openhtmltopdf/openhtmltopdf",
             "description": "Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.",
             "tags": []
           },
@@ -44940,6 +45040,12 @@
             "tags": []
           },
           {
+            "name": "jSciPy",
+            "url": "https://github.com/hissain/jscipy",
+            "description": "jSciPy is a Java library designed for scientific computing, offering functionalities inspired by popular scientific computing libraries. It currently provides modules for signal processing, including Butterworth filters, peak finding algorithms, and an RK4 solver for ordinary differential equations.",
+            "tags": []
+          },
+          {
             "name": "LogicNG",
             "url": "https://github.com/logic-ng/LogicNG",
             "description": "Library for creating, manipulating and solving Boolean and Pseudo-Boolean formulas.",
@@ -45468,6 +45574,12 @@
             "tags": []
           },
           {
+            "name": "BitDive",
+            "url": "https://bitdive.io",
+            "description": "Zero-code integration testing platform that generates tests from runtime application behavior.",
+            "tags": []
+          },
+          {
             "name": "cdi-test",
             "url": "https://github.com/guhilling/cdi-test",
             "description": "JUnit extension for easy and efficient testing of CDI components.",
@@ -45953,6 +46065,12 @@
             "name": "WebForms Core",
             "url": "https://github.com/webforms-core",
             "description": "A technology for managing HTML tags from the server.",
+            "tags": []
+          },
+          {
+            "name": "Erupt",
+            "url": "https://github.com/erupts/erupt",
+            "description": "Annotation-Driven Low-Code & JPA Visualization",
             "tags": []
           }
         ]
@@ -48818,6 +48936,12 @@
             "name": "gym",
             "url": "https://github.com/openai/gym",
             "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+            "tags": []
+          },
+          {
+            "name": "Feature-engine",
+            "url": "https://github.com/feature-engine/feature_engine",
+            "description": "sklearn compatible API with the widest toolset for feature engineering and selection.",
             "tags": []
           },
           {
@@ -57642,6 +57766,12 @@
             "tags": []
           },
           {
+            "name": "Cronmaster",
+            "url": "https://github.com/fccview/cronmaster",
+            "description": "Cronjob management UI with human readable syntax, live logging and log history for your cronjobs. AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Dagu",
             "url": "https://docs.dagu.cloud/",
             "description": "Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ( Source Code ) GPL-3.0 Go/Docker",
@@ -60305,6 +60435,12 @@
             "tags": []
           },
           {
+            "name": "PrivyDrop",
+            "url": "https://www.privydrop.app",
+            "description": "Simple and user-friendly, breakpoint-resumable peer-to-peer text, image, and file transfer tool based on WebRTC. ( Source Code ) MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "qBittorrent",
             "url": "https://www.qbittorrent.org/",
             "description": "Free cross-platform bittorrent client with a feature rich Web UI for remote access. ( Source Code ) GPL-2.0 C++",
@@ -60896,6 +61032,18 @@
             "name": "Khoj",
             "url": "https://khoj.dev/",
             "description": "Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "LLM Harbor",
+            "url": "https://github.com/av/harbor",
+            "description": "Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. Apache-2.0 Docker/Shell",
+            "tags": []
+          },
+          {
+            "name": "LocalAI",
+            "url": "https://localai.io/",
+            "description": "Run your AI models locally and generate images and audio (alternative to OpenAI and Claude). ( Source Code , Clients ) MIT Docker/K8S",
             "tags": []
           },
           {
@@ -64081,6 +64229,12 @@
             "tags": []
           },
           {
+            "name": "autokitteh",
+            "url": "https://autokitteh.com/",
+            "description": "Durable workflow automation in just a few lines of code. ( Source Code ) Apache-2.0 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Dashpress",
             "url": "https://github.com/dashpresshq/dashpress",
             "description": "Generate fully functional admin apps in seconds from your database information, with a single command. AGPL-3.0 Nodejs/Docker",
@@ -64503,6 +64657,12 @@
             "tags": []
           },
           {
+            "name": "tududi",
+            "url": "https://tududi.com/",
+            "description": "Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration. ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "Vikunja",
             "url": "https://vikunja.io/",
             "description": "The to-do app to organize your life. ( Demo , Source Code ) GPL-3.0 Go",
@@ -64718,6 +64878,12 @@
             "name": "Frigate",
             "url": "https://frigate.video/",
             "description": "Monitor your security cameras with locally processed AI. ( Source Code ) MIT Docker/Python/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "motionEye",
+            "url": "https://github.com/motioneye-project/motioneye",
+            "description": "Online interface for the software Motion, a video surveillance program with motion detection. GPL-3.0 Python/Docker",
             "tags": []
           },
           {
