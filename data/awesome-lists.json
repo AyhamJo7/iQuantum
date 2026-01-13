@@ -13255,6 +13255,12 @@
             "tags": []
           },
           {
+            "name": "stacktower",
+            "url": "https://github.com/matzehuels/stacktower",
+            "description": "Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.",
+            "tags": []
+          },
+          {
             "name": "statiks",
             "url": "https://github.com/janiltonmaciel/statiks",
             "description": "Fast, zero-configuration, static HTTP filer server.",
@@ -48628,6 +48634,12 @@
         "name": "Hardware",
         "resources": [
           {
+            "name": "bleak",
+            "url": "https://github.com/hbldh/bleak",
+            "description": "A cross platform Bluetooth Low Energy Client for Python using asyncio.",
+            "tags": []
+          },
+          {
             "name": "keyboard",
             "url": "https://github.com/boppreh/keyboard",
             "description": "Hook and simulate global keyboard events on Windows and Linux.",
@@ -48933,6 +48945,12 @@
         "name": "Machine Learning",
         "resources": [
           {
+            "name": "diffusers",
+            "url": "https://github.com/huggingface/diffusers",
+            "description": "A library that provides pretrained diffusion models for generating and editing images, audio, and video.",
+            "tags": []
+          },
+          {
             "name": "gym",
             "url": "https://github.com/openai/gym",
             "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
@@ -48978,6 +48996,12 @@
             "name": "Spark ML",
             "url": "http://spark.apache.org/docs/latest/ml-guide.html",
             "description": "Apache Spark 's scalable Machine Learning library.",
+            "tags": []
+          },
+          {
+            "name": "Transformers",
+            "url": "https://github.com/huggingface/transformers",
+            "description": "A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.",
             "tags": []
           },
           {
@@ -49704,6 +49728,12 @@
             "name": "marshmallow",
             "url": "https://github.com/marshmallow-code/marshmallow",
             "description": "A lightweight library for converting complex objects to and from simple Python datatypes.",
+            "tags": []
+          },
+          {
+            "name": "orjson",
+            "url": "https://github.com/ijl/orjson",
+            "description": "Fast, correct JSON library.",
             "tags": []
           },
           {
@@ -50727,7 +50757,7 @@
           {
             "name": "remix",
             "url": "https://github.com/remix-run/remix",
-            "description": "Full stack web Framework that lets you focus on the user interface",
+            "description": "Full-stack web Framework that lets you focus on the user interface",
             "tags": []
           },
           {
@@ -50901,7 +50931,7 @@
           {
             "name": "immutable-js",
             "url": "https://github.com/immutable-js/immutable-js",
-            "description": "Immutable persistent data collections for Javascript",
+            "description": "Immutable persistent data collections for JavaScript",
             "tags": []
           },
           {
@@ -57701,6 +57731,12 @@
             "tags": []
           },
           {
+            "name": "Piler",
+            "url": "https://www.mailpiler.org/",
+            "description": "Feature-rich email archiving solution. ( Source Code ) GPL-3.0 C/Docker/deb",
+            "tags": []
+          },
+          {
             "name": "Wallabag",
             "url": "https://www.wallabag.org",
             "description": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ( Source Code ) MIT PHP",
@@ -58554,12 +58590,6 @@
             "name": "Dovecot",
             "url": "https://www.dovecot.org/",
             "description": "IMAP and POP3 server written primarily with security in mind. ( Source Code ) MIT/LGPL-2.1 C/deb",
-            "tags": []
-          },
-          {
-            "name": "Piler",
-            "url": "https://www.mailpiler.org/",
-            "description": "Feature-rich email archiving solution. ( Source Code ) GPL-3.0 C",
             "tags": []
           }
         ]
@@ -72846,6 +72876,12 @@
             "tags": []
           },
           {
+            "name": "DB Pro",
+            "url": "https://dbpro.app",
+            "description": "Modern, cross-platform database client, focusing on performance and a polished developer experience",
+            "tags": []
+          },
+          {
             "name": "ElectroCRUD",
             "url": "http://garrylachman.github.io/ElectroCRUD/",
             "description": "Modern MySQL CRUD application.",
@@ -74287,21 +74323,9 @@
             "tags": []
           },
           {
-            "name": "VoiceInk",
-            "url": "https://tryvoiceink.com/",
-            "description": "Real-time speech-to-text app.",
-            "tags": []
-          },
-          {
             "name": "Audio Profile Manager",
             "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12",
             "description": "Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.",
-            "tags": []
-          },
-          {
-            "name": "Aiko",
-            "url": "https://sindresorhus.com/aiko",
-            "description": "High-quality on-device transcription.",
             "tags": []
           },
           {
@@ -74332,12 +74356,6 @@
             "name": "BlackHole",
             "url": "https://github.com/ExistentialAudio/BlackHole",
             "description": "Freemium, open-source virtual output/input audio driver for recording/routing internal audio.",
-            "tags": []
-          },
-          {
-            "name": "buzz",
-            "url": "https://github.com/chidiwilliams/buzz",
-            "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
             "tags": []
           },
           {
@@ -74665,12 +74683,6 @@
             "tags": []
           },
           {
-            "name": "Whispering",
-            "url": "https://epicenter.md/whispering/",
-            "description": "Multi-provider speech-to-text with AI transformations and keyboard shortcuts.",
-            "tags": []
-          },
-          {
             "name": "YouTube Music",
             "url": "https://th-ch.github.io/youtube-music/",
             "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader).",
@@ -74910,6 +74922,53 @@
             "name": "InputSourcePro",
             "url": "https://inputsource.pro/",
             "description": "A tool for multilingual users that automatically switches the input source across applications and websites.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Voice-to-Text",
+        "resources": [
+          {
+            "name": "Aiko",
+            "url": "https://sindresorhus.com/aiko",
+            "description": "High-quality on-device transcription.",
+            "tags": []
+          },
+          {
+            "name": "buzz",
+            "url": "https://github.com/chidiwilliams/buzz",
+            "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "tags": []
+          },
+          {
+            "name": "Ottex",
+            "url": "https://ottex.ai",
+            "description": "Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly \u2014 gmail.com \u2192 email, Obsidian \u2192 markdown, etc.",
+            "tags": []
+          },
+          {
+            "name": "Spokenly",
+            "url": "https://spokenly.app/",
+            "description": "Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.",
+            "tags": []
+          },
+          {
+            "name": "VoiceInk",
+            "url": "https://tryvoiceink.com/",
+            "description": "Real-time speech-to-text app.",
+            "tags": []
+          },
+          {
+            "name": "Whispering",
+            "url": "https://epicenter.md/whispering/",
+            "description": "Multi-provider speech-to-text with AI transformations and keyboard shortcuts.",
+            "tags": []
+          },
+          {
+            "name": "Willow Voice",
+            "url": "https://willowvoice.com/",
+            "description": "AI dictation with automatic editing, style-matching, and noise optimization.",
             "tags": []
           }
         ]
