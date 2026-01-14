@@ -24508,7 +24508,7 @@
           {
             "name": "XMake",
             "url": "https://xmake.io/",
-            "description": "A C/C++ cross-platform build utility based on Lua. [Apache]",
+            "description": "A C/C++ cross-platform build utility based on Lua that comes with an integrated package manager, xrepo. [Apache]",
             "tags": []
           }
         ]
@@ -29435,6 +29435,12 @@
             "name": "rust-ml/linfa",
             "url": "https://github.com/rust-ml/linfa",
             "description": "Machine learning framework.",
+            "tags": []
+          },
+          {
+            "name": "sipemu/anofox-regression",
+            "url": "https://github.com/sipemu/anofox-regression",
+            "description": "[ anofox-regression ] - Statistical regression models (OLS, Elastic Net, GLM, Quantile & Isotonic) with R-like inference (p-values, confidence & prediction intervals) and Wasm support.",
             "tags": []
           },
           {
@@ -71694,6 +71700,12 @@
             "name": "Highlights",
             "url": "https://highlightsapp.net",
             "description": "The PDF Reader for Research on Mac, iPad & iPhone.",
+            "tags": []
+          },
+          {
+            "name": "PDF Auditor",
+            "url": "https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac",
+            "description": "PDF forensics tool for analyzing metadata, fonts, JavaScript, security risks, and structural integrity.",
             "tags": []
           },
           {
