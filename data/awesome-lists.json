@@ -26903,6 +26903,12 @@
             "tags": []
           },
           {
+            "name": "agent-of-empires",
+            "url": "https://github.com/njbrake/agent-of-empires",
+            "description": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
+            "tags": []
+          },
+          {
             "name": "aichat",
             "url": "https://github.com/sigoden/aichat",
             "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
@@ -47736,6 +47742,12 @@
             "tags": []
           },
           {
+            "name": "Django MongoDB Backend",
+            "url": "https://github.com/mongodb/django-mongodb-backend",
+            "description": "Official MongoDB database backend for Django.",
+            "tags": []
+          },
+          {
             "name": "happybase",
             "url": "https://github.com/python-happybase/happybase",
             "description": "A developer-friendly library for Apache HBase.",
@@ -48109,6 +48121,12 @@
             "name": "akshare",
             "url": "https://github.com/jindaxiang/akshare",
             "description": "A financial data interface library, built for human beings!",
+            "tags": []
+          },
+          {
+            "name": "OpenBB",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "description": "A financial data platform for analysts, quants and AI agents.",
             "tags": []
           },
           {
@@ -48526,6 +48544,12 @@
             "name": "geojson",
             "url": "https://github.com/jazzband/geojson",
             "description": "Python bindings and utilities for GeoJSON.",
+            "tags": []
+          },
+          {
+            "name": "geopandas",
+            "url": "https://github.com/geopandas/geopandas",
+            "description": "Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.",
             "tags": []
           },
           {
@@ -48993,6 +49017,12 @@
             "tags": []
           },
           {
+            "name": "RAGFlow",
+            "url": "https://github.com/infiniflow/ragflow",
+            "description": "An open-source RAG engine for document understanding and question answering with LLMs.",
+            "tags": []
+          },
+          {
             "name": "scikit-learn",
             "url": "http://scikit-learn.org/",
             "description": "The most popular Python library for Machine Learning.",
@@ -49243,6 +49273,12 @@
             "name": "mongoengine",
             "url": "https://github.com/MongoEngine/mongoengine",
             "description": "A Python Object-Document-Mapper for working with MongoDB.",
+            "tags": []
+          },
+          {
+            "name": "ODMantic",
+            "url": "https://github.com/art049/odmantic",
+            "description": "Sync and Async ODM for MongoDB built on top of Pydantic for model definition and validation.",
             "tags": []
           },
           {
@@ -49607,6 +49643,12 @@
             "tags": []
           },
           {
+            "name": "manim",
+            "url": "https://github.com/ManimCommunity/manim",
+            "description": "An animation engine for explanatory math videos.",
+            "tags": []
+          },
+          {
             "name": "NetworkX",
             "url": "https://networkx.github.io/",
             "description": "A high-productivity software for complex networks.",
@@ -49664,6 +49706,12 @@
             "name": "SciPy",
             "url": "https://www.scipy.org/",
             "description": "A Python-based ecosystem of open-source software for mathematics, science, and engineering.",
+            "tags": []
+          },
+          {
+            "name": "shapely",
+            "url": "https://github.com/shapely/shapely",
+            "description": "Manipulation and analysis of geometric objects in the Cartesian plane.",
             "tags": []
           },
           {
@@ -51319,9 +51367,9 @@
             "tags": []
           },
           {
-            "name": "react-inltayer",
+            "name": "react-intlayer",
             "url": "https://github.com/aymericzip/intlayer",
-            "description": "Internationalization focused on maintenability for React",
+            "description": "Internationalization focused on maintainability for React",
             "tags": []
           },
           {
