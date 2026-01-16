@@ -47188,6 +47188,12 @@
             "tags": []
           },
           {
+            "name": "ty",
+            "url": "https://github.com/astral-sh/ty",
+            "description": "An extremely fast Python type checker and language server.",
+            "tags": []
+          },
+          {
             "name": "typeshed",
             "url": "https://github.com/python/typeshed",
             "description": "Collection of library stubs for Python, with static types.",
@@ -47776,6 +47782,12 @@
             "url": "https://github.com/redis/redis-py",
             "description": "The Python client for Redis.",
             "tags": []
+          },
+          {
+            "name": "Beanie",
+            "url": "https://github.com/BeanieODM/beanie",
+            "description": "An asynchronous Python object-document mapper (ODM) for MongoDB.",
+            "tags": []
           }
         ]
       },
@@ -48133,6 +48145,12 @@
             "name": "s3cmd",
             "url": "https://github.com/s3tools/s3cmd",
             "description": "A command line tool for managing Amazon S3 and CloudFront.",
+            "tags": []
+          },
+          {
+            "name": "yfinance",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "description": "Easy Pythonic way to download market and financial data from Yahoo Finance.",
             "tags": []
           },
           {
@@ -49305,19 +49323,13 @@
             "tags": []
           },
           {
-            "name": "PyPI",
-            "url": "https://pypi.org/",
-            "description": "",
-            "tags": []
-          },
-          {
             "name": "conda",
             "url": "https://github.com/conda/conda/",
             "description": "Cross-platform, Python-agnostic binary package manager.",
             "tags": []
           },
           {
-            "name": "Hatch",
+            "name": "hatch",
             "url": "https://github.com/pypa/hatch",
             "description": "Modern, extensible Python project management.",
             "tags": []
@@ -50565,13 +50577,13 @@
           {
             "name": "fastHTML",
             "url": "https://github.com/AnswerDotAI/fasthtml",
-            "description": "The fastest way to create an HTML app.",
+            "description": "The fastest way to create an HTML app. awesome-fasthtml",
             "tags": []
           },
           {
             "name": "masonite",
             "url": "https://github.com/MasoniteFramework/masonite",
-            "description": "The modern and developer centric Python web framework. awesome-fasthtml",
+            "description": "The modern and developer centric Python web framework.",
             "tags": []
           },
           {
@@ -58415,12 +58427,6 @@
             "tags": []
           },
           {
-            "name": "Revolt",
-            "url": "https://revolt.chat/",
-            "description": "Revolt is a user-first chat platform built with modern web technologies. ( Source Code ) AGPL-3.0 Rust",
-            "tags": []
-          },
-          {
             "name": "Rocket.Chat",
             "url": "https://rocket.chat/",
             "description": "Communications platform that puts data protection first (alternative to Gitter.im and Slack). ( Source Code ) MIT Nodejs/Docker/K8S",
@@ -58454,6 +58460,12 @@
             "name": "Spectrum 2",
             "url": "https://spectrum.im/",
             "description": "Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ( Source Code ) GPL-3.0 C++",
+            "tags": []
+          },
+          {
+            "name": "Stoat",
+            "url": "https://stoat.chat/",
+            "description": "Stoat is a user-first chat platform built with modern web technologies. ( Source Code ) AGPL-3.0/MIT Rust",
             "tags": []
           },
           {
@@ -59793,7 +59805,7 @@
           {
             "name": "NocoDB",
             "url": "https://www.nocodb.com/",
-            "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable and Smartsheet). ( Source Code ) AGPL-3.0 Nodejs/Docker",
+            "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable and Smartsheet). ( Source Code ) SUL-1.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -73989,6 +74001,12 @@
             "name": "remio",
             "url": "https://www.remio.ai/?utm_source=github_list",
             "description": "A personal ChatGPT that \u200b\u200bresponds based on your knowledge\u200b\u200b. Lastest LLMs, Local first, and BYOK supported.",
+            "tags": []
+          },
+          {
+            "name": "Warden",
+            "url": "https://karatsidhu.gumroad.com/l/warden",
+            "description": "A Native Swift macOS app that lets you run multiple LLM models using your own API keys.",
             "tags": []
           }
         ]
