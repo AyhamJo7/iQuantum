@@ -18804,6 +18804,12 @@
             "tags": []
           },
           {
+            "name": "TooManyCooks",
+            "url": "https://github.com/tzcnt/TooManyCooks/",
+            "description": "High-performance C++20 coroutine framework with advanced hardware detection features. [BSL-1.0]",
+            "tags": []
+          },
+          {
             "name": "transwarp",
             "url": "https://github.com/bloomen/transwarp",
             "description": "A header-only C++ library for task concurrency. [MIT]",
@@ -49035,6 +49041,12 @@
             "tags": []
           },
           {
+            "name": "pydantic-ai",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "description": "A Python agent framework for building generative AI applications with structured schemas.",
+            "tags": []
+          },
+          {
             "name": "RAGFlow",
             "url": "https://github.com/infiniflow/ragflow",
             "description": "An open-source RAG engine for document understanding and question answering with LLMs.",
@@ -72067,6 +72079,12 @@
             "tags": []
           },
           {
+            "name": "CoilPad",
+            "url": "https://coilpad.com",
+            "description": "Native macOS Python scratchpad designed for instant prototyping and interactive learning.",
+            "tags": []
+          },
+          {
             "name": "Conduktor",
             "url": "https://www.conduktor.io",
             "description": "Kafka desktop client.",
@@ -75772,12 +75790,6 @@
             "tags": []
           },
           {
-            "name": "iGlance",
-            "url": "https://github.com/Moneypulation/iGlance",
-            "description": "macOS System Monitor for the Status Bar.",
-            "tags": []
-          },
-          {
             "name": "Itsycal",
             "url": "https://www.mowglii.com/itsycal/",
             "description": "Tiny calendar for your Mac's menu bar.",
@@ -76838,6 +76850,12 @@
             "name": "Moom",
             "url": "http://manytricks.com/moom/",
             "description": "Allows you to easily move and zoom windows, or to another display\u2014using either the mouse or the keyboard.",
+            "tags": []
+          },
+          {
+            "name": "Omni",
+            "url": "https://github.com/BarutSRB/OmniWM",
+            "description": "Notorized Niri and Hyprland inspired tiling window manager with animations.",
             "tags": []
           },
           {
@@ -78343,6 +78361,12 @@
             "name": "SwiftRouter",
             "url": "https://github.com/skyline75489/SwiftRouter",
             "description": "A URL Router for iOS.",
+            "tags": []
+          },
+          {
+            "name": "SwiftUIRoutes",
+            "url": "https://github.com/gabriel/swiftui-routes",
+            "description": "A minimal and flexible router for SwiftUI apps.",
             "tags": []
           },
           {
