@@ -2547,6 +2547,12 @@
             "tags": []
           },
           {
+            "name": "NoKV",
+            "url": "https://github.com/feichai0017/NoKV",
+            "description": "High-performance distributed KV storage based on LSM Tree.",
+            "tags": []
+          },
+          {
             "name": "nutsdb",
             "url": "https://github.com/xujiajun/nutsdb",
             "description": "Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
@@ -46747,12 +46753,6 @@
             "tags": []
           },
           {
-            "name": "pypattyrn",
-            "url": "https://github.com/tylerlaberge/PyPattyrn",
-            "description": "A simple yet effective library for implementing common design patterns.",
-            "tags": []
-          },
-          {
             "name": "python-patterns",
             "url": "https://github.com/faif/python-patterns",
             "description": "A collection of design patterns in Python.",
@@ -47500,6 +47500,12 @@
             "tags": []
           },
           {
+            "name": "docling",
+            "url": "https://github.com/docling-project/docling",
+            "description": "Library for converting documents into structured data.",
+            "tags": []
+          },
+          {
             "name": "optimus",
             "url": "https://github.com/hi-primus/optimus",
             "description": "Agile Data Science Workflows made easy with PySpark.",
@@ -47760,21 +47766,9 @@
             "tags": []
           },
           {
-            "name": "happybase",
-            "url": "https://github.com/python-happybase/happybase",
-            "description": "A developer-friendly library for Apache HBase.",
-            "tags": []
-          },
-          {
             "name": "kafka-python",
             "url": "https://github.com/dpkp/kafka-python",
             "description": "The Python client for Apache Kafka.",
-            "tags": []
-          },
-          {
-            "name": "motor",
-            "url": "https://github.com/mongodb/motor",
-            "description": "The async Python driver for MongoDB.",
             "tags": []
           },
           {
@@ -48049,12 +48043,6 @@
             "tags": []
           },
           {
-            "name": "faust",
-            "url": "https://github.com/robinhood/faust",
-            "description": "A stream processing library, porting the ideas from Kafka Streams to Python.",
-            "tags": []
-          },
-          {
             "name": "streamparse",
             "url": "https://github.com/Parsely/streamparse",
             "description": "Run Python code against real-time streams of data via Apache Storm .",
@@ -48227,12 +48215,6 @@
             "name": "modoboa",
             "url": "https://github.com/modoboa/modoboa",
             "description": "A mail hosting and management platform including a modern Web UI.",
-            "tags": []
-          },
-          {
-            "name": "salmon",
-            "url": "https://github.com/moggers87/salmon",
-            "description": "A Python Mail Server.",
             "tags": []
           },
           {
@@ -48694,12 +48676,6 @@
             "tags": []
           },
           {
-            "name": "keyboard",
-            "url": "https://github.com/boppreh/keyboard",
-            "description": "Hook and simulate global keyboard events on Windows and Linux.",
-            "tags": []
-          },
-          {
             "name": "mouse",
             "url": "https://github.com/boppreh/mouse",
             "description": "Hook and simulate global mouse events on Windows and Linux.",
@@ -48750,12 +48726,6 @@
             "name": "pyvips",
             "url": "https://github.com/libvips/pyvips",
             "description": "A fast image processing library with low memory needs.",
-            "tags": []
-          },
-          {
-            "name": "pywal",
-            "url": "https://github.com/dylanaraps/pywal",
-            "description": "A tool that generates color schemes from images.",
             "tags": []
           },
           {
@@ -48885,12 +48855,6 @@
             "name": "Babel",
             "url": "http://babel.pocoo.org/en/latest/",
             "description": "An internationalization library for Python.",
-            "tags": []
-          },
-          {
-            "name": "PyICU",
-            "url": "https://github.com/ovalhub/pyicu",
-            "description": "A wrapper of International Components for Unicode C++ library ( ICU ).",
             "tags": []
           }
         ]
@@ -49123,12 +49087,6 @@
             "tags": []
           },
           {
-            "name": "magenta",
-            "url": "https://github.com/magenta/magenta",
-            "description": "A tool to generate music and art using artificial intelligence.",
-            "tags": []
-          },
-          {
             "name": "pluginbase",
             "url": "https://github.com/mitsuhiko/pluginbase",
             "description": "A simple but flexible plugin system for Python.",
@@ -49173,18 +49131,6 @@
             "name": "polyglot",
             "url": "https://github.com/aboSamoor/polyglot",
             "description": "Natural language pipeline supporting hundreds of languages.",
-            "tags": []
-          },
-          {
-            "name": "pytext",
-            "url": "https://github.com/facebookresearch/pytext",
-            "description": "A natural language modeling framework based on PyTorch.",
-            "tags": []
-          },
-          {
-            "name": "PyTorch-NLP",
-            "url": "https://github.com/PetrochukM/PyTorch-NLP",
-            "description": "A toolkit enabling rapid deep learning NLP prototyping for research.",
             "tags": []
           },
           {
@@ -49267,12 +49213,6 @@
             "name": "dataset",
             "url": "https://github.com/pudo/dataset",
             "description": "Store Python dicts in a database - works with SQLite, MySQL, and PostgreSQL.",
-            "tags": []
-          },
-          {
-            "name": "orm",
-            "url": "https://github.com/encode/orm",
-            "description": "An async ORM.",
             "tags": []
           },
           {
@@ -49468,12 +49408,6 @@
             "tags": []
           },
           {
-            "name": "libffm",
-            "url": "https://github.com/guestwalk/libffm",
-            "description": "A library for Field-aware Factorization Machine (FFM).",
-            "tags": []
-          },
-          {
             "name": "lightfm",
             "url": "https://github.com/lyst/lightfm",
             "description": "A Python implementation of a number of popular recommendation algorithms.",
@@ -49594,12 +49528,6 @@
             "name": "PythonRobotics",
             "url": "https://github.com/AtsushiSakai/PythonRobotics",
             "description": "This is a compilation of various robotics algorithms with visualizations.",
-            "tags": []
-          },
-          {
-            "name": "rospy",
-            "url": "http://wiki.ros.org/rospy",
-            "description": "This is a library for ROS (Robot Operating System).",
             "tags": []
           }
         ]
@@ -49908,12 +49836,6 @@
             "tags": []
           },
           {
-            "name": "unoconv",
-            "url": "https://github.com/unoconv/unoconv",
-            "description": "Convert between any document format supported by LibreOffice/OpenOffice.",
-            "tags": []
-          },
-          {
             "name": "XlsxWriter",
             "url": "https://github.com/jmcnamara/XlsxWriter",
             "description": "A Python module for creating Excel .xlsx files.",
@@ -49923,12 +49845,6 @@
             "name": "xlwings",
             "url": "https://github.com/ZoomerAnalytics/xlwings",
             "description": "A BSD-licensed library that makes it easy to call Python from Excel and vice versa.",
-            "tags": []
-          },
-          {
-            "name": "xlwt",
-            "url": "https://github.com/python-excel/xlwt",
-            "description": "/ xlrd - Writing and reading data and formatting information from Excel files.",
             "tags": []
           },
           {
@@ -50269,12 +50185,6 @@
             "tags": []
           },
           {
-            "name": "fuzzywuzzy",
-            "url": "https://github.com/seatgeek/fuzzywuzzy",
-            "description": "Fuzzy String Matching.",
-            "tags": []
-          },
-          {
             "name": "Levenshtein",
             "url": "https://github.com/ztane/python-Levenshtein/",
             "description": "Fast computation of Levenshtein distance and string similarity.",
@@ -50341,12 +50251,6 @@
             "tags": []
           },
           {
-            "name": "ply",
-            "url": "https://github.com/dabeaz/ply",
-            "description": "Implementation of lex and yacc parsing tools for Python.",
-            "tags": []
-          },
-          {
             "name": "pygments",
             "url": "http://pygments.org/",
             "description": "A generic syntax highlighter.",
@@ -50397,12 +50301,6 @@
             "name": "purl",
             "url": "https://github.com/codeinthehole/purl",
             "description": "A simple, immutable URL class with a clean API for interrogation and manipulation.",
-            "tags": []
-          },
-          {
-            "name": "pyshorteners",
-            "url": "https://github.com/ellisonleao/pyshorteners",
-            "description": "A pure Python URL shortening lib.",
             "tags": []
           },
           {
@@ -67294,7 +67192,7 @@
           {
             "name": "Packalyst",
             "url": "https://packalyst.com/",
-            "description": "The Laravel Package Repository",
+            "description": "The Laravel package repository.",
             "tags": []
           },
           {
@@ -77248,6 +77146,12 @@
             "name": "everythingByMdfind",
             "url": "https://github.com/appledragon/everythingByMdfind",
             "description": "Fast file search using Spotlight.",
+            "tags": []
+          },
+          {
+            "name": "ExtendFS",
+            "url": "https://apps.kpchew.com/extendfs/",
+            "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension.",
             "tags": []
           },
           {
