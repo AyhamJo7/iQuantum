@@ -142,12 +142,6 @@
             "tags": []
           },
           {
-            "name": "play",
-            "url": "https://github.com/paololazzari/play",
-            "description": "Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC.",
-            "tags": []
-          },
-          {
             "name": "PortAudio",
             "url": "https://github.com/gordonklaus/portaudio",
             "description": "Go bindings for the PortAudio audio I/O library.",
@@ -9149,6 +9143,12 @@
             "tags": []
           },
           {
+            "name": "surf",
+            "url": "https://github.com/enetx/surf",
+            "description": "Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.",
+            "tags": []
+          },
+          {
             "name": "tls-client",
             "url": "https://github.com/bogdanfinn/tls-client",
             "description": "net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.",
@@ -9513,6 +9513,12 @@
             "name": "mql",
             "url": "https://github.com/hashicorp/mql",
             "description": "Model Query Language (mql) is a query language for your database models.",
+            "tags": []
+          },
+          {
+            "name": "play",
+            "url": "https://github.com/paololazzari/play",
+            "description": "A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.",
             "tags": []
           },
           {
@@ -34550,7 +34556,7 @@
           {
             "name": "Weave",
             "url": "https://github.com/weaveworks/weave",
-            "description": "(The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.",
+            "description": "(The Docker network) :skull: - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.",
             "tags": []
           }
         ]
@@ -35284,6 +35290,12 @@
             "tags": []
           },
           {
+            "name": "d4s",
+            "url": "https://github.com/jr-k/d4s",
+            "description": "A fast, keyboard-driven terminal UI to manage Docker containers, Compose stacks, and Swarm services with the ergonomics of K9s by @jr-k",
+            "tags": []
+          },
+          {
             "name": "dive",
             "url": "https://github.com/wagoodman/dive",
             "description": "A tool for exploring each layer in a docker image. By wagoodman .",
@@ -35308,6 +35320,12 @@
             "tags": []
           },
           {
+            "name": "DockMate",
+            "url": "https://github.com/shubh-io/dockmate",
+            "description": "Lightweight terminal-based Docker and Podman manager with a text-based user interface, by @shubh-io .",
+            "tags": []
+          },
+          {
             "name": "DockSTARTer",
             "url": "https://github.com/GhostWriters/DockSTARTer",
             "description": "DockSTARTer helps you get started with home server apps running in Docker by GhostWriters",
@@ -35317,6 +35335,12 @@
             "name": "docui",
             "url": "https://github.com/skanehira/docui",
             "description": ":skull: An interactive shell UI for managing Docker containers. Also works in Windows. By @skanehira",
+            "tags": []
+          },
+          {
+            "name": "dprs",
+            "url": "https://github.com/durableprogramming/dprs",
+            "description": "A developer-focused TUI for managing Docker containers with real-time log streaming and container management. Built with Rust. By @durableprogramming",
             "tags": []
           },
           {
@@ -57707,6 +57731,12 @@
             "tags": []
           },
           {
+            "name": "Open Archiver",
+            "url": "https://openarchiver.com/",
+            "description": "Email archiving solution with full-text search and eDiscovery search features. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Piler",
             "url": "https://www.mailpiler.org/",
             "description": "Feature-rich email archiving solution. ( Source Code ) GPL-3.0 C/Docker/deb",
@@ -59713,12 +59743,6 @@
             "tags": []
           },
           {
-            "name": "NocoDB",
-            "url": "https://www.nocodb.com/",
-            "description": "No-code platform that turns any database into a smart spreadsheet (alternative to Airtable and Smartsheet). ( Source Code ) SUL-1.0 Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "WebDB",
             "url": "https://webdb.app",
             "description": "Efficient database IDE. ( Demo , Source Code ) AGPL-3.0 Docker",
@@ -61662,8 +61686,14 @@
             "tags": []
           },
           {
+            "name": "TRIP",
+            "url": "https://itskovacs-trip.netlify.app/",
+            "description": "Minimalist POI Map tracker and Trip planner. ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "wanderer",
-            "url": "https://github.com/Flomp/wanderer",
+            "url": "https://github.com/open-wanderer/wanderer",
             "description": "Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ( Demo ) AGPL-3.0 Docker/Go/Nodejs",
             "tags": []
           }
@@ -61682,12 +61712,6 @@
             "name": "Headphones",
             "url": "https://github.com/rembo10/headphones",
             "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "Jellyseerr",
-            "url": "https://github.com/Fallenbagel/jellyseerr",
-            "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -61766,6 +61790,12 @@
             "name": "Reiverr",
             "url": "https://github.com/aleksilassila/reiverr",
             "description": "\u26a0 - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Seerr",
+            "url": "https://github.com/seerr-team/seerr",
+            "description": "Manage requests for your media library, supports Plex, Jellyfin and Emby media servers (fork of Overseerr). MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -61949,7 +61979,7 @@
           },
           {
             "name": "Snapcast",
-            "url": "https://github.com/badaix/snapcast",
+            "url": "https://github.com/snapcast/snapcast",
             "description": "Synchronous multiroom audio server. GPL-3.0 C++/deb",
             "tags": []
           },
@@ -62353,6 +62383,12 @@
             "tags": []
           },
           {
+            "name": "Infisical Community Edition",
+            "url": "https://infisical.com/",
+            "description": "Platform for secrets, certificates, and privileged access management. ( Source Code ) MIT Docker/K8S/deb",
+            "tags": []
+          },
+          {
             "name": "iSponsorBlockTV",
             "url": "https://github.com/dmunozv04/iSponsorBlockTV",
             "description": "\u26a0 - Block and skip sponsors, while also muting and skipping ads on YouTube. GPL-3.0 Docker/Python",
@@ -62751,6 +62787,12 @@
             "name": "SolidInvoice",
             "url": "https://solidinvoice.co",
             "description": "Open source invoicing and quote application. ( Source Code ) MIT PHP",
+            "tags": []
+          },
+          {
+            "name": "Sure",
+            "url": "https://github.com/we-promise/sure",
+            "description": "Personal finance application for everyone (fork of Maybe). AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -64238,12 +64280,6 @@
             "name": "autokitteh",
             "url": "https://autokitteh.com/",
             "description": "Durable workflow automation in just a few lines of code. ( Source Code ) Apache-2.0 Go/Docker",
-            "tags": []
-          },
-          {
-            "name": "Dashpress",
-            "url": "https://github.com/dashpresshq/dashpress",
-            "description": "Generate fully functional admin apps in seconds from your database information, with a single command. AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
