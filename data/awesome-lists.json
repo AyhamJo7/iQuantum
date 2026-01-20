@@ -8887,8 +8887,8 @@
           },
           {
             "name": "nodepass",
-            "url": "https://github.com/yosebyte/nodepass",
-            "description": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.",
+            "url": "https://github.com/NodePassProject/nodepass",
+            "description": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.",
             "tags": []
           },
           {
@@ -46802,7 +46802,7 @@
           {
             "name": "granian",
             "url": "https://github.com/emmett-framework/granian",
-            "description": "Granian is a Rust HTTP server for Python applications built on top of Hyper and Tokio,supporting WSGI/ASGI/RSGI.",
+            "description": "A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.",
             "tags": []
           },
           {
@@ -48277,6 +48277,18 @@
             "tags": []
           },
           {
+            "name": "pyenv-win",
+            "url": "https://github.com/pyenv-win/pyenv-win",
+            "description": "Pyenv for Windows, Simple Python version management.",
+            "tags": []
+          },
+          {
+            "name": "uv",
+            "url": "https://github.com/astral-sh/uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "tags": []
+          },
+          {
             "name": "virtualenv",
             "url": "https://github.com/pypa/virtualenv",
             "description": "A tool to create isolated Python environments.",
@@ -48396,7 +48408,7 @@
           {
             "name": "Flet",
             "url": "https://flet.dev",
-            "description": "Cross-platform GUI framework for building modern apps in pure Python. Run on Windows, macOS, Linux, Android, iOS, and the Web.",
+            "description": "Cross-platform GUI framework for building modern apps in pure Python.",
             "tags": []
           },
           {
@@ -48418,9 +48430,9 @@
             "tags": []
           },
           {
-            "name": "NiceGui",
+            "name": "NiceGUI",
             "url": "https://github.com/zauberzeug/nicegui",
-            "description": "It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases. You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.",
+            "description": "An easy-to-use, Python-based UI framework, which shows up in your web browser.",
             "tags": []
           },
           {
@@ -48508,7 +48520,7 @@
           {
             "name": "Cocos2d",
             "url": "https://www.cocos.com/en/cocos2d-x",
-            "description": "cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.",
+            "description": "A framework for building 2D games, demos, and other graphical/interactive applications.",
             "tags": []
           },
           {
@@ -48614,7 +48626,7 @@
           {
             "name": "JustHTML",
             "url": "https://github.com/EmilStenstrom/justhtml/",
-            "description": "A pure Python HTML5 parser that just works. No C extensions to compile. No system dependencies to install. No complex API to learn.",
+            "description": "A pure Python HTML5 parser that just works.",
             "tags": []
           },
           {
@@ -49038,6 +49050,12 @@
             "name": "RAGFlow",
             "url": "https://github.com/infiniflow/ragflow",
             "description": "An open-source RAG engine for document understanding and question answering with LLMs.",
+            "tags": []
+          },
+          {
+            "name": "rasa",
+            "url": "https://github.com/RasaHQ/rasa",
+            "description": "An open-source machine learning framework for automated text and voice-based conversations.",
             "tags": []
           },
           {
@@ -49893,6 +49911,12 @@
             "name": "ReportLab",
             "url": "https://www.reportlab.com/opensource/",
             "description": "Allowing Rapid creation of rich PDF documents.",
+            "tags": []
+          },
+          {
+            "name": "Jimmy",
+            "url": "https://github.com/marph91/jimmy",
+            "description": "Convert your notes to Markdown.",
             "tags": []
           },
           {
