@@ -27856,7 +27856,7 @@
         "resources": [
           {
             "name": "1History",
-            "url": "https://github.com/1History/1History",
+            "url": "https://github.com/localfirstapp/1History",
             "description": "Command line interface to backup Firefox/Chrome/Safari history to one SQLite file",
             "tags": []
           },
@@ -29477,6 +29477,12 @@
             "name": "tensorflow/rust",
             "url": "https://github.com/tensorflow/rust",
             "description": "Bindings for TensorFlow.",
+            "tags": []
+          },
+          {
+            "name": "0xplaygrounds/rig",
+            "url": "https://github.com/0xplaygrounds/rig",
+            "description": "Library for creating agents and modular, scalable LLM-powered applications",
             "tags": []
           },
           {
@@ -36107,6 +36113,12 @@
       {
         "name": "Linter",
         "resources": [
+          {
+            "name": "Dockadvisor",
+            "url": "https://github.com/deckrun/dockadvisor",
+            "description": "Lightweight Dockerfile linter with 60+ rules, quality scoring, and security checks by @deckrun",
+            "tags": []
+          },
           {
             "name": "docker-image-size-limit",
             "url": "https://github.com/wemake-services/docker-image-size-limit",
