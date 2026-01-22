@@ -27313,6 +27313,12 @@
             "tags": []
           },
           {
+            "name": "Cocoa-Way",
+            "url": "https://github.com/J-x-Z/cocoa-way",
+            "description": "[ homebrew ] - Native macOS Wayland compositor for running Linux GUI apps without VM overhead. Built with Smithay.",
+            "tags": []
+          },
+          {
             "name": "crabz",
             "url": "https://github.com/sstadick/crabz",
             "description": "Multi-threaded compression and decompression CLI tool",
