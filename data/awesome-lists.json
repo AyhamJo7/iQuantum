@@ -27695,6 +27695,12 @@
             "tags": []
           },
           {
+            "name": "Ferrite",
+            "url": "https://github.com/OlaProeis/Ferrite",
+            "description": "A cross-platform markdown editor built with egui, featuring live preview, syntax highlighting, and mermaid diagrams.",
+            "tags": []
+          },
+          {
             "name": "gchp/iota",
             "url": "https://github.com/gchp/iota",
             "description": "A simple text editor",
@@ -72799,6 +72805,12 @@
             "tags": []
           },
           {
+            "name": "Cocoa-Way",
+            "url": "https://github.com/J-x-Z/cocoa-way",
+            "description": "Native Wayland compositor for running Linux GUI apps on macOS without VM overhead. Uses waypipe for seamless integration.",
+            "tags": []
+          },
+          {
             "name": "MacVirtue",
             "url": "https://naden.co",
             "description": "Run free and unlimited Virtual Machines on your Mac.",
@@ -75709,6 +75721,12 @@
             "name": "DayBar",
             "url": "https://wangchujiang.com/daybar/",
             "description": "An application that can display the local date and reminder events in the menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Droppy",
+            "url": "https://iordv.github.io/Droppy/",
+            "description": "Turns your screen's notch (or Dynamic Island) into a multifunctional tool.",
             "tags": []
           },
           {
