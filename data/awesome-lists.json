@@ -26435,6 +26435,12 @@
             "tags": []
           },
           {
+            "name": "MangoDesk",
+            "url": "https://github.com/moyangzhan/mango-desk",
+            "description": "Search your files using nature language",
+            "tags": []
+          },
+          {
             "name": "pikeru",
             "url": "https://github.com/dvhar/pikeru",
             "description": "File picker for linux with good thumbnails and search",
@@ -32702,8 +32708,8 @@
         "name": "Reverse engineering",
         "resources": [
           {
-            "name": "binarly-io/idalib",
-            "url": "https://github.com/binarly-io/idalib",
+            "name": "idalib",
+            "url": "https://github.com/idalib-rs/idalib",
             "description": "[ idalib ] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0\u2019s idalib",
             "tags": []
           },
@@ -47347,6 +47353,12 @@
       {
         "name": "Command-line Tools",
         "resources": [
+          {
+            "name": "ccb",
+            "url": "https://github.com/bfly123/claude_code_bridge",
+            "description": "A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in Tmux panes with cross-agent interaction.",
+            "tags": []
+          },
           {
             "name": "cookiecutter",
             "url": "https://github.com/cookiecutter/cookiecutter",
@@ -74346,6 +74358,12 @@
             "name": "NearDrop",
             "url": "https://github.com/grishka/NearDrop",
             "description": "An unofficial Google Nearby Share/Quick Share app for macOS.",
+            "tags": []
+          },
+          {
+            "name": "Rclone UI",
+            "url": "https://rcloneui.com/",
+            "description": "The GUI for Rclone & S3.",
             "tags": []
           },
           {
