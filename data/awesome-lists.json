@@ -27005,6 +27005,12 @@
             "tags": []
           },
           {
+            "name": "mediar-ai/screenpipe",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.",
+            "tags": []
+          },
+          {
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
@@ -27180,6 +27186,12 @@
             "name": "kpcyrd/sniffglue",
             "url": "https://github.com/kpcyrd/sniffglue",
             "description": "A secure multithreaded packet sniffer",
+            "tags": []
+          },
+          {
+            "name": "LeChatP/RootAsRole",
+            "url": "https://github.com/LeChatP/RootAsRole",
+            "description": "A better alternative to sudo(-rs)/su \u2022 \u26a1 Blazing fast \u2022 \ud83d\udee1\ufe0f Memory-safe \u2022 \ud83d\udd10 Security-oriented",
             "tags": []
           },
           {
@@ -27704,6 +27716,12 @@
             "name": "Ferrite",
             "url": "https://github.com/OlaProeis/Ferrite",
             "description": "A cross-platform markdown editor built with egui, featuring live preview, syntax highlighting, and mermaid diagrams.",
+            "tags": []
+          },
+          {
+            "name": "Fresh",
+            "url": "https://github.com/sinelaw/fresh",
+            "description": "An easy-to-use, powerful and fast terminal text editor & IDE, with TypeScript plugin support.",
             "tags": []
           },
           {
@@ -49071,6 +49089,18 @@
             "tags": []
           },
           {
+            "name": "LangChain",
+            "url": "https://github.com/langchain-ai/langchain",
+            "description": "Building applications with LLMs through composability.",
+            "tags": []
+          },
+          {
+            "name": "LlamaIndex",
+            "url": "https://github.com/run-llama/llama_index",
+            "description": "A data framework for your LLM application.",
+            "tags": []
+          },
+          {
             "name": "Metrics",
             "url": "https://github.com/benhamner/Metrics",
             "description": "Machine learning evaluation metrics.",
@@ -50590,6 +50620,12 @@
             "name": "masonite",
             "url": "https://github.com/MasoniteFramework/masonite",
             "description": "The modern and developer centric Python web framework.",
+            "tags": []
+          },
+          {
+            "name": "Litestar",
+            "url": "https://github.com/litestar-org/litestar",
+            "description": "Production-ready, capable and extensible ASGI Web framework.",
             "tags": []
           },
           {
@@ -57788,6 +57824,12 @@
             "name": "Collective Access - Providence",
             "url": "https://collectiveaccess.org/",
             "description": "Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ( Source Code ) GPL-3.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Eonvelope",
+            "url": "https://dacid99.gitlab.io/eonvelope",
+            "description": "Email archiving software that allows you to preserve your emails for an indefinite long period of time. ( Source Code ) AGPL-3.0 K8S/Docker",
             "tags": []
           },
           {
@@ -73685,6 +73727,12 @@
             "name": "OBS Studio",
             "url": "https://github.com/obsproject/obs-studio",
             "description": "A free and open source software for live streaming and screen recording.",
+            "tags": []
+          },
+          {
+            "name": "Screenpipe",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "description": "24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.",
             "tags": []
           },
           {
