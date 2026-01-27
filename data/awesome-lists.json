@@ -29408,6 +29408,12 @@
             "tags": []
           },
           {
+            "name": "gemini-client-api",
+            "url": "https://crates.io/crates/gemini-client-api",
+            "description": "Library to use Google Gemini API. Automatic context management, schema generation, function calling and more.",
+            "tags": []
+          },
+          {
             "name": "autumnai/leaf",
             "url": "https://github.com/autumnai/leaf",
             "description": "Open Machine Intelligence framework.. Abandoned project. The most updated fork is juice .",
@@ -34245,6 +34251,12 @@
             "tags": []
           },
           {
+            "name": "LLM Harbor",
+            "url": "https://github.com/av/harbor",
+            "description": "A CLI and companion app to effortlessly run LLM backends, APIs, frontends, and services with one command. By @av",
+            "tags": []
+          },
+          {
             "name": "Maestro",
             "url": "https://github.com/toscanini/maestro",
             "description": ":skull: - Maestro provides the ability to easily launch, orchestrate and manage multiple Docker containers as single unit by @tascanini",
@@ -34890,6 +34902,12 @@
             "name": "Let's Encrypt Nginx-proxy Companion",
             "url": "https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion",
             "description": "A lightweight companion container for the nginx-proxy. It allow the creation/renewal of Let's Encrypt certificates automatically. By @JrCs",
+            "tags": []
+          },
+          {
+            "name": "mesh-router",
+            "url": "https://github.com/Yundera/mesh-router",
+            "description": "Free domain(nsl.sh) provider for Docker containers with automatic HTTPS routing. Uses Wireguard VPN to securely route subdomain requests across networks. Ideal for self-hosted NAS and cloud deployments. By @Yundera",
             "tags": []
           },
           {
@@ -51598,21 +51616,33 @@
         "name": "Editable data grid / spreadsheet",
         "resources": [
           {
-            "name": "fortune-sheet",
-            "url": "https://github.com/ruilisi/fortune-sheet",
-            "description": "An online spreedsheet component that provides out-of-the-box features just like Excel.",
-            "tags": []
-          },
-          {
             "name": "AG Grid",
             "url": "https://github.com/ag-grid/ag-grid",
             "description": "Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components.",
             "tags": []
           },
           {
+            "name": "fortune-sheet",
+            "url": "https://github.com/ruilisi/fortune-sheet",
+            "description": "An online spreedsheet component that provides out-of-the-box features just like Excel.",
+            "tags": []
+          },
+          {
             "name": "gigatables-react",
             "url": "https://github.com/GigaTables/reactables",
             "description": "Sorting, pagination/infinite scroll, global/column search, AJAX CRUD, and more.",
+            "tags": []
+          },
+          {
+            "name": "Handsontable",
+            "url": "https://github.com/handsontable/handsontable",
+            "description": "demo - docs - Data Grid with spreadsheet-like UI supporting React, Angular, TypeScript and JavaScript.",
+            "tags": []
+          },
+          {
+            "name": "jqwidgets-react-grid",
+            "url": "https://www.jqwidgets.com/react/react-grid/",
+            "description": "Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.",
             "tags": []
           },
           {
@@ -51628,21 +51658,27 @@
             "tags": []
           },
           {
-            "name": "revo-grid",
-            "url": "https://github.com/revolist/revogrid",
-            "description": "demo/docs - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.",
-            "tags": []
-          },
-          {
             "name": "ReactGrid",
             "url": "https://github.com/silevis/reactgrid",
             "description": "demo/docs - Add spreadsheet-like behavior to your app",
             "tags": []
           },
           {
-            "name": "jqwidgets-react-grid",
-            "url": "https://www.jqwidgets.com/react/react-grid/",
-            "description": "Filtering, Pagination, Grouping, Export to Excel, PDF, CRUD and more.",
+            "name": "revo-grid",
+            "url": "https://github.com/revolist/revogrid",
+            "description": "demo/docs - Powerfull Data Grid for React / AngularJS / Vue / Web Components with advanced customization.",
+            "tags": []
+          },
+          {
+            "name": "SheetXL",
+            "url": "https://github.com/sheetxl/sheetxl",
+            "description": "\u2013 A high-performance spreadsheet grid. TypeScript, ESM, Node/browser, Excel-compatible functions.",
+            "tags": []
+          },
+          {
+            "name": "SVAR React DataGrid",
+            "url": "https://svar.dev/react/datagrid/",
+            "description": "demo - docs - React DataGrid with in-cell editing, tree data, context menu, virtual scrolling, etc.",
             "tags": []
           }
         ]
@@ -51699,12 +51735,6 @@
             "tags": []
           },
           {
-            "name": "sematable",
-            "url": "https://github.com/sematext/sematable",
-            "description": "Client side sorting, pagination, and text filter for redux/react based apps.",
-            "tags": []
-          },
-          {
             "name": "DevExtreme React Grid",
             "url": "https://devexpress.github.io/devextreme-reactive/react/grid/",
             "description": "High-performance plugin-based data grid for Bootstrap and Material Design.",
@@ -51717,6 +51747,12 @@
             "tags": []
           },
           {
+            "name": "simple-table",
+            "url": "https://github.com/petera2c/simple-table",
+            "description": "demo - docs - Lightweight, fast and feature rich. Sorting/filtering, virtualization, tree data, nested headers, pinned columns, customized styling etc.",
+            "tags": []
+          },
+          {
             "name": "KendoReact Grid",
             "url": "https://www.telerik.com/kendo-react-ui/components/grid/",
             "description": "Powerful data grid component with 100+ ready-to-use features like paging, sorting, export to Excel, and more.",
@@ -51726,12 +51762,6 @@
             "name": "Material-React-Table",
             "url": "https://github.com/KevinVandy/material-react-table",
             "description": "A fully featured Material UI V5 implementation of TanStack React Table V8, written from the ground up in TypeScript",
-            "tags": []
-          },
-          {
-            "name": "AG Grid",
-            "url": "https://www.ag-grid.com/",
-            "description": "The Best JavaScript Grid in the World",
             "tags": []
           }
         ]
@@ -51793,6 +51823,12 @@
             "tags": []
           },
           {
+            "name": "@paratco/async-modal",
+            "url": "https://github.com/Paratco/async-modal",
+            "description": "Simple async modal handler for React.",
+            "tags": []
+          },
+          {
             "name": "reoverlay",
             "url": "https://github.com/hiradary/reoverlay",
             "description": "demo - The missing solution for managing modals.",
@@ -51846,15 +51882,15 @@
             "tags": []
           },
           {
-            "name": "reapop",
-            "url": "https://github.com/LouisBarranqueiro/reapop",
-            "description": "A React & Redux notifications system.",
+            "name": "react-confirm-lite",
+            "url": "https://github.com/SaadNasir-git/react-confirm-lite",
+            "description": "demo - is a lightweight, promise-based confirmation dialog for React with built-in Tailwind CSS support. It\u2019s designed to be as simple to use as react-toastify, while remaining fully customizable.",
             "tags": []
           },
           {
-            "name": "simple-react-notifications",
-            "url": "https://github.com/alexpermyakov/simple-react-notifications",
-            "description": "demo - Tiny notification library (1kb gzip).",
+            "name": "reapop",
+            "url": "https://github.com/LouisBarranqueiro/reapop",
+            "description": "A React & Redux notifications system.",
             "tags": []
           },
           {
@@ -52106,15 +52142,15 @@
         "name": "Chart",
         "resources": [
           {
-            "name": "chartify",
-            "url": "https://github.com/kirillstepkin/chartify",
-            "description": "React.js plugin for building animated draggable and customizable charts.",
-            "tags": []
-          },
-          {
             "name": "essential js 2 charts",
             "url": "https://github.com/syncfusion/ej2-react-ui-components/tree/master/components/charts",
             "description": "Beautiful and interactive charts & graphs for react.",
+            "tags": []
+          },
+          {
+            "name": "EazyChart",
+            "url": "https://github.com/Hexastack/eazychart",
+            "description": "demo - docs - Easily transform data into meaningful charts",
             "tags": []
           },
           {
@@ -52154,12 +52190,6 @@
             "tags": []
           },
           {
-            "name": "react-dazzle",
-            "url": "https://github.com/Raathigesh/Dazzle",
-            "description": "Dashboards made easy in React JS.",
-            "tags": []
-          },
-          {
             "name": "react-google-charts",
             "url": "https://github.com/RakanNimer/react-google-charts",
             "description": "React-google-charts React component.",
@@ -52169,12 +52199,6 @@
             "name": "react-highcharts",
             "url": "https://github.com/kirjs/react-highcharts",
             "description": "React-highcharts.",
-            "tags": []
-          },
-          {
-            "name": "react-sigmajs",
-            "url": "https://github.com/dunnock/react-sigma",
-            "description": "Lightweight but powerful library for drawing network graphs built on top of SigmaJS.",
             "tags": []
           },
           {
@@ -52217,6 +52241,12 @@
             "name": "semiotic",
             "url": "https://semiotic.nteract.io/",
             "description": "Semiotic is a data visualization framework for React.",
+            "tags": []
+          },
+          {
+            "name": "SVAR React Gantt",
+            "url": "https://svar.dev/react/gantt/",
+            "description": "demo - docs - Customizable, interactive Gantt chart component",
             "tags": []
           },
           {
@@ -52272,6 +52302,12 @@
         "name": "Tree",
         "resources": [
           {
+            "name": "json-edit-react",
+            "url": "https://github.com/CarlosNZ/json-edit-react",
+            "description": "demo - Highly configurable JSON/Object tree viewer and editor",
+            "tags": []
+          },
+          {
             "name": "react-arborist",
             "url": "https://github.com/brimdata/react-arborist",
             "description": "demo - A Full-Featured Tree View: headless, virtualized, multi-selectable, drag-n-drop, keyboard navigation, search",
@@ -52281,12 +52317,6 @@
             "name": "react-complex-tree",
             "url": "https://github.com/lukasbach/react-complex-tree",
             "description": "demo - docs - Unopinionated Accessible Tree Component with Multi-Select, Drag-And-Drop and Search",
-            "tags": []
-          },
-          {
-            "name": "react-treeview",
-            "url": "https://github.com/chenglou/react-treeview",
-            "description": "Easy, light, flexible tree view made with React.",
             "tags": []
           },
           {
@@ -52397,6 +52427,12 @@
             "name": "google-map-react",
             "url": "https://github.com/istarkov/google-map-react",
             "description": "Universal google map react component, allows render react components on the google map.",
+            "tags": []
+          },
+          {
+            "name": "mapkit",
+            "url": "https://github.com/1amageek/mapkit",
+            "description": "A library for integrating Apple Maps using MapKit JS, with annotations, overlays, and search.",
             "tags": []
           },
           {
@@ -52521,6 +52557,12 @@
             "name": "zoom-image",
             "url": "https://github.com/willnguyen1312/zoom-image",
             "description": "demo - docs - A little yet powerful framework agnostic library to zoom image on the web",
+            "tags": []
+          },
+          {
+            "name": "react-infinite-gallery",
+            "url": "https://github.com/AlirezaAzizi145/react-infinite-gallery",
+            "description": "\u2013 Infinite-scroll image gallery component for React apps.",
             "tags": []
           }
         ]
@@ -52683,12 +52725,6 @@
             "name": "react-demo-tab",
             "url": "https://github.com/mkosir/react-demo-tab",
             "description": "demo - A React component to easily create demos of other components.",
-            "tags": []
-          },
-          {
-            "name": "react-facebook",
-            "url": "https://github.com/CherryProjects/react-facebook",
-            "description": "Facebook components like a Login button, Like, Share, Comments, Page or Embedded Post.",
             "tags": []
           },
           {
@@ -53446,12 +53482,6 @@
             "tags": []
           },
           {
-            "name": "golden-layout",
-            "url": "https://github.com/deepstreamIO/golden-layout",
-            "description": "A multi-screen JavaScript Layout manager.",
-            "tags": []
-          },
-          {
             "name": "hedron",
             "url": "https://github.com/JSBros/hedron",
             "description": "A no-frills flexbox grid system, powered by styled-components.",
@@ -53473,6 +53503,12 @@
             "name": "react-grid-layout",
             "url": "https://github.com/STRML/react-grid-layout",
             "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+            "tags": []
+          },
+          {
+            "name": "react-layman",
+            "url": "https://github.com/Jeshwin/react-layman",
+            "description": "demo - Dynamic tiling layout manager with tabs",
             "tags": []
           },
           {
@@ -53659,12 +53695,6 @@
         "name": "Responsive",
         "resources": [
           {
-            "name": "AgnosticUI",
-            "url": "https://www.agnosticui.com/",
-            "description": "Accessible React component primitives that also work with Vue 3, Svelte, and Angular!",
-            "tags": []
-          },
-          {
             "name": "ant-design",
             "url": "https://github.com/ant-design/ant-design",
             "description": "demo/docs - A UI Design Language from China. Individual components available.",
@@ -53725,12 +53755,6 @@
             "tags": []
           },
           {
-            "name": "geist-ui",
-            "url": "https://github.com/geist-org/geist-ui",
-            "description": "Modern and minimalist React UI library.",
-            "tags": []
-          },
-          {
             "name": "gestalt",
             "url": "https://github.com/pinterest/gestalt",
             "description": "demo/docs - A set of components that supports Pinterest\u2019s design language.",
@@ -53740,6 +53764,12 @@
             "name": "grommet",
             "url": "https://github.com/grommet/grommet",
             "description": "The most advanced UX framework for enterprise applications.",
+            "tags": []
+          },
+          {
+            "name": "kokonut-ui",
+            "url": "https://github.com/kokonut-labs/kokonutui",
+            "description": "Free Modern and Customizable UI components.",
             "tags": []
           },
           {
@@ -53818,6 +53848,18 @@
             "name": "shineout",
             "url": "https://github.com/sheinsight/shineout",
             "description": "demo - Chinese-friendly set of components: form elements, navigation, table, tree, tree select drop-down etc.",
+            "tags": []
+          },
+          {
+            "name": "Tremor",
+            "url": "https://github.com/tremorlabs/tremor-raw",
+            "description": "demo - docs - Open-source components to build charts and dashboards.",
+            "tags": []
+          },
+          {
+            "name": "untitled-ui-react",
+            "url": "https://github.com/untitleduico/react",
+            "description": "demo - Beautifully crafted collection of components built with React Aria and Tailwind CSS.",
             "tags": []
           },
           {
@@ -53966,6 +54008,12 @@
             "name": "lens-ui",
             "url": "https://github.com/luciancaetano/lens-ui",
             "description": "docs - A Suit of components focused on simplicity.",
+            "tags": []
+          },
+          {
+            "name": "Tailwindadmin",
+            "url": "https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template",
+            "description": "docs - A collection of Ready-made ShadCN UI components you can directly plug into your React/Next.js projects.",
             "tags": []
           }
         ]
