@@ -18648,6 +18648,12 @@
             "tags": []
           },
           {
+            "name": "dispenso",
+            "url": "https://github.com/facebookincubator/dispenso",
+            "description": "A high-performance C++ library for parallel programming with thread pools, parallel for loops, futures, task graphs, and concurrent containers. [MIT]",
+            "tags": []
+          },
+          {
             "name": "FiberTaskingLib",
             "url": "https://github.com/RichieSams/FiberTaskingLib",
             "description": "Task-based multi-threading library that supports task graphs with arbitrary dependencies. [Apache]",
@@ -19545,6 +19551,12 @@
             "name": "mathplot",
             "url": "https://github.com/sebsjames/mathplot",
             "description": "C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] website",
+            "tags": []
+          },
+          {
+            "name": "Plotly++",
+            "url": "https://github.com/jimmyorourke/plotlypp",
+            "description": "A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. [MIT]",
             "tags": []
           }
         ]
@@ -34444,6 +34456,12 @@
             "name": "Checkmate",
             "url": "https://github.com/bluewave-labs/checkmate",
             "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.",
+            "tags": []
+          },
+          {
+            "name": "DLIA",
+            "url": "https://github.com/zorak1103/dlia",
+            "description": "DLIA is an AI-powered Docker log monitoring agent that uses Large Language Models (LLMs) to intelligently analyze container logs, detect anomalies, and provide contextual insights over time. By @zorak1103",
             "tags": []
           },
           {
@@ -50613,7 +50631,7 @@
           {
             "name": "django",
             "url": "https://github.com/django/django",
-            "description": "The most popular web framework in Python. awesome-django awesome-django",
+            "description": "The most popular web framework in Python. awesome-django",
             "tags": []
           },
           {
@@ -59565,6 +59583,12 @@
             "tags": []
           },
           {
+            "name": "Bolt CMS",
+            "url": "https://boltcms.io/",
+            "description": "Content Management Tool, which strives to be as simple and straightforward as possible. ( Source Code ) MIT PHP",
+            "tags": []
+          },
+          {
             "name": "CMS Made Simple",
             "url": "https://www.cmsmadesimple.org/",
             "description": "Faster and easier management of website contents, scalable for small businesses to large corporations. ( Source Code ) GPL-2.0 PHP",
@@ -60446,7 +60470,7 @@
           {
             "name": "TinyFeed",
             "url": "https://feed.lovergne.dev/",
-            "description": "Generate a static HTML page from a collection of feeds wtih a simple CLI. ( Demo , Source Code ) MIT Go/Docker",
+            "description": "Generate a static HTML page from a collection of feeds with a simple CLI. ( Demo , Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -72557,6 +72581,12 @@
             "tags": []
           },
           {
+            "name": "Echolon",
+            "url": "https://echolon.app",
+            "description": "Free and Open Source Postman alternative for Mac, Windows, Linux and the Web. Powerful, Local-First, offline and git friendly",
+            "tags": []
+          },
+          {
             "name": "HTTPie",
             "url": "https://httpie.io/",
             "description": "HTTPie is making APIs simple and intuitive for those building the tools of our time.",
@@ -73721,6 +73751,12 @@
             "name": "CloudApp",
             "url": "https://www.getcloudapp.com/",
             "description": "Work at the speed of sight.",
+            "tags": []
+          },
+          {
+            "name": "Capty",
+            "url": "https://capty.app/",
+            "description": "Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.",
             "tags": []
           },
           {
