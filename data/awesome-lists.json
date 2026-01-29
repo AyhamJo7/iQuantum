@@ -47738,6 +47738,12 @@
             "tags": []
           },
           {
+            "name": "plotly",
+            "url": "https://github.com/plotly/plotly.py",
+            "description": "Interactive graphing library for Python.",
+            "tags": []
+          },
+          {
             "name": "plotnine",
             "url": "https://github.com/has2k1/plotnine",
             "description": "A grammar of graphics for Python based on ggplot2.",
