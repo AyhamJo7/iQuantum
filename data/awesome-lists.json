@@ -2188,12 +2188,6 @@
         "name": "Caches",
         "resources": [
           {
-            "name": "2q",
-            "url": "https://github.com/floatdrop/2q",
-            "description": "2Q in-memory cache implementation.",
-            "tags": []
-          },
-          {
             "name": "bcache",
             "url": "https://github.com/iwanbk/bcache",
             "description": "Eventually consistent distributed in-memory cache Go library.",
@@ -41616,6 +41610,12 @@
             "url": "https://github.com/spotbugs/spotbugs",
             "description": "Static analysis of bytecode to find potential bugs. (LGPL-2.1-only)",
             "tags": []
+          },
+          {
+            "name": "ToolsHref",
+            "url": "https://toolshref.com",
+            "description": "Online Java code analyzer and JSON-to-Mermaid visualization tool.",
+            "tags": []
           }
         ]
       },
@@ -41831,7 +41831,7 @@
           {
             "name": "Externalized Properties",
             "url": "https://github.com/joel-jeremy/externalized-properties",
-            "description": "Lightweight yet powerful configuration library which supports resolution of properties from external sources and an extensible post-processing/conversion mechanism.",
+            "description": "Simple, lightweight, yet powerful configuration library which supports resolution of properties from external sources such as files, databases, git repositories, and any custom sources, plus an extensible post-processing/conversion mechanism.",
             "tags": []
           },
           {
@@ -43329,7 +43329,7 @@
           {
             "name": "JSON-io",
             "url": "https://github.com/jdereg/json-io",
-            "description": "Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.",
+            "description": "Convert Java to JSON/TOON and back. Supports complex object graphs, cyclic references, and TOON format for 40-50% LLM token savings.",
             "tags": []
           },
           {
@@ -43695,9 +43695,9 @@
             "tags": []
           },
           {
-            "name": "Deezpatch",
-            "url": "https://github.com/joel-jeremy/deezpatch",
-            "description": "Simple, lightweight, and performant dispatch library for decoupling messages (requests and events) and message handlers.",
+            "name": "Emissary",
+            "url": "https://github.com/joel-jeremy/emissary",
+            "description": "Simple, lightweight, yet FAST messaging library for decoupling messages (requests and events) and message handlers.",
             "tags": []
           },
           {
@@ -44090,6 +44090,12 @@
             "name": "Automon",
             "url": "https://github.com/stevensouza/automon",
             "description": "Combines the power of AOP with monitoring and/or logging tools.",
+            "tags": []
+          },
+          {
+            "name": "Boot Usage Spring Boot Starter",
+            "url": "https://github.com/dhruv-15-03/boot-usage",
+            "description": "Spring Boot Actuator extension providing application startup and runtime metrics including JVM uptime, memory usage, and CPU load.",
             "tags": []
           },
           {
