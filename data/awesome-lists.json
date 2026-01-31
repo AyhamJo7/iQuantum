@@ -47409,6 +47409,12 @@
             "tags": []
           },
           {
+            "name": "textual",
+            "url": "https://github.com/Textualize/textual",
+            "description": "A framework for building interactive user interfaces that run in the terminal and the browser.",
+            "tags": []
+          },
+          {
             "name": "tqdm",
             "url": "https://github.com/tqdm/tqdm",
             "description": "Fast, extensible progress bar for loops and CLI.",
