@@ -48073,6 +48073,12 @@
             "url": "https://github.com/tensorflow/tensorflow",
             "description": "The most popular Deep Learning framework created by Google.",
             "tags": []
+          },
+          {
+            "name": "vllm",
+            "url": "https://github.com/vllm-project/vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+            "tags": []
           }
         ]
       },
@@ -48426,6 +48432,12 @@
         "name": "File Manipulation",
         "resources": [
           {
+            "name": "markitdown",
+            "url": "https://github.com/microsoft/markitdown",
+            "description": "Python tool for converting files and office documents to Markdown.",
+            "tags": []
+          },
+          {
             "name": "mimetypes",
             "url": "https://docs.python.org/3/library/mimetypes.html",
             "description": "(Python standard library) Map filenames to MIME types.",
@@ -48476,6 +48488,12 @@
             "name": "cytoolz",
             "url": "https://github.com/pytoolz/cytoolz/",
             "description": "Cython implementation of Toolz : High performance functional utilities.",
+            "tags": []
+          },
+          {
+            "name": "functools",
+            "url": "https://docs.python.org/3/library/functools.html",
+            "description": "(Python standard library) Higher-order functions and operations on callable objects.",
             "tags": []
           },
           {
@@ -50629,6 +50647,12 @@
       {
         "name": "Web Crawling",
         "resources": [
+          {
+            "name": "browser-use",
+            "url": "https://github.com/browser-use/browser-use",
+            "description": "Make websites accessible for AI agents with easy browser automation.",
+            "tags": []
+          },
           {
             "name": "feedparser",
             "url": "https://github.com/kurtmckee/feedparser",
@@ -57935,6 +57959,12 @@
             "tags": []
           },
           {
+            "name": "mail-archiver",
+            "url": "https://github.com/s1t5/mail-archiver",
+            "description": "Web application for archiving, searching, and exporting emails from multiple accounts (IMAP, M365 or Import). Featuring folder sync, attachment support, mailbox migration and a dashboard. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Omeka S",
             "url": "https://omeka.org/s/",
             "description": "Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ( Source Code ) GPL-3.0 Nodejs",
@@ -58045,6 +58075,12 @@
             "name": "feedmixer",
             "url": "https://github.com/cristoper/feedmixer",
             "description": "Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed (returns Atom, RSS, or JSON). ( Demo ) WTFPL Python",
+            "tags": []
+          },
+          {
+            "name": "Fredy",
+            "url": "https://fredy.orange-coding.net/",
+            "description": "\u26a0 - Searches for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, and others, and instantly delivers the results to you via Slack, Telegram, and more. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -61281,6 +61317,12 @@
             "tags": []
           },
           {
+            "name": "Local Deep Research",
+            "url": "https://github.com/LearningCircuit/local-deep-research",
+            "description": "AI-powered deep research tool with multi-source search (arXiv, PubMed, web), PDF text extraction, and encrypted local storage. MIT Docker/Python",
+            "tags": []
+          },
+          {
             "name": "LocalAI",
             "url": "https://localai.io/",
             "description": "Run your AI models locally and generate images and audio (alternative to OpenAI and Claude). ( Source Code , Clients ) MIT Docker/K8S",
@@ -62844,6 +62886,12 @@
             "tags": []
           },
           {
+            "name": "Econumo",
+            "url": "https://econumo.com",
+            "description": "Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets. ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "ExpenseOwl",
             "url": "https://github.com/tanq16/expenseowl",
             "description": "Extremely simple expense tracker with a beautiful UI. MIT Go/Docker/K8S",
@@ -63127,6 +63175,12 @@
             "name": "Joplin",
             "url": "https://joplinapp.org/",
             "description": "Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ( Source Code ) MIT Nodejs",
+            "tags": []
+          },
+          {
+            "name": "Jotty",
+            "url": "https://jotty.page",
+            "description": "Lightweight but powerful alternative for managing your personal, file based, notes and checklists. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -63539,6 +63593,12 @@
             "tags": []
           },
           {
+            "name": "ChronoFrame",
+            "url": "https://chronoframe.bh8.ga/",
+            "description": "Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Damselfly",
             "url": "https://damselfly.info",
             "description": "Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. ( Source Code ) GPL-3.0 Docker/C#/.NET",
@@ -63775,6 +63835,12 @@
             "name": "OpnForm",
             "url": "https://opnform.com",
             "description": "Beautiful open-source form builder. ( Demo , Source Code ) AGPL-3.0 PHP/Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "Revel",
+            "url": "https://www.letsrevel.io",
+            "description": "\u26a0 - Community-focused event management and ticketing platform. ( Demo , Source Code , Clients ) MIT Python/Django/Docker",
             "tags": []
           }
         ]
@@ -64064,6 +64130,12 @@
             "name": "MeiliSearch",
             "url": "https://www.meilisearch.com",
             "description": "Ultra relevant, instant and typo-tolerant full-text search API. ( Source Code ) MIT Rust/Docker/deb",
+            "tags": []
+          },
+          {
+            "name": "Meme Search",
+            "url": "https://github.com/neonwatty/meme-search",
+            "description": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -64705,6 +64777,12 @@
             "name": "SCM Manager",
             "url": "https://www.scm-manager.org/",
             "description": "The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ( Source Code ) BSD-3-Clause Java/deb/Docker/K8S",
+            "tags": []
+          },
+          {
+            "name": "ShipShipShip",
+            "url": "https://shipshipship.io",
+            "description": "Changelog and roadmap platform that bridges project management and customer communication. ( Demo , Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -74863,6 +74941,12 @@
             "tags": []
           },
           {
+            "name": "Screenize",
+            "url": "https://syi0808.github.io/screenize/",
+            "description": "Open-source screen recording app with auto-zoom, cursor effects, and timeline editing \u2014 Screen Studio alternative.",
+            "tags": []
+          },
+          {
             "name": "Shotcut",
             "url": "https://www.shotcut.org",
             "description": "Free open-source video editor.",
@@ -77482,6 +77566,12 @@
             "name": "KeepingYouAwake",
             "url": "https://github.com/newmarcel/KeepingYouAwake",
             "description": "Caffeine alternative with dark mode support.",
+            "tags": []
+          },
+          {
+            "name": "macUSB",
+            "url": "https://github.com/Kruszoneq/macUSB",
+            "description": "A bootable macOS / OS X installer creator for Apple Silicon Macs.",
             "tags": []
           },
           {
