@@ -46879,6 +46879,12 @@
             "tags": []
           },
           {
+            "name": "python-cqrs",
+            "url": "https://github.com/vadikko2/python-cqrs",
+            "description": "Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.",
+            "tags": []
+          },
+          {
             "name": "python-patterns",
             "url": "https://github.com/faif/python-patterns",
             "description": "A collection of design patterns in Python.",
@@ -47348,6 +47354,12 @@
       {
         "name": "Command-line Interface Development",
         "resources": [
+          {
+            "name": "argparse",
+            "url": "https://docs.python.org/3/library/argparse.html",
+            "description": "(Python standard library) Command-line option and argument parsing.",
+            "tags": []
+          },
           {
             "name": "cement",
             "url": "https://github.com/datafolklabs/cement",
@@ -49534,6 +49546,12 @@
             "name": "setoolkit",
             "url": "https://github.com/trustedsec/social-engineer-toolkit",
             "description": "A toolkit for social engineering.",
+            "tags": []
+          },
+          {
+            "name": "sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "description": "Hunt down social media accounts by username across social networks.",
             "tags": []
           },
           {
@@ -75985,6 +76003,12 @@
             "name": "Bye AppQuit",
             "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
             "description": "A minimal menu bar app to quickly view and kill running processes.",
+            "tags": []
+          },
+          {
+            "name": "CodexBar",
+            "url": "https://codexbar.app",
+            "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
             "tags": []
           },
           {
