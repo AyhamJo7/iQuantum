@@ -16060,12 +16060,6 @@
             "tags": []
           },
           {
-            "name": "GopherChina",
-            "url": "https://gopherchina.org",
-            "description": "Shanghai, China.",
-            "tags": []
-          },
-          {
             "name": "GopherCon",
             "url": "https://www.gophercon.com/",
             "description": "Varied Locations Each Year, USA.",
@@ -25995,7 +25989,7 @@
           },
           {
             "name": "Atomic-Server",
-            "url": "https://github.com/atomicdata-dev/atomic-server/",
+            "url": "https://github.com/ontola/atomic-server/",
             "description": "[ atomic-server ] - NoSQL graph database with realtime updates, dynamic indexing and easy-to-use GUI for CMS purposes.",
             "tags": []
           },
@@ -27011,15 +27005,15 @@
             "tags": []
           },
           {
-            "name": "mediar-ai/screenpipe",
-            "url": "https://github.com/mediar-ai/screenpipe",
-            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.",
-            "tags": []
-          },
-          {
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
+            "tags": []
+          },
+          {
+            "name": "screenpipe",
+            "url": "https://github.com/screenpipe/screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.",
             "tags": []
           },
           {
@@ -29328,7 +29322,7 @@
           },
           {
             "name": "RAPx",
-            "url": "https://github.com/Artisan-Lab/RAPx",
+            "url": "https://github.com/safer-rust/RAPx",
             "description": "A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler.",
             "tags": []
           },
@@ -33162,6 +33156,12 @@
             "name": "bytecodealliance/wasmtime",
             "url": "https://github.com/bytecodealliance/wasmtime",
             "description": "A standalone runtime for WebAssembly",
+            "tags": []
+          },
+          {
+            "name": "capsule",
+            "url": "https://github.com/mavdol/capsule",
+            "description": "WebAssembly sandboxing runtime for executing untrusted code",
             "tags": []
           },
           {
@@ -76081,6 +76081,12 @@
             "name": "Itsycal",
             "url": "https://www.mowglii.com/itsycal/",
             "description": "Tiny calendar for your Mac's menu bar.",
+            "tags": []
+          },
+          {
+            "name": "KeyStats",
+            "url": "https://keystats.vercel.app",
+            "description": "Lightweight menu bar app that tracks daily keyboard keystrokes, mouse clicks, movement distance, and scroll distance.",
             "tags": []
           },
           {
