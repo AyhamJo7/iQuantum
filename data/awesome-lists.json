@@ -63416,8 +63416,8 @@
           },
           {
             "name": "Opengist",
-            "url": "https://github.com/thomiceli/opengist",
-            "description": "Pastebin powered by Git. ( Demo ) AGPL-3.0 Docker/Go/Nodejs",
+            "url": "https://opengist.io",
+            "description": "Pastebin powered by Git. ( Demo , Source Code ) AGPL-3.0 Docker/Go/Nodejs",
             "tags": []
           },
           {
@@ -76051,6 +76051,12 @@
             "name": "Fishing Funds",
             "url": "https://ff.1zilc.top",
             "description": "Display real-time trends of Chinese funds in the menubar.",
+            "tags": []
+          },
+          {
+            "name": "GoogleDriveSync",
+            "url": "https://github.com/saihgupr/GoogleDriveSync",
+            "description": "A menu bar app for seamless Google Drive syncing.",
             "tags": []
           },
           {
