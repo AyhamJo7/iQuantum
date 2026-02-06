@@ -30666,6 +30666,12 @@
             "tags": []
           },
           {
+            "name": "schnorrkel",
+            "url": "https://github.com/paritytech/schnorrkel",
+            "description": "Schnorr VRFs and signatures on the Ristretto group",
+            "tags": []
+          },
+          {
             "name": "sfackler/rust-native-tls",
             "url": "https://github.com/sfackler/rust-native-tls",
             "description": "Bindings for native TLS libraries",
@@ -30681,12 +30687,6 @@
             "name": "sorairolake/scryptenc-rs",
             "url": "https://github.com/sorairolake/scryptenc-rs",
             "description": "[ scryptenc ] - An implementation of the scrypt encrypted data format.",
-            "tags": []
-          },
-          {
-            "name": "w3f/schnorrkel",
-            "url": "https://github.com/w3f/schnorrkel",
-            "description": "Schnorr VRFs and signatures on the Ristretto group",
             "tags": []
           }
         ]
@@ -72469,6 +72469,12 @@
             "tags": []
           },
           {
+            "name": "Loupe",
+            "url": "https://github.com/smughead/Loupe",
+            "description": "Accessibility inspector that generates AI-agent-ready output.",
+            "tags": []
+          },
+          {
             "name": "MacSystemColors",
             "url": "https://github.com/kaunteya/MacSystemColors",
             "description": "Mac app that shows all system colors in light and dark mode for Cocoa developers.",
@@ -74755,6 +74761,12 @@
             "tags": []
           },
           {
+            "name": "FineTune",
+            "url": "https://github.com/ronitsingh10/FineTune",
+            "description": "Per-app volume control with multi-device output and 10-band EQ. Free SoundSource alternative.",
+            "tags": []
+          },
+          {
             "name": "FreeTube",
             "url": "https://freetubeapp.io/",
             "description": "Open source desktop YouTube client built with privacy in mind.",
@@ -76198,6 +76210,12 @@
             "tags": []
           },
           {
+            "name": "Thaw",
+            "url": "https://github.com/stonerl/Thaw",
+            "description": "A powerful menu bar management tool for hiding and showing menu bar items.",
+            "tags": []
+          },
+          {
             "name": "SketchyBar",
             "url": "https://github.com/FelixKratz/SketchyBar",
             "description": "A highly customizable macOS status bar replacement.",
@@ -77174,6 +77192,12 @@
             "name": "ShiftIt",
             "url": "https://github.com/fikovnik/ShiftIt",
             "description": "Managing window size and position in OSX.",
+            "tags": []
+          },
+          {
+            "name": "ShortcutCycle",
+            "url": "https://shortcutcycle.vercel.app/",
+            "description": "Stop endless Command+Tab cycling. Group apps by context (Web, Code, Social) and flow between them with a single hotkey.",
             "tags": []
           },
           {
