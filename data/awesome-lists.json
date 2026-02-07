@@ -76102,6 +76102,12 @@
             "tags": []
           },
           {
+            "name": "Itsytv",
+            "url": "https://itsytv.app/",
+            "description": "Control your Apple TV from the menu bar.",
+            "tags": []
+          },
+          {
             "name": "KeyStats",
             "url": "https://keystats.vercel.app",
             "description": "Lightweight menu bar app that tracks daily keyboard keystrokes, mouse clicks, movement distance, and scroll distance.",
