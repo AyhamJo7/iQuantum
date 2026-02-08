@@ -31994,6 +31994,12 @@
             "tags": []
           },
           {
+            "name": "project-blinc/Blinc",
+            "url": "https://github.com/project-blinc/Blinc",
+            "description": "[ blinc_app ] - A GPU-accelerated, cross-platform UI framework with a GPUI-inspired builder API, glassmorphism effects, spring physics animations, and native rendering on Desktop, Android, and iOS.",
+            "tags": []
+          },
+          {
             "name": "Qt",
             "url": "https://doc.qt.io",
             "description": "",
@@ -49781,7 +49787,7 @@
             "tags": []
           },
           {
-            "name": "bccb",
+            "name": "bcbb",
             "url": "https://github.com/chapmanb/bcbb",
             "description": "Collection of useful code related to biological analysis.",
             "tags": []
