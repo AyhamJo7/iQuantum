@@ -33025,6 +33025,12 @@
             "tags": []
           },
           {
+            "name": "kreuzberg-dev/kreuzberg",
+            "url": "https://github.com/kreuzberg-dev/kreuzberg",
+            "description": "[ kreuzberg ] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)",
+            "tags": []
+          },
+          {
             "name": "Lucretiel/joinery",
             "url": "https://github.com/Lucretiel/joinery",
             "description": "[ joinery ] - Generic string + iterable joining",
@@ -60214,6 +60220,12 @@
             "tags": []
           },
           {
+            "name": "MyMangaDB",
+            "url": "https://github.com/FabianRolfMatthiasNoll/MyMangaDB",
+            "description": "\u26a0 - Manga collection manager with automatic metadata, MyAnimeList import and detailed collection statistics. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Stump",
             "url": "https://www.stumpapp.dev",
             "description": "A fast, free and open source comics, manga and digital book server with OPDS support. ( Source Code ) MIT Rust",
@@ -62334,6 +62346,12 @@
             "name": "Kyoo",
             "url": "https://github.com/zoriya/kyoo",
             "description": "Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. ( Demo ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "MediaMTX",
+            "url": "https://mediamtx.org",
+            "description": "Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. ( Source Code , Clients ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -73877,7 +73895,7 @@
         ]
       },
       {
-        "name": "Screencapturing Software",
+        "name": "Screenshot Tools",
         "resources": [
           {
             "name": "CleanShot X",
@@ -73892,9 +73910,9 @@
             "tags": []
           },
           {
-            "name": "Capty",
-            "url": "https://capty.app/",
-            "description": "Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.",
+            "name": "Dropbox",
+            "url": "https://www.dropbox.com/",
+            "description": "Dropbox app offers easy screenshot capturing and sharing",
             "tags": []
           },
           {
@@ -73904,57 +73922,9 @@
             "tags": []
           },
           {
-            "name": "Gifox",
-            "url": "https://gifox.app",
-            "description": "Gif Recording and Sharing.",
-            "tags": []
-          },
-          {
-            "name": "Kap",
-            "url": "https://getkap.co/",
-            "description": "Open-source screen-recorder built with web technology.",
-            "tags": []
-          },
-          {
-            "name": "KeyCastr",
-            "url": "https://github.com/keycastr/keycastr",
-            "description": "KeyCastr, an open-source keystroke visualizer.",
-            "tags": []
-          },
-          {
-            "name": "Kyapchar",
-            "url": "https://github.com/vishaltelangre/Kyapchar",
-            "description": "Simple screen and microphone audio recorder for Mac.",
-            "tags": []
-          },
-          {
-            "name": "Licecap",
-            "url": "http://www.cockos.com/licecap/",
-            "description": "Record your screen and export to GIF. You can change the recording area anytime during recording.",
-            "tags": []
-          },
-          {
             "name": "Lightshot",
             "url": "https://app.prntscr.com/",
             "description": "The fastest way to take a customizable screenshot.",
-            "tags": []
-          },
-          {
-            "name": "Monosnap",
-            "url": "https://monosnap.com/",
-            "description": "Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free.",
-            "tags": []
-          },
-          {
-            "name": "OBS Studio",
-            "url": "https://github.com/obsproject/obs-studio",
-            "description": "A free and open source software for live streaming and screen recording.",
-            "tags": []
-          },
-          {
-            "name": "Screenpipe",
-            "url": "https://github.com/mediar-ai/screenpipe",
-            "description": "24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.",
             "tags": []
           },
           {
@@ -73988,12 +73958,6 @@
             "tags": []
           },
           {
-            "name": "Tight Studio",
-            "url": "https://tight.studio/",
-            "description": "Record impressive screens in minutes, with smart zooms, AI voice overs, easy captions, text overlays, and lots more, all in simple clicks.",
-            "tags": []
-          },
-          {
             "name": "Tuji",
             "url": "https://tuji.app/",
             "description": "Take a screenshot, annotate it, and beautify it.",
@@ -74004,11 +73968,88 @@
             "url": "http://xnipapp.com/",
             "description": "Handy Screenshot App.",
             "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Screen Recording",
+        "resources": [
+          {
+            "name": "BetterCapture",
+            "url": "https://jsattler.github.io/BetterCapture/",
+            "description": "Free and open source screen recorder with professional encoding support.",
+            "tags": []
           },
           {
-            "name": "Dropbox",
-            "url": "https://www.dropbox.com/",
-            "description": "Dropbox app offers easy screenshot capturing and sharing",
+            "name": "Capty",
+            "url": "https://capty.app/",
+            "description": "Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.",
+            "tags": []
+          },
+          {
+            "name": "Gifox",
+            "url": "https://gifox.app",
+            "description": "Gif Recording and Sharing.",
+            "tags": []
+          },
+          {
+            "name": "Kap",
+            "url": "https://getkap.co/",
+            "description": "Open-source screen-recorder built with web technology.",
+            "tags": []
+          },
+          {
+            "name": "KeyCastr",
+            "url": "https://github.com/keycastr/keycastr",
+            "description": "KeyCastr, an open-source keystroke visualizer.",
+            "tags": []
+          },
+          {
+            "name": "Kyapchar",
+            "url": "https://github.com/vishaltelangre/Kyapchar",
+            "description": "Simple screen and microphone audio recorder for Mac.",
+            "tags": []
+          },
+          {
+            "name": "Licecap",
+            "url": "http://www.cockos.com/licecap/",
+            "description": "Record your screen and export to GIF. You can change the recording area anytime during recording.",
+            "tags": []
+          },
+          {
+            "name": "Monosnap",
+            "url": "https://monosnap.com/",
+            "description": "Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free.",
+            "tags": []
+          },
+          {
+            "name": "OBS Studio",
+            "url": "https://github.com/obsproject/obs-studio",
+            "description": "A free and open source software for live streaming and screen recording.",
+            "tags": []
+          },
+          {
+            "name": "Quick Recorder",
+            "url": "https://lihaoyun6.github.io/quickrecorder/",
+            "description": "A lightweight and high-performance screen recorder for macOS",
+            "tags": []
+          },
+          {
+            "name": "Screen Studio",
+            "url": "https://www.screen.studio/",
+            "description": "Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.",
+            "tags": []
+          },
+          {
+            "name": "Screenize",
+            "url": "https://syi0808.github.io/screenize/",
+            "description": "Open-source screen recording app with auto-zoom, cursor effects, and timeline editing \u2014 Screen Studio alternative.",
+            "tags": []
+          },
+          {
+            "name": "Screenpipe",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "description": "24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.",
             "tags": []
           },
           {
@@ -74018,9 +74059,9 @@
             "tags": []
           },
           {
-            "name": "Screen Studio",
-            "url": "https://www.screen.studio/",
-            "description": "Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.",
+            "name": "Tight Studio",
+            "url": "https://tight.studio/",
+            "description": "Record impressive screens in minutes, with smart zooms, AI voice overs, easy captions, text overlays, and lots more, all in simple clicks.",
             "tags": []
           },
           {
@@ -74259,6 +74300,12 @@
             "name": "Fluent",
             "url": "https://fluentmac.app",
             "description": "Native AI assistant that brings 450+ models (BYOK) into any macOS app with instant app & browser context, customizable actions, shortcuts, and local models support.",
+            "tags": []
+          },
+          {
+            "name": "GroAsk",
+            "url": "https://groask.com",
+            "description": "A macOS menu bar AI launcher. Press \u2325Space to send text to ChatGPT, Claude, Gemini, and CLI agents \u2014 no API keys needed.",
             "tags": []
           },
           {
@@ -74977,12 +75024,6 @@
             "tags": []
           },
           {
-            "name": "Screenize",
-            "url": "https://syi0808.github.io/screenize/",
-            "description": "Open-source screen recording app with auto-zoom, cursor effects, and timeline editing \u2014 Screen Studio alternative.",
-            "tags": []
-          },
-          {
             "name": "Shotcut",
             "url": "https://www.shotcut.org",
             "description": "Free open-source video editor.",
@@ -75129,12 +75170,6 @@
             "name": "Stargate DAW",
             "url": "https://github.com/stargatedaw/stargate",
             "description": "An all-in-one digital audio workstation (DAW) and plugin suite.",
-            "tags": []
-          },
-          {
-            "name": "Quick Recorder",
-            "url": "https://lihaoyun6.github.io/quickrecorder/",
-            "description": "A lightweight and high-performance screen recorder for macOS",
             "tags": []
           }
         ]
