@@ -29863,6 +29863,12 @@
             "tags": []
           },
           {
+            "name": "hit-box/hitbox",
+            "url": "https://github.com/hit-box/hitbox",
+            "description": "A declarative cache orchestration framework with HTTP middleware and multi-tier backends",
+            "tags": []
+          },
+          {
             "name": "jaemk/cached",
             "url": "https://github.com/jaemk/cached",
             "description": "Simple function caching/memoization",
@@ -71859,6 +71865,12 @@
             "name": "Scrivener",
             "url": "https://www.literatureandlatte.com/scrivener/overview/",
             "description": "The quintessential word processor for writers.",
+            "tags": []
+          },
+          {
+            "name": "Textream",
+            "url": "https://textream.fka.dev",
+            "description": "Free teleprompter with real-time word tracking and voice-activated scrolling.",
             "tags": []
           },
           {
