@@ -28235,6 +28235,12 @@
         "name": "Web Servers",
         "resources": [
           {
+            "name": "ararog/vetis",
+            "url": "https://github.com/ararog/vetis",
+            "description": "A blazingly fast, minimalist HTTP server built for modern Rust applications. Provides virtual Hosts, SNI, static content, reverse proxy, HTTP 1/2/3 and Tokio or Smol as async runtimes!",
+            "tags": []
+          },
+          {
             "name": "cloudflare/pingora",
             "url": "https://github.com/cloudflare/pingora",
             "description": "A library for building fast, reliable and evolvable network services.",
@@ -50034,6 +50040,12 @@
         "name": "Specific Formats Processing",
         "resources": [
           {
+            "name": "kreuzberg",
+            "url": "https://github.com/kreuzberg-dev/kreuzberg",
+            "description": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.",
+            "tags": []
+          },
+          {
             "name": "tablib",
             "url": "https://github.com/jazzband/tablib",
             "description": "A module for Tabular Datasets in XLS, CSV, JSON, YAML.",
@@ -59039,12 +59051,6 @@
         "name": "Communication - IRC",
         "resources": [
           {
-            "name": "Convos",
-            "url": "https://convos.chat/",
-            "description": "Always online web IRC client. ( Demo , Source Code ) Artistic-2.0 Perl/Docker",
-            "tags": []
-          },
-          {
             "name": "Ergo",
             "url": "https://ergo.chat/",
             "description": "Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ( Source Code ) MIT Go/Docker",
@@ -59808,12 +59814,6 @@
             "name": "REDAXO",
             "url": "https://www.redaxo.org",
             "description": "Simple, flexible and useful content management system (documentation in German). ( Source Code ) MIT PHP/Docker",
-            "tags": []
-          },
-          {
-            "name": "Roadiz",
-            "url": "https://www.roadiz.io/",
-            "description": "Modern CMS based on a node system which can handle many types of services. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -63522,12 +63522,6 @@
             "tags": []
           },
           {
-            "name": "Fenrus",
-            "url": "https://github.com/revenz/fenrus",
-            "description": "Personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has \"Smart Apps\" which display live data for those apps. GPL-3.0 .NET/Docker",
-            "tags": []
-          },
-          {
             "name": "Glance",
             "url": "https://github.com/glanceapp/glance",
             "description": "Highly customizable dashboard that puts all your feeds in one place. AGPL-3.0 Docker/Go",
@@ -63853,12 +63847,6 @@
             "name": "hitobito",
             "url": "https://hitobito.com",
             "description": "Manage complex group hierarchies with members, events and a lot more. ( Demo , Source Code ) AGPL-3.0 Ruby",
-            "tags": []
-          },
-          {
-            "name": "Input",
-            "url": "https://getinput.co",
-            "description": "Privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ( Source Code ) AGPL-3.0 PHP/Nodejs/Docker",
             "tags": []
           },
           {
@@ -71381,6 +71369,12 @@
             "tags": []
           },
           {
+            "name": "Itsypad",
+            "url": "https://itsypad.app",
+            "description": "A tiny, fast scratchpad and clipboard manager for macOS.",
+            "tags": []
+          },
+          {
             "name": "Lapce",
             "url": "https://lapce.dev/",
             "description": "Lightning-fast and powerful code editor.",
@@ -71865,12 +71859,6 @@
             "name": "Scrivener",
             "url": "https://www.literatureandlatte.com/scrivener/overview/",
             "description": "The quintessential word processor for writers.",
-            "tags": []
-          },
-          {
-            "name": "Textream",
-            "url": "https://textream.fka.dev",
-            "description": "Free teleprompter with real-time word tracking and voice-activated scrolling.",
             "tags": []
           },
           {
@@ -72460,6 +72448,12 @@
             "name": "iHosts",
             "url": "https://en.toolinbox.net/iHosts/",
             "description": "The only /etc/hosts editor on Mac App Store.",
+            "tags": []
+          },
+          {
+            "name": "SaneHosts",
+            "url": "https://sanehosts.com",
+            "description": "System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock.",
             "tags": []
           },
           {
@@ -76000,6 +75994,12 @@
             "tags": []
           },
           {
+            "name": "SaneClip",
+            "url": "https://saneclip.com",
+            "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection.",
+            "tags": []
+          },
+          {
             "name": "Flycut",
             "url": "https://github.com/TermiT/Flycut",
             "description": "Clean and simple clipboard manager for developers.",
@@ -76050,6 +76050,12 @@
             "name": "Bartender",
             "url": "https://www.macbartender.com",
             "description": "Organize or hide menu bar icons on your Mac.",
+            "tags": []
+          },
+          {
+            "name": "SaneBar",
+            "url": "https://sanebar.com",
+            "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender.",
             "tags": []
           },
           {
@@ -76152,6 +76158,12 @@
             "name": "Itsycal",
             "url": "https://www.mowglii.com/itsycal/",
             "description": "Tiny calendar for your Mac's menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Itsyhome",
+            "url": "https://itsyhome.app",
+            "description": "Control your HomeKit and Home Assistant smart home from the menu bar.",
             "tags": []
           },
           {
@@ -77081,6 +77093,12 @@
             "tags": []
           },
           {
+            "name": "Textream",
+            "url": "https://textream.fka.dev",
+            "description": "Free teleprompter with real-time word tracking and voice-activated scrolling.",
+            "tags": []
+          },
+          {
             "name": "Trace",
             "url": "https://trace.techulus.xyz",
             "description": "Open-source spotlight alternative and shortcut toolkit.",
@@ -77411,6 +77429,12 @@
             "name": "FinderFix",
             "url": "https://synappser.github.io/apps/finderfix/",
             "description": "Finally, a lasting solution for Finder windows size and position. .",
+            "tags": []
+          },
+          {
+            "name": "SaneClick",
+            "url": "https://saneclick.com",
+            "description": "Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools.",
             "tags": []
           },
           {
