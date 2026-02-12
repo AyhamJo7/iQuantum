@@ -27023,6 +27023,12 @@
             "tags": []
           },
           {
+            "name": "tambourine-voice",
+            "url": "https://github.com/kstonekuan/tambourine-voice",
+            "description": "personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.",
+            "tags": []
+          },
+          {
             "name": "tassiovirginio/try-rs",
             "url": "https://github.com/tassiovirginio/try-rs",
             "description": "[ try-rs ] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.",
