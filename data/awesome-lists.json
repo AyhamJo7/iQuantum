@@ -20786,8 +20786,8 @@
           },
           {
             "name": "box-cli-maker",
-            "url": "https://github.com/Delta456/box-cli-maker",
-            "description": "Make Highly Customized Boxes for your CLI.",
+            "url": "https://github.com/box-cli-maker/box-cli-maker",
+            "description": "Render highly customizable boxes in the terminal.",
             "tags": []
           },
           {
@@ -56076,6 +56076,12 @@
             "tags": []
           },
           {
+            "name": "vortix",
+            "url": "https://github.com/Harry-kp/vortix",
+            "description": "Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch",
+            "tags": []
+          },
+          {
             "name": "vproxy",
             "url": "https://github.com/0x676e67/vproxy",
             "description": "A high-performance HTTP/HTTPS/SOCKS5 proxy server",
@@ -58462,6 +58468,12 @@
             "tags": []
           },
           {
+            "name": "gitlogue",
+            "url": "https://github.com/unhappychoice/gitlogue",
+            "description": "A TUI screensaver that visualizes Git commit history in your terminal",
+            "tags": []
+          },
+          {
             "name": "guoxbin/dtool",
             "url": "https://github.com/guoxbin/dtool",
             "description": "A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.",
@@ -60039,6 +60051,12 @@
             "tags": []
           },
           {
+            "name": "tag1consulting/feste",
+            "url": "https://github.com/tag1consulting/feste",
+            "description": "A GPT-2 style transformer language model implemented from scratch in Rust for educational purposes.",
+            "tags": []
+          },
+          {
             "name": "tensorflow/rust",
             "url": "https://github.com/tensorflow/rust",
             "description": "Bindings for TensorFlow.",
@@ -61171,6 +61189,12 @@
             "tags": []
           },
           {
+            "name": "rust-native-tls/rust-native-tls",
+            "url": "https://github.com/rust-native-tls/rust-native-tls",
+            "description": "Bindings for native TLS libraries",
+            "tags": []
+          },
+          {
             "name": "rust-openssl",
             "url": "https://github.com/rust-openssl/rust-openssl",
             "description": "OpenSSL bindings",
@@ -61192,12 +61216,6 @@
             "name": "schnorrkel",
             "url": "https://github.com/paritytech/schnorrkel",
             "description": "Schnorr VRFs and signatures on the Ristretto group",
-            "tags": []
-          },
-          {
-            "name": "sfackler/rust-native-tls",
-            "url": "https://github.com/sfackler/rust-native-tls",
-            "description": "Bindings for native TLS libraries",
             "tags": []
           },
           {
