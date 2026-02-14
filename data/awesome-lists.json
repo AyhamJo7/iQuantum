@@ -15490,6 +15490,12 @@
             "tags": []
           },
           {
+            "name": "Command Book",
+            "url": "https://commandbookapp.com",
+            "description": "A terminal companion for long-running terminal commands (freemium)",
+            "tags": []
+          },
+          {
             "name": "electerm",
             "url": "https://electerm.github.io/electerm/",
             "description": "A free, multi-platform Terminal and SSH/SFTP tool with a beautiful interface that is the perfect alternative to XShell for Windows!",
