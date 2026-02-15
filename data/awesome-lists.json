@@ -2938,12 +2938,6 @@
             "tags": []
           },
           {
-            "name": "Minio",
-            "url": "https://min.io/",
-            "description": "Object storage server compatible with Amazon S3 APIs. ( Source Code ) AGPL-3.0 Go/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "SeaweedFS",
             "url": "https://github.com/seaweedfs/seaweedfs",
             "description": "SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. Apache-2.0 Go",
@@ -6766,6 +6760,12 @@
             "name": "Lowdefy",
             "url": "https://www.lowdefy.com/",
             "description": "Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ( Source Code ) Apache-2.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "RapidForge",
+            "url": "https://rapidforge.io/",
+            "description": "Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. ( Source Code ) Apache-2.0 Go/Nodejs",
             "tags": []
           },
           {
@@ -13822,6 +13822,12 @@
             "name": "Standard Notes",
             "url": "https://standardnotes.com/",
             "description": "An end-to-end encrypted notes app for digitalists and professionals.",
+            "tags": []
+          },
+          {
+            "name": "Stik",
+            "url": "https://github.com/0xMassi/stik_app",
+            "description": "Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary.",
             "tags": []
           },
           {
@@ -56547,6 +56553,12 @@
             "tags": []
           },
           {
+            "name": "debba/tabularis",
+            "url": "https://github.com/debba/tabularis",
+            "description": "A lightweight, developer-focused database management tool, built with Tauri and React.",
+            "tags": []
+          },
+          {
             "name": "dsplce-co/supabase-plus",
             "url": "https://github.com/dsplce-co/supabase-plus",
             "description": "[ supabase-plus ] - A batteries-included command-line utility that extends the official Supabase CLI",
@@ -57366,6 +57378,12 @@
             "name": "DragonOS-Community/DragonOS",
             "url": "https://github.com/DragonOS-Community/DragonOS",
             "description": "An operating system with a self-developed kernel from scratch and Linux compatibility.",
+            "tags": []
+          },
+          {
+            "name": "hexagonal-sun/moss-kernel",
+            "url": "https://github.com/hexagonal-sun/moss-kernel",
+            "description": "A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.",
             "tags": []
           },
           {
@@ -73483,6 +73501,12 @@
             "name": "dejavu",
             "url": "https://github.com/worldveil/dejavu",
             "description": "Audio fingerprinting and recognition.",
+            "tags": []
+          },
+          {
+            "name": "gTTS",
+            "url": "https://github.com/pndurette/gTTS",
+            "description": "Python library and CLI tool for converting text to speech using Google Translate TTS.",
             "tags": []
           },
           {
