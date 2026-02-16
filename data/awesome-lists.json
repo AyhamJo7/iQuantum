@@ -56434,6 +56434,12 @@
             "tags": []
           },
           {
+            "name": "pragma-org/amaru",
+            "url": "https://github.com/pragma-org/amaru",
+            "description": "A Cardano node client written in Rust.",
+            "tags": []
+          },
+          {
             "name": "reth",
             "url": "https://github.com/paradigmxyz/reth",
             "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol.",
@@ -61287,6 +61293,12 @@
             "name": "GoPlasmatic/datalogic-rs",
             "url": "https://github.com/GoPlasmatic/datalogic-rs",
             "description": "[ datalogic-rs ] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.",
+            "tags": []
+          },
+          {
+            "name": "ironcalc/IronCalc",
+            "url": "https://github.com/ironcalc/IronCalc",
+            "description": "[ ironcalc ] - A new, modern, work-in-progress spreadsheet engine.",
             "tags": []
           },
           {
@@ -76352,6 +76364,12 @@
             "name": "Open Babel",
             "url": "https://open-babel.readthedocs.io/",
             "description": "A chemical toolbox designed to speak the many languages of chemical data.",
+            "tags": []
+          },
+          {
+            "name": "PathSim",
+            "url": "https://github.com/pathsim/pathsim",
+            "description": "A block-based system modeling and simulation framework with a browser-based visual editor.",
             "tags": []
           },
           {
