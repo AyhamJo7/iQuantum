@@ -4271,12 +4271,6 @@
             "tags": []
           },
           {
-            "name": "Overseerr",
-            "url": "https://overseerr.dev/",
-            "description": "\u26a0 - Manage requests for your media library. It integrates with your existing services, such as Sonarr, Radarr, and Plex!. ( Source Code ) MIT Docker",
-            "tags": []
-          },
-          {
             "name": "Pinchflat",
             "url": "https://github.com/kieraneglin/pinchflat",
             "description": "\u26a0 - Download YouTube content built using yt-dlp. AGPL-3.0 Docker",
@@ -18877,6 +18871,12 @@
             "name": "Focus Firewall",
             "url": "https://focusfirewall.com",
             "description": "A minimalist focus app to block social media and other distractions during work.",
+            "tags": []
+          },
+          {
+            "name": "FnKeyboard",
+            "url": "https://github.com/kotique123/FnKeyboard",
+            "description": "A lightweight macOS menu-bar utility that puts the Mac function keys (F1\u2013F12) at your fingertips.",
             "tags": []
           },
           {
@@ -59795,6 +59795,12 @@
             "name": "Bytehound",
             "url": "https://github.com/koute/bytehound",
             "description": "A memory profiler for Linux",
+            "tags": []
+          },
+          {
+            "name": "cong-or/hud",
+            "url": "https://github.com/cong-or/hud",
+            "description": "Find what's blocking your Tokio runtime. Zero-instrumentation eBPF profiler.",
             "tags": []
           },
           {
