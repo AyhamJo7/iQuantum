@@ -7604,9 +7604,9 @@
             "tags": []
           },
           {
-            "name": "Varnish",
-            "url": "https://varnish-cache.org/",
-            "description": "Web application accelerator/caching HTTP reverse proxy. ( Source Code ) BSD-3-Clause Go/deb/Docker",
+            "name": "Vinyl Cache",
+            "url": "https://vinyl-cache.org/",
+            "description": "Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ( Source Code ) BSD-2-Clause Go/deb/Docker",
             "tags": []
           },
           {
@@ -55950,6 +55950,12 @@
             "tags": []
           },
           {
+            "name": "lzanini/mdbook-katex",
+            "url": "https://github.com/lzanini/mdbook-katex",
+            "description": "[ mdbook-katex ] - A preprocessor for mdBook , using KaTeX to render LaTeX math expressions.",
+            "tags": []
+          },
+          {
             "name": "MaidSafe",
             "url": "https://github.com/maidsafe",
             "description": "A decentralized platform.",
@@ -76129,6 +76135,29 @@
         ]
       },
       {
+        "name": "Quantum Computing",
+        "resources": [
+          {
+            "name": "PennyLane",
+            "url": "https://github.com/PennyLaneAI/pennylane",
+            "description": "\u2014 A hybrid quantum-classical machine learning library with automatic differentiation support.",
+            "tags": []
+          },
+          {
+            "name": "Qiskit",
+            "url": "https://github.com/Qiskit/qiskit",
+            "description": "\u2014 An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.",
+            "tags": []
+          },
+          {
+            "name": "QuTiP",
+            "url": "http://qutip.org/",
+            "description": "Quantum Toolbox in Python.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Recommender Systems",
         "resources": [
           {
@@ -76388,12 +76417,6 @@
             "name": "PyMC",
             "url": "https://github.com/pymc-devs/pymc3",
             "description": "Markov Chain Monte Carlo sampling toolkit.",
-            "tags": []
-          },
-          {
-            "name": "QuTiP",
-            "url": "http://qutip.org/",
-            "description": "Quantum Toolbox in Python.",
             "tags": []
           },
           {
