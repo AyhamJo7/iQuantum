@@ -13918,6 +13918,12 @@
             "tags": []
           },
           {
+            "name": "BookShelves",
+            "url": "https://getbookshelves.app/",
+            "description": "Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad.",
+            "tags": []
+          },
+          {
             "name": "Clearview",
             "url": "http://www.clearview-reader.com/clearview/",
             "description": "Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.",
@@ -18669,6 +18675,12 @@
             "name": "CapsLockNoDelay",
             "url": "https://github.com/gkpln3/CapsLockNoDelay",
             "description": "Removes caps-lock key activation delay for fast typers.",
+            "tags": []
+          },
+          {
+            "name": "Seodisias",
+            "url": "https://seodisias.com",
+            "description": "Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings ](https://seodisias.com)",
             "tags": []
           }
         ]
@@ -60114,6 +60126,12 @@
             "name": "64bit/async-openai",
             "url": "https://github.com/64bit/async-openai",
             "description": "[ async-openai ] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.",
+            "tags": []
+          },
+          {
+            "name": "openai/codex",
+            "url": "https://github.com/openai/codex",
+            "description": "Codex CLI is a coding agent from OpenAI that runs locally.",
             "tags": []
           },
           {
