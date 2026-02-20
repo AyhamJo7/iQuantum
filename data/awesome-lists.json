@@ -75510,6 +75510,12 @@
             "tags": []
           },
           {
+            "name": "Tambourine",
+            "url": "https://tambourinevoice.com/",
+            "description": "Open-source, customizable AI voice dictation that works in any app.",
+            "tags": []
+          },
+          {
             "name": "VoiceInk",
             "url": "https://tryvoiceink.com/",
             "description": "Real-time speech-to-text app.",
