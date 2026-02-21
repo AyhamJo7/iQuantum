@@ -26783,6 +26783,12 @@
         "name": "Message Queue",
         "resources": [
           {
+            "name": "Narwhal",
+            "url": "https://github.com/narwhal-io/narwhal",
+            "description": "An extensible pub/sub messaging server for edge applications.",
+            "tags": []
+          },
+          {
             "name": "Rmqtt",
             "url": "https://github.com/rmqtt/rmqtt",
             "description": "MQTT Server/MQTT Broker \u2014 Scalable distributed MQTT message broker for IoT in the 5G era.",
@@ -29436,6 +29442,17 @@
         ]
       },
       {
+        "name": "Tunnel",
+        "resources": [
+          {
+            "name": "ngrok/ngrok-rust",
+            "url": "https://github.com/ngrok/ngrok-rust",
+            "description": "[ ngrok-rust ] - ngrok is a developer tool that exposes your local app to the internet securely.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Libraries",
         "resources": [
           {
@@ -29537,6 +29554,12 @@
             "name": "huggingface/tokenizers",
             "url": "https://github.com/huggingface/tokenizers",
             "description": "Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python.",
+            "tags": []
+          },
+          {
+            "name": "katanemo/plano",
+            "url": "https://github.com/katanemo/plano",
+            "description": "The AI-native proxy server and data plane for agentic apps.",
             "tags": []
           },
           {
