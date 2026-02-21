@@ -25385,6 +25385,12 @@
             "tags": []
           },
           {
+            "name": "google/mdbook-i18n-helpers",
+            "url": "https://github.com/google/mdbook-i18n-helpers",
+            "description": "[ mdbook-i18n-helpers ] - Internationalization and rendering extensions for mdbook.",
+            "tags": []
+          },
+          {
             "name": "habitat",
             "url": "https://github.com/habitat-sh/habitat",
             "description": "A tool created by Chef to build, deploy, and manage applications.",
