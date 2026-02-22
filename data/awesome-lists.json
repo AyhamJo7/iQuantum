@@ -35172,6 +35172,12 @@
             "tags": []
           },
           {
+            "name": "buildcage",
+            "url": "https://github.com/dash14/buildcage",
+            "description": "Restricts outbound network access during Docker builds to prevent supply chain attacks, working as a drop-in BuildKit remote driver for Docker Buildx, with ready-to-use GitHub Actions by @dash14",
+            "tags": []
+          },
+          {
             "name": "CetusGuard",
             "url": "https://github.com/hectorm/cetusguard",
             "description": "CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints",
@@ -35193,6 +35199,12 @@
             "name": "Clair",
             "url": "https://github.com/quay/clair",
             "description": "Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By @coreos",
+            "tags": []
+          },
+          {
+            "name": "crowdsec-blocklist-import",
+            "url": "https://github.com/wolffcatskyy/crowdsec-blocklist-import",
+            "description": "Aggregates 36 free threat intelligence feeds into 120k+ malicious IPs for CrowdSec bouncers, providing 10-20x more blocks than default lists. By @wolffcatskyy",
             "tags": []
           },
           {
@@ -36712,6 +36724,12 @@
             "name": "dockcheck",
             "url": "https://github.com/mag37/dockcheck",
             "description": "A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.",
+            "tags": []
+          },
+          {
+            "name": "Drydock",
+            "url": "https://github.com/CodesWhat/drydock",
+            "description": "Open-source container update monitoring with web dashboard, 15 registries, 16 notification triggers, and security scanning. Drop-in WUD replacement. By @CodesWhat",
             "tags": []
           },
           {
