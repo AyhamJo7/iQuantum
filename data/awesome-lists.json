@@ -25791,6 +25791,12 @@
             "tags": []
           },
           {
+            "name": "datahaven-xyz/datahaven",
+            "url": "https://github.com/datahaven-xyz/datahaven",
+            "description": "AI-First Decentralized Storage secured by EigenLayer.",
+            "tags": []
+          },
+          {
             "name": "Diem",
             "url": "https://github.com/diem/diem",
             "description": "Diem\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
@@ -26729,6 +26735,12 @@
             "name": "rustq/vue-skia",
             "url": "https://github.com/rustq/vue-skia",
             "description": "Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.",
+            "tags": []
+          },
+          {
+            "name": "storytold/artcraft",
+            "url": "https://github.com/storytold/artcraft",
+            "description": "An AI-powered IDE and tangible computing surface for molding scenes, videos, and images like clay.",
             "tags": []
           },
           {
@@ -62945,6 +62957,12 @@
             "tags": []
           },
           {
+            "name": "P\u00f8nskelisten",
+            "url": "https://github.com/aunefyren/poenskelisten",
+            "description": "Sharing wishlists and collaborating on gifts and presents. GPL-3.0 Docker/Go",
+            "tags": []
+          },
+          {
             "name": "Reactive Resume",
             "url": "https://rxresu.me/",
             "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ( Demo , Source Code ) MIT Docker/Nodejs",
@@ -63297,6 +63315,12 @@
             "tags": []
           },
           {
+            "name": "NetAlertX",
+            "url": "https://netalertx.com/",
+            "description": "Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. ( Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Speed Test by OpenSpeedTest\u2122",
             "url": "https://openspeedtest.com/",
             "description": "Free & Open-Source HTML5 Network Performance Estimation Tool. ( Source Code ) MIT Docker",
@@ -63318,6 +63342,12 @@
             "name": "Wakupator",
             "url": "https://github.com/Gibus21250/Wakupator",
             "description": "Wake On LAN Machine Manager based on network traffic. MIT C",
+            "tags": []
+          },
+          {
+            "name": "WatchYourLAN",
+            "url": "https://github.com/aceberg/WatchYourLAN",
+            "description": "Lightweight network IP scanner with notifications, history, export to Grafana. MIT Docker/Go/deb",
             "tags": []
           }
         ]
