@@ -24001,6 +24001,12 @@
             "tags": []
           },
           {
+            "name": "xjb",
+            "url": "https://github.com/xjb714/xjb",
+            "description": "A fast float to string algorithm. [Apache-2.0]",
+            "tags": []
+          },
+          {
             "name": "xxHash",
             "url": "https://github.com/Cyan4973/xxHash",
             "description": "Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause] website",
@@ -24805,6 +24811,12 @@
             "name": "C++Now 2012 Presentations",
             "url": "https://github.com/boostcon/cppnow_presentations_2012",
             "description": "Presentation materials presented at C++Now 2012.",
+            "tags": []
+          },
+          {
+            "name": "cpp17_in_TTs",
+            "url": "https://github.com/tvaneerd/cpp17_in_TTs",
+            "description": "Descriptions of C++17 features, presented mostly in \"Tony Tables\".",
             "tags": []
           }
         ]
@@ -26990,6 +27002,12 @@
             "name": "0xdea/jiggy",
             "url": "https://github.com/0xdea/jiggy",
             "description": "[ jiggy ] - Minimalistic cross-platform mouse jiggler written in Rust",
+            "tags": []
+          },
+          {
+            "name": "aannoo/hcom",
+            "url": "https://github.com/aannoo/hcom",
+            "description": "Let AI agents message, watch, and spawn each other across terminals (Claude Code, Gemini CLI, Codex, OpenCode). Rust PTY wrapper with screen tracking, TUI (ratatui), and daemon client binary; Python hooks and API",
             "tags": []
           },
           {
@@ -32895,6 +32913,12 @@
             "name": "3body-lang",
             "url": "https://github.com/rustq/3body-lang",
             "description": "The Three Body Language",
+            "tags": []
+          },
+          {
+            "name": "boa-dev/boa",
+            "url": "https://github.com/boa-dev/boa",
+            "description": "[ boa_engine ] - An experimental JavaScript lexer, parser and interpreter written in Rust.",
             "tags": []
           },
           {
@@ -76390,6 +76414,12 @@
             "name": "Later",
             "url": "https://getlater.app/",
             "description": "Save all your Mac apps for later with one click.",
+            "tags": []
+          },
+          {
+            "name": "LuxShot",
+            "url": "https://github.com/lukebuild/LuxShot",
+            "description": "Native and privacy-first menu bar OCR tool.",
             "tags": []
           },
           {
