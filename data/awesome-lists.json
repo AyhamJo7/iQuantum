@@ -26649,6 +26649,12 @@
             "tags": []
           },
           {
+            "name": "Strophox/tetro-tui",
+            "url": "https://github.com/Strophox/tetro-tui",
+            "description": "[ tetro-tui ] - A cross-platform terminal game where tetrominos fall and stack.",
+            "tags": []
+          },
+          {
             "name": "swatteau/sokoban-rs",
             "url": "https://github.com/swatteau/sokoban-rs",
             "description": "A Sokoban implementation",
@@ -35036,9 +35042,9 @@
         "name": "Reverse Proxy",
         "resources": [
           {
-            "name": "bunkerized-nginx",
-            "url": "https://github.com/bunkerity/bunkerized-nginx",
-            "description": "Web app hosting and reverse proxy secure by default. By @bunkerity",
+            "name": "BunkerWeb",
+            "url": "https://github.com/bunkerity/bunkerweb",
+            "description": "Open-source and next-gen Web Application Firewall (WAF). By Bunkerity",
             "tags": []
           },
           {
@@ -35313,6 +35319,12 @@
             "name": "Syft",
             "url": "https://github.com/anchore/syft",
             "description": "CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.",
+            "tags": []
+          },
+          {
+            "name": "segspec",
+            "url": "https://github.com/dormstern/segspec",
+            "description": "Extracts network dependencies from Docker Compose, Kubernetes manifests, Helm charts, and other config files to generate Kubernetes NetworkPolicies with evidence tracing. By @dormstern",
             "tags": []
           },
           {
@@ -35940,6 +35952,12 @@
             "name": "Theia",
             "url": "https://github.com/eclipse-theia/theia",
             "description": "Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.",
+            "tags": []
+          },
+          {
+            "name": "usulnet",
+            "url": "https://github.com/fr4nsys/usulnet",
+            "description": "A complete and modern Docker management platform designed for sysadmin, devops with enterprise grade tools, cve scanner, ssh, rdp on web and much more. By @fr4nsys",
             "tags": []
           },
           {
@@ -47854,7 +47872,7 @@
           },
           {
             "name": "pandas",
-            "url": "http://pandas.pydata.org/",
+            "url": "https://pandas.pydata.org/",
             "description": "A library providing high-performance, easy-to-use data structures and data analysis tools.",
             "tags": []
           },
@@ -48826,7 +48844,7 @@
           },
           {
             "name": "urwid",
-            "url": "http://urwid.org/",
+            "url": "https://urwid.org/",
             "description": "A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.",
             "tags": []
           },
@@ -48884,7 +48902,7 @@
           },
           {
             "name": "Pygame",
-            "url": "http://www.pygame.org/news.html",
+            "url": "https://www.pygame.org/news.html",
             "description": "Pygame is a set of Python modules designed for writing games.",
             "tags": []
           },
@@ -48978,7 +48996,7 @@
           },
           {
             "name": "lxml",
-            "url": "http://lxml.de/",
+            "url": "https://lxml.de/",
             "description": "A very fast, easy-to-use and versatile library for handling HTML and XML.",
             "tags": []
           },
@@ -49002,7 +49020,7 @@
           },
           {
             "name": "WeasyPrint",
-            "url": "http://weasyprint.org",
+            "url": "https://weasyprint.org",
             "description": "A visual rendering engine for HTML and CSS that can export to PDF.",
             "tags": []
           },
@@ -49089,7 +49107,7 @@
           },
           {
             "name": "pymatting",
-            "url": "http://github.com/pymatting/pymatting",
+            "url": "https://github.com/pymatting/pymatting",
             "description": "A library for alpha matting.",
             "tags": []
           },
@@ -49119,7 +49137,7 @@
           },
           {
             "name": "scikit-image",
-            "url": "http://scikit-image.org/",
+            "url": "https://scikit-image.org/",
             "description": "A Python library for (scientific) image processing.",
             "tags": []
           },
@@ -49236,7 +49254,7 @@
         "resources": [
           {
             "name": "Babel",
-            "url": "http://babel.pocoo.org/en/latest/",
+            "url": "https://babel.pocoo.org/en/latest/",
             "description": "An internationalization library for Python.",
             "tags": []
           }
@@ -49518,7 +49536,7 @@
           },
           {
             "name": "nltk",
-            "url": "http://www.nltk.org/",
+            "url": "https://www.nltk.org/",
             "description": "A leading platform for building Python programs to work with human language data.",
             "tags": []
           },
@@ -49990,7 +50008,7 @@
         "resources": [
           {
             "name": "astropy",
-            "url": "http://www.astropy.org/",
+            "url": "https://www.astropy.org/",
             "description": "A community Python library for Astronomy.",
             "tags": []
           },
@@ -66402,12 +66420,6 @@
         "name": "Java",
         "resources": [
           {
-            "name": "appsmith",
-            "url": "https://github.com/appsmithorg/appsmith",
-            "description": "(label: good first issue) Drag & Drop internal tool builder",
-            "tags": []
-          },
-          {
             "name": "Catima - Android App",
             "url": "https://github.com/CatimaLoyalty/Android",
             "description": "(label: good first issue) Catima, a Loyalty Card & Ticket Manager for Android",
@@ -66494,12 +66506,6 @@
             "name": "Ancient Beast",
             "url": "https://github.com/FreezingMoon/AncientBeast",
             "description": "(label: easy) Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.",
-            "tags": []
-          },
-          {
-            "name": "appsmith",
-            "url": "https://github.com/appsmithorg/appsmith",
-            "description": "(label: good first issue) Drag & Drop internal tool builder",
             "tags": []
           },
           {
@@ -66896,6 +66902,17 @@
             "name": "webdriver.io",
             "url": "https://github.com/webdriverio/webdriverio",
             "description": "(label: first-timers-only) Next-gen browser and mobile automation test framework for Node.js",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Javascript",
+        "resources": [
+          {
+            "name": "appsmith",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "description": "(label: good first issue) Drag & Drop internal tool builder",
             "tags": []
           }
         ]
@@ -67727,6 +67744,17 @@
             "name": "Vitest",
             "url": "https://github.com/vitest-dev/vitest",
             "description": "(label: good first issue) A blazing fast unit test framework powered by Vite.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Typescript",
+        "resources": [
+          {
+            "name": "appsmith",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "description": "(label: good first issue) Drag & Drop internal tool builder",
             "tags": []
           }
         ]
@@ -72569,6 +72597,12 @@
             "tags": []
           },
           {
+            "name": "Configs",
+            "url": "https://github.com/iHongRen/configEditor",
+            "description": "Configuration file manager for quickly viewing, editing and managing config files.",
+            "tags": []
+          },
+          {
             "name": "CubicBezier",
             "url": "https://github.com/isaced/CubicBezier",
             "description": "CubicBezier Generator for macOS.",
@@ -75184,6 +75218,12 @@
             "tags": []
           },
           {
+            "name": "Muxie",
+            "url": "https://muxie.duhnnie.com",
+            "description": "Last.fm scrobbler for Apple Music, Spotify Desktop, iPod Classic, Rockbox devices and some others.",
+            "tags": []
+          },
+          {
             "name": "Natron",
             "url": "https://natrongithub.github.io/",
             "description": "Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry.",
@@ -75482,6 +75522,12 @@
             "tags": []
           },
           {
+            "name": "XGetter",
+            "url": "https://xgetter.com/",
+            "description": "Media Downloader - Download video, audio from YouTube, Douyin, Facebook, Instagram, Twitter, TikTok and 60+ sites",
+            "tags": []
+          },
+          {
             "name": "You-Get",
             "url": "https://you-get.org/",
             "description": "Tiny command-line utility to download media contents (videos, audios, images) from the web.",
@@ -75614,6 +75660,12 @@
             "name": "Tambourine",
             "url": "https://tambourinevoice.com/",
             "description": "Open-source, customizable AI voice dictation that works in any app.",
+            "tags": []
+          },
+          {
+            "name": "TypeWhisper",
+            "url": "https://www.typewhisper.com",
+            "description": "Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey.",
             "tags": []
           },
           {
