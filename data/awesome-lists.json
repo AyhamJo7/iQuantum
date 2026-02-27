@@ -17748,6 +17748,12 @@
             "url": "https://submanager.app",
             "description": "Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices.",
             "tags": []
+          },
+          {
+            "name": "SubList",
+            "url": "https://apps.apple.com/app/sublist-subscription-list/id6757860829",
+            "description": "Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.",
+            "tags": []
           }
         ]
       },
@@ -18026,6 +18032,12 @@
             "url": "https://dropoverapp.com/",
             "description": "A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.",
             "tags": []
+          },
+          {
+            "name": "cmd+x",
+            "url": "https://apps.apple.com/app/cmd-x/id6754665762",
+            "description": "Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.",
+            "tags": []
           }
         ]
       },
@@ -18173,6 +18185,12 @@
             "name": "SaneBar",
             "url": "https://sanebar.com",
             "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender.",
+            "tags": []
+          },
+          {
+            "name": "Sharptooth",
+            "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814",
+            "description": "Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.",
             "tags": []
           },
           {
@@ -19606,6 +19624,12 @@
             "name": "RClick",
             "url": "https://github.com/wflixu/RClick",
             "description": "Add new functionality to the macOS Finder context menu.",
+            "tags": []
+          },
+          {
+            "name": "SwiftyMenu",
+            "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223",
+            "description": "A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.",
             "tags": []
           },
           {
@@ -57384,6 +57408,12 @@
             "url": "https://github.com/oxipng/oxipng",
             "description": "[ oxipng ] - Multithreaded PNG optimizer written in Rust.",
             "tags": []
+          },
+          {
+            "name": "visioncortex/vtracer",
+            "url": "https://github.com/visioncortex/vtracer",
+            "description": "[ vtracer ] - A raster to vector graphics converter (jpg/png to svg).",
+            "tags": []
           }
         ]
       },
@@ -61146,6 +61176,12 @@
             "name": "Axect/Peroxide",
             "url": "https://github.com/Axect/Peroxide",
             "description": "Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust",
+            "tags": []
+          },
+          {
+            "name": "cool-japan/scirs",
+            "url": "https://github.com/cool-japan/scirs",
+            "description": "Production-Ready pure Rust scientific computing, includes linear algebra, optimization, statistics, neural networks and more. API inspired by Python's SciPy.",
             "tags": []
           },
           {
