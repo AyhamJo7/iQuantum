@@ -3443,12 +3443,6 @@
             "tags": []
           },
           {
-            "name": "Kubek",
-            "url": "https://kubek.seeeroy.ru",
-            "description": "Web management panel for Minecraft servers. ( Source Code ) GPL-3.0 Nodejs",
-            "tags": []
-          },
-          {
             "name": "Lancache",
             "url": "https://lancache.net",
             "description": "\u26a0 - LAN Party game caching made easy. ( Source Code ) MIT Docker/Shell",
@@ -13522,7 +13516,7 @@
         "resources": [
           {
             "name": "Keynote",
-            "url": "https://apps.apple.com/app/keynote/id409183694?mt=12",
+            "url": "https://apps.apple.com/app/keynote/id409183694?platform=mac",
             "description": "Build stunning presentations.",
             "tags": []
           },
@@ -13540,7 +13534,7 @@
           },
           {
             "name": "Numbers",
-            "url": "https://apps.apple.com/app/numbers/id409203825?mt=12",
+            "url": "https://apps.apple.com/app/numbers/id409203825?platform=mac",
             "description": "Create impressive spreadsheets.",
             "tags": []
           },
@@ -13552,7 +13546,7 @@
           },
           {
             "name": "Pages",
-            "url": "https://apps.apple.com/app/pages/id409201541?mt=12",
+            "url": "https://apps.apple.com/app/pages/id409201541?platform=mac",
             "description": "Documents that stand apart.",
             "tags": []
           },
@@ -13631,6 +13625,12 @@
             "name": "Obsidian",
             "url": "https://obsidian.md",
             "description": "A second brain, for you, forever.",
+            "tags": []
+          },
+          {
+            "name": "Scratch",
+            "url": "https://www.ericli.io/scratch",
+            "description": "Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.",
             "tags": []
           },
           {
@@ -13991,7 +13991,7 @@
           },
           {
             "name": "Simple Comic",
-            "url": "https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12",
+            "url": "https://apps.apple.com/us/app/simple-comic/id1497435571?platform=mac",
             "description": "EBook reader for PDF, CBZ, and CBR formats with Live Text search.",
             "tags": []
           }
@@ -14616,6 +14616,12 @@
             "tags": []
           },
           {
+            "name": "PortKiller",
+            "url": "https://github.com/productdevbook/port-killer",
+            "description": "Cross-platform port management tool to monitor ports, manage Kubernetes port forwards and Cloudflare Tunnels, and kill processes in one click.",
+            "tags": []
+          },
+          {
             "name": "PPRows",
             "url": "https://github.com/jkpang/PPRows",
             "description": "Application to calculate how many lines of code you write.",
@@ -14761,7 +14767,7 @@
           },
           {
             "name": "Nib Unlocker",
-            "url": "https://apps.apple.com/by/app/nib-unlocker/id1475697086",
+            "url": "https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac",
             "description": ".nib to .xib converter",
             "tags": []
           },
@@ -14796,7 +14802,7 @@
           },
           {
             "name": "RegexMate",
-            "url": "https://apps.apple.com/app/6479819388",
+            "url": "https://apps.apple.com/app/6479819388?platform=mac",
             "description": "A regular expression testing tool with a built-in quick reference guide.",
             "tags": []
           }
@@ -16344,7 +16350,7 @@
           },
           {
             "name": "AppIconBuilder",
-            "url": "https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12",
+            "url": "https://apps.apple.com/app/shotbuilder/id1294179975?platform=mac",
             "description": "Export icons for multi-platform",
             "tags": []
           },
@@ -16612,7 +16618,7 @@
           },
           {
             "name": "Textual",
-            "url": "https://apps.apple.com/us/app/textual-7/id1262957439",
+            "url": "https://apps.apple.com/us/app/textual-7/id1262957439?platform=mac",
             "description": "Internet Relay Chat (IRC) client.",
             "tags": []
           },
@@ -16630,7 +16636,7 @@
           },
           {
             "name": "WeChat",
-            "url": "https://itunes.apple.com/app/wechat/id836500024?mt=12",
+            "url": "https://apps.apple.com/app/wechat/id836500024?platform=mac",
             "description": "Official WeChat app for Mac.",
             "tags": []
           },
@@ -16642,7 +16648,7 @@
           },
           {
             "name": "WhatsApp Desktop",
-            "url": "https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12",
+            "url": "https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?platform=mac",
             "description": "Available in the Mac App Store, Whatsapp for Desktop.",
             "tags": []
           },
@@ -16848,7 +16854,7 @@
           },
           {
             "name": "Audio Profile Manager",
-            "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12",
+            "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac",
             "description": "Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.",
             "tags": []
           },
@@ -17196,7 +17202,7 @@
           },
           {
             "name": "VidCrop",
-            "url": "https://apps.apple.com/app/VidCrop/6752624705",
+            "url": "https://apps.apple.com/app/VidCrop/6752624705?platform=mac",
             "description": "A simple video cropping tool that supports multiple formats and precise trimming.",
             "tags": []
           },
@@ -17238,7 +17244,7 @@
           },
           {
             "name": "Musicer",
-            "url": "https://apps.apple.com/app/musicer/6745227444",
+            "url": "https://apps.apple.com/app/musicer/6745227444?platform=mac",
             "description": "A lightweight local music player that supports multiple formats for enjoying music anytime.",
             "tags": []
           },
@@ -17676,7 +17682,7 @@
           {
             "name": "Easydict",
             "url": "https://github.com/tisfeng/Easydict",
-            "description": "Easy to look up words or translate text",
+            "description": "A concise dictionary and translator for looking up words and translating text.",
             "tags": []
           },
           {
@@ -17692,12 +17698,6 @@
             "tags": []
           },
           {
-            "name": "Lingvanex",
-            "url": "https://lingvanex.com",
-            "description": "",
-            "tags": []
-          },
-          {
             "name": "Ludwig",
             "url": "https://ludwig.guru",
             "description": "Linguistic search engine that helps you to write better in English.",
@@ -17707,6 +17707,12 @@
             "name": "Mate Translate",
             "url": "https://gikken.co/mate-translate/mac",
             "description": "Translate in Safari and any app on macOS between 103 languages.",
+            "tags": []
+          },
+          {
+            "name": "MoePeek",
+            "url": "https://github.com/cosZone/MoePeek",
+            "description": "Lightweight translation tool with instant selection translation, OCR screenshot translation, clipboard translation, and manual input translation.",
             "tags": []
           },
           {
@@ -17751,7 +17757,7 @@
           },
           {
             "name": "SubList",
-            "url": "https://apps.apple.com/app/sublist-subscription-list/id6757860829",
+            "url": "https://apps.apple.com/app/sublist-subscription-list/id6757860829?platform=mac",
             "description": "Track subscriptions, renewals, and spending in one place with reminders, analytics, and iCloud sync.",
             "tags": []
           }
@@ -18035,7 +18041,7 @@
           },
           {
             "name": "cmd+x",
-            "url": "https://apps.apple.com/app/cmd-x/id6754665762",
+            "url": "https://apps.apple.com/app/cmd-x/id6754665762?platform=mac",
             "description": "Launch Activity Monitor with Ctrl+Opt+Delete, cut and move files in Finder with Cmd+X.",
             "tags": []
           }
@@ -18082,7 +18088,7 @@
           },
           {
             "name": "iCopy",
-            "url": "https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12",
+            "url": "https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?platform=mac",
             "description": "Clipboard management, quick reply, efficiency multiplier artifact",
             "tags": []
           },
@@ -18189,7 +18195,7 @@
           },
           {
             "name": "Sharptooth",
-            "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814",
+            "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac",
             "description": "Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.",
             "tags": []
           },
@@ -18279,7 +18285,7 @@
           },
           {
             "name": "Hue in the Menu",
-            "url": "https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384",
+            "url": "https://apps.apple.com/gb/app/hue-in-the-menu/id1534707384?platform=mac",
             "description": "Philips Hue light management in the menu bar with multi-room support.",
             "tags": []
           },
@@ -18501,7 +18507,7 @@
           },
           {
             "name": "FunKey\uff0dMechanical Keyboard App",
-            "url": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677",
+            "url": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac",
             "description": "FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook.",
             "tags": []
           }
@@ -18637,7 +18643,7 @@
           },
           {
             "name": "Deskmark",
-            "url": "https://apps.apple.com/app/Deskmark/6755948110",
+            "url": "https://apps.apple.com/app/Deskmark/6755948110?platform=mac",
             "description": "Add watermarks to the desktop, ideal for recording videos.",
             "tags": []
           },
@@ -18751,7 +18757,7 @@
           },
           {
             "name": "Vidwall",
-            "url": "https://apps.apple.com/app/Vidwall/6747587746",
+            "url": "https://apps.apple.com/app/Vidwall/6747587746?platform=mac",
             "description": "Easily import MP4/MOV videos as system wallpapers and lock screen animations.",
             "tags": []
           },
@@ -19145,7 +19151,7 @@
           },
           {
             "name": "Perplexity",
-            "url": "https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650",
+            "url": "https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac",
             "description": "Search and discovery with AI.",
             "tags": []
           },
@@ -19515,7 +19521,7 @@
           },
           {
             "name": "Keyzer",
-            "url": "https://apps.apple.com/app/Keyzer/6500434773",
+            "url": "https://apps.apple.com/app/Keyzer/6500434773?platform=mac",
             "description": "Simple password manager that supports saving portable password files.",
             "tags": []
           },
@@ -19628,7 +19634,7 @@
           },
           {
             "name": "SwiftyMenu",
-            "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223",
+            "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac",
             "description": "A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.",
             "tags": []
           },
@@ -19740,7 +19746,7 @@
           },
           {
             "name": "Amphetamine",
-            "url": "https://itunes.apple.com/us/app/amphetamine/id937984704",
+            "url": "https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac",
             "description": "Keep your Mac awake.",
             "tags": []
           },
@@ -19776,7 +19782,7 @@
           },
           {
             "name": "Cleaner One",
-            "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8",
+            "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac",
             "description": "Disk cleaning and Mac optimization.",
             "tags": []
           },
@@ -20092,7 +20098,7 @@
           },
           {
             "name": "Steam Link",
-            "url": "https://apps.apple.com/us/app/steam-link/id1246969117",
+            "url": "https://apps.apple.com/us/app/steam-link/id1246969117?platform=mac",
             "description": "The Steam Link app allows you to play your Steam games across all your computers.",
             "tags": []
           },
@@ -20110,7 +20116,7 @@
           },
           {
             "name": "Windows App",
-            "url": "https://apps.apple.com/us/app/windows-app/id1295203466",
+            "url": "https://apps.apple.com/us/app/windows-app/id1295203466?platform=mac",
             "description": "Connect to a remote PC or virtual apps and desktops made available by your admin.",
             "tags": []
           }
@@ -56082,6 +56088,12 @@
             "tags": []
           },
           {
+            "name": "Michael-F-Bryan/mdbook-linkcheck",
+            "url": "https://github.com/Michael-F-Bryan/mdbook-linkcheck",
+            "description": "[ mdbook-linkcheck ] - A backend for mdbook which will check your links for you.",
+            "tags": []
+          },
+          {
             "name": "mirrord",
             "url": "https://github.com/metalbear-co/mirrord",
             "description": "Connect your local process and your cloud environment, and run local code in cloud conditions",
@@ -84097,7 +84109,7 @@
           {
             "name": "Watchtower",
             "url": "https://github.com/containrrr/watchtower",
-            "description": "Automatically update running Docker containers",
+            "description": ":skull: - Automatically update running Docker containers",
             "tags": []
           }
         ]
