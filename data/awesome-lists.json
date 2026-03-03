@@ -20412,6 +20412,12 @@
             "tags": []
           },
           {
+            "name": "music-theory",
+            "url": "https://github.com/go-music-theory/music-theory",
+            "description": "Music theory models in Go.",
+            "tags": []
+          },
+          {
             "name": "Oto",
             "url": "https://github.com/hajimehoshi/oto",
             "description": "A low-level library to play sound on multiple platforms.",
@@ -23829,15 +23835,15 @@
             "tags": []
           },
           {
-            "name": "go-datebin",
-            "url": "https://github.com/deatil/go-datebin",
-            "description": "A simple datetime parse pkg.",
-            "tags": []
-          },
-          {
             "name": "go-date-fns",
             "url": "https://github.com/chmenegatti/go-date-fns",
             "description": "A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions.",
+            "tags": []
+          },
+          {
+            "name": "go-datebin",
+            "url": "https://github.com/deatil/go-datebin",
+            "description": "A simple datetime parse pkg.",
             "tags": []
           },
           {
@@ -25429,6 +25435,12 @@
             "name": "oapi-codegen",
             "url": "https://github.com/deepmap/oapi-codegen",
             "description": "This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.",
+            "tags": []
+          },
+          {
+            "name": "protoc-gen-httpgo",
+            "url": "https://github.com/MUlt1mate/protoc-gen-httpgo",
+            "description": "Generate HTTP server and client from protobuf.",
             "tags": []
           },
           {
@@ -28344,6 +28356,12 @@
             "name": "gofakeit",
             "url": "https://github.com/brianvoe/gofakeit",
             "description": "Random data generator written in go.",
+            "tags": []
+          },
+          {
+            "name": "goffi",
+            "url": "https://github.com/go-webgpu/goffi",
+            "description": "Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.",
             "tags": []
           },
           {
@@ -34694,6 +34712,12 @@
             "name": "gosddl",
             "url": "https://github.com/MonaxGT/gosddl",
             "description": "Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.",
+            "tags": []
+          },
+          {
+            "name": "windowsupdate",
+            "url": "https://github.com/ceshihao/windowsupdate",
+            "description": "A Golang binding for Windows Update Agent API using go-ole.",
             "tags": []
           }
         ]
@@ -58298,6 +58322,12 @@
             "tags": []
           },
           {
+            "name": "git-ai-project/git-ai",
+            "url": "https://github.com/git-ai-project/git-ai",
+            "description": "A git extension that tracks AI-generated code in your repositories, linking lines to the agent, model, and transcripts.",
+            "tags": []
+          },
+          {
             "name": "gitbutlerapp/gitbutler",
             "url": "https://github.com/gitbutlerapp/gitbutler",
             "description": "A modern Git-based version control interface with both a GUI and CLI built from the ground up for AI-powered workflows.",
@@ -59088,6 +59118,12 @@
       {
         "name": "Web",
         "resources": [
+          {
+            "name": "agrinman/tunnelto",
+            "url": "https://github.com/agrinman/tunnelto",
+            "description": "[ tunnelto ] - Lets you expose your locally running web server via a public URL.",
+            "tags": []
+          },
           {
             "name": "cfal/tobaru",
             "url": "https://github.com/cfal/tobaru",
@@ -74211,6 +74247,12 @@
         "name": "Code Analysis",
         "resources": [
           {
+            "name": "code-graph-rag",
+            "url": "https://github.com/vitali87/code-graph-rag",
+            "description": "Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.",
+            "tags": []
+          },
+          {
             "name": "code2flow",
             "url": "https://github.com/scottrogowski/code2flow",
             "description": "Turn your Python and JavaScript code into DOT flowcharts.",
@@ -77053,6 +77095,12 @@
             "name": "xlwings",
             "url": "https://github.com/ZoomerAnalytics/xlwings",
             "description": "A BSD-licensed library that makes it easy to call Python from Excel and vice versa.",
+            "tags": []
+          },
+          {
+            "name": "pdf_oxide",
+            "url": "https://github.com/yfedoseev/pdf_oxide",
+            "description": "A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.",
             "tags": []
           },
           {
