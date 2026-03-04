@@ -17645,6 +17645,12 @@
             "tags": []
           },
           {
+            "name": "Tabbit",
+            "url": "https://tabbitbrowser.com/",
+            "description": "An AI-native browser that understands your context, chats with webpages, and automates tasks.",
+            "tags": []
+          },
+          {
             "name": "Tor Browser",
             "url": "https://www.torproject.org/projects/torbrowser.html",
             "description": "Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis.",
@@ -18526,6 +18532,65 @@
         ]
       },
       {
+        "name": "Cleanup and Uninstall",
+        "resources": [
+          {
+            "name": "AppCleaner",
+            "url": "http://freemacsoft.net/appcleaner/",
+            "description": "Thoroughly uninstall apps.",
+            "tags": []
+          },
+          {
+            "name": "CleanMyMac",
+            "url": "https://macpaw.com/cleanmymac",
+            "description": "Delete megatons of junk, malware, and make your Mac faster & more organized",
+            "tags": []
+          },
+          {
+            "name": "Cleaner One",
+            "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac",
+            "description": "Disk cleaning and Mac optimization.",
+            "tags": []
+          },
+          {
+            "name": "Cleaner for Xcode",
+            "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
+            "description": "Remove unwanted Xcode files.",
+            "tags": []
+          },
+          {
+            "name": "ClearDisk",
+            "url": "https://github.com/bysiber/cleardisk",
+            "description": "Visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM) to reclaim disk space on macOS.",
+            "tags": []
+          },
+          {
+            "name": "DaisyDisk",
+            "url": "https://daisydiskapp.com/",
+            "description": "Disk usage analyzer and cleaner.",
+            "tags": []
+          },
+          {
+            "name": "Mac Cache Cleaner",
+            "url": "https://github.com/kaunteya/MacCacheCleaner",
+            "description": "Cache cleaner for Mac",
+            "tags": []
+          },
+          {
+            "name": "OmniDiskSweeper",
+            "url": "https://www.omnigroup.com/more",
+            "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.",
+            "tags": []
+          },
+          {
+            "name": "Pearcleaner",
+            "url": "https://itsalin.com/appInfo/?id=pearcleaner",
+            "description": "A free, source-available and fair-code licensed mac app cleaner.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "File Organization Tools",
         "resources": [
           {
@@ -18624,12 +18689,6 @@
             "tags": []
           },
           {
-            "name": "CleanMyMac",
-            "url": "https://macpaw.com/cleanmymac",
-            "description": "Delete megatons of junk, malware, and make your Mac faster & more organized",
-            "tags": []
-          },
-          {
             "name": "DNS Optimizer",
             "url": "https://www.appecosys.com/apps/dns-optimizer/",
             "description": "A DNS changer and performance\u2011benchmarking tool for Apple devices (macOS & iOS).",
@@ -18699,12 +18758,6 @@
             "name": "lo-rain",
             "url": "https://lo.cafe/lo-rain",
             "description": "Create a customizable rain over your desktop and apps, with splash over the dock.",
-            "tags": []
-          },
-          {
-            "name": "Mac Cache Cleaner",
-            "url": "https://github.com/kaunteya/MacCacheCleaner",
-            "description": "Cache cleaner for Mac",
             "tags": []
           },
           {
@@ -19335,6 +19388,12 @@
             "tags": []
           },
           {
+            "name": "Convoker",
+            "url": "https://github.com/varie-ai/convoker",
+            "description": "Type an app name, press Enter, all its windows come to you.",
+            "tags": []
+          },
+          {
             "name": "contexts",
             "url": "https://contexts.co/",
             "description": "Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.",
@@ -19769,12 +19828,6 @@
             "tags": []
           },
           {
-            "name": "AppCleaner",
-            "url": "http://freemacsoft.net/appcleaner/",
-            "description": "Thoroughly uninstall apps.",
-            "tags": []
-          },
-          {
             "name": "Apple Silicon App Test",
             "url": "https://doesitarm.com/apple-silicon-app-test/",
             "description": "Check Apple Silicon app compatibility.",
@@ -19793,27 +19846,9 @@
             "tags": []
           },
           {
-            "name": "Cleaner One",
-            "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac",
-            "description": "Disk cleaning and Mac optimization.",
-            "tags": []
-          },
-          {
-            "name": "Cleaner for Xcode",
-            "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
-            "description": "Remove unwanted Xcode files.",
-            "tags": []
-          },
-          {
             "name": "coconutBattery",
             "url": "https://www.coconut-flavour.com/coconutbattery/",
             "description": "Mac battery information and statistics.",
-            "tags": []
-          },
-          {
-            "name": "DaisyDisk",
-            "url": "https://daisydiskapp.com/",
-            "description": "Disk usage analyzer and cleaner.",
             "tags": []
           },
           {
@@ -19925,21 +19960,9 @@
             "tags": []
           },
           {
-            "name": "OmniDiskSweeper",
-            "url": "https://www.omnigroup.com/more",
-            "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.",
-            "tags": []
-          },
-          {
             "name": "OnyX",
             "url": "https://www.titanium-software.fr/en/onyx.html",
             "description": "Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more.",
-            "tags": []
-          },
-          {
-            "name": "Pearcleaner",
-            "url": "https://itsalin.com/appInfo/?id=pearcleaner",
-            "description": "A free, source-available and fair-code licensed mac app cleaner.",
             "tags": []
           },
           {
@@ -20141,6 +20164,12 @@
             "name": "QLMarkdown",
             "url": "https://github.com/sbarex/QLMarkdown",
             "description": "Quick Look extension for Markdown files.",
+            "tags": []
+          },
+          {
+            "name": "FluxMarkdown",
+            "url": "https://github.com/xykong/flux-markdown",
+            "description": "Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts.",
             "tags": []
           },
           {
@@ -30859,6 +30888,12 @@
             "tags": []
           },
           {
+            "name": "signals",
+            "url": "https://github.com/coregx/signals",
+            "description": "Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.",
+            "tags": []
+          },
+          {
             "name": "stream",
             "url": "https://github.com/youthlin/stream",
             "description": "Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...",
@@ -32036,6 +32071,12 @@
             "name": "TySug",
             "url": "https://github.com/Dynom/TySug",
             "description": "Alternative suggestions with respect to keyboard layouts.",
+            "tags": []
+          },
+          {
+            "name": "uniwidth",
+            "url": "https://github.com/unilibs/uniwidth",
+            "description": "High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.",
             "tags": []
           },
           {
@@ -36513,6 +36554,12 @@
             "name": "GopherCon Brazil",
             "url": "https://gopherconbr.org",
             "description": "Florian\u00f3polis, Brazil.",
+            "tags": []
+          },
+          {
+            "name": "GopherCon China",
+            "url": "https://gophercon.com.cn",
+            "description": "Shanghai, China.",
             "tags": []
           },
           {
@@ -56100,6 +56147,12 @@
         "name": "Applications",
         "resources": [
           {
+            "name": "ad-si/Woxi",
+            "url": "https://github.com/ad-si/Woxi",
+            "description": "[ woxi ] - An interpreter for the Wolfram Language powered by Rust.",
+            "tags": []
+          },
+          {
             "name": "alacritty",
             "url": "https://github.com/alacritty/alacritty",
             "description": "A cross-platform, GPU enhanced terminal emulator",
@@ -58674,6 +58727,12 @@
             "tags": []
           },
           {
+            "name": "Inkwell",
+            "url": "https://github.com/4worlds4w-svg/inkwell",
+            "description": "A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.",
+            "tags": []
+          },
+          {
             "name": "Lapce",
             "url": "https://github.com/lapce/lapce",
             "description": "A modern editor with a backend. Taking inspiration from the discontinued xi-editor .",
@@ -59308,6 +59367,12 @@
             "tags": []
           },
           {
+            "name": "block/goose",
+            "url": "https://github.com/block/goose",
+            "description": "An open-source, local AI agent that automates engineering tasks.",
+            "tags": []
+          },
+          {
             "name": "clippy",
             "url": "https://crates.io/crates/clippy",
             "description": "Rust lints",
@@ -59425,6 +59490,12 @@
             "name": "intelli-shell",
             "url": "https://github.com/lasantosr/intelli-shell",
             "description": "Bookmark commands with placeholders and search or autocomplete at any time",
+            "tags": []
+          },
+          {
+            "name": "j178/prek",
+            "url": "https://github.com/j178/prek",
+            "description": "A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.",
             "tags": []
           },
           {
@@ -60485,6 +60556,12 @@
             "name": "ramsyana/RustTensor",
             "url": "https://github.com/ramsyana/RustTensor",
             "description": "A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.",
+            "tags": []
+          },
+          {
+            "name": "raphaelmansuy/edgequake",
+            "url": "https://github.com/raphaelmansuy/edgequake",
+            "description": "A high-performance Graph-RAG framework that transforms documents into intelligent knowledge graphs.",
             "tags": []
           },
           {
