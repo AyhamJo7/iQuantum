@@ -14424,6 +14424,12 @@
             "tags": []
           },
           {
+            "name": "Swifka",
+            "url": "https://github.com/Ender-Wang/Swifka",
+            "description": "Read-only Kafka monitor for safely inspecting topics, messages, and consumer state.",
+            "tags": []
+          },
+          {
             "name": "Configs",
             "url": "https://github.com/iHongRen/configEditor",
             "description": "Configuration file manager for quickly viewing, editing and managing config files.",
@@ -17496,6 +17502,12 @@
             "tags": []
           },
           {
+            "name": "OpenTypeless",
+            "url": "https://github.com/tover0314-w/opentypeless",
+            "description": "Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama).",
+            "tags": []
+          },
+          {
             "name": "Ottex",
             "url": "https://ottex.ai",
             "description": "Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly \u2014 gmail.com \u2192 email, Obsidian \u2192 markdown, etc.",
@@ -18020,6 +18032,12 @@
             "name": "Tunnelblick",
             "url": "https://tunnelblick.net/downloads.html",
             "description": "Free, open-source graphic user interface for OpenVPN on OS X.",
+            "tags": []
+          },
+          {
+            "name": "VPN Bypass",
+            "url": "https://github.com/GeiserX/VPN-Bypass",
+            "description": "Menu bar app to route specific domains and services around your VPN.",
             "tags": []
           },
           {
@@ -18561,7 +18579,7 @@
           {
             "name": "ClearDisk",
             "url": "https://github.com/bysiber/cleardisk",
-            "description": "Visualize and clean developer caches (Xcode, node_modules, CocoaPods, SPM) to reclaim disk space on macOS.",
+            "description": "Visualize and clean developer caches to quickly reclaim disk space.",
             "tags": []
           },
           {
@@ -18579,7 +18597,7 @@
           {
             "name": "OmniDiskSweeper",
             "url": "https://www.omnigroup.com/more",
-            "description": "Shows you the files on your drive, ordered by size. It can be used to find and remove unused files.",
+            "description": "Scans files by size so you can quickly find space hogs.",
             "tags": []
           },
           {
@@ -18602,7 +18620,7 @@
           {
             "name": "eZip",
             "url": "http://ezip.awehunt.com",
-            "description": "An easy to use, feature-rich archiver for macOS. Supports popular formats such as RAR, ZIP, 7Z, BZ2, GZ etc. Works great with Mojave dark-mode and QuickLook.",
+            "description": "Lightweight archive tool for ZIP, RAR, 7Z, and other common formats.",
             "tags": []
           },
           {
@@ -18626,7 +18644,7 @@
           {
             "name": "Keka",
             "url": "https://www.keka.io",
-            "description": "File archiver for macOS. Compression: 7Z, ZIP, TAR, GZIP, BZIP2, XZ LZIP, DMG, ISO. Extraction: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, XZ, LZIP, DMG, ISO, LZMA, EXE, CAB, WIM, PAX, JAR, APK, APPX, CPGZ, CPIO.",
+            "description": "Open-source compression and extraction tool with broad format support.",
             "tags": []
           },
           {
@@ -33149,6 +33167,12 @@
             "name": "godaemon",
             "url": "https://github.com/VividCortex/godaemon",
             "description": "Utility to write daemons.",
+            "tags": []
+          },
+          {
+            "name": "godoclive",
+            "url": "https://github.com/syst3mctl/godoclive",
+            "description": "Generates interactive API documentation from Go HTTP handlers using static analysis of chi, gin, and net/http routers.",
             "tags": []
           },
           {
@@ -57388,6 +57412,12 @@
             "tags": []
           },
           {
+            "name": "nautechsystems/nautilus_trader",
+            "url": "https://github.com/nautechsystems/nautilus_trader",
+            "description": "A high-performance, production-grade algorithmic trading platform written in Rust and Python.",
+            "tags": []
+          },
+          {
             "name": "tackler",
             "url": "https://github.com/tackler-ng/tackler",
             "description": "[ tackler ] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting",
@@ -58200,6 +58230,12 @@
             "name": "rustscan",
             "url": "https://github.com/bee-san/RustScan",
             "description": "Make Nmap faster with this port scanning tool",
+            "tags": []
+          },
+          {
+            "name": "sherlock",
+            "url": "https://github.com/jonaylor89/sherlock-rs",
+            "description": "[ sherlock ] - Hunt down social media accounts by username across social networks",
             "tags": []
           },
           {
@@ -75540,7 +75576,7 @@
           {
             "name": "pathlib",
             "url": "https://docs.python.org/3/library/pathlib.html",
-            "description": "(Python standard library) An cross-platform, object-oriented path library.",
+            "description": "(Python standard library) A cross-platform, object-oriented path library.",
             "tags": []
           },
           {
@@ -76252,6 +76288,12 @@
             "name": "H2O",
             "url": "https://github.com/h2oai/h2o-3",
             "description": "Open Source Fast Scalable Machine Learning Platform.",
+            "tags": []
+          },
+          {
+            "name": "Instructor",
+            "url": "https://github.com/567-labs/instructor",
+            "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
             "tags": []
           },
           {
