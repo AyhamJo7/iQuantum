@@ -21108,6 +21108,12 @@
             "tags": []
           },
           {
+            "name": "phoenix",
+            "url": "https://github.com/phoenix-tui/phoenix",
+            "description": "High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.",
+            "tags": []
+          },
+          {
             "name": "progressbar",
             "url": "https://github.com/schollz/progressbar",
             "description": "Basic thread-safe progress bar that works in every OS.",
@@ -23362,6 +23368,12 @@
             "name": "qry",
             "url": "https://github.com/HnH/qry",
             "description": "Tool that generates constants from files with raw SQL queries.",
+            "tags": []
+          },
+          {
+            "name": "relica",
+            "url": "https://github.com/coregx/relica",
+            "description": "Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support for JOINs, subqueries, CTEs, and window functions.",
             "tags": []
           },
           {
@@ -26620,6 +26632,12 @@
             "name": "leprechaun",
             "url": "https://github.com/kilgaloon/leprechaun",
             "description": "Job scheduler that supports webhooks, crons and classic scheduling.",
+            "tags": []
+          },
+          {
+            "name": "pending",
+            "url": "https://github.com/kahoon/pending",
+            "description": "ID-based debounced task scheduler for deferred tasks with cancellation, graceful shutdown, and optional concurrency limits.",
             "tags": []
           },
           {
@@ -34558,6 +34576,12 @@
             "name": "fasthttprouter",
             "url": "https://github.com/buaazp/fasthttprouter",
             "description": "High performance router forked from httprouter . The first router fit for fasthttp .",
+            "tags": []
+          },
+          {
+            "name": "fursy",
+            "url": "https://github.com/coregx/fursy",
+            "description": "HTTP router with type-safe generic handlers, automatic OpenAPI 3.1 generation from code, and RFC 9457 error responses.",
             "tags": []
           },
           {
@@ -56453,6 +56477,12 @@
             "tags": []
           },
           {
+            "name": "temps",
+            "url": "https://github.com/gotempsh/temps",
+            "description": "A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary",
+            "tags": []
+          },
+          {
             "name": "tiny",
             "url": "https://github.com/osa1/tiny",
             "description": "A terminal IRC client",
@@ -57107,6 +57137,12 @@
             "name": "ruvnet/ruvector",
             "url": "https://github.com/ruvnet/ruvector",
             "description": "[ ruvector-core ] - A self-learning vector database and cognitive container that runs LLMs locally and scales horizontally.",
+            "tags": []
+          },
+          {
+            "name": "sabiql",
+            "url": "https://github.com/riii111/sabiql",
+            "description": "[ sabiql ] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.",
             "tags": []
           },
           {
@@ -58149,6 +58185,12 @@
             "tags": []
           },
           {
+            "name": "EFForg/rayhunter",
+            "url": "https://github.com/EFForg/rayhunter",
+            "description": "IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators)",
+            "tags": []
+          },
+          {
             "name": "entropic-security/xgadget",
             "url": "https://github.com/entropic-security/xgadget",
             "description": "[ xgadget ] - Fast, parallel, cross-variant ROP/JOP gadget search",
@@ -59061,8 +59103,8 @@
             "tags": []
           },
           {
-            "name": "ruvnet/wifi-densepose",
-            "url": "https://github.com/ruvnet/wifi-densepose",
+            "name": "ruvnet/RuView",
+            "url": "https://github.com/ruvnet/RuView",
             "description": "A privacy-preserving human pose estimation system using WiFi Channel State Information (CSI) and machine learning.",
             "tags": []
           },
@@ -66316,6 +66358,12 @@
             "tags": []
           },
           {
+            "name": "WUI",
+            "url": "https://github.com/intent-garden/wui",
+            "description": "WUI (Window User Interface Library) is a cross-platform library for creating graphical user interfaces in C++17+ [Boost] website",
+            "tags": []
+          },
+          {
             "name": "xtd",
             "url": "https://github.com/gammasoft71/xtd",
             "description": "Modern C++20 framework to create console (CLI), forms (GUI) and unit tests (xUnit) applications on Windows, macOS, Linux, iOS, Android, FreeBSD and Haiku. [MIT]",
@@ -66653,6 +66701,12 @@
             "url": "https://github.com/facebookresearch/wav2letter/",
             "description": "Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]",
             "tags": []
+          },
+          {
+            "name": "PocketSphinx",
+            "url": "https://github.com/cmusphinx/pocketsphinx",
+            "description": "A lightweight speech recognition engine. [BSD-2-Clause] website",
+            "tags": []
           }
         ]
       },
@@ -66693,6 +66747,12 @@
             "name": "Wham",
             "url": "https://github.com/zeeev/wham",
             "description": "Structural variants (SVs) in Genomes by directly applying association tests to BAM files. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "htslib",
+            "url": "https://github.com/samtools/htslib",
+            "description": "A C library for reading/writing high-throughput sequencing data. [MIT/BSD] website",
             "tags": []
           }
         ]
@@ -66961,6 +67021,12 @@
             "url": "https://github.com/Cubified/tuibox",
             "description": "A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. [MIT]",
             "tags": []
+          },
+          {
+            "name": "Ginseng",
+            "url": "https://github.com/chewax/Ginseng",
+            "description": "A C++ command-line argument parser. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -67121,6 +67187,24 @@
             "name": "ZZIPlib",
             "url": "http://zziplib.sourceforge.net/",
             "description": "Provides read access on ZIP-archives. [MPL/LGPL]",
+            "tags": []
+          },
+          {
+            "name": "cmix",
+            "url": "https://github.com/byronknoll/cmix",
+            "description": "A lossless data compression program that aims for the highest compression ratios at the cost of speed. [GPL-3.0]",
+            "tags": []
+          },
+          {
+            "name": "LZSSE-SIMDe",
+            "url": "https://github.com/nemequ/LZSSE-SIMDe",
+            "description": "A portable SIMD implementation of LZSSE compression. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "Zopfli",
+            "url": "https://github.com/google/zopfli",
+            "description": "A compression library that performs very good but slow deflate/zlib compression. [Apache-2.0]",
             "tags": []
           }
         ]
@@ -67415,6 +67499,18 @@
             "url": "https://github.com/David-Haim/concurrencpp",
             "description": "A general concurrency library containing tasks, executors, timers and C++20 coroutines to rule them all.",
             "tags": []
+          },
+          {
+            "name": "libcu++",
+            "url": "https://github.com/NVIDIA/libcudacxx",
+            "description": "The NVIDIA C++ Standard Library, providing heterogeneous implementation of C++ Standard Library facilities. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "nvthreads",
+            "url": "https://github.com/HewlettPackard/nvthreads",
+            "description": "A library for enabling efficient and persistent threading in C/C++. [LGPL-2.1]",
+            "tags": []
           }
         ]
       },
@@ -67641,6 +67737,24 @@
             "url": "https://github.com/martinus/unordered_dense",
             "description": "A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]",
             "tags": []
+          },
+          {
+            "name": "CRoaring",
+            "url": "https://github.com/RoaringBitmap/CRoaring",
+            "description": "Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "fifo_map",
+            "url": "https://github.com/nlohmann/fifo_map",
+            "description": "A FIFO-ordered associative container for C++. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "ordered-map",
+            "url": "https://github.com/Tessil/ordered-map",
+            "description": "A C++ hash map and hash set which preserves the order of insertion. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -67768,6 +67882,12 @@
             "tags": []
           },
           {
+            "name": "tiny-ECDH-c",
+            "url": "https://github.com/kokke/tiny-ECDH-c",
+            "description": "Small and portable implementation of the ECDH key agreement protocol in C. [PublicDomain]",
+            "tags": []
+          },
+          {
             "name": "Themis",
             "url": "https://github.com/cossacklabs/themis",
             "description": "crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]",
@@ -67777,6 +67897,30 @@
             "name": "HEhub",
             "url": "https://github.com/primihub/HEhub",
             "description": "A library for homomorphic encryption and its applications. [Apache2]",
+            "tags": []
+          },
+          {
+            "name": "Qt-Secret",
+            "url": "https://github.com/QuasarApp/Qt-Secret",
+            "description": "Simple encryption library based on Qt for C++ projects. [LGPL]",
+            "tags": []
+          },
+          {
+            "name": "micro-ecc",
+            "url": "https://github.com/kmackay/micro-ecc",
+            "description": "A small and fast ECDH and ECDSA implementation for 8-bit, 32-bit, and 64-bit processors. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "crypto-algorithms",
+            "url": "https://github.com/B-Con/crypto-algorithms",
+            "description": "Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]",
+            "tags": []
+          },
+          {
+            "name": "aes-stream",
+            "url": "https://github.com/jedisct1/aes-stream",
+            "description": "A fast AES-based stream cipher for C. [ISC]",
             "tags": []
           }
         ]
@@ -68100,6 +68244,18 @@
             "url": "https://github.com/facebookincubator/velox",
             "description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] website",
             "tags": []
+          },
+          {
+            "name": "constexpr-sql",
+            "url": "https://github.com/mkitzan/constexpr-sql",
+            "description": "A compile-time SQL query parser and executor in C++17. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "NuDB",
+            "url": "https://github.com/cppalliance/NuDB",
+            "description": "A fast, append-only key/value store for SSD drives. [Boost]",
+            "tags": []
           }
         ]
       },
@@ -68129,12 +68285,24 @@
             "url": "https://github.com/jimmyorourke/plotlypp",
             "description": "A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. [MIT]",
             "tags": []
+          },
+          {
+            "name": "matplotlib-cpp",
+            "url": "https://github.com/lava/matplotlib-cpp",
+            "description": "A C++ wrapper around the matplotlib Python plotting library. [MIT]",
+            "tags": []
           }
         ]
       },
       {
         "name": "Debug",
         "resources": [
+          {
+            "name": "Attest",
+            "url": "https://github.com/tugglecore/attest",
+            "description": "Cross-platform, heap-free C test framework with parameterized and lifecycle-aware tests and assertions with ad-hoc formatted messages. [MIT]",
+            "tags": []
+          },
           {
             "name": "backward-cpp",
             "url": "https://github.com/bombela/backward-cpp",
@@ -68391,6 +68559,18 @@
             "name": "VLD",
             "url": "https://kinddragon.github.io/vld//",
             "description": "Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.",
+            "tags": []
+          },
+          {
+            "name": "MTuner",
+            "url": "https://github.com/milostosic/MTuner",
+            "description": "A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "heaptrack",
+            "url": "https://github.com/KDE/heaptrack",
+            "description": "A heap memory profiler for Linux. [LGPL-2.1]",
             "tags": []
           }
         ]
@@ -68902,6 +69082,18 @@
             "url": "https://github.com/yue/yue",
             "description": "A library for creating native cross-platform GUI apps. [LGPLv2]",
             "tags": []
+          },
+          {
+            "name": "GuiLite",
+            "url": "https://github.com/idea4good/GuiLite",
+            "description": "The smallest header-only GUI library (5 KLOC) for all platforms. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "LCUI",
+            "url": "https://github.com/lc-soft/LCUI",
+            "description": "A small C library for building user interfaces with C, XML and CSS. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -69338,6 +69530,18 @@
             "url": "http://www.vtk.org/",
             "description": "Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]",
             "tags": []
+          },
+          {
+            "name": "OpenImageDenoise",
+            "url": "https://github.com/OpenImageDenoise/oidn",
+            "description": "High-performance, high-quality denoising library for ray-traced images. [Apache-2.0] website",
+            "tags": []
+          },
+          {
+            "name": "bitmap",
+            "url": "https://github.com/ArashPartow/bitmap",
+            "description": "C++ Bitmap Library for reading, writing, and processing BMP image files. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -69743,6 +69947,12 @@
             "url": "https://github.com/ibireme/yyjson",
             "description": "A high performance JSON library written in ANSI C. [MIT]",
             "tags": []
+          },
+          {
+            "name": "libdart",
+            "url": "https://github.com/target/libdart",
+            "description": "A high-performance, network-optimized JSON manipulation library. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -69868,6 +70078,12 @@
             "url": "https://github.com/odygrd/quill",
             "description": "Asynchronous cross platform low latency logging library. [MIT]",
             "tags": []
+          },
+          {
+            "name": "logfault",
+            "url": "https://github.com/jgaa/logfault",
+            "description": "A simple, elegant and efficient C++ header-only logging library. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -69943,7 +70159,7 @@
           {
             "name": "MeTA",
             "url": "https://github.com/meta-toolkit/meta",
-            "description": "A modern C++ data sciences toolkit. [MIT] website",
+            "description": "A modern C++ data sciences toolkit. [MIT]",
             "tags": []
           },
           {
@@ -70022,6 +70238,18 @@
             "name": "xgboost",
             "url": "https://github.com/dmlc/xgboost",
             "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow. [Apache2]",
+            "tags": []
+          },
+          {
+            "name": "TensorComprehensions",
+            "url": "https://github.com/facebookresearch/TensorComprehensions",
+            "description": "A fully-functional C++ library to automatically synthesize high-performance machine learning kernels. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "kann",
+            "url": "https://github.com/attractivechaos/kann",
+            "description": "A lightweight C library for artificial neural networks. [MIT]",
             "tags": []
           }
         ]
@@ -70105,6 +70333,12 @@
             "name": "ExprTk",
             "url": "https://www.partow.net/programming/exprtk/",
             "description": "The C++ Mathematical Expression Toolkit Library (ExprTk) is a simple to use, easy to integrate and extremely efficient run-time mathematical expression parser and evaluation engine. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "Fastor",
+            "url": "https://github.com/romeric/Fastor",
+            "description": "A lightweight high performance tensor algebra framework for modern C++. [MIT]",
             "tags": []
           },
           {
@@ -70304,6 +70538,48 @@
             "url": "https://github.com/auto-differentiation/xad",
             "description": "Powerful Automatic Differentiation for C++. [AGPL] website",
             "tags": []
+          },
+          {
+            "name": "geogram",
+            "url": "https://github.com/BrunoLevy/geogram",
+            "description": "A programming library of geometric algorithms. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "std-simd",
+            "url": "https://github.com/VcDevel/std-simd",
+            "description": "A portable implementation of std::experimental::simd for C++. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "libdivide",
+            "url": "https://github.com/ridiculousfish/libdivide",
+            "description": "Optimized integer division for C/C++ using libdivide. [zlib] website",
+            "tags": []
+          },
+          {
+            "name": "fpsqrt",
+            "url": "https://github.com/chmike/fpsqrt",
+            "description": "Fast fixed point and floating point square root for C. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "fastmod",
+            "url": "https://github.com/lemire/fastmod",
+            "description": "Header-only fast C/C++ library for computing remainders and modular reductions. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "Spectra",
+            "url": "https://github.com/yixuan/spectra",
+            "description": "A C++ library for large scale eigenvalue problems, built on top of Eigen. [MPL2] website",
+            "tags": []
+          },
+          {
+            "name": "FastNoiseSIMD",
+            "url": "https://github.com/Auburns/FastNoiseSIMD",
+            "description": "A library for SIMD-accelerated noise generation functions. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -70380,6 +70656,24 @@
             "name": "tgc",
             "url": "https://github.com/orangeduck/tgc",
             "description": "A tiny garbage collector for C written in \\~500 LOC. [BSD]",
+            "tags": []
+          },
+          {
+            "name": "Mesh",
+            "url": "https://github.com/plasma-umass/Mesh",
+            "description": "A memory allocator that automatically reduces the memory footprint of C/C++ applications. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "rpmalloc",
+            "url": "https://github.com/rampantpixels/rpmalloc",
+            "description": "A public domain cross-platform lock-free thread-caching 16-byte aligned memory allocator. [PublicDomain]",
+            "tags": []
+          },
+          {
+            "name": "TLSF",
+            "url": "https://github.com/mattconte/tlsf",
+            "description": "Two-Level Segregated Fit memory allocator, a general purpose dynamic memory allocator. [BSD]",
             "tags": []
           }
         ]
@@ -70835,6 +71129,24 @@
             "url": "https://github.com/zeromq/zyre",
             "description": "Local Area Clustering for Peer-to-Peer Applications. [MPL2]",
             "tags": []
+          },
+          {
+            "name": "easyhttpcpp",
+            "url": "https://github.com/sony/easyhttpcpp",
+            "description": "A cross-platform HTTP client library providing a caching facility from Sony. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "GameNetworkingSockets",
+            "url": "https://github.com/ValveSoftware/GameNetworkingSockets",
+            "description": "Reliable & unreliable messages over UDP by Valve. Connection-oriented API (like TCP). [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "wepoll",
+            "url": "https://github.com/piscisaureus/wepoll",
+            "description": "A Windows epoll wrapper based on Winsock. [BSD-2-Clause]",
+            "tags": []
           }
         ]
       },
@@ -71054,6 +71366,12 @@
             "url": "https://github.com/sofa-framework/sofa",
             "description": "SOFA is an open-source framework targeting at real-time simulation, with an emphasis on medical simulation. [LGPL] website",
             "tags": []
+          },
+          {
+            "name": "tungsten",
+            "url": "https://github.com/tunabrain/tungsten",
+            "description": "A high-performance physically based renderer in C++. [zlib]",
+            "tags": []
           }
         ]
       },
@@ -71242,7 +71560,13 @@
           {
             "name": "Vectorscan",
             "url": "https://github.com/VectorCamp/vectorscan",
-            "description": "A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] website",
+            "description": "A portable fork of the high-performance regular expression matching library. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "Pawn.Regex",
+            "url": "https://github.com/urShadow/Pawn.Regex",
+            "description": "A Pawn plugin that provides support for regular expressions using C++11 std::regex. [MIT]",
             "tags": []
           }
         ]
@@ -71565,6 +71889,18 @@
             "url": "https://github.com/Microsoft/ChakraCore",
             "description": "A JavaScript engine by Microsoft that can be embedded into nodejs. [MIT]",
             "tags": []
+          },
+          {
+            "name": "MuJS",
+            "url": "https://codeberg.org/ccxvii/mujs",
+            "description": "An embeddable Javascript interpreter in C. [ISC] website",
+            "tags": []
+          },
+          {
+            "name": "hobbes",
+            "url": "https://github.com/Morgan-Stanley/hobbes",
+            "description": "A language and an embedded JIT compiler from Morgan Stanley. [Apache-2.0]",
+            "tags": []
           }
         ]
       },
@@ -71708,6 +72044,12 @@
             "url": "https://github.com/eyalz800/zpp_bits",
             "description": "Actually, the fastest modern S erialization library. Just check this video .",
             "tags": []
+          },
+          {
+            "name": "fbthrift",
+            "url": "https://github.com/facebook/fbthrift",
+            "description": "Facebook's branch of Apache Thrift, including a serialization library and RPC framework. [Apache-2.0]",
+            "tags": []
           }
         ]
       },
@@ -71831,6 +72173,12 @@
             "url": "https://github.com/twitter/vireo/",
             "description": "A lightweight and versatile video processing library by Twitter. [MIT]",
             "tags": []
+          },
+          {
+            "name": "libuvc",
+            "url": "https://github.com/libuvc/libuvc",
+            "description": "A cross-platform library for USB video devices. [BSD]",
+            "tags": []
           }
         ]
       },
@@ -71860,6 +72208,12 @@
       {
         "name": "Web Application Framework",
         "resources": [
+          {
+            "name": "aeronet",
+            "url": "https://github.com/sjanel/aeronet",
+            "description": "High-performance, modular C++ HTTP/1.1, HTTP/2 and WebSocket microservices framework focused on performance and scalability. [MIT]",
+            "tags": []
+          },
           {
             "name": "Civetweb",
             "url": "https://github.com/civetweb/civetweb",
@@ -71960,6 +72314,18 @@
             "name": "Wt",
             "url": "http://www.webtoolkit.eu/wt",
             "description": "A C++ library for developing web applications. [GPL/Proprietary]",
+            "tags": []
+          },
+          {
+            "name": "httpserver.h",
+            "url": "https://github.com/jeremycw/httpserver.h",
+            "description": "A single-header HTTP server library for C. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "libhttp",
+            "url": "https://github.com/lammertb/libhttp",
+            "description": "A cross-platform HTTP and HTTPS library in C/C++. [MIT]",
             "tags": []
           }
         ]
@@ -72191,6 +72557,12 @@
             "name": "D++ (DPP)",
             "url": "https://github.com/brainboxdotcc/DPP",
             "description": "A lightweight, high performance and scalable C++ library for creating Discord Bots. [Apache2] website",
+            "tags": []
+          },
+          {
+            "name": "Dragonbox",
+            "url": "https://github.com/jk-jeon/dragonbox",
+            "description": "Reference implementation of a new float-to-string conversion algorithm in C++. [Apache2/BSL-1.0]",
             "tags": []
           },
           {
@@ -72612,6 +72984,78 @@
             "url": "https://github.com/zxing/zxing/",
             "description": "An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]",
             "tags": []
+          },
+          {
+            "name": "spy",
+            "url": "https://github.com/jfalcou/spy",
+            "description": "A C++17 constexpr library for detecting OS, compiler, architecture, and SIMD at compile time. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "licensepp",
+            "url": "https://github.com/amrayn/licensepp",
+            "description": "A software license management library for C++ projects. [Apache-2.0]",
+            "tags": []
+          },
+          {
+            "name": "tinydir",
+            "url": "https://github.com/cxong/tinydir",
+            "description": "A lightweight, portable, and easy to integrate C directory and file reader. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "Cello",
+            "url": "https://github.com/orangeduck/Cello",
+            "description": "Higher level programming in C, including generic data structures and polymorphism. [BSD-2-Clause] website",
+            "tags": []
+          },
+          {
+            "name": "dyno",
+            "url": "https://github.com/ldionne/dyno",
+            "description": "A C++ library for runtime polymorphism with value semantics. [Boost]",
+            "tags": []
+          },
+          {
+            "name": "PolyHook",
+            "url": "https://github.com/stevemk14ebr/PolyHook",
+            "description": "A C++ x86/x64 hooking library. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "Verdigris",
+            "url": "https://github.com/woboq/verdigris",
+            "description": "A header-only library that allows using Qt without the need for moc. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "Flicks",
+            "url": "https://github.com/OculusVR/Flicks",
+            "description": "A unit of time defined by Facebook/Oculus for exact representation of common frame rates. [BSD]",
+            "tags": []
+          },
+          {
+            "name": "Linq",
+            "url": "https://github.com/pfultz2/Linq",
+            "description": "Provides a LINQ syntax for list comprehension in C++. [Boost]",
+            "tags": []
+          },
+          {
+            "name": "libcorrect",
+            "url": "https://github.com/quiet/libcorrect",
+            "description": "A C library for convolutional codes and Reed-Solomon error correction. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "libfsm",
+            "url": "https://github.com/katef/libfsm",
+            "description": "A library for building and executing finite state machines, including regex and glob. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "origin",
+            "url": "https://github.com/asutton/origin",
+            "description": "A C++ library for concepts, diagnostics, and other foundational utilities.",
+            "tags": []
           }
         ]
       },
@@ -72694,6 +73138,18 @@
             "name": "TCC",
             "url": "http://bellard.org/tcc/",
             "description": "Tiny C Compiler. [LGPL]",
+            "tags": []
+          },
+          {
+            "name": "sierra",
+            "url": "https://sierra-lang.github.io/",
+            "description": "A CISC-oriented programming language focused on creating maintainable programs.",
+            "tags": []
+          },
+          {
+            "name": "movfuscator",
+            "url": "https://github.com/xoreaxeaxeax/movfuscator",
+            "description": "The single instruction C compiler, compiling programs into only mov instructions. [MIT]",
             "tags": []
           }
         ]
@@ -72975,6 +73431,12 @@
         "name": "Build Systems",
         "resources": [
           {
+            "name": "awesome-cmake",
+            "url": "https://github.com/onqtam/awesome-cmake",
+            "description": "A curated list of awesome CMake scripts, modules, and resources.",
+            "tags": []
+          },
+          {
             "name": "Bazel",
             "url": "https://bazel.build",
             "description": "A multi-language, fast and scalable build system from Google. [Apache]",
@@ -73123,6 +73585,18 @@
             "url": "https://xmake.io/",
             "description": "A C/C++ cross-platform build utility based on Lua that comes with an integrated package manager, xrepo. [Apache]",
             "tags": []
+          },
+          {
+            "name": "boost-cmake",
+            "url": "https://github.com/Orphis/boost-cmake",
+            "description": "CMake modules for Boost libraries. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
+            "name": "cmake-examples",
+            "url": "https://github.com/pr0g/cmake-examples",
+            "description": "A collection of useful CMake examples for various scenarios. [MIT]",
+            "tags": []
           }
         ]
       },
@@ -73211,6 +73685,18 @@
             "name": "Trunk",
             "url": "https://trunk.io",
             "description": "Toolkit to check, test, merge, and monitor code.",
+            "tags": []
+          },
+          {
+            "name": "CodeCompass",
+            "url": "https://github.com/Ericsson/CodeCompass",
+            "description": "An open-source code comprehension tool for large C/C++ projects. [GPL-3.0]",
+            "tags": []
+          },
+          {
+            "name": "CodeChecker",
+            "url": "https://github.com/Ericsson/codechecker",
+            "description": "An analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang-Tidy. [Apache-2.0]",
             "tags": []
           }
         ]
@@ -73400,6 +73886,60 @@
             "name": "cpp17_in_TTs",
             "url": "https://github.com/tvaneerd/cpp17_in_TTs",
             "description": "Descriptions of C++17 features, presented mostly in \"Tony Tables\".",
+            "tags": []
+          },
+          {
+            "name": "All C++20 core language features with examples",
+            "url": "https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html",
+            "description": "A reference of all C++20 core language features with examples.",
+            "tags": []
+          },
+          {
+            "name": "Memory Footprint of GUI Toolkits",
+            "url": "https://szibele.com/memory-footprint-of-gui-toolkits/",
+            "description": "A comparison of the memory footprint of various GUI toolkits.",
+            "tags": []
+          },
+          {
+            "name": "C++ UI Libraries",
+            "url": "https://philippegroarke.com/posts/2018/c++_ui_solutions/",
+            "description": "A comprehensive list of C++ UI solutions.",
+            "tags": []
+          },
+          {
+            "name": "C++ Compilation",
+            "url": "https://github.com/green7ea/cpp-compilation",
+            "description": "A short description of the C++ compilation process.",
+            "tags": []
+          },
+          {
+            "name": "Books on C++17",
+            "url": "https://blogs.msdn.microsoft.com/vcblog/2018/09/25/books-on-c17/",
+            "description": "A list of books on C++17.",
+            "tags": []
+          },
+          {
+            "name": "modern-cpp-features",
+            "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+            "description": "A cheatsheet of modern C++ language and library features.",
+            "tags": []
+          },
+          {
+            "name": "Choosing Some C++ Over C",
+            "url": "https://medium.com/@davidtstrauss/choosing-some-c-over-c-f5acb3dce4f5",
+            "description": "An article about when to use C++ instead of C.",
+            "tags": []
+          },
+          {
+            "name": "C++ 17 Features",
+            "url": "http://www.bfilipek.com/2017/01/cpp17features.html",
+            "description": "A comprehensive list of C++17 features.",
+            "tags": []
+          },
+          {
+            "name": "Master C Programming with Open Source Books",
+            "url": "https://www.ossblog.org/master-c-programming-with-open-source-books/",
+            "description": "A curated list of open source books for learning C programming.",
             "tags": []
           }
         ]
@@ -73772,6 +74312,24 @@
             "url": "https://www.compilebytes.com/tools/cpp",
             "description": "\u2013 Online C++ compiler and interactive code execution environment.",
             "tags": []
+          },
+          {
+            "name": "C++ Resources",
+            "url": "https://andreasfertig.com/cpp-resources/",
+            "description": "A collection of C++ resources including books, articles, and tools.",
+            "tags": []
+          },
+          {
+            "name": "CppPatterns",
+            "url": "https://github.com/sftrabbit/CppPatterns-Patterns",
+            "description": "A repository of modern C++ patterns and idioms. website",
+            "tags": []
+          },
+          {
+            "name": "Function Pointers",
+            "url": "https://github.com/jerryryle/fuckingfunctionpointers.com",
+            "description": "A guide to understanding function pointers in C/C++.",
+            "tags": []
           }
         ]
       },
@@ -73883,6 +74441,30 @@
             "name": "30 Seconds of C++",
             "url": "https://github.com/Bhupesh-V/30-seconds-of-cpp",
             "description": "",
+            "tags": []
+          },
+          {
+            "name": "awesome-ld-preload",
+            "url": "https://github.com/gaul/awesome-ld-preload",
+            "description": "A curated list of resources related to LD_PRELOAD.",
+            "tags": []
+          },
+          {
+            "name": "awesome-static-analysis",
+            "url": "https://github.com/mre/awesome-static-analysis",
+            "description": "A curated list of static analysis tools for all programming languages.",
+            "tags": []
+          },
+          {
+            "name": "cpp_functional_programming",
+            "url": "https://github.com/graninas/cpp_functional_programming",
+            "description": "A list of materials and links for C++ functional programming.",
+            "tags": []
+          },
+          {
+            "name": "algorithms_and_data_structures",
+            "url": "https://github.com/mandliya/algorithms_and_data_structures",
+            "description": "Implementation of algorithms and data structures in C++.",
             "tags": []
           }
         ]
