@@ -20370,6 +20370,12 @@
             "tags": []
           },
           {
+            "name": "hotplex",
+            "url": "https://github.com/hrygo/hotplex",
+            "description": "AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.",
+            "tags": []
+          },
+          {
             "name": "langchaingo",
             "url": "https://github.com/tmc/langchaingo",
             "description": "LangChainGo is a framework for developing applications powered by language models.",
