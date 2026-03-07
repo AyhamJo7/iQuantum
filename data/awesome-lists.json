@@ -13871,6 +13871,12 @@
             "url": "https://app.vnote.fun/",
             "description": "A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience.",
             "tags": []
+          },
+          {
+            "name": "Zettel",
+            "url": "https://github.com/AlexW00/Zettel",
+            "description": "Minimal, distraction-free note-taking app with Markdown and hashtag-based organization.",
+            "tags": []
           }
         ]
       },
@@ -58037,6 +58043,12 @@
             "tags": []
           },
           {
+            "name": "max-sixty/worktrunk",
+            "url": "https://github.com/max-sixty/worktrunk",
+            "description": "[ worktrunk ] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows",
+            "tags": []
+          },
+          {
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
@@ -71005,6 +71017,12 @@
             "tags": []
           },
           {
+            "name": "OpenDDS",
+            "url": "https://github.com/objectcomputing/OpenDDS",
+            "description": "An open source C++ implementation of the Object Management Group (OMG) Data Distribution Service (DDS). [Apache2]",
+            "tags": []
+          },
+          {
             "name": "PF_RING\u2122",
             "url": "https://github.com/ntop/PF_RING",
             "description": "High-speed packet processing framework. [LGPL-2.1] website",
@@ -72626,6 +72644,12 @@
             "tags": []
           },
           {
+            "name": "Gear-Lib",
+            "url": "https://github.com/gozfree/gear-lib",
+            "description": "A collection of basic libraries in POSIX C for embedded and network service development. [MIT]",
+            "tags": []
+          },
+          {
             "name": "happly",
             "url": "https://github.com/nmwsharp/happly",
             "description": "A C++ header-only parser for the PLY file format. Parse .ply happily! [MIT]",
@@ -72887,6 +72911,12 @@
             "name": "SimpleSignal",
             "url": "https://github.com/larspensjo/SimpleSignal",
             "description": "High performance C++11 signals. [PublicDomain]",
+            "tags": []
+          },
+          {
+            "name": "single_file_libs",
+            "url": "https://github.com/r-lyeh/single_file_libs",
+            "description": "C/C++ open-source libraries with minimal dependencies. [Various]",
             "tags": []
           },
           {
