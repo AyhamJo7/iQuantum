@@ -48,12 +48,6 @@
             "tags": []
           },
           {
-            "name": "ghstats",
-            "url": "https://github.com/vladkens/ghstats",
-            "description": "\u26a0 - Dashboard for tracking GitHub repos traffic history longer than 14 days. MIT Docker",
-            "tags": []
-          },
-          {
             "name": "GoAccess",
             "url": "http://goaccess.io/",
             "description": "Real-time web log analyzer and interactive viewer that runs in a terminal. ( Source Code ) GPL-2.0 C",
@@ -3940,8 +3934,8 @@
           },
           {
             "name": "Atomic Server",
-            "url": "https://github.com/atomicdata-dev/atomic-server",
-            "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ( Demo ) MIT Docker/Rust",
+            "url": "https://atomicserver.eu/",
+            "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ( Demo , Source Code ) MIT Docker/Rust",
             "tags": []
           },
           {
@@ -3958,7 +3952,7 @@
           },
           {
             "name": "memEx",
-            "url": "https://gitea.bubbletea.dev/shibao/memEx",
+            "url": "https://codeberg.org/shibao/memEx",
             "description": "Structured personal knowledge base, inspired by zettlekasten and org-mode. AGPL-3.0 Docker",
             "tags": []
           },
@@ -4286,12 +4280,6 @@
             "name": "Reaparr",
             "url": "https://www.reaparr.rocks/",
             "description": "\u26a0 - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Reiverr",
-            "url": "https://github.com/aleksilassila/reiverr",
-            "description": "\u26a0 - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -4981,7 +4969,7 @@
             "tags": []
           },
           {
-            "name": "OpenReader WebUI",
+            "name": "OpenReader",
             "url": "https://openreader.richardr.dev/",
             "description": "EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ( Demo , Source Code ) MIT Docker",
             "tags": []
@@ -17764,6 +17752,12 @@
             "tags": []
           },
           {
+            "name": "ScreenTranslate",
+            "url": "https://screentranslate.filient.ai/",
+            "description": "Capture any area or select text to translate instantly, fully on-device.",
+            "tags": []
+          },
+          {
             "name": "Translatium",
             "url": "https://translatium.app",
             "description": "Translate words, phrases and images between over 100 languages with dictionary, transliteration and voice output support.",
@@ -18224,6 +18218,12 @@
             "tags": []
           },
           {
+            "name": "Atoll",
+            "url": "https://github.com/Ebullioscopic/Atoll",
+            "description": "Turns the notch into a Dynamic Island-style hub for media controls, live activities, and quick utilities.",
+            "tags": []
+          },
+          {
             "name": "Bartender",
             "url": "https://www.macbartender.com",
             "description": "Organize or hide menu bar icons on your Mac.",
@@ -18371,6 +18371,12 @@
             "name": "LuxShot",
             "url": "https://github.com/lukebuild/LuxShot",
             "description": "Native and privacy-first menu bar OCR tool.",
+            "tags": []
+          },
+          {
+            "name": "Mask This",
+            "url": "https://apps.apple.com/us/app/mask-this/id6759096128",
+            "description": "Menu bar app that masks sensitive information in the clipboard.",
             "tags": []
           },
           {
@@ -57744,6 +57750,12 @@
         "name": "Industrial automation",
         "resources": [
           {
+            "name": "dora-rs/dora",
+            "url": "https://github.com/dora-rs/dora",
+            "description": "[ dora-cli ] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs",
+            "tags": []
+          },
+          {
             "name": "locka99/opcua",
             "url": "https://github.com/locka99/opcua",
             "description": "A OPC UA library.",
@@ -60700,6 +60712,12 @@
             "name": "64bit/async-openai",
             "url": "https://github.com/64bit/async-openai",
             "description": "[ async-openai ] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.",
+            "tags": []
+          },
+          {
+            "name": "liquidos-ai/AutoAgents",
+            "url": "https://github.com/liquidos-ai/AutoAgents",
+            "description": "[ AutoAgents ] - Multi Agent Framework for building AI agents with native edge support.",
             "tags": []
           },
           {
