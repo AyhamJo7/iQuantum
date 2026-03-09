@@ -150,6 +150,12 @@
             "tags": []
           },
           {
+            "name": "Shaper",
+            "url": "https://taleshape.com/shaper/docs",
+            "description": "Build Data Dashboards all in SQL. Powered by DuckDB. ( Demo , Source Code ) MPL-2.0 Docker/Nodejs/Python/Go",
+            "tags": []
+          },
+          {
             "name": "Socioboard",
             "url": "https://github.com/socioboard/Socioboard-5.0",
             "description": "\u26a0 - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. GPL-3.0 Nodejs",
@@ -950,6 +956,12 @@
             "name": "Tox",
             "url": "https://tox.chat/",
             "description": "Distributed, secure messenger with audio and video chat capabilities. ( Source Code ) GPL-3.0 C",
+            "tags": []
+          },
+          {
+            "name": "Tuwunel",
+            "url": "https://tuwunel.chat",
+            "description": "High-performance and feature-rich chat server for Matrix, and the successor to conduwuit (fork of Conduit). ( Demo , Source Code ) Apache-2.0 deb/Docker/Nix/Rust",
             "tags": []
           },
           {
@@ -2407,6 +2419,12 @@
             "name": "BookLore",
             "url": "https://github.com/booklore-app/booklore",
             "description": "Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Calibre Web Automated",
+            "url": "https://github.com/crocodilestick/Calibre-Web-Automated",
+            "description": "All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -4211,6 +4229,12 @@
             "tags": []
           },
           {
+            "name": "Deleterr",
+            "url": "https://github.com/rfsbraz/deleterr",
+            "description": "Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. MIT Docker",
+            "tags": []
+          },
+          {
             "name": "Headphones",
             "url": "https://github.com/rembo10/headphones",
             "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
@@ -4298,6 +4322,12 @@
             "name": "Spooty",
             "url": "https://github.com/Raiper34/spooty",
             "description": "\u26a0 - Download tracks/playlists/albums from Spotify. It can also subscribe to a playlist or author page and download new songs upon release. MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "TrackWatch",
+            "url": "https://trackwatch.emlopezr.com",
+            "description": "\u26a0 - Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar). ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -7204,6 +7234,12 @@
             "name": "Nullboard",
             "url": "https://github.com/apankrat/nullboard",
             "description": "Single-page minimalist kanban board; compact, highly readable and quick to use. ( Demo ) BSD-2-Clause Javascript",
+            "tags": []
+          },
+          {
+            "name": "OpenHabitTracker",
+            "url": "https://openhabittracker.net",
+            "description": "Track habits, tasks and notes with time tracking, calendar view and completion statistics. ( Demo , Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -14370,6 +14406,12 @@
         "name": "Developer Utilities",
         "resources": [
           {
+            "name": "AXe",
+            "url": "https://github.com/cameroncooke/AXe",
+            "description": "CLI tool for controlling iOS Simulators through Accessibility APIs and HID automation.",
+            "tags": []
+          },
+          {
             "name": "BetterRename",
             "url": "http://www.publicspace.net/BetterRename/",
             "description": "The most powerful and complete Mac file renaming application on the market.",
@@ -18624,6 +18666,12 @@
         "name": "File Organization Tools",
         "resources": [
           {
+            "name": "AppPorts",
+            "url": "https://github.com/wzh4869/AppPorts",
+            "description": "One-click tool to move apps from /Applications to external storage while keeping local launch entries via links.",
+            "tags": []
+          },
+          {
             "name": "BetterZip",
             "url": "https://macitbetter.com/",
             "description": "Archive tool supports ZIP, TAR, TGZ, TBZ, TXZ (new), 7-ZIP, RAR.",
@@ -20200,6 +20248,12 @@
             "name": "FluxMarkdown",
             "url": "https://github.com/xykong/flux-markdown",
             "description": "Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts.",
+            "tags": []
+          },
+          {
+            "name": "Torrent Preview",
+            "url": "https://github.com/sveinbjornpalsson/torrentpreview/",
+            "description": "Quick Look extension for previewing .torrent contents in Finder, including files, trackers, and metadata.",
             "tags": []
           },
           {
@@ -22359,6 +22413,12 @@
       {
         "name": "Queues",
         "resources": [
+          {
+            "name": "deheap",
+            "url": "https://github.com/aalpar/deheap",
+            "description": "Doubly-ended heap (min-max heap) with O(log n) access to both minimum and maximum elements.",
+            "tags": []
+          },
           {
             "name": "deque",
             "url": "https://github.com/edwingeng/deque",
@@ -36579,6 +36639,12 @@
             "name": "speedtest-resize",
             "url": "https://github.com/fawick/speedtest-resize",
             "description": "Compare various Image resize algorithms for the Go language.",
+            "tags": []
+          },
+          {
+            "name": "vizb",
+            "url": "https://github.com/goptics/vizb",
+            "description": "A CLI tool to visualize Go benchmark data in 4D.",
             "tags": []
           }
         ]
@@ -58711,6 +58777,12 @@
             "tags": []
           },
           {
+            "name": "sharkdp/hexyl",
+            "url": "https://github.com/sharkdp/hexyl",
+            "description": "[ hexyl ] - A command-line hex viewer with colored output for different byte categories",
+            "tags": []
+          },
+          {
             "name": "sitkevij/hex",
             "url": "https://github.com/sitkevij/hex",
             "description": "A colorized hexdump terminal utility.",
@@ -60748,6 +60820,12 @@
             "name": "Cortex Memory",
             "url": "https://github.com/sopaco/cortex-mem",
             "description": "A complete solution for agent memory, from extraction and vector search to automated optimization, and insights dashboard out-of-the-box.",
+            "tags": []
+          },
+          {
+            "name": "memvid/memvid",
+            "url": "https://github.com/memvid/memvid",
+            "description": "[ memvid-core ] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one .mv2 file",
             "tags": []
           }
         ]
