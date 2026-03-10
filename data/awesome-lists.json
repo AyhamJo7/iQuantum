@@ -3623,7 +3623,7 @@
           {
             "name": "TuxSEO",
             "url": "https://tuxseo.com/",
-            "description": "\u26a0 - Create automated blog content for your business, using AI. ( Source Code ) MIT Python/Django/Docker",
+            "description": "\u26a0 - Create automated blog content for your business, using AI. ( Source Code ) MIT Python/Docker",
             "tags": []
           }
         ]
@@ -4404,7 +4404,7 @@
           {
             "name": "Funkwhale",
             "url": "https://dev.funkwhale.audio/funkwhale",
-            "description": "Modern, web-based, convivial, multi-user and free music server. BSD-3-Clause Python/Django",
+            "description": "Modern, web-based, convivial, multi-user and free music server. BSD-3-Clause Python",
             "tags": []
           },
           {
@@ -5348,7 +5348,7 @@
           {
             "name": "WYGIWYH",
             "url": "https://github.com/eitchtee/WYGIWYH",
-            "description": "Simple and powerful finance tracker. ( Demo ) AGPL-3.0 Docker/Django",
+            "description": "Simple and powerful finance tracker. ( Demo ) AGPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -5608,7 +5608,7 @@
           {
             "name": "PassIt",
             "url": "https://passit.io/",
-            "description": "Simple password manage with sharing features by group and user, but no administration interface. ( Demo , Source Code ) AGPL-3.0 Docker/Django",
+            "description": "Simple password manage with sharing features by group and user, but no administration interface. ( Demo , Source Code ) AGPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -5661,7 +5661,7 @@
           {
             "name": "dpaste",
             "url": "https://dpaste.org/",
-            "description": "Simple pastebin with multiple text and code option, with short url result easy to remember. ( Source Code ) MIT Docker/Django",
+            "description": "Simple pastebin with multiple text and code option, with short url result easy to remember. ( Source Code ) MIT Docker/Python",
             "tags": []
           },
           {
@@ -5911,7 +5911,7 @@
           {
             "name": "Immich",
             "url": "https://immich.app/",
-            "description": "Photo and video backup solution directly from your mobile phone. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Photo and video backup solution directly from your mobile phone (alternative to Google Photos). ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -6120,7 +6120,7 @@
           {
             "name": "Revel",
             "url": "https://www.letsrevel.io",
-            "description": "\u26a0 - Community-focused event management and ticketing platform. ( Demo , Source Code , Clients ) MIT Python/Django/Docker",
+            "description": "\u26a0 - Community-focused event management and ticketing platform. ( Demo , Source Code , Clients ) MIT Python/Docker",
             "tags": []
           }
         ]
@@ -16486,6 +16486,12 @@
             "tags": []
           },
           {
+            "name": "MiniClaw",
+            "url": "https://miniclaw.bot",
+            "description": "macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install.",
+            "tags": []
+          },
+          {
             "name": "Witsy",
             "url": "https://github.com/nbonamy/witsy",
             "description": "desktop AI assistant / universal MCP client.",
@@ -22165,6 +22171,12 @@
             "name": "cuckoofilter",
             "url": "https://github.com/seiflotfy/cuckoofilter",
             "description": "Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.",
+            "tags": []
+          },
+          {
+            "name": "ribbonGo",
+            "url": "https://github.com/RibbonGo/ribbonGo",
+            "description": "First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.",
             "tags": []
           },
           {
@@ -36394,6 +36406,12 @@
             "name": "nes",
             "url": "https://github.com/fogleman/nes",
             "description": "Nintendo Entertainment System (NES) emulator written in Go.",
+            "tags": []
+          },
+          {
+            "name": "onWatch",
+            "url": "https://github.com/onllm-dev/onWatch",
+            "description": "Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.",
             "tags": []
           },
           {
@@ -56297,6 +56315,12 @@
             "tags": []
           },
           {
+            "name": "arimxyer/models",
+            "url": "https://github.com/arimxyer/models",
+            "description": "[ modelsdev ] - A TUI for browsing AI models, benchmarks, and coding agents",
+            "tags": []
+          },
+          {
             "name": "Arti",
             "url": "https://gitlab.torproject.org/tpo/core/arti",
             "description": "An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!)",
@@ -59550,6 +59574,12 @@
             "name": "block/goose",
             "url": "https://github.com/block/goose",
             "description": "An open-source, local AI agent that automates engineering tasks.",
+            "tags": []
+          },
+          {
+            "name": "cachix/devenv",
+            "url": "https://github.com/cachix/devenv",
+            "description": "Fast, declarative, reproducible, and composable developer environments using Nix",
             "tags": []
           },
           {
