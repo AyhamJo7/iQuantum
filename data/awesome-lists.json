@@ -17201,6 +17201,12 @@
             "tags": []
           },
           {
+            "name": "Spotifly",
+            "url": "https://github.com/ralph/Spotifly",
+            "description": "Lightweight Spotify player focused on fast playback control.",
+            "tags": []
+          },
+          {
             "name": "SpotMenu",
             "url": "https://github.com/kmikiy/SpotMenu",
             "description": "Spotify and iTunes in your menu bar.",
@@ -22175,7 +22181,7 @@
           },
           {
             "name": "ribbonGo",
-            "url": "https://github.com/RibbonGo/ribbonGo",
+            "url": "https://github.com/RibbonFilter/ribbonGo",
             "description": "First pure Go implementation of Ribbon filters (practically smaller than Bloom and Xor) for space-efficient approximate set membership queries.",
             "tags": []
           },
@@ -58937,6 +58943,12 @@
             "tags": []
           },
           {
+            "name": "ki-editor/ki-editor",
+            "url": "https://github.com/ki-editor/ki-editor",
+            "description": "A multi-cursor combinatoric modal editor",
+            "tags": []
+          },
+          {
             "name": "Lapce",
             "url": "https://github.com/lapce/lapce",
             "description": "A modern editor with a backend. Taking inspiration from the discontinued xi-editor .",
@@ -59706,6 +59718,12 @@
             "name": "j178/prek",
             "url": "https://github.com/j178/prek",
             "description": "A faster, dependency-free, and drop-in alternative to pre-commit, written in Rust.",
+            "tags": []
+          },
+          {
+            "name": "jj-vcs/jj",
+            "url": "https://github.com/jj-vcs/jj",
+            "description": "A Git-compatible version control system with a clean CLI, first-class conflict handling, and automatic rebasing",
             "tags": []
           },
           {
@@ -82681,7 +82699,7 @@
           {
             "name": "Capitan",
             "url": "https://github.com/byrnedo/capitan",
-            "description": "Composable docker orchestration with added scripting support by byrnedo .",
+            "description": ":ice_cube: - Composable docker orchestration with added scripting support by byrnedo .",
             "tags": []
           },
           {
@@ -82693,7 +82711,7 @@
           {
             "name": "crowdr",
             "url": "https://github.com/polonskiy/crowdr",
-            "description": "Tool for managing multiple Docker containers ( docker-compose alternative).",
+            "description": ":ice_cube: - Tool for managing multiple Docker containers ( docker-compose alternative).",
             "tags": []
           },
           {
@@ -82705,19 +82723,19 @@
           {
             "name": "docker-config-update",
             "url": "https://github.com/sudo-bmitch/docker-config-update",
-            "description": "Utility to update docker configs and secrets for deploying in a compose file.",
+            "description": ":ice_cube: - Utility to update docker configs and secrets for deploying in a compose file.",
             "tags": []
           },
           {
             "name": "elsy",
             "url": "https://github.com/cisco/elsy",
-            "description": "An opinionated, multi-language, build tool based on Docker and Docker Compose.",
+            "description": ":ice_cube: - An opinionated, multi-language, build tool based on Docker and Docker Compose.",
             "tags": []
           },
           {
             "name": "habitus",
             "url": "https://github.com/cloud66-oss/habitus",
-            "description": "A Build Flow Tool for Docker.",
+            "description": ":ice_cube: - A Build Flow Tool for Docker.",
             "tags": []
           },
           {
@@ -82780,27 +82798,21 @@
             "tags": []
           },
           {
-            "name": "Centurion",
-            "url": "https://github.com/newrelic/centurion",
-            "description": "Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By newrelic .",
-            "tags": []
-          },
-          {
             "name": "Clocker",
             "url": "https://github.com/brooklyncentral/clocker",
-            "description": "Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages Calico and Weave for networking and Brooklyn for application blueprints. By brooklyncentral .",
+            "description": ":ice_cube: - Clocker creates and manages a Docker cloud infrastructure. Clocker supports single-click deployments and runtime management of multi-node applications that run as containers distributed across multiple hosts, on both Docker and Marathon. It leverages Calico and Weave for networking and Brooklyn for application blueprints. By brooklyncentral .",
             "tags": []
           },
           {
             "name": "Conduit",
             "url": "https://github.com/ehazlett/conduit",
-            "description": "Experimental deployment system for Docker.",
+            "description": ":ice_cube: - Experimental deployment system for Docker.",
             "tags": []
           },
           {
             "name": "depcon",
             "url": "https://github.com/ContainX/depcon",
-            "description": "Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By ContainX .",
+            "description": ":ice_cube: - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes. By ContainX .",
             "tags": []
           },
           {
@@ -82812,7 +82824,7 @@
           {
             "name": "gitkube",
             "url": "https://github.com/hasura/gitkube",
-            "description": "Gitkube is a tool for building and deploying docker images on Kubernetes using git push . By Hasura .",
+            "description": ":ice_cube: - Gitkube is a tool for building and deploying docker images on Kubernetes using git push . By Hasura .",
             "tags": []
           },
           {
@@ -82845,6 +82857,12 @@
         "name": "Monitoring",
         "resources": [
           {
+            "name": "ADRG",
+            "url": "https://github.com/jaldertech/adrg",
+            "description": "Dynamic Docker resource governor using cgroups v2 to manage system load.",
+            "tags": []
+          },
+          {
             "name": "Autoheal",
             "url": "https://github.com/willfarrell/docker-autoheal",
             "description": "Monitor and restart unhealthy docker containers automatically.",
@@ -82871,13 +82889,13 @@
           {
             "name": "Docker-Alertd",
             "url": "https://github.com/deltaskelta/docker-alertd",
-            "description": "Monitor and send alerts based on docker container resource usage/statistics.",
+            "description": ":ice_cube: - Monitor and send alerts based on docker container resource usage/statistics.",
             "tags": []
           },
           {
             "name": "Docker-Flow-Monitor",
             "url": "https://github.com/docker-flow/docker-flow-monitor",
-            "description": "Reconfigures Prometheus when a new service is updated or deployed automatically.",
+            "description": ":ice_cube: - Reconfigures Prometheus when a new service is updated or deployed automatically.",
             "tags": []
           },
           {
@@ -82899,9 +82917,15 @@
             "tags": []
           },
           {
+            "name": "Drydock",
+            "url": "https://github.com/CodesWhat/drydock",
+            "description": "Container update monitoring with web dashboard, 23 registry providers, 20 notification triggers, and distributed agent architecture. By CodesWhat .",
+            "tags": []
+          },
+          {
             "name": "Dynatrace",
             "url": "https://docs.dynatrace.com/docs/observe/infrastructure-observability/container-platform-monitoring",
-            "description": ":heavy_dollar_sign: Monitor containerized applications without installing agents or modifying your Run commands.",
+            "description": ":yen: Monitor containerized applications without installing agents or modifying your Run commands.",
             "tags": []
           },
           {
@@ -82925,55 +82949,55 @@
           {
             "name": "InfluxDB, cAdvisor, Grafana",
             "url": "https://github.com/vegasbrianc/docker-monitoring",
-            "description": "InfluxDB Time series DB in combination with Grafana and cAdvisor.",
+            "description": ":ice_cube: - InfluxDB Time series DB in combination with Grafana and cAdvisor.",
             "tags": []
           },
           {
             "name": "Logspout",
             "url": "https://github.com/gliderlabs/logspout",
-            "description": "Log routing for Docker container logs.",
+            "description": ":ice_cube: - Log routing for Docker container logs.",
             "tags": []
           },
           {
             "name": "monit-docker",
             "url": "https://github.com/decryptus/monit-docker",
-            "description": "Monitor docker containers resources usage or status and execute docker commands or inside containers. [decryptus][decryptus].",
+            "description": ":ice_cube: - Monitor docker containers resources usage or status and execute docker commands or inside containers. [decryptus][decryptus].",
             "tags": []
           },
           {
             "name": "NexClipper",
             "url": "https://github.com/NexClipper/NexClipper",
-            "description": "NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes.",
+            "description": ":ice_cube: - NexClipper is the container monitoring and performance management solution specialized in Docker, Apache Mesos, Marathon, DC/OS, Mesosphere, Kubernetes.",
             "tags": []
           },
           {
             "name": "Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack",
             "url": "https://github.com/uschtwill/docker_monitoring_logging_alerting",
-            "description": "Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in Automated Nginx Reverse Proxy (jwilder's) .",
+            "description": ":ice_cube: - Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. Set up in 5 Minutes. Secure mode for production use with built-in Automated Nginx Reverse Proxy (jwilder's) .",
             "tags": []
           },
           {
             "name": "Sidekick",
             "url": "https://github.com/runsidekick/sidekick",
-            "description": "Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.",
+            "description": ":ice_cube: - Open source live application debugger like Chrome DevTools for your backend. Collect traces and generate logs on-demand without stopping & redeploying your applications.",
             "tags": []
           },
           {
             "name": "SwarmAlert",
             "url": "https://github.com/gpulido/SwarmAlert",
-            "description": "Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.",
+            "description": ":ice_cube: - Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.",
             "tags": []
           },
           {
             "name": "Zabbix Docker",
             "url": "https://github.com/gomex/docker-zabbix",
-            "description": "Monitor containers automatically using zabbix LLD feature.",
+            "description": ":ice_cube: - Monitor containers automatically using zabbix LLD feature.",
             "tags": []
           },
           {
             "name": "Zabbix Docker module",
             "url": "https://github.com/monitoringartist/Zabbix-Docker-Monitoring",
-            "description": "Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.",
+            "description": ":ice_cube: - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.",
             "tags": []
           }
         ]
@@ -82996,7 +83020,7 @@
           {
             "name": "Freeflow",
             "url": "https://github.com/Microsoft/Freeflow",
-            "description": "High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By Microsoft .",
+            "description": ":ice_cube: - High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. By Microsoft .",
             "tags": []
           },
           {
@@ -83025,13 +83049,13 @@
           {
             "name": "Ansible Linux Docker",
             "url": "https://github.com/Peco602/ansible-linux-docker",
-            "description": "Run Ansible from a Linux container. By Peco602 .",
+            "description": ":ice_cube: - Run Ansible from a Linux container. By Peco602 .",
             "tags": []
           },
           {
             "name": "athena",
             "url": "https://github.com/athena-oss/athena",
-            "description": "An automation platform with a plugin architecture that allows you to easily create and share services.",
+            "description": ":ice_cube: - An automation platform with a plugin architecture that allows you to easily create and share services.",
             "tags": []
           },
           {
@@ -83043,19 +83067,19 @@
           {
             "name": "clusterdock",
             "url": "https://github.com/clusterdock/clusterdock",
-            "description": "Docker container orchestration to enable the testing of long-running cluster deployments.",
+            "description": ":ice_cube: - Docker container orchestration to enable the testing of long-running cluster deployments.",
             "tags": []
           },
           {
             "name": "Crane",
             "url": "https://github.com/Dataman-Cloud/crane",
-            "description": "Control plane based on docker built-in swarm Dataman-Cloud .",
+            "description": ":ice_cube: - Control plane based on docker built-in swarm Dataman-Cloud .",
             "tags": []
           },
           {
             "name": "Docker Flow Swarm Listener",
             "url": "https://github.com/docker-flow/docker-flow-swarm-listener",
-            "description": "Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs. By docker-flow .",
+            "description": ":ice_cube: - Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs. By docker-flow .",
             "tags": []
           },
           {
@@ -83067,7 +83091,7 @@
           {
             "name": "Haven",
             "url": "https://github.com/codeabovelab/haven-platform",
-            "description": "Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By codeabovelab .",
+            "description": ":ice_cube: - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By codeabovelab .",
             "tags": []
           },
           {
@@ -83109,7 +83133,7 @@
           {
             "name": "RedHerd Framework",
             "url": "https://github.com/redherd-project/redherd-framework",
-            "description": "RedHerd is a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations. By RedHerdProject .",
+            "description": ":ice_cube: - RedHerd is a collaborative and serverless framework for orchestrating a geographically distributed group of assets capable of simulating complex offensive cyberspace operations. By RedHerdProject .",
             "tags": []
           },
           {
@@ -83138,7 +83162,7 @@
           {
             "name": "Dcw",
             "url": "https://github.com/pbertera/dcw",
-            "description": "Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.",
+            "description": ":ice_cube: - Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.",
             "tags": []
           },
           {
@@ -83150,7 +83174,7 @@
           {
             "name": "Empire",
             "url": "https://github.com/remind101/empire",
-            "description": "A PaaS built on top of Amazon EC2 Container Service (ECS).",
+            "description": ":ice_cube: - A PaaS built on top of Amazon EC2 Container Service (ECS).",
             "tags": []
           },
           {
@@ -83162,19 +83186,19 @@
           {
             "name": "Hephy Workflow",
             "url": "https://github.com/teamhephy/workflow",
-            "description": "Open source PaaS for Kubernetes that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications. Fork of Deis Workflow .",
+            "description": ":ice_cube: - Open source PaaS for Kubernetes that adds a developer-friendly layer to any Kubernetes cluster, making it easy to deploy and manage applications. Fork of Deis Workflow .",
             "tags": []
           },
           {
             "name": "Krane",
             "url": "https://github.com/krane/krane",
-            "description": "Toolset for managing container workloads on remote servers.",
+            "description": ":ice_cube: - Toolset for managing container workloads on remote servers.",
             "tags": []
           },
           {
             "name": "Nanobox",
             "url": "https://github.com/nanobox-io/nanobox",
-            "description": ":heavy_dollar_sign: An application development platform that creates local environments that can then be deployed and scaled in the cloud.",
+            "description": ":ice_cube: - :yen: An application development platform that creates local environments that can then be deployed and scaled in the cloud.",
             "tags": []
           },
           {
@@ -83228,6 +83252,12 @@
             "name": "fabio",
             "url": "https://github.com/fabiolb/fabio",
             "description": "A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By magiconair (Frank Schroeder).",
+            "tags": []
+          },
+          {
+            "name": "idle-less",
+            "url": "https://github.com/tvup/idle-less",
+            "description": "Reverse proxy with automatic Wake-on-LAN \u2014 wakes sleeping backend servers when traffic arrives, shows a waiting screen, and redirects when ready. By tvup .",
             "tags": []
           },
           {
@@ -83298,7 +83328,7 @@
           {
             "name": "rlxc",
             "url": "https://github.com/brauner/rlxc",
-            "description": "LXC binary written in Rust.",
+            "description": ":ice_cube: - LXC binary written in Rust.",
             "tags": []
           },
           {
@@ -83321,19 +83351,19 @@
           {
             "name": "Anchor Enterprise",
             "url": "https://anchore.com/",
-            "description": ":heavy_dollar_sign: Analyze images for CVE vulnerabilities and against custom security policies.",
+            "description": ":yen: Analyze images for CVE vulnerabilities and against custom security policies.",
             "tags": []
           },
           {
             "name": "Aqua Security",
             "url": "https://www.aquasec.com",
-            "description": ":heavy_dollar_sign: Securing container-based applications from Dev to Production on any platform.",
+            "description": ":yen: Securing container-based applications from Dev to Production on any platform.",
             "tags": []
           },
           {
             "name": "bane",
             "url": "https://github.com/genuinetools/bane",
-            "description": "AppArmor profile generator for Docker containers.",
+            "description": ":ice_cube: - AppArmor profile generator for Docker containers.",
             "tags": []
           },
           {
@@ -83357,7 +83387,7 @@
           {
             "name": "CIS Docker Benchmark",
             "url": "https://github.com/dev-sec/cis-docker-benchmark",
-            "description": "This InSpec compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By dev-sec .",
+            "description": ":ice_cube: - This InSpec compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By dev-sec .",
             "tags": []
           },
           {
@@ -83375,13 +83405,13 @@
           {
             "name": "Dagda",
             "url": "https://github.com/eliasgranderubio/dagda",
-            "description": "Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By eliasgranderubio .",
+            "description": ":ice_cube: - Dagda is a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities. By eliasgranderubio .",
             "tags": []
           },
           {
             "name": "Deepfence Enterprise",
             "url": "https://deepfence.io",
-            "description": ":heavy_dollar_sign: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By deepfence .",
+            "description": ":yen: Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By deepfence .",
             "tags": []
           },
           {
@@ -83403,27 +83433,15 @@
             "tags": []
           },
           {
-            "name": "docker-lock",
-            "url": "https://github.com/safe-waters/docker-lock",
-            "description": "A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By safe-waters .",
-            "tags": []
-          },
-          {
             "name": "dvwassl",
             "url": "https://github.com/Peco602/dvwassl",
-            "description": "SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By Peco602 .",
+            "description": ":ice_cube: - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By Peco602 .",
             "tags": []
           },
           {
             "name": "KICS",
             "url": "https://github.com/checkmarx/kics",
             "description": "An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By Checkmarx .",
-            "tags": []
-          },
-          {
-            "name": "notary",
-            "url": "https://github.com/theupdateframework/notary",
-            "description": "A server and a client for running and interacting with trusted collections. By TUF .",
             "tags": []
           },
           {
@@ -83435,7 +83453,7 @@
           {
             "name": "Prisma Cloud",
             "url": "https://www.paloaltonetworks.com/prisma/cloud",
-            "description": ":heavy_dollar_sign: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.",
+            "description": ":yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.",
             "tags": []
           },
           {
@@ -83459,13 +83477,13 @@
           {
             "name": "Sysdig Secure",
             "url": "https://www.sysdig.com/solutions/cloud-detection-and-response-cdr",
-            "description": ":heavy_dollar_sign: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.",
+            "description": ":yen: Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.",
             "tags": []
           },
           {
             "name": "Trend Micro DeepSecurity",
             "url": "https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html",
-            "description": ":heavy_dollar_sign: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.",
+            "description": ":yen: Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.",
             "tags": []
           },
           {
@@ -83517,7 +83535,7 @@
           {
             "name": "Blockbridge",
             "url": "https://github.com/blockbridge/blockbridge-docker-volume",
-            "description": ":heavy_dollar_sign:- The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By blockbridge",
+            "description": ":yen:- The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By blockbridge",
             "tags": []
           },
           {
@@ -83533,9 +83551,9 @@
             "tags": []
           },
           {
-            "name": "Minio",
-            "url": "https://github.com/minio/minio",
-            "description": "S3 compatible object storage server in Docker containers.",
+            "name": "duplicacy-cli-cron",
+            "url": "https://github.com/GeiserX/duplicacy-cli-cron",
+            "description": "Docker-based encrypted dual-storage backup automation using Duplicacy CLI with cross-site redundancy and Telegram notifications. By GeiserX .",
             "tags": []
           },
           {
@@ -83547,13 +83565,13 @@
           {
             "name": "portworx",
             "url": "https://portworx.com",
-            "description": ":heavy_dollar_sign: Decentralized storage solution for persistent, shared and replicated volumes.",
+            "description": ":yen: Decentralized storage solution for persistent, shared and replicated volumes.",
             "tags": []
           },
           {
             "name": "quobyte",
             "url": "https://www.quobyte.com/",
-            "description": ":heavy_dollar_sign: Fully fault-tolerant distributed file system with a docker volume driver.",
+            "description": ":yen: Fully fault-tolerant distributed file system with a docker volume driver.",
             "tags": []
           },
           {
@@ -83565,7 +83583,7 @@
           {
             "name": "Storidge",
             "url": "https://github.com/Storidge/quick-start",
-            "description": ":heavy_dollar_sign: Software-defined Persistent Storage for Kubernetes and Docker Swarm.",
+            "description": ":ice_cube: - :yen: Software-defined Persistent Storage for Kubernetes and Docker Swarm.",
             "tags": []
           }
         ]
@@ -83690,7 +83708,7 @@
           {
             "name": "captain",
             "url": "https://github.com/jenssegers/captain",
-            "description": "Easily start and stop docker compose projects from any directory. By jenssegers .",
+            "description": ":ice_cube: - Easily start and stop docker compose projects from any directory. By jenssegers .",
             "tags": []
           },
           {
@@ -83702,7 +83720,7 @@
           {
             "name": "dcp",
             "url": "https://github.com/exdx/dcp",
-            "description": "A simple tool for copying files from container filesystems. By exdx .",
+            "description": ":ice_cube: - A simple tool for copying files from container filesystems. By exdx .",
             "tags": []
           },
           {
@@ -83730,27 +83748,21 @@
             "tags": []
           },
           {
-            "name": "docker-ls",
-            "url": "https://github.com/mayflower/docker-ls",
-            "description": "CLI tools for browsing and manipulating docker registries.",
-            "tags": []
-          },
-          {
             "name": "DVM",
             "url": "https://github.com/howtowhale/dvm",
-            "description": "Docker version manager.",
+            "description": ":ice_cube: - Docker version manager.",
             "tags": []
           },
           {
             "name": "goinside",
             "url": "https://github.com/iamsoorena/goinside",
-            "description": "Get inside a running docker container easily.",
+            "description": ":ice_cube: - Get inside a running docker container easily.",
             "tags": []
           },
           {
             "name": "Pdocker",
             "url": "https://github.com/g31s/Pdocker",
-            "description": "A simple tool to manage and maintain Docker for personal projects.",
+            "description": ":ice_cube: - A simple tool to manage and maintain Docker for personal projects.",
             "tags": []
           },
           {
@@ -83780,19 +83792,19 @@
           {
             "name": "tsaotun",
             "url": "https://github.com/qazbnm456/tsaotun",
-            "description": "Python based Assistance for Docker.",
+            "description": ":ice_cube: - Python based Assistance for Docker.",
             "tags": []
           },
           {
             "name": "dext-docker-registry-plugin",
             "url": "https://github.com/vutran/dext-docker-registry-plugin",
-            "description": "Search the Docker Registry with the Dext smart launcher. By vutran .",
+            "description": ":ice_cube: - Search the Docker Registry with the Dext smart launcher. By vutran .",
             "tags": []
           },
           {
             "name": "docker-ssh",
             "url": "https://github.com/jeroenpeeters/docker-ssh",
-            "description": "SSH Server for Docker containers ~ Because every container should be accessible. By jeroenpeeters .",
+            "description": ":ice_cube: - SSH Server for Docker containers ~ Because every container should be accessible. By jeroenpeeters .",
             "tags": []
           },
           {
@@ -83804,13 +83816,19 @@
           {
             "name": "MultiDocker",
             "url": "https://github.com/marty90/multidocker",
-            "description": "Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
+            "description": ":ice_cube: - Create a secure multi-user Docker machine, where each user is segregated into an indepentent container.",
             "tags": []
           },
           {
             "name": "Powerline-Docker",
             "url": "https://github.com/adrianmo/powerline-docker",
-            "description": "A Powerline segment for showing the status of Docker containers.",
+            "description": ":ice_cube: - A Powerline segment for showing the status of Docker containers.",
+            "tags": []
+          },
+          {
+            "name": "Arcane",
+            "url": "https://github.com/getarcaneapp/arcane",
+            "description": "An easy and modern Docker management platform, built with everybody in mind. By getarcaneapp .",
             "tags": []
           },
           {
@@ -83828,7 +83846,7 @@
           {
             "name": "dockemon",
             "url": "https://github.com/ProductiveOps/dokemon",
-            "description": "Docker Container Management GUI.",
+            "description": ":ice_cube: - Docker Container Management GUI.",
             "tags": []
           },
           {
@@ -83840,7 +83858,7 @@
           {
             "name": "docker-registry-web",
             "url": "https://github.com/mkuchin/docker-registry-web",
-            "description": "Web UI, authentication service and event recorder for private docker registry v2.",
+            "description": ":ice_cube: - Web UI, authentication service and event recorder for private docker registry v2.",
             "tags": []
           },
           {
@@ -83864,7 +83882,7 @@
           {
             "name": "Kubevious",
             "url": "https://github.com/kubevious/kubevious",
-            "description": "A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.",
+            "description": ":ice_cube: - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way.",
             "tags": []
           },
           {
@@ -83882,7 +83900,7 @@
           {
             "name": "OctoLinker",
             "url": "https://github.com/OctoLinker/OctoLinker",
-            "description": "A browser extension for GitHub that makes the image name in a Dockerfile clickable and redirect you to the related Docker Hub page.",
+            "description": ":ice_cube: - A browser extension for GitHub that makes the image name in a Dockerfile clickable and redirect you to the related Docker Hub page.",
             "tags": []
           },
           {
@@ -83894,13 +83912,13 @@
           {
             "name": "Rapid Dashboard",
             "url": "https://github.com/ozlerhakan/rapid",
-            "description": "A simple query dashboard to use Docker Remote API.",
+            "description": ":ice_cube: - A simple query dashboard to use Docker Remote API.",
             "tags": []
           },
           {
             "name": "Seagull",
             "url": "https://github.com/tobegit3hub/seagull",
-            "description": "Friendly Web UI to monitor docker daemon.",
+            "description": ":ice_cube: - Friendly Web UI to monitor docker daemon.",
             "tags": []
           },
           {
@@ -83912,7 +83930,7 @@
           {
             "name": "Swirl",
             "url": "https://github.com/cuigh/swirl",
-            "description": "Swirl is a web management tool for Docker, focused on swarm cluster By cuigh .",
+            "description": ":ice_cube: - Swirl is a web management tool for Docker, focused on swarm cluster By cuigh .",
             "tags": []
           },
           {
@@ -83935,13 +83953,13 @@
           {
             "name": "amicontained",
             "url": "https://github.com/genuinetools/amicontained",
-            "description": "Container introspection tool. Find out what container runtime is being used as well as features available.",
+            "description": ":ice_cube: - Container introspection tool. Find out what container runtime is being used as well as features available.",
             "tags": []
           },
           {
             "name": "Chaperone",
             "url": "https://github.com/garywiz/chaperone",
-            "description": "A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package.",
+            "description": ":ice_cube: - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package.",
             "tags": []
           },
           {
@@ -83965,7 +83983,7 @@
           {
             "name": "docker-alpine",
             "url": "https://github.com/gliderlabs/docker-alpine",
-            "description": "A super small Docker base image (5MB) using Alpine Linux.",
+            "description": ":ice_cube: - A super small Docker base image (5MB) using Alpine Linux.",
             "tags": []
           },
           {
@@ -83995,7 +84013,7 @@
           {
             "name": "lstags",
             "url": "https://github.com/ivanilves/lstags",
-            "description": "Sync Docker images across registries.",
+            "description": ":ice_cube: - Sync Docker images across registries.",
             "tags": []
           },
           {
@@ -84025,7 +84043,7 @@
           {
             "name": "sue",
             "url": "https://github.com/theAkito/sue",
-            "description": "Executes a program as a user different from the user running sue. This is a maintainable alternative to ncopa/su-exec, which is the better tianon/gosu. This one is far better (higher performance, smaller size), than the original gosu, however it is far easier to maintain, than su-exec, which is written in plain C. Made by Akito .",
+            "description": ":ice_cube: - Executes a program as a user different from the user running sue. This is a maintainable alternative to ncopa/su-exec, which is the better tianon/gosu. This one is far better (higher performance, smaller size), than the original gosu, however it is far easier to maintain, than su-exec, which is written in plain C. Made by Akito .",
             "tags": []
           },
           {
@@ -84037,7 +84055,7 @@
           {
             "name": "TrivialRC",
             "url": "https://github.com/vorakl/TrivialRC",
-            "description": "A minimalistic Runtime Configuration system and process manager for containers vorakl .",
+            "description": ":ice_cube: - A minimalistic Runtime Configuration system and process manager for containers vorakl .",
             "tags": []
           }
         ]
@@ -84072,19 +84090,19 @@
           {
             "name": "container-factory",
             "url": "https://github.com/mutable/container-factory",
-            "description": "Produces Docker images from tarballs of application source code.",
+            "description": ":ice_cube: - Produces Docker images from tarballs of application source code.",
             "tags": []
           },
           {
             "name": "copy-docker-image",
             "url": "https://github.com/mdlavin/copy-docker-image",
-            "description": "Copy a Docker image between registries without a full Docker installation.",
+            "description": ":ice_cube: - Copy a Docker image between registries without a full Docker installation.",
             "tags": []
           },
           {
             "name": "Derrick",
             "url": "https://github.com/alibaba/derrick",
-            "description": "A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By alibaba .",
+            "description": ":ice_cube: - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By alibaba .",
             "tags": []
           },
           {
@@ -84102,7 +84120,7 @@
           {
             "name": "docker-make",
             "url": "https://github.com/CtripCloud/docker-make",
-            "description": "Build, tag,and push a bunch of related docker images via a single command.",
+            "description": ":ice_cube: - Build, tag,and push a bunch of related docker images via a single command.",
             "tags": []
           },
           {
@@ -84114,7 +84132,7 @@
           {
             "name": "docker-replay",
             "url": "https://github.com/bcicen/docker-replay",
-            "description": "Generate docker run command and options from running containers. By bcicen .",
+            "description": ":ice_cube: - Generate docker run command and options from running containers. By bcicen .",
             "tags": []
           },
           {
@@ -84126,7 +84144,7 @@
           {
             "name": "Dockly",
             "url": "https://github.com/swipely/dockly",
-            "description": "Dockly is a gem made to ease the pain of packaging an application in Docker.",
+            "description": ":ice_cube: - Dockly is a gem made to ease the pain of packaging an application in Docker.",
             "tags": []
           },
           {
@@ -84156,11 +84174,11 @@
           {
             "name": "portainer",
             "url": "https://github.com/duedil-ltd/portainer",
-            "description": "Apache Mesos framework for building Docker images.",
+            "description": ":ice_cube: - Apache Mesos framework for building Docker images.",
             "tags": []
           },
           {
-            "name": "Production-Ready Python Containers :heavy_dollar_sign:",
+            "name": "Production-Ready Python Containers :yen:",
             "url": "https://pythonspeed.com/products/pythoncontainer/",
             "description": "A template for creating production-ready Docker images for Python applications.",
             "tags": []
@@ -84180,7 +84198,7 @@
           {
             "name": "userdef",
             "url": "https://github.com/theAkito/userdef",
-            "description": "An advanced adduser for your Alpine based Docker images. Made by Akito .",
+            "description": ":ice_cube: - An advanced adduser for your Alpine based Docker images. Made by Akito .",
             "tags": []
           },
           {
@@ -84192,7 +84210,7 @@
           {
             "name": "Whales",
             "url": "https://github.com/Gueils/whales",
-            "description": "A tool to automatically dockerize your applications.",
+            "description": ":ice_cube: - A tool to automatically dockerize your applications.",
             "tags": []
           }
         ]
@@ -84203,7 +84221,7 @@
           {
             "name": "chaperone-docker",
             "url": "https://github.com/garywiz/chaperone-docker",
-            "description": "A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.",
+            "description": ":ice_cube: - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.",
             "tags": []
           },
           {
@@ -84310,13 +84328,13 @@
           {
             "name": "Dockerfile Linter action",
             "url": "https://github.com/buddy-works/dockerfile-linter",
-            "description": "The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.",
+            "description": ":ice_cube: - The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.",
             "tags": []
           },
           {
             "name": "FROM:latest",
             "url": "https://github.com/replicatedhq/dockerfilelint",
-            "description": "An opinionated Dockerfile linter.",
+            "description": ":ice_cube: - An opinionated Dockerfile linter.",
             "tags": []
           },
           {
@@ -84342,13 +84360,13 @@
         "name": "Registry",
         "resources": [
           {
-            "name": "Amazon Elastic Container Registry :heavy_dollar_sign:",
+            "name": "Amazon Elastic Container Registry :yen:",
             "url": "https://aws.amazon.com/ecr/",
             "description": "Amazon Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images.",
             "tags": []
           },
           {
-            "name": "Azure Container Registry :heavy_dollar_sign:",
+            "name": "Azure Container Registry :yen:",
             "url": "https://azure.microsoft.com/en-us/products/container-registry/#overview",
             "description": "Manage a Docker private registry as a first-class Azure resource.",
             "tags": []
@@ -84356,35 +84374,35 @@
           {
             "name": "CargoOS",
             "url": "https://github.com/RedCoolBeans/cargos-buildroot",
-            "description": "A bare essential OS for running the Docker Engine on bare metal or Cloud. By RedCoolBeans .",
+            "description": ":ice_cube: - A bare essential OS for running the Docker Engine on bare metal or Cloud. By RedCoolBeans .",
             "tags": []
           },
           {
             "name": "cleanreg",
             "url": "https://github.com/hcguersoy/cleanreg",
-            "description": "A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC.",
+            "description": ":ice_cube: - A small tool to delete image manifests from a Docker Registry implementing the API v2, dereferencing them for the GC.",
             "tags": []
           },
           {
-            "name": "Cloudsmith :heavy_dollar_sign:",
+            "name": "Cloudsmith :yen:",
             "url": "https://cloudsmith.com/product/formats/docker-registry",
             "description": "A fully managed package management SaaS, with first-class support for public and private Docker registries (and many others, incl. Helm charts for the Kubernetes ecosystem). Has a generous free-tier and is also completely free for open-source.",
             "tags": []
           },
           {
-            "name": "Container Registry Service :heavy_dollar_sign:",
+            "name": "Container Registry Service :yen:",
             "url": "https://container-registry.com/",
             "description": "Harbor based Container Management Solution as a Service for teams and organizations. Free tier offers 1 GB storage for private repositories.",
             "tags": []
           },
           {
-            "name": "Cycle.io :heavy_dollar_sign:",
+            "name": "Cycle.io :yen:",
             "url": "https://cycle.io/",
             "description": "Bare-metal container hosting.",
             "tags": []
           },
           {
-            "name": "DigitalOcean :heavy_dollar_sign:",
+            "name": "DigitalOcean :yen:",
             "url": "https://www.digitalocean.com/products/container-registry",
             "description": "DigitalOcean Container Registry.",
             "tags": []
@@ -84404,7 +84422,7 @@
           {
             "name": "Docket",
             "url": "https://github.com/netvarun/docket",
-            "description": "Custom docker registry that allows for lightning fast deploys through bittorrent.",
+            "description": ":ice_cube: - Custom docker registry that allows for lightning fast deploys through bittorrent.",
             "tags": []
           },
           {
@@ -84414,7 +84432,7 @@
             "tags": []
           },
           {
-            "name": "GCP Artifact Registry :heavy_dollar_sign:",
+            "name": "GCP Artifact Registry :yen:",
             "url": "https://cloud.google.com/artifact-registry/docs",
             "description": "Fast, private Docker image storage on Google Cloud Platform.",
             "tags": []
@@ -84444,7 +84462,7 @@
             "tags": []
           },
           {
-            "name": "JFrog Artifactory :heavy_dollar_sign:",
+            "name": "JFrog Artifactory :yen:",
             "url": "https://jfrog.com/artifactory/",
             "description": "Artifact Repository Manager, can be used as private Docker Registry as well.",
             "tags": []
@@ -84462,7 +84480,7 @@
             "tags": []
           },
           {
-            "name": "Quay.io :heavy_dollar_sign:",
+            "name": "Quay.io :yen:",
             "url": "https://quay.io/",
             "description": "Secure hosting for private Docker repositories.",
             "tags": []
@@ -84482,7 +84500,7 @@
           {
             "name": "Rescoyl",
             "url": "https://github.com/noteed/rescoyl",
-            "description": "Private Docker registry (free and open source).",
+            "description": ":ice_cube: - Private Docker registry (free and open source).",
             "tags": []
           },
           {
@@ -84499,7 +84517,7 @@
           {
             "name": "ahab",
             "url": "https://github.com/instacart/ahab",
-            "description": "Docker event handling with Python.",
+            "description": ":ice_cube: - Docker event handling with Python.",
             "tags": []
           },
           {
@@ -84529,13 +84547,13 @@
           {
             "name": "docker-it-scala",
             "url": "https://github.com/whisklabs/docker-it-scala",
-            "description": "Docker integration testing kit with Scala.",
+            "description": ":ice_cube: - Docker integration testing kit with Scala.",
             "tags": []
           },
           {
             "name": "docker-java-api",
             "url": "https://github.com/amihaiemil/docker-java-api",
-            "description": "Lightweight, truly object-oriented, Java client for Docker's API. By amihaiemil .",
+            "description": ":ice_cube: - Lightweight, truly object-oriented, Java client for Docker's API. By amihaiemil .",
             "tags": []
           },
           {
@@ -84565,7 +84583,7 @@
           {
             "name": "DoMonit",
             "url": "https://github.com/eon01/DoMonit",
-            "description": "A simple Docker Monitoring wrapper For Docker API.",
+            "description": ":ice_cube: - A simple Docker Monitoring wrapper For Docker API.",
             "tags": []
           },
           {
@@ -84598,7 +84616,7 @@
         "name": "CI/CD",
         "resources": [
           {
-            "name": "Buddy :heavy_dollar_sign:",
+            "name": "Buddy :yen:",
             "url": "https://buddy.works",
             "description": "The best of Git, build & deployment tools combined into one powerful tool that supercharged our development.",
             "tags": []
@@ -84612,7 +84630,7 @@
           {
             "name": "Cyclone",
             "url": "https://github.com/caicloud/cyclone",
-            "description": "Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.",
+            "description": ":ice_cube: - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.",
             "tags": []
           },
           {
@@ -84622,7 +84640,7 @@
             "tags": []
           },
           {
-            "name": "Depot :heavy_dollar_sign:",
+            "name": "Depot :yen:",
             "url": "https://depot.dev",
             "description": "Build Docker images fast, in the cloud. Blazing fast compute, automatic intelligent caching, and zero configuration. Done in seconds .",
             "tags": []
@@ -84652,12 +84670,6 @@
             "tags": []
           },
           {
-            "name": "Drydock",
-            "url": "https://github.com/CodesWhat/drydock",
-            "description": "Open-source container update monitoring with web dashboard, 15 registries, 16 notification triggers, and security scanning. Drop-in WUD replacement. By CodesWhat .",
-            "tags": []
-          },
-          {
             "name": "Gantry",
             "url": "https://github.com/shizunge/gantry",
             "description": "Automatically update selected Docker swarm services.",
@@ -84684,23 +84696,23 @@
           {
             "name": "Microservices Continuous Deployment",
             "url": "https://github.com/francescou/docker-continuous-deployment",
-            "description": "Continuous deployment of a microservices application.",
+            "description": ":ice_cube: - Continuous deployment of a microservices application.",
             "tags": []
           },
           {
             "name": "mu",
             "url": "https://github.com/stelligent/mu",
-            "description": "Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS Stelligent .",
+            "description": ":ice_cube: - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS Stelligent .",
             "tags": []
           },
           {
             "name": "Popper",
             "url": "https://github.com/systemslab/popper",
-            "description": "Github actions workflow (HCL syntax) execution engine.",
+            "description": ":ice_cube: - Github actions workflow (HCL syntax) execution engine.",
             "tags": []
           },
           {
-            "name": "Screwdriver :heavy_dollar_sign:",
+            "name": "Screwdriver :yen:",
             "url": "https://screwdriver.cd/",
             "description": "Yahoo's OpenSource buildplatform designed for Continous Delivery.",
             "tags": []
@@ -84714,7 +84726,7 @@
           {
             "name": "SwarmCI",
             "url": "https://github.com/ghostsquad/swarmci",
-            "description": "Create a distributed, isolated task pipeline in your Docker Swarm.",
+            "description": ":ice_cube: - Create a distributed, isolated task pipeline in your Docker Swarm.",
             "tags": []
           },
           {
@@ -84731,7 +84743,7 @@
           {
             "name": "Binci",
             "url": "https://github.com/binci/binci",
-            "description": "Containerize your development workflow. (formerly DevLab by TechnologyAdvice ).",
+            "description": ":ice_cube: - Containerize your development workflow. (formerly DevLab by TechnologyAdvice ).",
             "tags": []
           },
           {
@@ -84743,7 +84755,7 @@
           {
             "name": "construi",
             "url": "https://github.com/lstephen/construi",
-            "description": "Run your builds inside a Docker defined environment.",
+            "description": ":ice_cube: - Run your builds inside a Docker defined environment.",
             "tags": []
           },
           {
@@ -84761,19 +84773,19 @@
           {
             "name": "dobi",
             "url": "https://github.com/dnephin/dobi",
-            "description": "A build automation tool for Docker applications. By dnephin .",
+            "description": ":ice_cube: - A build automation tool for Docker applications. By dnephin .",
             "tags": []
           },
           {
             "name": "Docker Missing Tools",
             "url": "https://github.com/nandoquintana/docker-missing-tools",
-            "description": "A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like \"build.sh\" and \"deploy.sh\" inside code repositories. By NandoQuintana .",
+            "description": ":ice_cube: - A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like \"build.sh\" and \"deploy.sh\" inside code repositories. By NandoQuintana .",
             "tags": []
           },
           {
             "name": "Docker-Arch",
             "url": "https://github.com/Ph3nol/Docker-Arch",
-            "description": "Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By Ph3nol .",
+            "description": ":ice_cube: - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By Ph3nol .",
             "tags": []
           },
           {
@@ -84785,7 +84797,7 @@
           {
             "name": "docker-vm",
             "url": "https://github.com/shyiko/docker-vm",
-            "description": "Simple and transparent alternative to boot2docker (backed by Vagrant).",
+            "description": ":ice_cube: - Simple and transparent alternative to boot2docker (backed by Vagrant).",
             "tags": []
           },
           {
@@ -84821,7 +84833,7 @@
           {
             "name": "Kitt",
             "url": "https://github.com/senges/kitt",
-            "description": "A portable and disposable Shell environment, based on Docker and Nix. By senges .",
+            "description": ":ice_cube: - A portable and disposable Shell environment, based on Docker and Nix. By senges .",
             "tags": []
           },
           {
@@ -84833,7 +84845,7 @@
           {
             "name": "Rust Universal Compiler",
             "url": "https://github.com/Peco602/rust-universal-compiler",
-            "description": "Container solution to compile Rust projects for Linux, macOS and Windows. By Peco602 .",
+            "description": ":ice_cube: - Container solution to compile Rust projects for Linux, macOS and Windows. By Peco602 .",
             "tags": []
           },
           {
@@ -84845,7 +84857,7 @@
           {
             "name": "Vagga",
             "url": "https://github.com/tailhook/vagga",
-            "description": "Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
+            "description": ":ice_cube: - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.",
             "tags": []
           },
           {
@@ -84862,13 +84874,13 @@
           {
             "name": "caduc",
             "url": "https://github.com/tjamet/caduc",
-            "description": "A docker garbage collector cleaning stuff you did not use recently.",
+            "description": ":ice_cube: - A docker garbage collector cleaning stuff you did not use recently.",
             "tags": []
           },
           {
             "name": "Docker Clean",
             "url": "https://github.com/ZZROTDesign/docker-clean",
-            "description": "A script that cleans Docker containers, images and volumes.",
+            "description": ":ice_cube: - A script that cleans Docker containers, images and volumes.",
             "tags": []
           },
           {
@@ -84880,7 +84892,7 @@
           {
             "name": "docker_gc",
             "url": "https://github.com/pdacity/docker_gc",
-            "description": "Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service.",
+            "description": ":ice_cube: - Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service.",
             "tags": []
           },
           {
@@ -84903,19 +84915,19 @@
           {
             "name": "Funker",
             "url": "https://github.com/bfirsh/funker-example-voting-app",
-            "description": "Functions as Docker containers example voting app. By bfirsh .",
+            "description": ":ice_cube: - Functions as Docker containers example voting app. By bfirsh .",
             "tags": []
           },
           {
             "name": "IronFunctions",
             "url": "https://github.com/iron-io/functions",
-            "description": "The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions.",
+            "description": ":ice_cube: - The serverless microservices platform FaaS (Functions as a Service) which uses Docker containers to run Any language or AWS Lambda functions.",
             "tags": []
           },
           {
             "name": "Koyeb",
             "url": "https://www.koyeb.com/",
-            "description": ":heavy_dollar_sign: Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.",
+            "description": ":yen: Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery.",
             "tags": []
           },
           {
@@ -84927,7 +84939,7 @@
           {
             "name": "SCAR",
             "url": "https://github.com/grycap/scar",
-            "description": "Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda).",
+            "description": ":ice_cube: - Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda).",
             "tags": []
           }
         ]
@@ -84950,13 +84962,13 @@
           {
             "name": "DockerSpec",
             "url": "https://github.com/zuazo/dockerspec",
-            "description": "A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By zuazo .",
+            "description": ":ice_cube: - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily. By zuazo .",
             "tags": []
           },
           {
             "name": "EZDC",
             "url": "https://github.com/lynchborg/ezdc",
-            "description": "Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By byrnedo .",
+            "description": ":ice_cube: - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By byrnedo .",
             "tags": []
           },
           {
@@ -84997,19 +85009,19 @@
           {
             "name": "dexec",
             "url": "https://github.com/docker-exec/dexec",
-            "description": "Command line interface written in Go for running code with Docker Exec images.",
+            "description": ":ice_cube: - Command line interface written in Go for running code with Docker Exec images.",
             "tags": []
           },
           {
             "name": "dockerized",
             "url": "https://github.com/benzaita/dockerized-cli",
-            "description": "Seamlessly execute commands in a container.",
+            "description": ":ice_cube: - Seamlessly execute commands in a container.",
             "tags": []
           },
           {
             "name": "Dray",
             "url": "https://github.com/CenturyLinkLabs/dray",
-            "description": "An engine for managing the execution of container-based workflows.",
+            "description": ":ice_cube: - An engine for managing the execution of container-based workflows.",
             "tags": []
           },
           {
@@ -85027,7 +85039,7 @@
           {
             "name": "Shutit",
             "url": "https://github.com/ianmiell/shutit",
-            "description": "Tool for building and maintaining complex Docker deployments.",
+            "description": ":ice_cube: - Tool for building and maintaining complex Docker deployments.",
             "tags": []
           },
           {
@@ -85039,13 +85051,13 @@
           {
             "name": "Terraform cloud-init config",
             "url": "https://github.com/christippett/terraform-cloudinit-container-server",
-            "description": "Terraform module for deploying a single Docker image or docker-compose.yaml file to any Cloud\u2122 VM.",
+            "description": ":ice_cube: - Terraform module for deploying a single Docker image or docker-compose.yaml file to any Cloud\u2122 VM.",
             "tags": []
           },
           {
             "name": "Turbo",
             "url": "https://github.com/ramitsurana/turbo",
-            "description": "Simple and Powerful utility for docker. By ramitsurana .",
+            "description": ":ice_cube: - Simple and Powerful utility for docker. By ramitsurana .",
             "tags": []
           },
           {
@@ -85068,37 +85080,37 @@
           {
             "name": "CircleCI",
             "url": "https://circleci.com/",
-            "description": ":heavy_dollar_sign: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.",
+            "description": ":yen: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.",
             "tags": []
           },
           {
             "name": "CodeFresh",
             "url": "https://codefresh.io",
-            "description": ":heavy_dollar_sign: Everything you need to build, test, and share your Docker applications. Provides automated end to end testing.",
+            "description": ":yen: Everything you need to build, test, and share your Docker applications. Provides automated end to end testing.",
             "tags": []
           },
           {
             "name": "CodeShip",
             "url": "https://www.cloudbees.com/blog/how-to-run-codeship-parallel-test-pipelines-efficiently-for-optimal-ci-parallelization",
-            "description": ":heavy_dollar_sign: Work with your established Docker workflows while automating your testing and deployment tasks with our hosted platform dedicated to speed and security.",
+            "description": ":yen: Work with your established Docker workflows while automating your testing and deployment tasks with our hosted platform dedicated to speed and security.",
             "tags": []
           },
           {
             "name": "ConcourseCI",
             "url": "https://concourse-ci.org",
-            "description": ":heavy_dollar_sign: A CI SaaS platform for developers and DevOps teams pipeline oriented.",
+            "description": ":yen: A CI SaaS platform for developers and DevOps teams pipeline oriented.",
             "tags": []
           },
           {
             "name": "Semaphore CI",
             "url": "https://semaphore.io/",
-            "description": ":heavy_dollar_sign: \u2014 A high-performance cloud solution that makes it easy to build, test and ship your containers to production.",
+            "description": ":yen: \u2014 A high-performance cloud solution that makes it easy to build, test and ship your containers to production.",
             "tags": []
           },
           {
             "name": "TravisCI",
             "url": "https://www.travis-ci.com/",
-            "description": ":heavy_dollar_sign: A Free github projects continuous integration Saas platform for developers and Devops.",
+            "description": ":yen: A Free github projects continuous integration Saas platform for developers and Devops.",
             "tags": []
           }
         ]
@@ -85109,55 +85121,55 @@
           {
             "name": "Amazon ECS",
             "url": "https://aws.amazon.com/ecs/",
-            "description": ":heavy_dollar_sign: A management service on EC2 that supports Docker containers.",
+            "description": ":yen: A management service on EC2 that supports Docker containers.",
             "tags": []
           },
           {
             "name": "Appfleet",
             "url": "https://appfleet.com/",
-            "description": ":heavy_dollar_sign: Edge platform to deploy and manage containerized services globally. The system will route the traffic to the closest location for lower latency.",
+            "description": ":yen: Edge platform to deploy and manage containerized services globally. The system will route the traffic to the closest location for lower latency.",
             "tags": []
           },
           {
             "name": "Azure AKS",
             "url": "https://azure.microsoft.com/en-us/products/kubernetes-service/",
-            "description": ":heavy_dollar_sign: Simplify Kubernetes management, deployment, and operations. Use a fully managed Kubernetes container orchestration service.",
+            "description": ":yen: Simplify Kubernetes management, deployment, and operations. Use a fully managed Kubernetes container orchestration service.",
             "tags": []
           },
           {
             "name": "Cloud 66",
             "url": "https://www.cloud66.com",
-            "description": ":heavy_dollar_sign: Full-stack hosted container management as a service.",
+            "description": ":yen: Full-stack hosted container management as a service.",
             "tags": []
           },
           {
             "name": "Giant Swarm",
             "url": "https://www.giantswarm.io/",
-            "description": ":heavy_dollar_sign: Simple microservice infrastructure. Deploy your containers in seconds.",
+            "description": ":yen: Simple microservice infrastructure. Deploy your containers in seconds.",
             "tags": []
           },
           {
             "name": "Google Container Engine",
             "url": "https://docs.cloud.google.com/kubernetes-engine/docs",
-            "description": ":heavy_dollar_sign: Docker containers on Google Cloud Computing powered by Kubernetes .",
+            "description": ":yen: Docker containers on Google Cloud Computing powered by Kubernetes .",
             "tags": []
           },
           {
             "name": "Mesosphere DC/OS Platform",
             "url": "https://d2iq.com/products/dcos",
-            "description": ":heavy_dollar_sign: Integrated platform for data and containers built on Apache Mesos.",
+            "description": ":yen: Integrated platform for data and containers built on Apache Mesos.",
             "tags": []
           },
           {
             "name": "Red Hat OpenShift Dedicated",
             "url": "https://www.redhat.com/en/technologies/cloud-computing/openshift/dedicated",
-            "description": ":heavy_dollar_sign: Fully-managed Red Hat\u00ae OpenShift\u00ae service on Amazon Web Services and Google Cloud.",
+            "description": ":yen: Fully-managed Red Hat\u00ae OpenShift\u00ae service on Amazon Web Services and Google Cloud.",
             "tags": []
           },
           {
             "name": "Triton",
             "url": "https://www.joyent.com/",
-            "description": ":heavy_dollar_sign: Elastic container-native infrastructure by Joyent.",
+            "description": ":yen: Elastic container-native infrastructure by Joyent.",
             "tags": []
           }
         ]
@@ -85174,13 +85186,13 @@
           {
             "name": "Better Stack",
             "url": "https://betterstack.com/community/guides/scaling-docker/",
-            "description": ":heavy_dollar_sign: A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.",
+            "description": ":yen: A Docker-compatible observability stack that delivers robust log aggregation and uptime monitoring capabilities for various software application.",
             "tags": []
           },
           {
             "name": "Broadcom Docker Monitoring",
             "url": "https://www.broadcom.com/info/aiops/docker-monitoring",
-            "description": ":heavy_dollar_sign: Agile Operations solutions from Broadcom deliver the modern Docker monitoring businesses need to accelerate and optimize the performance of microservices and the dynamic Docker environments running them. Monitor both the Docker environment and apps that run inside them. (former CA Technologies).",
+            "description": ":yen: Agile Operations solutions from Broadcom deliver the modern Docker monitoring businesses need to accelerate and optimize the performance of microservices and the dynamic Docker environments running them. Monitor both the Docker environment and apps that run inside them. (former CA Technologies).",
             "tags": []
           },
           {
@@ -85192,31 +85204,31 @@
           {
             "name": "Datadog",
             "url": "https://www.datadoghq.com/",
-            "description": ":heavy_dollar_sign: Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.",
+            "description": ":yen: Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.",
             "tags": []
           },
           {
             "name": "Prometheus",
             "url": "https://prometheus.io/",
-            "description": ":heavy_dollar_sign: Open-source service monitoring system and time series database.",
+            "description": ":yen: Open-source service monitoring system and time series database.",
             "tags": []
           },
           {
             "name": "Site24x7",
             "url": "https://www.site24x7.com/docker-monitoring.html",
-            "description": ":heavy_dollar_sign: Docker Monitoring for DevOps and IT is a SaaS Pay per Host model.",
+            "description": ":yen: Docker Monitoring for DevOps and IT is a SaaS Pay per Host model.",
             "tags": []
           },
           {
             "name": "SPM for Docker",
             "url": "https://github.com/sematext/sematext-agent-docker",
-            "description": ":heavy_dollar_sign: Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. sematext .",
+            "description": ":ice_cube: - :yen: Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. sematext .",
             "tags": []
           },
           {
             "name": "Sysdig Monitor",
             "url": "https://www.sysdig.com/products/monitor",
-            "description": ":heavy_dollar_sign: Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.",
+            "description": ":yen: Sysdig Monitor can be used as either software or a SaaS service to monitor, alert, and troubleshoot containers using system calls. It has container-specific features for Docker and Kubernetes.",
             "tags": []
           }
         ]
@@ -85227,7 +85239,7 @@
           {
             "name": "Awesome CI/CD",
             "url": "https://github.com/cicdops/awesome-ciandcd",
-            "description": "Not specific to docker but relevant.",
+            "description": ":ice_cube: - Not specific to docker but relevant.",
             "tags": []
           },
           {
@@ -85315,7 +85327,7 @@
           {
             "name": "Dockerfile best practices",
             "url": "https://github.com/hexops/dockerfile",
-            "description": "This repository has best-practices for writing Dockerfiles.",
+            "description": ":ice_cube: - This repository has best-practices for writing Dockerfiles.",
             "tags": []
           },
           {
