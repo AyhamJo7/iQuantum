@@ -14568,6 +14568,12 @@
             "tags": []
           },
           {
+            "name": "Itsyconnect",
+            "url": "https://github.com/nickustinov/itsyconnect-macos",
+            "description": "App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization.",
+            "tags": []
+          },
+          {
             "name": "SaneHosts",
             "url": "https://sanehosts.com",
             "description": "System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock.",
@@ -16426,6 +16432,12 @@
             "tags": []
           },
           {
+            "name": "Apple On-Device OpenAI",
+            "url": "https://github.com/gety-ai/apple-on-device-openai",
+            "description": "Creates an OpenAI-compatible API server from Apple on-device Foundation Models for local use.",
+            "tags": []
+          },
+          {
             "name": "BoltAI",
             "url": "https://boltai.com",
             "description": "A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.",
@@ -17162,6 +17174,12 @@
             "name": "Plug",
             "url": "https://plugformac.com",
             "description": "Discover and listen to music from Hype Machine.",
+            "tags": []
+          },
+          {
+            "name": "Petrichor",
+            "url": "https://github.com/kushalpandya/Petrichor",
+            "description": "Offline music player with broad format support, lyrics, playlists, and queue management.",
             "tags": []
           },
           {
@@ -18320,9 +18338,21 @@
             "tags": []
           },
           {
+            "name": "Claude God",
+            "url": "https://claudegod.app",
+            "description": "Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications.",
+            "tags": []
+          },
+          {
             "name": "CodexBar",
             "url": "https://codexbar.app",
             "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+            "tags": []
+          },
+          {
+            "name": "Usage4Claude",
+            "url": "https://github.com/f-is-h/Usage4Claude",
+            "description": "Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans.",
             "tags": []
           },
           {
@@ -30160,12 +30190,6 @@
         "name": "Science and Data Analysis",
         "resources": [
           {
-            "name": "assocentity",
-            "url": "https://github.com/ndabAP/assocentity",
-            "description": "Package assocentity returns the average distance from words to a given entity.",
-            "tags": []
-          },
-          {
             "name": "bradleyterry",
             "url": "https://github.com/seanhagen/bradleyterry",
             "description": "Provides a Bradley-Terry Model for pairwise comparisons.",
@@ -30193,6 +30217,12 @@
             "name": "decimal",
             "url": "https://github.com/db47h/decimal",
             "description": "Package decimal implements arbitrary-precision decimal floating-point arithmetic.",
+            "tags": []
+          },
+          {
+            "name": "entitydebs",
+            "url": "https://github.com/ndabAP/entitydebs",
+            "description": "A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.",
             "tags": []
           },
           {
@@ -30555,6 +30585,12 @@
             "tags": []
           },
           {
+            "name": "leakhound",
+            "url": "https://github.com/nilpoona/leakhound",
+            "description": "Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.",
+            "tags": []
+          },
+          {
             "name": "lego",
             "url": "https://github.com/go-acme/lego",
             "description": "Pure Go ACME client library and CLI tool (for use with Let's Encrypt).",
@@ -30600,6 +30636,12 @@
             "name": "passwap",
             "url": "https://github.com/zitadel/passwap",
             "description": "Provides a unified implementation between different password hashing algorithms",
+            "tags": []
+          },
+          {
+            "name": "pii-shield",
+            "url": "https://github.com/aragossa/pii-shield",
+            "description": "Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.",
             "tags": []
           },
           {
@@ -31549,6 +31591,12 @@
             "name": "testsql",
             "url": "https://github.com/zhulongcheng/testsql",
             "description": "Generate test data from SQL files before testing and clear it after finished.",
+            "tags": []
+          },
+          {
+            "name": "tparse",
+            "url": "https://github.com/mfridman/tparse",
+            "description": "CLI tool for summarizing go test output. Pipe friendly. Compatible with go test flags.",
             "tags": []
           },
           {
@@ -59862,6 +59910,12 @@
             "name": "VT Code",
             "url": "https://crates.io/crates/vtcode",
             "description": "Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.",
+            "tags": []
+          },
+          {
+            "name": "Wilfred/difftastic",
+            "url": "https://github.com/Wilfred/difftastic",
+            "description": "[ difftastic ] - A structural diff tool that understands syntax, supporting 30+ programming languages",
             "tags": []
           }
         ]
