@@ -16349,6 +16349,12 @@
             "tags": []
           },
           {
+            "name": "Mottie",
+            "url": "https://recouse.me/apps/mottie/",
+            "description": "A native Lottie animation player with Quick Look extension for dotLottie files.",
+            "tags": []
+          },
+          {
             "name": "Nucleo",
             "url": "https://nucleoapp.com/",
             "description": "Icon manager. Import, export, customize and convert icon libraries.",
@@ -19368,6 +19374,12 @@
             "name": "Raycast",
             "url": "https://raycast.com?via=ae02",
             "description": "Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.",
+            "tags": []
+          },
+          {
+            "name": "Rustcast",
+            "url": "https://rustcast.app",
+            "description": "Workflow launcher for modes, quick app access, file search, clipboard history, and more.",
             "tags": []
           },
           {
@@ -58585,6 +58597,12 @@
             "tags": []
           },
           {
+            "name": "anylinuxfs-gui",
+            "url": "https://github.com/fenio/anylinuxfs-gui",
+            "description": "GUI application for anylinuxfs",
+            "tags": []
+          },
+          {
             "name": "atuin",
             "url": "https://github.com/atuinsh/atuin",
             "description": "[ atuin ] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.",
@@ -61018,6 +61036,12 @@
             "name": "memvid/memvid",
             "url": "https://github.com/memvid/memvid",
             "description": "[ memvid-core ] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one .mv2 file",
+            "tags": []
+          },
+          {
+            "name": "pydantic/monty",
+            "url": "https://github.com/pydantic/monty",
+            "description": "A minimal, secure Python interpreter for running LLM-generated code in AI agents, with microsecond startup, strict sandboxing, and snapshotting support",
             "tags": []
           }
         ]
