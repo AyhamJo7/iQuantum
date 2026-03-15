@@ -14824,12 +14824,6 @@
             "url": "https://apps.apple.com/by/app/nib-unlocker/id1475697086?platform=mac",
             "description": ".nib to .xib converter",
             "tags": []
-          },
-          {
-            "name": "He3",
-            "url": "https://he3.app",
-            "description": "Free and Modern Developer Utilities Toolbox.",
-            "tags": []
           }
         ]
       },
@@ -30427,6 +30421,12 @@
             "name": "streamtools",
             "url": "https://github.com/nytlabs/streamtools",
             "description": "general purpose, graphical tool for dealing with streams of data.",
+            "tags": []
+          },
+          {
+            "name": "taxonkit",
+            "url": "https://github.com/shenwei356/taxonkit",
+            "description": "A practical and efficient NCBI taxonomy toolkit; supports querying lineage, reformatting, filtering, and creating custom taxdump files.",
             "tags": []
           },
           {
@@ -53122,6 +53122,12 @@
             "name": "TermiNetwork",
             "url": "https://github.com/billp/TermiNetwork",
             "description": "\ud83c\udf0f A zero-dependency networking solution for building modern and secure iOS, watchOS, macOS and tvOS applications.",
+            "tags": []
+          },
+          {
+            "name": "Tiercel",
+            "url": "https://github.com/Danie1s/Tiercel",
+            "description": "Background downloads, relaunch recovery, resumable transfers, and task management for iOS apps.",
             "tags": []
           },
           {
