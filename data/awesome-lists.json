@@ -15586,6 +15586,12 @@
             "tags": []
           },
           {
+            "name": "Awal Terminal",
+            "url": "https://github.com/AwalTerminal/Awal-terminal",
+            "description": "LLM-native terminal emulator with AI components, multi-provider profiles, voice input, and Metal GPU rendering.",
+            "tags": []
+          },
+          {
             "name": "Command Book",
             "url": "https://commandbookapp.com",
             "description": "A terminal companion for long-running terminal commands (freemium)",
@@ -17571,6 +17577,12 @@
             "name": "buzz",
             "url": "https://github.com/chidiwilliams/buzz",
             "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "tags": []
+          },
+          {
+            "name": "FnKey",
+            "url": "https://github.com/evoleinik/fnkey",
+            "description": "Hold Fn, speak, release \u2014 text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay.",
             "tags": []
           },
           {
@@ -21820,6 +21832,12 @@
             "tags": []
           },
           {
+            "name": "goconfig",
+            "url": "https://github.com/fulldump/goconfig",
+            "description": "Populate Go structs from flags, environment variables, config.json and defaults with deterministic precedence. No extra dependencies.",
+            "tags": []
+          },
+          {
             "name": "godotenv",
             "url": "https://github.com/joho/godotenv",
             "description": "Go port of Ruby's dotenv library (Loads environment variables from .env ).",
@@ -23345,6 +23363,12 @@
             "name": "gorm-multitenancy",
             "url": "https://github.com/bartventer/gorm-multitenancy",
             "description": "Multi-tenancy support for GORM managed databases.",
+            "tags": []
+          },
+          {
+            "name": "GoSQLX",
+            "url": "https://github.com/ajitpratap0/GoSQLX",
+            "description": "High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.",
             "tags": []
           },
           {
@@ -32862,6 +32886,12 @@
             "name": "textbelt",
             "url": "https://github.com/dietsche/textbelt",
             "description": "Go client for the textbelt.com txt messaging API.",
+            "tags": []
+          },
+          {
+            "name": "threads-go",
+            "url": "https://github.com/tirthpatell/threads-go",
+            "description": "Go client library for the Meta Threads API with OAuth 2.0, rate limiting, and type-safe error handling.",
             "tags": []
           },
           {
@@ -57795,6 +57825,12 @@
             "tags": []
           },
           {
+            "name": "louis-e/arnis",
+            "url": "https://github.com/louis-e/arnis",
+            "description": "Generate Minecraft Java/Bedrock worlds from real-world geography using OpenStreetMap and elevation data",
+            "tags": []
+          },
+          {
             "name": "maras-archive/rsnake",
             "url": "https://github.com/maras-archive/rsnake",
             "description": "Snake.",
@@ -59720,6 +59756,12 @@
       {
         "name": "Development tools",
         "resources": [
+          {
+            "name": "armgabrielyan/deadbranch",
+            "url": "https://github.com/armgabrielyan/deadbranch",
+            "description": "[ deadbranch ] - Clean up stale git branches safely",
+            "tags": []
+          },
           {
             "name": "ATAC",
             "url": "https://github.com/Julien-cpsn/ATAC",
@@ -78770,6 +78812,12 @@
             "name": "browser-use",
             "url": "https://github.com/browser-use/browser-use",
             "description": "Make websites accessible for AI agents with easy browser automation.",
+            "tags": []
+          },
+          {
+            "name": "crawl4ai",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "description": "An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.",
             "tags": []
           },
           {
