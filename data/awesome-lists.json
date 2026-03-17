@@ -3869,6 +3869,12 @@
             "tags": []
           },
           {
+            "name": "SOLECTRUS",
+            "url": "https://solectrus.de",
+            "description": "Photovoltaic dashboard that displays energy production and consumption with cost and savings calculations. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Tasmota",
             "url": "https://tasmota.com",
             "description": "Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ( Source Code ) GPL-3.0 C/C++",
@@ -4268,6 +4274,12 @@
             "name": "MeTube",
             "url": "https://github.com/alexta69/metube",
             "description": "Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. AGPL-3.0 Python/Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "MKVPriority",
+            "url": "https://github.com/kennethsible/mkvpriority",
+            "description": "Selects preferred audio and subtitle tracks using configurable priority scores and sets the appropriate default and forced flags. MIT Python/Docker",
             "tags": []
           },
           {
@@ -24499,9 +24511,9 @@
             "tags": []
           },
           {
-            "name": "ringpop-go",
-            "url": "https://github.com/uber/ringpop-go",
-            "description": "Scalable, fault-tolerant application-layer sharding for Go applications.",
+            "name": "rpcplatform",
+            "url": "https://github.com/nexcode/rpcplatform",
+            "description": "Framework for microservices with service discovery, load balancing, and related features.",
             "tags": []
           },
           {
@@ -26207,6 +26219,12 @@
             "tags": []
           },
           {
+            "name": "gogpu/ui",
+            "url": "https://github.com/gogpu/ui",
+            "description": "GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of GoGPU ecosystem).",
+            "tags": []
+          },
+          {
             "name": "goradd/html5tag",
             "url": "https://github.com/goradd/html5tag",
             "description": "Library for outputting HTML5 tags.",
@@ -26418,6 +26436,12 @@
             "name": "gg",
             "url": "https://github.com/fogleman/gg",
             "description": "2D rendering in pure Go.",
+            "tags": []
+          },
+          {
+            "name": "gogpu/gg",
+            "url": "https://github.com/gogpu/gg",
+            "description": "GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of GoGPU pure Go graphics ecosystem).",
             "tags": []
           },
           {
@@ -59979,6 +60003,12 @@
             "tags": []
           },
           {
+            "name": "voidzero-dev/vite-plus",
+            "url": "https://github.com/voidzero-dev/vite-plus",
+            "description": "A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI ( vp )",
+            "tags": []
+          },
+          {
             "name": "VT Code",
             "url": "https://crates.io/crates/vtcode",
             "description": "Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.",
@@ -77302,6 +77332,12 @@
             "name": "MindsDB",
             "url": "https://github.com/mindsdb/mindsdb",
             "description": "MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.",
+            "tags": []
+          },
+          {
+            "name": "pgmpy",
+            "url": "https://github.com/pgmpy/pgmpy",
+            "description": "A Python library for probabilistic graphical models and Bayesian networks.",
             "tags": []
           },
           {
