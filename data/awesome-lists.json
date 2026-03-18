@@ -14371,6 +14371,12 @@
             "tags": []
           },
           {
+            "name": "Nimbalyst",
+            "url": "https://nimbalyst.com/",
+            "description": "The visual workspace for building with Codex and Claude Code. Session and task management. Visual editors for markdown, mockup, csv, excalidraw, mermaid, code.",
+            "tags": []
+          },
+          {
             "name": "Nova",
             "url": "https://nova.app/",
             "description": "Beautiful, fast, flexible Mac code editor from Panic .",
@@ -16489,6 +16495,12 @@
             "name": "Chatbox",
             "url": "https://chatboxai.app",
             "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...).",
+            "tags": []
+          },
+          {
+            "name": "Fazm",
+            "url": "https://fazm.ai",
+            "description": "Open-source, voice-controlled AI computer agent that controls your entire macOS desktop through natural language. Any app, file, or workflow.",
             "tags": []
           },
           {
