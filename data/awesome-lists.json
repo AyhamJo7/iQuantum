@@ -16218,6 +16218,12 @@
             "tags": []
           },
           {
+            "name": "ScreenSage Pro",
+            "url": "https://screensage.pro/",
+            "description": "A screen recording tool for creating polished videos in minutes.",
+            "tags": []
+          },
+          {
             "name": "Screenize",
             "url": "https://syi0808.github.io/screenize/",
             "description": "Open-source screen recording app with auto-zoom, cursor effects, and timeline editing \u2014 Screen Studio alternative.",
@@ -20517,6 +20523,12 @@
             "name": "fun",
             "url": "https://gitlab.com/tozd/go/fun",
             "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
+            "tags": []
+          },
+          {
+            "name": "goai",
+            "url": "https://github.com/zendev-sh/goai",
+            "description": "Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.",
             "tags": []
           },
           {
@@ -25507,6 +25519,12 @@
             "name": "g3n",
             "url": "https://github.com/g3n/engine",
             "description": "Go 3D Game Engine.",
+            "tags": []
+          },
+          {
+            "name": "gogpu",
+            "url": "https://github.com/gogpu/gogpu",
+            "description": "GPU application framework with windowing, input, and rendering built on WebGPU \u2014 reduces 480+ lines of GPU code to ~20, zero CGO (GoGPU ecosystem: gg , ui , wgpu , naga ).",
             "tags": []
           },
           {
@@ -56801,6 +56819,12 @@
             "tags": []
           },
           {
+            "name": "topjohnwu/Magisk",
+            "url": "https://github.com/topjohnwu/Magisk",
+            "description": "A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications",
+            "tags": []
+          },
+          {
             "name": "Typst",
             "url": "https://github.com/typst/typst",
             "description": "A markup-based typesetting system",
@@ -59625,6 +59649,12 @@
             "name": "importantimport/hatsu",
             "url": "https://github.com/importantimport/hatsu",
             "description": "\ud83e\ude75 Self-hosted and fully-automated ActivityPub bridge for static sites.",
+            "tags": []
+          },
+          {
+            "name": "janreges/siteone-crawler",
+            "url": "https://github.com/janreges/siteone-crawler",
+            "description": "[ siteone-crawler ] - All-in-one\n   website crawler, auditor, offline archiver, and AI-ready markdown exporter with CI/CD quality gating",
             "tags": []
           },
           {
@@ -77281,6 +77311,12 @@
         "name": "Machine Learning",
         "resources": [
           {
+            "name": "Agno",
+            "url": "https://github.com/agno-agi/agno",
+            "description": "Open-source Python library for building AI agents and agentic systems.",
+            "tags": []
+          },
+          {
             "name": "diffusers",
             "url": "https://github.com/huggingface/diffusers",
             "description": "A library that provides pretrained diffusion models for generating and editing images, audio, and video.",
@@ -83163,6 +83199,12 @@
             "tags": []
           },
           {
+            "name": "DockProbe",
+            "url": "https://github.com/deep-on/dockprobe",
+            "description": "Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, ~50MB RAM. By DeepOn .",
+            "tags": []
+          },
+          {
             "name": "DockProc",
             "url": "https://gitlab.com/n0r1sk/dockproc",
             "description": "I/O monitoring for containers on processlevel.",
@@ -83220,6 +83262,12 @@
             "name": "Logspout",
             "url": "https://github.com/gliderlabs/logspout",
             "description": ":ice_cube: - Log routing for Docker container logs.",
+            "tags": []
+          },
+          {
+            "name": "Maintenant",
+            "url": "https://github.com/kolapsis/maintenant",
+            "description": "Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA. By kolapsis .",
             "tags": []
           },
           {
