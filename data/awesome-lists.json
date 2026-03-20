@@ -15044,6 +15044,12 @@
             "tags": []
           },
           {
+            "name": "DMG Maker",
+            "url": "https://github.com/saihgupr/DMGMaker",
+            "description": "DMG creation tool with polished visuals and CLI support.",
+            "tags": []
+          },
+          {
             "name": "create-dmg",
             "url": "https://github.com/sindresorhus/create-dmg",
             "description": "Create a good-looking DMG for your macOS app in seconds.",
