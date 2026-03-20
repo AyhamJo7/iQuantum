@@ -13991,7 +13991,7 @@
           },
           {
             "name": "Clearview",
-            "url": "http://www.clearview-reader.com/clearview/",
+            "url": "https://clearview-reader.github.io/clearview-x/index.html",
             "description": "Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI.",
             "tags": []
           },
@@ -35358,6 +35358,12 @@
             "tags": []
           },
           {
+            "name": "stto",
+            "url": "https://github.com/mainak55512/stto",
+            "description": "A light-weight superfast line of code counter written in pure Go.",
+            "tags": []
+          },
+          {
             "name": "testifylint",
             "url": "https://github.com/Antonboom/testifylint",
             "description": "\u2013 A linter that checks usage of github.com/stretchr/testify .",
@@ -36890,6 +36896,12 @@
             "name": "GopherCon",
             "url": "https://www.gophercon.com/",
             "description": "Varied Locations Each Year, USA.",
+            "tags": []
+          },
+          {
+            "name": "GopherCon Africa",
+            "url": "https://gophercon.africa/",
+            "description": "Nairobi, Kenya.",
             "tags": []
           },
           {
@@ -56642,6 +56654,12 @@
             "name": "Fractalide",
             "url": "https://github.com/fractalide/fractalide",
             "description": "Simple microservices",
+            "tags": []
+          },
+          {
+            "name": "glzr-io/glazewm",
+            "url": "https://github.com/glzr-io/glazewm",
+            "description": "A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands",
             "tags": []
           },
           {
@@ -77986,12 +78004,6 @@
             "name": "bcbb",
             "url": "https://github.com/chapmanb/bcbb",
             "description": "Collection of useful code related to biological analysis.",
-            "tags": []
-          },
-          {
-            "name": "bcbio-nextgen",
-            "url": "https://github.com/chapmanb/bcbio-nextgen",
-            "description": "Providing best-practice pipelines for fully automated high throughput sequencing analysis.",
             "tags": []
           },
           {
