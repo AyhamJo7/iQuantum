@@ -2410,12 +2410,6 @@
             "tags": []
           },
           {
-            "name": "BookLore",
-            "url": "https://github.com/booklore-app/booklore",
-            "description": "Host and manage books, with support for PDFs, eBooks, reading progress, metadata, and stats. GPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "Calibre Web Automated",
             "url": "https://github.com/crocodilestick/Calibre-Web-Automated",
             "description": "All-in-one solution, combining the modern lightweight web UI from Calibre-Web with the robust, versatile feature set of Calibre (fork of Calibre Web). GPL-3.0 Docker",
@@ -3609,15 +3603,15 @@
             "tags": []
           },
           {
-            "name": "Perplexica",
-            "url": "https://github.com/ItzCrazyKns/Perplexica",
-            "description": "AI-powered search engine (alternative to Perplexity AI). MIT Docker",
-            "tags": []
-          },
-          {
             "name": "TuxSEO",
             "url": "https://tuxseo.com/",
             "description": "\u26a0 - Create automated blog content for your business, using AI. ( Source Code ) MIT Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "Vane",
+            "url": "https://github.com/ItzCrazyKns/Vane",
+            "description": "AI-powered search engine (alternative to Perplexity AI). MIT Docker",
             "tags": []
           }
         ]
@@ -17539,6 +17533,12 @@
             "tags": []
           },
           {
+            "name": "Azex Speech",
+            "url": "https://github.com/azex-ai/speech",
+            "description": "Voice input tuned for mixed Chinese-English dictation in AI and crypto work.",
+            "tags": []
+          },
+          {
             "name": "buzz",
             "url": "https://github.com/chidiwilliams/buzz",
             "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
@@ -17938,6 +17938,12 @@
             "name": "Vulert",
             "url": "https://vulert.com",
             "description": "Vulert secures software by detecting vulnerabilities in open-source dependencies\u2014without accessing your code. It supports Js, PHP, Java, Python, and more",
+            "tags": []
+          },
+          {
+            "name": "NoxKey",
+            "url": "https://github.com/No-Box-Dev/Noxkey",
+            "description": "Keychain-based secret manager for API keys and tokens with Touch ID.",
             "tags": []
           },
           {
@@ -21220,6 +21226,12 @@
             "name": "gookit/color",
             "url": "https://github.com/gookit/color",
             "description": "Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.",
+            "tags": []
+          },
+          {
+            "name": "lazyenv",
+            "url": "https://github.com/lazynop/lazyenv",
+            "description": "TUI for browsing, comparing, and editing .env files.",
             "tags": []
           },
           {
@@ -36353,6 +36365,12 @@
             "name": "croc",
             "url": "https://github.com/schollz/croc",
             "description": "Easily and securely send files or folders from one computer to another.",
+            "tags": []
+          },
+          {
+            "name": "CrunchyCleaner",
+            "url": "https://github.com/Knuspii/CrunchyCleaner",
+            "description": "A lightweight, software cache cleanup tool for Windows & Linux.",
             "tags": []
           },
           {
@@ -60910,6 +60928,12 @@
         "name": "Tunnel",
         "resources": [
           {
+            "name": "ekzhang/bore",
+            "url": "https://github.com/ekzhang/bore",
+            "description": "[ bore-cli ] - A simple TCP tunnel to expose local ports to a remote server, bypassing NAT firewalls",
+            "tags": []
+          },
+          {
             "name": "ngrok/ngrok-rust",
             "url": "https://github.com/ngrok/ngrok-rust",
             "description": "[ ngrok-rust ] - ngrok is a developer tool that exposes your local app to the internet securely.",
@@ -74971,6 +74995,24 @@
         "name": "AI and Agents",
         "resources": [
           {
+            "name": "django-ai-plugins",
+            "url": "https://github.com/vintasoftware/django-ai-plugins",
+            "description": "Django backend agent skills for Django, DRF, Celery, and Django-specific code review.",
+            "tags": []
+          },
+          {
+            "name": "sentry-skills",
+            "url": "https://github.com/getsentry/skills",
+            "description": "Python-focused engineering skills for code review, debugging, and backend workflows.",
+            "tags": []
+          },
+          {
+            "name": "trailofbits-skills",
+            "url": "https://github.com/trailofbits/skills",
+            "description": "Python-friendly security skills for auditing, testing, and safer backend development.",
+            "tags": []
+          },
+          {
             "name": "autogen",
             "url": "https://github.com/microsoft/autogen",
             "description": "A programming framework for building agentic AI applications.",
@@ -76416,12 +76458,6 @@
             "tags": []
           },
           {
-            "name": "python-cqrs",
-            "url": "https://github.com/pypatterns/python-cqrs",
-            "description": "Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.",
-            "tags": []
-          },
-          {
             "name": "python-patterns",
             "url": "https://github.com/faif/python-patterns",
             "description": "A collection of design patterns in Python.",
@@ -76522,9 +76558,21 @@
             "tags": []
           },
           {
+            "name": "ruff",
+            "url": "https://github.com/astral-sh/ruff",
+            "description": "An extremely fast Python linter and code formatter.",
+            "tags": []
+          },
+          {
+            "name": "rope",
+            "url": "https://github.com/python-rope/rope",
+            "description": "Rope is a python refactoring library.",
+            "tags": []
+          },
+          {
             "name": "awesome-python-typing",
             "url": "https://github.com/typeddjango/awesome-python-typing",
-            "description": "Static Type Checkers, also see",
+            "description": "Type Checkers",
             "tags": []
           },
           {
@@ -76549,12 +76597,6 @@
             "name": "typeshed",
             "url": "https://github.com/python/typeshed",
             "description": "Collection of library stubs for Python, with static types.",
-            "tags": []
-          },
-          {
-            "name": "rope",
-            "url": "https://github.com/python-rope/rope",
-            "description": "Rope is a python refactoring library.",
             "tags": []
           },
           {
@@ -76623,7 +76665,7 @@
             "tags": []
           },
           {
-            "name": "playwright",
+            "name": "playwright-python",
             "url": "https://github.com/microsoft/playwright-python",
             "description": "Python version of the Playwright testing and automation library.",
             "tags": []
@@ -77108,7 +77150,7 @@
         ]
       },
       {
-        "name": "Command-line Interface Development",
+        "name": "CLI Development",
         "resources": [
           {
             "name": "argparse",
@@ -77185,7 +77227,7 @@
         ]
       },
       {
-        "name": "Command-line Tools",
+        "name": "CLI Tools",
         "resources": [
           {
             "name": "cookiecutter",
@@ -77491,12 +77533,6 @@
             "tags": []
           },
           {
-            "name": "cssutils",
-            "url": "https://github.com/jaraco/cssutils",
-            "description": "A CSS library for Python.",
-            "tags": []
-          },
-          {
             "name": "justhtml",
             "url": "https://github.com/EmilStenstrom/justhtml/",
             "description": "A pure Python HTML5 parser that just works.",
@@ -77518,6 +77554,12 @@
             "name": "pyquery",
             "url": "https://github.com/gawel/pyquery",
             "description": "A jQuery-like library for parsing HTML.",
+            "tags": []
+          },
+          {
+            "name": "tinycss2",
+            "url": "https://github.com/Kozea/tinycss2",
+            "description": "A low-level CSS parser and generator written in Python.",
             "tags": []
           },
           {
@@ -78377,12 +78419,6 @@
           {
             "name": "Python Bytes",
             "url": "https://pythonbytes.fm",
-            "description": "",
-            "tags": []
-          },
-          {
-            "name": "Python Test",
-            "url": "https://podcast.pythontest.com/",
             "description": "",
             "tags": []
           },
